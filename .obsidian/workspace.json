@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "f7d79164402723c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eab8d4a249681691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "264d3d9c61e3b3f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Racionalidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e40aefabc8f9c458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Racionalidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a4435a0fd43a01c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Recursos Organizacionales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f9063f0e02264d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96ffa9ea270f605c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Racionalidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70492822b4e09433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "feb41e14593bfc2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Políticas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72247168ee86995c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Eficiencia y Eficacia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "722e532ea55dc344",
+    "type": "split",
+    "children": [
+      {
+        "id": "81fcbb3662473c99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a650c066f2c957",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "806e66403833f42e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6acd81263d33f82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9f0c2d4c9647aa1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7367ca1eadda3c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e21c2da79c5d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "248e2874cbd9669e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Políticas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2af794d737c6ef2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Políticas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f865137969aaa66c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8317c25215192d00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Políticas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "feb41e14593bfc2f",
+  "lastOpenFiles": [
+    "desktop.ini",
+    "Untitled.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
+    "Pasted image 20240502212010.png",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Proceso de la ARH.md",
+    "4to Nivel/Administración de Sistemas de Información/Recursos Organizacionales.md",
+    "4to Nivel/Administración de Sistemas de Información/Racionalidad.md",
+    "4to Nivel/Administración de Sistemas de Información/Eficiencia y Eficacia.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
+    "eficiencia.md",
+    "4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md",
+    "README.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Sistemas de Control de Versiones.md",
+    "utn-vault",
+    "4to Nivel/Ingeniería y Calidad de Software/Git.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Proyectos Ágiles.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Product Backlog.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Gestión de Proyectos.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Gestión de la Configuración.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Control de la Configuración.md",
+    "4to Nivel/Simulación/TPI/Escenario.md",
+    "4to Nivel/Simulación/TPI",
+    "4to Nivel/Simulación",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191713.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191234.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191005.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190845.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190314.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190231.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428185529.png",
+    "4to Nivel/Ingeniería y Calidad de Software/Producto Mínimo Viable.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Mapa de Historias de Usuario.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428184010.png",
+    "4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428182334.png",
+    "4to Nivel/Ingeniería y Calidad de Software/Gestión de Requerimientos Ágil.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Equipo Ágil.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments",
+    "Excalidraw",
+    "4to Nivel/Ingeniería y Calidad de Software",
+    "4to Nivel/Administración de Sistemas de Información",
+    "Untitled",
+    "4to Nivel"
+  ]
+}

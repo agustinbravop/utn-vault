@@ -1,0 +1,1 @@
+Esta Obsidian Vault contiene apuntes escritos en Markdown de las materias que cursé en Ingeniería en Sistemas de Información., carrera de la UTN FRRe.

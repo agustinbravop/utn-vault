@@ -1,0 +1,1 @@
+Lo primero que hay que hacer para la gestión de proyectos es conocer el objetivo del proyecto. En software el objetivo se representa como **requerimientos o necesidades**. En la agilidad, los requerimientos se plasman en las [[Historias de Usuario]].
