@@ -7,4 +7,5 @@ Este subsistema está interesado con el **ambiente organizacional**, dado que la
 1. Investigación del mercado
 2. Reclutamiento
 3. Selección
-4. 
+
+Estos subprocesos forman un proceso de provisión cuyo resultado es la **admisión** de personas a la organización.
