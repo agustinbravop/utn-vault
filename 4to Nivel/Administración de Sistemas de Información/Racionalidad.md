@@ -1,4 +1,4 @@
-La racionalidad implica **adecuar los medios utilizados a los fines y objetivos que se desean acanzar**. Una organización es racional si se escogen los medios más eficientes para lograr los objetivos organizacionales, que están por sobre los individuales.
+La racionalidad implica **adecuar los medios utilizados a los fines y objetivos que se desean alcanzar**. Una organización es racional si se escogen los medios más eficientes para lograr los objetivos organizacionales, que están por sobre los individuales.
 
 La racionalidad de una organización no implica que los individuos no puedan ser irracionales, sino que se logra mediante normas y reglamentos que rijan el comportamiento de los participantes en búsqueda de la **[[Eficiencia y Eficacia|eficiencia]]**.
 
