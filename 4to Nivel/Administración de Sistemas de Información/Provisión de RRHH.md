@@ -10,7 +10,14 @@ Este subsistema está interesado con el **ambiente organizacional**, dado que la
 
 Estos subprocesos forman un proceso de provisión cuyo resultado es la **admisión** **de personas** a la organización.
 
-## Evaluación
+## Evaluación de los Procesos
 
 ![[Pasted image 20240503134923.png]]
 
+En el continuum izquierdo, los procesos de provisión son:
+- **Operacionales:** burocráticos, de ejecución de tareas, sólo atienden órdenes.
+- **Microorientados:** se dirige hacia el cargo a ocupar y nada más.
+- **Vegetativos:** se orienta a mantener el *statu quo* simplemente cubriendo vacantes.
+- **Desintegrados:** cada demanda de una vacante es una tarea particular y aislada de las demás.
+
+El desafío de la ARH moderna es desplazarse gradual pero definitivamente del extremo izquierdo hacia el extremo derecho. La **planeación organizacional** se orienta a **largo plazo** y al destino de la organización y sus personas. Son **macroorientados** porque cada demanda forma parte de una **visión organizacional** totalizante y global, lo que los hace **integrados y amplios**.
