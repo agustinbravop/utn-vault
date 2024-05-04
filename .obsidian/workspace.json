@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dfb7b9fd9c2e15b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -158,14 +170,16 @@
   },
   "active": "418e88653f594814",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Selección.md",
+    "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504174027.png",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504173559.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
     "4to Nivel/Ingeniería y Calidad de Software/Proyectos Ágiles.md",
     "4to Nivel/Ingeniería y Calidad de Software/Sistemas de Control de Versiones.md",
     "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
     "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
-    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/attachments",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240503134923.png",
     "4to Nivel/Administración de Sistemas de Información/Racionalidad.md",
@@ -186,7 +200,6 @@
     "README.md",
     "Excalidraw/Mercado Laboral 2024-05-03 15.06.39.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de la ARH.md",
-    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
     "desktop.ini",
     "Pasted image 20240502212010.png",
     "utn-vault",
@@ -197,8 +210,6 @@
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191005.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190845.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190314.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190231.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428185529.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments",
     "Excalidraw",
     "4to Nivel/Ingeniería y Calidad de Software",
