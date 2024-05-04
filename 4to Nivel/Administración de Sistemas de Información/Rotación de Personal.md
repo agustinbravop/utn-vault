@@ -1,0 +1,6 @@
+La rotación de recursos humanos o *turnover* define la **fluctuación de personal** entre una organización y su ambiente. La entrada y salida de recursos mantienen entre sí **mecanismos de control (feedback) homeostáticos** capaces de autorregularse para garantizar un equilibrio.
+
+![[Mercados Laboral y de RRHH 2024-05-04 15.08.45.excalidraw]]
+
+El **índice de rotación de personal** expresa un porcentaje de empleados que circulan en la organización con relación al promedio de empleados (entre el inicio y el final del plazo de tiempo considerado). Existen varias fórmulas para calcular el índice en cierto período de tiempo, pero para la planeación de RRHH se utiliza:
+$$\frac{\frac{Admisiones + Despidos}{2}*100}{Promedio Efectivo}$$

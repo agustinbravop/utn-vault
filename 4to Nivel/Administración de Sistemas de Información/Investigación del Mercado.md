@@ -1,17 +1,23 @@
-Es el primer proceso de la [[Provisión de RRHH]], y consiste en ver qué perfiles existen y dónde encontrarlos, en base a las descripciones y análisis de cargo. Su objetivo es hallar las **fuentes de provisión** de recursos humanos.
+Es el primer proceso de la [[Provisión de RRHH]], y consiste en ver qué perfiles existen y dónde encontrarlos, en base a las descripciones y análisis de cargo. Su objetivo es hallar las **fuentes de provisión** de recursos humanos, determinadas por las relaciones de la organización con [[Los Mercados Laboral y de RRHH]].
 
-## Mercado
+Consiste en tres etapas:
+![[Investigación del Mercado 2024-05-04 15.25.29.excalidraw]]
 
-El concepto de **mercado** presenta tres aspectos importantes:
-1. **Dimensión espacial:** tiene un área física, geográfica o territorial.
-2. **Dimensión temporal:** todo mercado depende de la época.
-3. **Dimensión de oferta y demanda:** da la facilidad o dificultad de obtener el producto o servicio.
+## Investigación interna
 
-El [[Mercado Laboral]] y el [[Mercado de RRHH]] están en una estrecha **interrelación**, con el mercado de RRHH actuando como un espejo del mercado laboral. La salida de uno es la entrada del otro, y viceversa.
+Se verifican las **necesidades de RRHH de la organización** a corto, mediano y largo plazos de manera continua y constante. Se abarcan todas las áreas y niveles para conocer los perfiles y características que los nuevos miembros deberán ofrecer.
 
-![[Mercado Laboral 2024-05-03 15.06.39.excalidraw]]
+En muchas organizaciones esta investigación interna se sustituye por un proceso más amplio denominado [[Planeación de Personal]].
 
-Desde un **macroenfoque** que considera el aspecto ambiental, hasta cierto punto el mercado de RRHH está contenido parcialmente en el mercado laboral. 
+## Investigación Externa
 
-![[Investigación del Mercado 2024-05-03 15.13.13.excalidraw]]
+Se investiga el [[Mercado de RRHH]] para segmentarlo y diferenciarlo, lo que facilita su análisis y estudio. 
 
+La **segmentación del mercado** consiste en descomponerlo en clases de candidatos con características definidas, para estudiar cada segmento de manera específica. No se puede abarcar todo el mercado de RRHH, sino que se debe tener una dirección precisa.
+
+El problema fundamental de la organización es detectar y **localizar las fuentes de suministro** de recursos humanos que le interesen. 
+
+El objetivo de la investigación externa es ubicar correctamente estas **fuentes de reclutamiento**, lo que le permite al siguiente proceso de [[Reclutamiento]]:
+- Elevar su rendimiento (mayor cantidad de candidatos).
+- Disminuir sus tiempos (agilización).
+- Reducir sus costos operacionales (ahorro en aplicación de técnicas)

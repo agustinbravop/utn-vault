@@ -13,9 +13,89 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "75b12dd336edf04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Mercado de RRHH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ee75c41140d569d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Investigación del Mercado 2024-05-04 15.25.29.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c515d3db431b5534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Los Mercados Laboral y de RRHH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7105f95914c0995b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Rotación de Personal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14b8a05ffc255f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Ausentismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b543cf294973b289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Rotación de Personal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeb6819083d0076d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mercados Laboral y de RRHH 2024-05-04 15.08.45.excalidraw.md"
               }
             }
           },
@@ -139,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md"
               }
             }
           }
@@ -203,13 +283,20 @@
   },
   "active": "feb41e14593bfc2f",
   "lastOpenFiles": [
-    "Excalidraw/Investigación del Mercado 2024-05-03 15.13.13.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md",
+    "4to Nivel/Administración de Sistemas de Información/Mercado de RRHH.md",
+    "Pasted image 20240504161500.png",
+    "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
+    "Excalidraw/Investigación del Mercado 2024-05-04 15.25.29.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Los Mercados Laboral y de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Rotación de Personal.md",
+    "4to Nivel/Administración de Sistemas de Información/Ausentismo.md",
+    "Excalidraw/Mercados Laboral y de RRHH 2024-05-04 15.08.45.excalidraw.md",
+    "Excalidraw/Investigación del Mercado 2024-05-03 15.13.13.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Mercado Laboral.md",
     "Excalidraw/Template.excalidraw.md",
     "README.md",
     "Excalidraw/Mercado Laboral 2024-05-03 15.06.39.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Mercado de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Untitled 1.md",
     "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
     "Pasted image 20240503134923.png",
@@ -225,14 +312,7 @@
     "4to Nivel/Administración de Sistemas de Información/Recursos Organizacionales.md",
     "4to Nivel/Administración de Sistemas de Información/Eficiencia y Eficacia.md",
     "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
-    "eficiencia.md",
-    "4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Sistemas de Control de Versiones.md",
     "utn-vault",
-    "4to Nivel/Ingeniería y Calidad de Software/Git.md",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Proyectos Ágiles.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Product Backlog.md",
     "4to Nivel/Simulación/TPI",
     "4to Nivel/Simulación",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191713.png",
@@ -242,7 +322,6 @@
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190314.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190231.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428185529.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428184010.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments",
     "Excalidraw",
     "4to Nivel/Ingeniería y Calidad de Software",

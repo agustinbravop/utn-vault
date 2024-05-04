@@ -12,3 +12,14 @@ Existe un segmento de obreros no calificados llamado *mercado de mano de obra*, 
 | Reducción de pretensiones salariales. | Elevación de pretensiones salariales. |
 | Dificultad para conseguir empleo.     | Facilidad para conseguir empleo.      |
 | Orientación hacia la supervivencia.   | Orientación hacia el desarrollo.      |
+## Candidatos
+
+Este mercado está conformado por un conjunto de **candidatos** que pueden estar:
+- **Empleados:** trabajan en alguna empresa. Puede ser otra empresa o la empresa propia.
+- **Disponibles:** desempleados.
+
+Y pueden ser:
+- **Reales:** buscan empleo o pretenden cambiar el que tienen. Van a querer el puesto ofrecido.
+- **Potenciales:** no están interesados en buscar empleos.
+
+![[Pasted image 20240504161500.png]]
