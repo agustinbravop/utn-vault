@@ -20,5 +20,4 @@ En la actual era de la información, donde el empleo es cada vez más intelectua
 - El **conocimiento** como recurso más importante.
 - Tendencia creciente a la **globalización**.
 
-![[Mercado Laboral 2024-05-03 15.06.39.excalidraw]]
 
