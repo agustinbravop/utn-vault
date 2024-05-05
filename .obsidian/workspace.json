@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b80874394fe6c626",
+        "id": "b93d737b653d2998",
         "type": "tabs",
         "children": [
           {
-            "id": "1bff0ec3d5b0f831",
+            "id": "238aa62a56946eb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Diseño de Cargos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bc34183d0c65759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7421c4f7683b857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Cargo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f228a31c1163e290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Calidad de Vida en el Trabajo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -193,12 +148,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bc34183d0c65759",
+  "active": "238aa62a56946eb2",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Diseño de Cargos.md",
-    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
     "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md",
+    "4to Nivel/Administración de Sistemas de Información/Equipos de Trabajo.md",
+    "4to Nivel/Administración de Sistemas de Información/Diseño de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
     "4to Nivel/Administración de Sistemas de Información/Rol.md",
     "4to Nivel/Administración de Sistemas de Información/Aplicación de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Descripción y Análisis de Cargos.md",
@@ -209,7 +165,6 @@
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505141437.png",
     "4to Nivel/Administración de Sistemas de Información/Cargo.md",
     "4to Nivel/Administración de Sistemas de Información/Sistema de Roles.md",
-    "4to Nivel/Administración de Sistemas de Información/Equipos.md",
     "4to Nivel/Administración de Sistemas de Información/Calidad de Vida en el Trabajo.md",
     "4to Nivel/Ingeniería y Calidad de Software/Equipo Ágil.md",
     "4to Nivel/Administración de Sistemas de Información/Selección.md",
