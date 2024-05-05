@@ -4,7 +4,7 @@ Diseñar un [[Cargo]] significa establecer cuatro condiciones fundamentales:
 - **Responsabilidad:** a quién deberá reportar. Es la relación con su jefe.
 - **Autoridad:** a quién deberá supervisar o dirigir. Es la relación con sus subordinados.
 
-El diseño del cargo es especificar el contenido, los métodos de trabajo y las relaciones con los demás cargos para **cumplir requisitos** tecnológicos, empresariales, sociales y personales del ocupante.  Suelen ser diseñados por el gerente de cada departamento o por algún organismo que no es [[Administración de Recursos Humanos]].
+El diseño del cargo es especificar el contenido, los métodos de trabajo y las relaciones con los demás cargos para **cumplir requisitos** tecnológicos, empresariales, sociales y personales del ocupante.  Suelen ser diseñados por el gerente de cada departamento o por algún organismo que no es [[Administración de Recursos Humanos]]. Esto se diseña en la [[Descripción y Análisis de Cargos]].
 
 Los cargos son parte de un proceso continuo de solución de problemas, por lo que están en **evolución, innovación y cambio continuos** para adaptarse a las transformaciones tecnológicas, económicas, sociales, culturales y legales.
 

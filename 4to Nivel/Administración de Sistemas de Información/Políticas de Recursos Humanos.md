@@ -12,7 +12,7 @@ Cada [[Proceso de la ARH]] tiene sus propias políticas. Es lógico que igualmen
 - Criterios de **selección** y estándares de calidad para la **admisión**.
 - Cómo **integrar** los nuevos miembros al ambiente interno de la organización.
 
-### Políticas de Aplicación
+### Políticas de [[Aplicación de RRHH]]
 
 - Cómo determinar los **requisitos básicos** de la fuerza laboral.
 - Criterios de **planeación, distribución** y traslado interno de recursos humanos.

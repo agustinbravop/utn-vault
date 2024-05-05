@@ -16,3 +16,5 @@ Es necesario que en el equipo haya:
 - **Objetivo unificado**: visión alineada.
 - **Roles y tareas claras**: cada uno sabe lo que tiene que hacer.
 - **Habilidades** (entrenadas) y **talento** (innato).
+
+Los equipos elevan el contenido social del cargo. Cada vez hay menos cargos individuales y aislados. Esto es para mejorar la [[Calidad de Vida en el Trabajo]].

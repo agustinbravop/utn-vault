@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "4bc34183d0c65759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7421c4f7683b857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Cargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f228a31c1163e290",
             "type": "leaf",
             "state": {
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Calidad de Vida en el Trabajo.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Calidad de Vida en el Trabajo.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Calidad de Vida en el Trabajo.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md"
               }
             }
           }
@@ -169,16 +193,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f228a31c1163e290",
+  "active": "4bc34183d0c65759",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
     "4to Nivel/Administración de Sistemas de Información/Diseño de Cargos.md",
-    "4to Nivel/Administración de Sistemas de Información/Calidad de Vida en el Trabajo.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
+    "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md",
+    "4to Nivel/Administración de Sistemas de Información/Rol.md",
     "4to Nivel/Administración de Sistemas de Información/Aplicación de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Equipos.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Equipo Ágil.md",
+    "4to Nivel/Administración de Sistemas de Información/Descripción y Análisis de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Untitled.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505142322.png",
+    "4to Nivel/Administración de Sistemas de Información/Descripción de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Análisis de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505141437.png",
     "4to Nivel/Administración de Sistemas de Información/Cargo.md",
-    "4to Nivel/Administración de Sistemas de Información/Selección.md",
     "4to Nivel/Administración de Sistemas de Información/Sistema de Roles.md",
+    "4to Nivel/Administración de Sistemas de Información/Equipos.md",
+    "4to Nivel/Administración de Sistemas de Información/Calidad de Vida en el Trabajo.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Equipo Ágil.md",
+    "4to Nivel/Administración de Sistemas de Información/Selección.md",
     "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
     "4to Nivel/Administración de Sistemas de Información/Socialización Organizacional.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Sistema de Roles 2024-05-05 00.01.09.excalidraw.md",
@@ -190,19 +224,11 @@
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504205442.png",
     "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de la ARH.md",
-    "4to Nivel/Administración de Sistemas de Información/Planeación de Personal.md",
-    "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504174027.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504173559.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Proyectos Ágiles.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Sistemas de Control de Versiones.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
     "4to Nivel/Administración de Sistemas de Información/attachments",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240503134923.png",
-    "4to Nivel/Administración de Sistemas de Información/Racionalidad.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504161500.png",
-    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
     "desktop.ini",
     "Pasted image 20240502212010.png",
     "utn-vault",
@@ -210,8 +236,6 @@
     "4to Nivel/Simulación",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191713.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191234.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191005.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190845.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments",
     "Excalidraw",
     "4to Nivel/Ingeniería y Calidad de Software",

@@ -6,6 +6,8 @@ Las personas trabajan en la organización a través del cargo que ocupan en ella
 
 Un cargo constituye una **unidad** de la organización y es un **conjunto de deberes** que lo distinguen de los demás cargos. Su **posición** formal en la estructura organizacional define su nivel jerárquico, la subordinación, los subordinados y el departamento donde está situado.
 
+> Un cargo es la reunión de todas aquellas actividades realizadas por una sola persona, que pueden unificarse en un solo concepto y ocupan un lugar formal en el organigrama. - Bryan Livy.
+
 ## Ocupante del Cargo
 
 Toda persona que trabaja en la organización ocupa un cargo. El **ocupante** de un caro es la persona designada para desempeñarlo. Existen cargos con un solo ocupante y otros con **varios ocupantes**. Esto significa que si un ocupante del cargo abandona la organización, el cargo quedará vacante (sin ocupar) hasta que se consiga un nuevo ocupante.
