@@ -30,12 +30,15 @@ Dependiendo de la cantidad de candidatos y vacantes, hay varios modelos a usar.
 ![[Pasted image 20240504173559.png]]
 
 - **Modelo de colocación**: no se contempla el rechazo. El candidato presentado debe ser admitido sin objeción alguna.
-- Modelo de selección: solo un candidato podrá ser aceptado. Se puede aprobar o rechazar.
-- Modelo de clasificación: es el más amplio y situacional. A cada candidato se lo trata de ubicar en el cargo más adecuado a sus características personales.
+- **Modelo de selección:** solo un candidato podrá ser aceptado. Se puede aprobar o rechazar.
+- **Modelo de clasificación:** es el más amplio y situacional. A cada candidato se lo trata de ubicar en el cargo más adecuado a sus características personales.
 
 El modelo de clasificación es superior en el **aprovechamiento de candidatos**, **eficiencia de los procesos** y **reducción de costos** implicados.
 
-## Recolección de Información Acerca del Cargo
+## Bases para la Selección de Personas
+
+Dado que es un sistema de comparación y decisión, se debe apoyar en un estándar y criterios para que tenga validez. Se debe basar en las características del cargo vacante.
+### Recolección de Información Acerca del Cargo
 
 Se puede suplir de cinco maneras:
 1. **Descripción y análisis del cargo:** inventario de los **aspectos intrínsecos** (contenido) y **extrínsecos** (requisitos) del cargo.
@@ -46,11 +49,16 @@ Se puede suplir de cinco maneras:
 
 Toda esta información se transforma en una **ficha de especificaciones del cargo** (o ficha profesiográfica) que debe contener las **características psicológicas y físicas necesarias** para que el aspirante pueda **desempeñarse satisfactoriamente** en el cargo considerado.
 
-## Elección de las Técnicas de Selección
+### Elección de las Técnicas de Selección
 
-Una vez obtenida la información, se elige las técnicas de selección más adecuadas para conocer y escoger a los candidatos apropiados. Deben representar el mejor elemento de predicción para un buen desempeño futuro en el cargo.
+Una vez obtenida la información, se elige las técnicas de selección más adecuadas para conocer y escoger a los candidatos apropiados. Deben representar el mejor elemento de predicción para un buen desempeño futuro en el cargo. Al inicio del proceso se encuentran las técnicas más sencillas y económicas, y al final se hallan las más complejas y costosas. Se clasifican en:
+- Entrevistas de selección.
+- Pruebas de capacidad.
+- Pruebas psicométricas.
+- Pruebas de personalidad.
+- Técnicas de simulación.
 
-Al inicio del proceso se encuentran las técnicas más sencillas y económicas, y al final se hallan las más complejas y costosas. Se clasifican en:
+## Técnicas de Selección
 ### Entrevistas de selección
 
 Es una técnica subjetiva e imprecisa pero la más utilizada. Si se piensa al candidato como una caja negra próxima a ser abierta, la entrevista es un sistema de comunicación.
