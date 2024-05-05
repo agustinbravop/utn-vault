@@ -8,7 +8,7 @@ El diseño del cargo es especificar el contenido, los métodos de trabajo y las 
 
 Los cargos son parte de un proceso continuo de solución de problemas, por lo que están en **evolución, innovación y cambio continuos** para adaptarse a las transformaciones tecnológicas, económicas, sociales, culturales y legales.
 
-En el diseño moderno de los cargos, existe una tendencia a crear [[Equipos]] de trabajo autónomos y autogestionados.
+En el diseño moderno de los cargos, existe una tendencia a crear [[Equipos]] de trabajo autónomos y autogestionados que alcancen calidad y productividad en su desempeño. Esas personas deben mantenerse motivadas, por lo que la **competitividad organizacional** está ligada a la [[Calidad de Vida en el Trabajo]].
 
 ## Modelos
 
