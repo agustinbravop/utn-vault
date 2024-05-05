@@ -8,6 +8,8 @@ El diseño del cargo es especificar el contenido, los métodos de trabajo y las 
 
 Los cargos son parte de un proceso continuo de solución de problemas, por lo que están en **evolución, innovación y cambio continuos** para adaptarse a las transformaciones tecnológicas, económicas, sociales, culturales y legales.
 
+En el diseño moderno de los cargos, existe una tendencia a crear [[Equipos]] de trabajo autónomos y autogestionados.
+
 ## Modelos
 
 Conforme avanzan los tiempos, cambia el enfoque de diseño de cargos en las organizaciones.
@@ -34,8 +36,18 @@ Aún con el cambio revolucionario de mentalidad, esta teoría de **relaciones hu
 ### Modelo Situacional o Contingencial
 
 Es el enfoque más **amplio y complejo**, que adecua el diseño del cargo a las **tareas involucradas** y a las **diferencias individuales** de las personas. Convergen tres variables:
-- La estructura de la organización,
-- La tarea, y
-- La persona que la ejecutará.
+- La **estructura** de la organización,
+- La **tarea**, y
+- La **persona** que la ejecutará.
 
-Se basa en la ampliación continua del cargo mediante el enriquecimiento d
+Se basa en la **ampliación continua** del cargo mediante el enriquecimiento de tareas como responsabilidad del gerente y su equipo de trabajo. Así, el diseño cambia con el **desarrollo personal** del empleado y el **desarrollo tecnológico** de la tarea.
+
+Los resultados mejoran cuando la persona se siente **responsable**, **ve** sus resultados y siente que tienen **valor**. Esto lo mantiene personalmente motivado y satisfecho. 
+
+El modelo situacional propone que **cada cargo diseñado debe reunir cinco dimensiones esenciales** que aumentan el potencial para crear los estados psicológicos deseados de alta motivación, desempeño y satisfacción:
+1. **Variedad**: evitar la monotonía para impulsar la creatividad y diversidad.
+2. **Autonomía**: grado de independencia y criterio personal para planear y ejecutar el trabajo.
+3. **Significado**: reconocer el impacto que produce su cargo en otras personas.
+4. **Identidad**: completar una unidad integral de trabajo que genere resultados.
+5. **Retroalimentación**: poder evaluar su propio desempeño.
+
