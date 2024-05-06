@@ -12,6 +12,6 @@ La **evaluación de prestaciones** son las actividades del estudio del comportam
 - Planificar la capacidad del SI.
 - Sintonizar o ajustar un SI.
 
-El comportamiento del sistema está íntimamente relacionado con su entorno de trabajo y uso destinado, por lo que para evaluar sus prestaciones es importante [[Carga de Trabajo#Caracterización de la Carga|caracterizar]] y predecir la carga.
+El comportamiento del sistema está íntimamente relacionado con su entorno de trabajo y uso destinado, por lo que para evaluar sus prestaciones es importante [[Carga de Trabajo#Caracterización de la Carga|caracterizar]] y predecir la carga. En el estudio de evaluación se consideran tres [[Sistemas de Referencia]] con tipos de entorno y uso muy comunes con índices característicos de las prestaciones, los cuales se pueden obtener usando [[Técnicas de Evaluación de un SI]].
 
-Para evaluar el comportamiento de un sistema, se deben medir las [[Magnitudes de un SI]]. Es fundamental una [[Caracterización de la Carga]] adecuada.
+Para evaluar el comportamiento de un sistema, se deben medir las [[Magnitudes de un SI]]. Es fundamental una [[Caracterización de la Carga]] adecuada. 

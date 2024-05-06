@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b93d737b653d2998",
+        "id": "08cfc0ce88da5547",
         "type": "tabs",
         "children": [
           {
-            "id": "02cfd8c81ecd8a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Prestaciones de un SI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bd06c93abe81048",
+            "id": "5e03bba0f4c226ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,43 +20,19 @@
             }
           },
           {
-            "id": "2f568333d78719b8",
+            "id": "269d35f5295dfeaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7b44ee6e8a2c36b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa0fae6ec44000c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md"
               }
             }
           }
@@ -203,9 +167,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f568333d78719b8",
+  "active": "269d35f5295dfeaa",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Untitled 2.md",
+    "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Untitled 1.md",
     "4to Nivel/Administración de Sistemas de Información/Evaluación de las Prestaciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas Interactivos.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas de Referencia.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistema de Roles.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistema Batch.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas Batch.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003335.png",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003329.png",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas Transaccionales.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506002636.png",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506002143.png",
     "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
     "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
     "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
@@ -215,7 +193,6 @@
     "4to Nivel/Administración de Sistemas de Información/Cargo.md",
     "4to Nivel/Administración de Sistemas de Información/Untitled.md",
     "4to Nivel/Administración de Sistemas de Información/Aplicación de SW y HW.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistema de Roles.md",
     "4to Nivel/Administración de Sistemas de Información/Socialización Organizacional.md",
     "4to Nivel/Administración de Sistemas de Información/Aplicación de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md",
@@ -224,25 +201,12 @@
     "4to Nivel/Administración de Sistemas de Información/Equipos de Trabajo.md",
     "4to Nivel/Administración de Sistemas de Información/Diseño de Cargos.md",
     "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
-    "4to Nivel/Administración de Sistemas de Información/Rol.md",
-    "4to Nivel/Administración de Sistemas de Información/Descripción y Análisis de Cargos.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505142322.png",
-    "4to Nivel/Administración de Sistemas de Información/Descripción de Cargos.md",
-    "4to Nivel/Administración de Sistemas de Información/Análisis de Cargos.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505141437.png",
-    "4to Nivel/Administración de Sistemas de Información/Calidad de Vida en el Trabajo.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Equipo Ágil.md",
-    "4to Nivel/Administración de Sistemas de Información/Selección.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504205442.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504174027.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504173559.png",
     "4to Nivel/Administración de Sistemas de Información/attachments",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240503134923.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504161500.png",
     "desktop.ini",
-    "Pasted image 20240502212010.png",
     "utn-vault",
     "4to Nivel/Simulación/TPI",
     "4to Nivel/Simulación",
