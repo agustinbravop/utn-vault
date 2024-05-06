@@ -4,7 +4,7 @@ Las personas trabajan en la organización a través del cargo que ocupan en ella
 - **Función**: conjunto de tareas o atribuciones ejecutados de manera **sistemática y reiterada**.
 - **Cargo**: conjunto de funciones con posición definida en la estructura organizacional (organigrama). Esa posición define relaciones entre este cargo y los demás cargos.
 
-Un cargo constituye una **unidad** de la organización y es un **conjunto de deberes** que lo distinguen de los demás cargos. Su **posición** formal en la estructura organizacional define su nivel jerárquico, la subordinación, los subordinados y el departamento donde está situado.
+Un cargo es una **unidad** de la organización y es un **conjunto de deberes y responsabilidades** que lo distinguen de los demás cargos. Su **posición** formal en la estructura organizacional define su nivel jerárquico, la subordinación, los subordinados y el departamento donde está situado.
 
 > Un cargo es la reunión de todas aquellas actividades realizadas por una sola persona, que pueden unificarse en un solo concepto y ocupan un lugar formal en el organigrama. - Bryan Livy.
 
