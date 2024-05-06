@@ -21,7 +21,20 @@ Una buena planificación de la capacidad, puede al menos minimizar el ajuste de 
 
 La **capacidad adecuada** para dar soporte a la operación de una instalación del sistema es función de tres elementos:
 1. Los **[[Acuerdos de Nivel de Servicio]]** o SLAs. Son umbrales de productividad, rendimiento y de disponibilidad exigidos y pactados que se deben garantizar. La **calidad de servicio** o ***QoS*** se puede cuantificar mediante la deficiencia de la calidad: $$Desviación QoS=\frac{QoSConseguida-QoSDeseada}{QoSDeseada}$$
-2. La **arquitectura del sistema**: depende de las exigencias del aplicativo, del grado de experiencia en la explotación, de la facilidad de administración u otros motivos no necesariamente con  relación directa al rendimiento.
+2. La **arquitectura del sistema**: se puede cumplir los niveles usando dispositivos y subsistemas distintos. Esto depende de las exigencias del aplicativo, de la experiencia en la explotación, de la facilidad de administración u otros motivos no necesariamente relacionados al rendimiento.
 3. El **presupuesto**: los costos restringen la capacidad de la que se puede disponer. Hay costos de **arranque** (compra, instalación, formación inicial) y de **operación** (mantenimiento, ambientales).
 
 Se dice que un SI tiene una **capacidad adecuada** si los niveles de servicio se cumplen continuamente y si los servicios se suministran dentro de los límites de costo acordados.
+
+## Niveles de Planificación
+
+Las organizaciones comienzan de manera simple y **gradualmente van sofisticando** la gestión y planificación de la capacidad. En la actualidad hay una tendencia hacia la **gestión automatizada**. Hay varios niveles:
+0. **Nivel 0**: no hay programa de gestión de la capacidad, y se realiza **ocasionalmente**.
+1. **Nivel 1**: se usan **medidas de tendencia** y predicción en períodos pico.
+2. **Nivel 2**: se conoce la **utilización exacta** de cada recurso debido.
+3. **Nivel 3**: existe un sistema automático de **análisis y predicción** de la carga de trabajo.
+4. **Nivel 4**: se predicen automáticamente los **niveles de servicio** según predicciones de capacidad.
+5. **Nivel 5**: se utilizan los **criterios de las aplicaciones de negocio** a través de un modelo que sirve para predecir los niveles de servicio.
+
+## Métodos de Predicción
+
