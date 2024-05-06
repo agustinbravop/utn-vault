@@ -17,5 +17,6 @@ Es una herramienta que se debe usar cuando se evalúa el comportamiento de un si
 
 ## *Benchmarking*
 
-Es un método frecuente de comparar SIs frente a una carga característica de una instalación concreta. Es la medición del comportamiento sobre un **prototipo**, y las variantes de este método sirven para **evaluar la potencia relativa** (compararse con versiones anteriores de sí mismo) de un sistema a lo largo de su ciclo de vida, **contrastar monitores** y **validar modelos**. Las dificultades son:
-- 
+Es un método frecuente de comparar SIs frente a una **carga característica** de una instalación concreta. Es la medición del comportamiento sobre un **prototipo**, y las variantes de este método sirven para **evaluar la potencia relativa** de un sistema a lo largo de su ciclo de vida (compararse con versiones anteriores de sí mismo), **contrastar monitores** y **validar modelos**. Las dificultades son:
+- ¿Cómo determinar esa carga característica? [[Caracterización de la Carga]].
+- ¿Cómo valorar el aprovechamiento que hacen los programas de las peculiaridades de los distintos sistemas?
