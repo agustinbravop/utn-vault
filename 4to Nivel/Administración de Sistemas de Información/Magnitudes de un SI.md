@@ -1,9 +1,9 @@
 Las **magnitudes a medir** en la [[Evaluación de las Prestaciones]] de un sistema informático son **dimensiones** del sistema a analizar. Ellas caracterizan el comportamiento del hardware y software o hacen referencia a como el usuario o responsable del sistema ven el comportamiento.
 
 Las tres **dimensiones** son:
-1. Consumo de **tiempos**.
-2. Utilización de **recursos** o dispositivos.
-3. **Trabajo realizado** por el sistema o componentes del mismo.
+1. **Consumo de tiempos**.
+2. **Utilización de recursos o dispositivos**.
+3. **Trabajo realizado por el sistema o componentes del mismo**.
 
 ## Variables
 
@@ -19,7 +19,7 @@ Son perceptibles por el usuario:
 ### Variables Internas
 
 Son intrínsecas al sistema, visibles para el responsable del sistema:
-- **Factor de utilización de un componente**: porcentaje de tiempo en uso de un componente.
+- **Factor de utilización de un componente**: porcentaje de tiempo en uso de un [[Componentes de un SI|componente]].
 - **Solapamiento de componentes**: porcentaje de tiempo en uso simultáneo.
 - **Overhead**: porcentaje de tiempo usado en tareas no imputables directamente a un trabajo.
 - **Factor de carga de multiprogramación**: relación entre el tiempo de respuesta de un trabajo en un entorno de multiprogramación y su tiempo de respuesta en monoprogramación.

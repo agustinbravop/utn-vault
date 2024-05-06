@@ -1,3 +1,3 @@
 El **rendimiento** de un sistema establece los parámetros con los que se deben dar las [[Prestaciones de un SI]]. Es un nivel de qué tan bien los servicios del sistema (HW + SO) ejecutan las aplicaciones del sistema.
 
-Son medidas cuantitativas del comportamiento de un software que miden **requerimientos no funcionales**. El rendimiento depende del **entorno** del sistema (el rendimiento del SYSACAD es muy distinto al de Mercado Libre).
+Son medidas cuantitativas del comportamiento de un software que miden **requerimientos no funcionales**. El rendimiento de las prestaciones depende del **entorno** del sistema (el rendimiento del SYSACAD es muy distinto al de Mercado Libre).

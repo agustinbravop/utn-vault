@@ -1,4 +1,4 @@
-El [[Rendimiento de un SI]] determina el nivel requerido de las [[Prestaciones de un SI]]. La evaluación de dicho rendimiento es la **medida** de cómo un software determinado está utilizando el hardware con una determinada combinación de programas, que constituyen la [[Carga de Trabajo]] del sistema.
+El [[Rendimiento de un SI]] determina el nivel requerido de las [[Prestaciones de un SI]]. La evaluación de dicho rendimiento es la **medida** de cómo un software determinado está utilizando el hardware con una determinada combinación de programas, que constituyen la [[Carga de Trabajo]] del sistema. Esto es parte del subsistema de [[Aplicación de SW y HW]].
 
 Los objetivos de evaluar el sistema son:
 - Comprobar que su **comportamiento** es el **esperado** (es correcto).
