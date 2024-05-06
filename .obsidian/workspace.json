@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Aplicación de SW y HW.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffe74614f4bd1502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Predicción de la Capacidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "146f6aeed7cc89a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Predicción de la Capacidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Aplicación de SW y HW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Aplicación de SW y HW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Aplicación de SW y HW.md"
               }
             }
           }
@@ -164,13 +188,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
   "active": "269d35f5295dfeaa",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Planeación de Personal.md",
     "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
+    "4to Nivel/Administración de Sistemas de Información/Predicción de la Capacidad.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Patrones de datos históricos de la carga.png",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506114910.png",
+    "4to Nivel/Administración de Sistemas de Información/Planeación de Personal.md",
     "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Evaluación de las Prestaciones.md",
@@ -200,11 +228,8 @@
     "4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505205924.png",
     "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md",
-    "4to Nivel/Administración de Sistemas de Información/Equipos de Trabajo.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505142322.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505141437.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504205442.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240504174027.png",
     "4to Nivel/Administración de Sistemas de Información/attachments",
     "desktop.ini",
     "utn-vault",

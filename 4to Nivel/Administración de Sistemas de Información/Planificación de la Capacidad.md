@@ -1,11 +1,12 @@
-La planificación de la capacidad observa las **necesidades de negocio** que se deben satisfacer, entendiendo y analizando la [[Carga de Trabajo]] que se va a ejecutar y el servicio (**tiempo de respuesta**) que se quiere dar, y detalla los recursos físicos (**capacidad**) necesarios.
+La **capacidad** es la **productividad máxima** (throughput máximo) del sistema. 
+
+La **planificación** de la capacidad observa las **necesidades de negocio** que se deben satisfacer, entendiendo y analizando la [[Carga de Trabajo]] que se va a ejecutar y el servicio (**tiempo de respuesta**) que se quiere dar, y detalla los recursos físicos (**capacidad**) necesarios.
 
 Es el proceso de **identificar la** **configuración** de un sistema para suministrar el [[Rendimiento de un SI]] satisfactorio para las [[Prestaciones de un SI]] determinadas. El objetivo fundamental es:
 - Resolver conflictos de **capacidad limitada,** y
 - Mantener una **equilibrada utilización** de los equipos.
 
-A futuro, también es el proceso de **predecir** cuándo los niveles de la carga futura saturarán el sistema y determinar el modo más efectivo (en costos) de **retrasar esa saturación**. La **capacidad** es la **productividad máxima** (throughput máximo) del sistema.
-
+A futuro, también es el proceso de **predecir** cuándo los niveles de la carga futura saturarán el sistema y determinar el modo más efectivo (en costos) de **retrasar esa saturación**. Esto es la [[Predicción de la Capacidad]]. 
 ## Metodología
 
 Una metodología básica y sencilla sigue estos pasos:
@@ -35,6 +36,3 @@ Las organizaciones comienzan de manera simple y **gradualmente van sofisticando*
 3. **Nivel 3**: existe un sistema automático de **análisis y predicción** de la carga de trabajo.
 4. **Nivel 4**: se predicen automáticamente los **niveles de servicio** según predicciones de capacidad.
 5. **Nivel 5**: se utilizan los **criterios de las aplicaciones de negocio** a través de un modelo que sirve para predecir los niveles de servicio.
-
-## Métodos de Predicción
-
