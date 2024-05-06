@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "- path: Excalidraw",
+  "search": "- path: Excalidraw, path: \"4to Nivel/Administración de Sistemas de Información\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,16 +15,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.504158004158004,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0000000000000033,
+  "linkDistance": 320,
+  "scale": 0.47888815587391326,
   "close": true
 }

@@ -21,8 +21,13 @@ El subsistema técnico es responsable de la **eficiencia potencial**, alcanzable
 
 ## Sistema Gerencial
 
-El enfoque sociotécnico de Tavistock agrega un **sistema gerencial** **o administrativo** que implica la estructura organizacional, políticas, procedimientos y reglas, modo de tomar decisiones, etc. El sistema gerencial busca **optimizar las relaciones entre los sistemas social y técnico** para que trabajen orientados hacia las metas organizacionales.
+El enfoque sociotécnico de Tavistock agrega un **sistema gerencial** **o administrativo** que implica la **estructura organizacional**, **políticas**, procedimientos y **reglas**, modo de tomar decisiones, etc. El sistema gerencial busca **optimizar las relaciones entre los sistemas social y técnico** para que trabajen orientados hacia las **metas organizacionales**.
 
 El sistema gerencial define:
 - En el sistema técnico: sus objetivos según su capacidad tecnológica. Los aspectos tecnológicos y económicos deben balancearse para lograr cierta eficiencia. El sistema técnico responde con el flujo de información técnica necesaria para conseguir los objetivos organizacionales.
 - En el sistema social: busca desarrollar una cultura de colaboración entre individuos y grupos para determinar los resultados operacionales. Esto incluye actividades de control y dirección para el desarrollo de las capacidades de desempeño.
+
+Teniendo en cuenta la [[Eficiencia y Eficacia]]:
+- El sistema gerencial determina la **eficacia**.
+- El sistema técnico determina la eficiencia potencial.
+- El sistema social determina la eficiencia real (alcanzable).
