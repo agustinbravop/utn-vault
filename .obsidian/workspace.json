@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08cfc0ce88da5547",
+        "id": "7619f0b744c0dae4",
         "type": "tabs",
         "children": [
           {
-            "id": "730643e87644dc28",
+            "id": "b6047c172d241814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3677b1cabf8b9bbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +31,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 51.83823529411765,
+        "dimension": 67.27941176470588,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -60,7 +48,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 48.161764705882355,
+        "dimension": 32.720588235294116,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md"
               }
             }
           }
@@ -153,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,25 +151,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "730643e87644dc28",
+  "active": "b6047c172d241814",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Aplicación de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
+    "4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md",
     "4to Nivel/Administración de Sistemas de Información/Untitled 1.md",
-    "4to Nivel/Administración de Sistemas de Información/Untitled.md",
     "4to Nivel/Administración de Sistemas de Información/Untitled 2.md",
     "Acuerdos de Nivel de Servicio.md",
-    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Predicción de la Capacidad.md",
     "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
-    "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
     "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Rendimiento de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Evaluación de las Prestaciones.md",
     "4to Nivel/Administración de Sistemas de Información/Prestaciones de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Aplicación de SW y HW.md",
     "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
     "4to Nivel/Administración de Sistemas de Información/Socialización Organizacional.md",
     "4to Nivel/Administración de Sistemas de Información/Aplicación de RRHH.md",
@@ -194,9 +184,6 @@
     "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Sistemas Interactivos.md",
     "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistemas de Referencia.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistema de Roles.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistema Batch.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003335.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003329.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506002636.png",

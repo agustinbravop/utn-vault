@@ -4,7 +4,7 @@ Los usuarios o las necesidades de servicio exigen que un sistema informático de
 
 ![[Pasted image 20240505213856.png]]
 
-En el subsistema de [[Aplicación de SW y HW]] es clave hacer una adecuada [[Caracterización de la Carga]].
+En el subsistema de [[Aplicación de SI y TI]] es clave hacer una adecuada [[Caracterización de la Carga]].
 
 ## Carga de Prueba
 

@@ -1,6 +1,6 @@
 La **capacidad** es la **productividad máxima** (throughput máximo) del sistema. 
 
-La **planificación** de la capacidad es un proceso del subsistema de [[Aplicación de SW y HW]] que observa las **necesidades de negocio** que se deben satisfacer, entendiendo y analizando la [[Carga de Trabajo]] que se va a ejecutar y el servicio (**tiempo de respuesta**) que se quiere dar, y detalla los recursos físicos (**capacidad**) necesarios.
+La **planificación** de la capacidad es un proceso del subsistema de [[Aplicación de SI y TI]] que observa las **necesidades de negocio** que se deben satisfacer, entendiendo y analizando la [[Carga de Trabajo]] que se va a ejecutar y el servicio (**tiempo de respuesta**) que se quiere dar, y detalla los recursos físicos (**capacidad**) necesarios.
 
 Es el proceso de **identificar la** **configuración** de un sistema para suministrar el [[Rendimiento de un SI]] satisfactorio para las [[Prestaciones de un SI]] determinadas. El objetivo fundamental es:
 - Resolver conflictos de **capacidad limitada,** y

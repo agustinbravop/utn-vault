@@ -1,0 +1,1 @@
+Consiste en la obtención del software y hardware necesario para el sistema informático de la empresa.
