@@ -2,7 +2,7 @@ Consiste en la obtención del software y hardware necesario para el sistema info
 
 ## Conceptos Claves
 
-- Consiste en determinar la mejor alternativa técnica-operativa-económica para proveer del SW y HW que requiere la organización.
+- Consiste en determinar la **mejor alternativa técnica-operativa-económica** para proveer del SW y HW que requiere la organización.
 - Los recursos de SW y HW se seleccionan según **técnicas de calificación y priorización**. Se siguen pautas formales y establecidas por criterio profesional.
 - **Determinar las fuentes** es un proceso de toma de decisiones (no un proceso técnico).
 

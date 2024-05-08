@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ece65d6cf3988b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Tarea SQA - Desarrollo y Mantenimiento de RRHH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Tarea SQA - Desarrollo y Mantenimiento de RRHH.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Tarea SQA - Desarrollo y Mantenimiento de RRHH.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Tarea SQA - Desarrollo y Mantenimiento de RRHH.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md"
               }
             }
           }
@@ -169,10 +155,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ece65d6cf3988b9",
+  "active": "b6047c172d241814",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
-    "4to Nivel/Administración de Sistemas de Información/Tarea SQA - Desarrollo y Mantenimiento de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Predicción de la Capacidad.md",
     "4to Nivel/Administración de Sistemas de Información/Untitled.md",
     "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",

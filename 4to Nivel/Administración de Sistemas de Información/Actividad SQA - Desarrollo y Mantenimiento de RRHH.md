@@ -6,3 +6,7 @@ A diferencia del desarrollo, entiendo que el mantenimiento de RRHH es lograr que
 
 ## Q - ¿Qué Quiero aprender?
 
+Quiero aprender cómo se logra el desarrollo de RRHH porque mucho tiene que ver con el desarrollo personal, algo que me gusta y creo que es valioso. Quiero ver si un desarrollo de RRHH prometedor y moderno es suficiente para asegurar el mantenimiento del personal.
+
+Rompiendo el esquema de esta actividad, claro que quiero aprender todo lo que va a entrar en el segundo parcial.
+
