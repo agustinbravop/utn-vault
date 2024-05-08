@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ece65d6cf3988b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Tarea SQA - Desarrollo y Mantenimiento de RRHH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Modelos de Comportamiento",
+                "query": "admisión",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Tarea SQA - Desarrollo y Mantenimiento de RRHH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Tarea SQA - Desarrollo y Mantenimiento de RRHH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Tarea SQA - Desarrollo y Mantenimiento de RRHH.md"
               }
             }
           }
@@ -141,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,19 +169,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6047c172d241814",
+  "active": "3ece65d6cf3988b9",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Aplicación de SI y TI.md",
-    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/Tarea SQA - Desarrollo y Mantenimiento de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Predicción de la Capacidad.md",
+    "4to Nivel/Administración de Sistemas de Información/Untitled.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Aplicación de SI y TI.md",
     "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
     "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
     "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
     "4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md",
-    "4to Nivel/Administración de Sistemas de Información/Untitled 1.md",
     "4to Nivel/Administración de Sistemas de Información/Untitled 2.md",
     "Acuerdos de Nivel de Servicio.md",
-    "4to Nivel/Administración de Sistemas de Información/Predicción de la Capacidad.md",
     "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
     "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Rendimiento de un SI.md",
@@ -183,7 +199,6 @@
     "4to Nivel/Administración de Sistemas de Información/Planeación de Personal.md",
     "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Sistemas Interactivos.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003335.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003329.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506002636.png",

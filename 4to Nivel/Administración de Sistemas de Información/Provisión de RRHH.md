@@ -8,7 +8,12 @@ Este subsistema está interesado con el **ambiente organizacional**, dado que la
 2. [[Reclutamiento]]
 3. [[Selección]]
 
-Estos subprocesos forman un proceso de provisión cuyo resultado es la **admisión** **de personas** a la organización. Inicia con la decisión de línea del gerente de hacer una **solicitud de personal** para cubrir un puesto vacante, y termina con la decisión de línea del gerente al elegir al mejor candidato.
+Estos subprocesos forman un proceso de provisión cuyo resultado es la **admisión** **de personas** a la organización. Inicia con la decisión de línea del gerente de hacer una **solicitud de personal** para cubrir un puesto vacante, y termina con la **admisión** del mejor candidato.
+
+El gerente toma decisiones de línea:
+1. Al **solicitar** llenar el puesto vacante.
+2. (Opcional) si quiere más **pruebas** de selección (para desempatar entre candidatos válidos).
+3. Al **seleccionar** al mejor candidato.
 
 ## Evaluación de los Procesos
 
