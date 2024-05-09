@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7619f0b744c0dae4",
+        "id": "ec7b940ff46c31bd",
         "type": "tabs",
         "children": [
           {
-            "id": "b6047c172d241814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d727118388ef89a",
+            "id": "5ba1e1e376e733aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +20,14 @@
             }
           },
           {
-            "id": "d9160b14fc39f29e",
+            "id": "6b70bbd8f11133bf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.41.59.excalidraw.md"
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Actividad Poker Planning de Recetas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Actividad Poker Planning de Recetas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Actividad Poker Planning de Recetas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md"
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Actividad Poker Planning de Recetas.md"
               }
             }
           }
@@ -178,13 +168,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d727118388ef89a",
+  "active": "6b70bbd8f11133bf",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Actividad Poker Planning de Recetas.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Control de la Configuración.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Enfoques de conversión.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.52.00.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.41.59.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Medios de Reclutamiento.md",
     "4to Nivel/Administración de Sistemas de Información/Untitled.md",
     "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
@@ -204,8 +197,6 @@
     "4to Nivel/Administración de Sistemas de Información/Evaluación de las Prestaciones.md",
     "4to Nivel/Administración de Sistemas de Información/Prestaciones de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
-    "4to Nivel/Administración de Sistemas de Información/Socialización Organizacional.md",
-    "4to Nivel/Administración de Sistemas de Información/Aplicación de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Patrones de datos históricos de la carga.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506114910.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003335.png",
@@ -215,7 +206,6 @@
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505213856.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505205924.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505142322.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505141437.png",
     "4to Nivel/Administración de Sistemas de Información/attachments",
     "desktop.ini",
     "utn-vault",

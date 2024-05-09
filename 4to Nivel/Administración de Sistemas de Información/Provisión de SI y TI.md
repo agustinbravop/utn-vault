@@ -1,5 +1,7 @@
 Consiste en la obtención del software y hardware necesario para el sistema informático de la empresa. Es un conjunto de **procedimientos, técnicas de calificación y políticas** para la selección de soluciones de SW y HW más convenientes para la organización según las necesidades especificadas. Busca **abastecer a la organización de los recursos de SI/TI de acuerdo a la arquitectura planeada**.
 
+Es un [[Proceso de Provisión de SW y HW]].
+
 ## Conceptos Claves
 
 - Consiste en determinar la **mejor alternativa técnica-operativa-económica** para proveer del SW y HW que requiere la organización.
@@ -12,26 +14,6 @@ Consiste en la obtención del software y hardware necesario para el sistema info
 - Desarrollar, **evaluar y clasificar** las **fuentes de obtención** posibles.
 - Determinar y **recomendar** las **mejores propuestas** de los posibles proveedores.
 - Establecer los **requisitos de integración** de los desarrollos y/o productos elegidos. Cómo y de qué forma se van a integrar a sistemas existentes.
-
-## Proceso
-
-Las **estrategias de SI se concretan al definir políticas** que guíen la toma de decisiones. El aspecto más directo de cómo implementar una estrategia de SI está dado por las opciones y elecciones hechas al **adquirir SW y HW y seleccionar RRHH**. Elegir es **asignar recursos** de la manera más favorable posible.
-![[Provisión de SI y TI 2024-05-09 12.41.59.excalidraw]]
-
-La **administración de recursos** está interesada en la provisión de SW y HW por cuestiones como:
-- Impacto de los paquetes de SW en el proceso de selección y en la empresa.
-- Conceptos de *downsizing* y *sistemas abiertos* que forman el paralelo tecnológico del tema empresarial y de la computación controlada por usuario.
-- Provisión externa de los elementos de un SI (*outsourcing*).
-$$ElementosDeUnSI = SW + HW + Servicios$$
-
-Dada la complejidad de los SI actuales, no existe un organismo encargado de la selección (sector tradicionalmente conocido como "Procesamiento de Datos"), sino que hay una **red de grupos** con relación lógica.
-
-![[Provisión de SI y TI 2024-05-09 12.52.00.excalidraw]]
-```mermaid
-flowchart LR;
-
-A["Elegir la estructura y \n organización de los SI"] -->|influye|B["Alternativas de\n selección existentes"] -->|influye|C["Org, estructura y \n management de los SI"]
-```
 
 ## Responsabilidades de Management
 
