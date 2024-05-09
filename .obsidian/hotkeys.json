@@ -7,15 +7,6 @@
       "key": "Z"
     }
   ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
     {
       "modifiers": [
@@ -23,5 +14,6 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "editor:delete-paragraph": []
 }
