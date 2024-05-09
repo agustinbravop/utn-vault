@@ -2,7 +2,7 @@ Es el segundo proceso o etapa de la [[Provisión de RRHH]], y consiste en salir 
 
 Es una **función de staff** que se **inicia** cuando el órgano con la vacante (un gerente) toma la decisión de línea oficializada mediante una **solicitud de personal** (documento formal), y **termina** con la filtración de CVs por **requisitos excluyentes**, continuando el proceso de provisión con la siguiente etapa de [[Selección]]. 
 
-Dependiendo de los [[Mercado de RRHH#Candidatos|candidatos]] considerados, el reclutamiento es interno o externo.
+Dependiendo de los [[Mercado de RRHH#Candidatos|candidatos]] considerados, el reclutamiento es interno o externo. Una política de RRHH importante es priorizar el reclutamiento interno por sobre el externo. 
 
 ## Reclutamiento Interno
 
@@ -72,4 +72,4 @@ Buscan divulgar hacia las fuentes de reclutamiento la existencia de una oportuni
 Una empresa nunca hace un solo tipo de reclutamiento. El reclutamiento mixto se puede adoptar de tres maneras:
 - Inicialmente externo, seguido del interno si no da los resultados deseables. Hay un énfasis en la entrada de recursos humanos.
 - Inicialmente interno, seguido del externo si no da los resultados deseables. La empresa prioriza a sus empleados.
-- Externo e interno simultáneos,. Preocupación por llenar la vacante existente que crea condiciones de sana competencia profesional.
+- Externo e interno simultáneos. Preocupación por llenar la vacante existente que crea condiciones de sana competencia profesional.
