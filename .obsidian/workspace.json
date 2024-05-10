@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Actividad Poker Planning de Recetas.md",
+                "file": "4to Nivel/Investigación Operativa/Actividades/Tornillos - Planteo de Pg Lineal.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Actividad Poker Planning de Recetas.md",
+                "file": "4to Nivel/Investigación Operativa/Actividades/Tornillos - Planteo de Pg Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Actividad Poker Planning de Recetas.md",
+                "file": "4to Nivel/Investigación Operativa/Actividades/Tornillos - Planteo de Pg Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Actividad Poker Planning de Recetas.md"
+                "file": "4to Nivel/Investigación Operativa/Actividades/Tornillos - Planteo de Pg Lineal.md"
               }
             }
           }
@@ -158,8 +158,11 @@
   },
   "active": "5ba1e1e376e733aa",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
     "4to Nivel/Ingeniería y Calidad de Software/Actividad Poker Planning de Recetas.md",
+    "4to Nivel/Investigación Operativa/Actividades/Tornillos - Planteo de Pg Lineal.md",
+    "4to Nivel/Investigación Operativa/Actividades",
+    "4to Nivel/Investigación Operativa",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
     "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
     "4to Nivel/Ingeniería y Calidad de Software/Control de la Configuración.md",
@@ -184,7 +187,6 @@
     "4to Nivel/Administración de Sistemas de Información/Rendimiento de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Evaluación de las Prestaciones.md",
     "4to Nivel/Administración de Sistemas de Información/Prestaciones de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Patrones de datos históricos de la carga.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506114910.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003335.png",
@@ -201,8 +203,6 @@
     "4to Nivel/Simulación",
     "4to Nivel/Ingeniería y Calidad de Software/attachments",
     "Excalidraw",
-    "4to Nivel/Ingeniería y Calidad de Software",
-    "4to Nivel/Administración de Sistemas de Información",
-    "Untitled"
+    "4to Nivel/Ingeniería y Calidad de Software"
   ]
 }
