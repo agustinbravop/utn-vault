@@ -1,4 +1,4 @@
-Es el primer proceso de la [[Provisión de RRHH]], y consiste en ver qué perfiles existen y dónde encontrarlos, en base a las descripciones y análisis de cargo. Su objetivo es hallar las **fuentes de provisión** de recursos humanos, determinadas por las relaciones de la organización con [[Los Mercados Laboral y de RRHH]].
+Es el primer proceso de la [[Provisión de RRHH]], y consiste en ver qué perfiles existen y dónde encontrarlos, en base a las descripciones y análisis de cargo. Su objetivo es hallar las **fuentes de provisión** de recursos humanos, determinadas por las relaciones de la organización con los [[Mercados Laboral y de RRHH]].
 
 Consiste en tres etapas:
 ![[Investigación del Mercado 2024-05-04 15.25.29.excalidraw]]

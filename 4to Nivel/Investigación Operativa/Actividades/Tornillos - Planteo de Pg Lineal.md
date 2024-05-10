@@ -11,12 +11,8 @@ La disponibilidad semanal es de 2400 horas/máquina para cada grupo. Las órdene
 
 ## Planteo del Modelo Matemático
 
-Variables de decisión:
-$x_{ij}$ = horas de producción en el grupo de máquinas $i$ del producto $j$. Para $i = 1,2,3 \ ; \ j = 1,2,3,4,5$.
+Variables de decisión: (15 variables, una para cada par máquina-tornillo)
+$x_{ij}$ = horas de producción en el grupo de máquinas $i$ del producto $j$. Para $i = 1,2,3 \ ; \ j = 1,2,3,4,5$
 
-Objetivo: minimizar $z = 0,4 x_{11} + 0,2 x_{12}$
-minimizar z = 
-
-
-Restricciones:
-1. 0,4 x1 + 0,8 x2 + 1,0 x3
+Objetivo:
+minimizar z = ...

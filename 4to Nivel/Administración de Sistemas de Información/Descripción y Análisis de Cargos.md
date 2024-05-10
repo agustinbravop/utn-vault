@@ -29,7 +29,7 @@ Casi todas las actividades de recursos humanos se basan en la información que p
 
 Los principales objetivos son:
 1. Ayudar a la elaboración de los **anuncios** para el [[Reclutamiento]] de personal.
-2. Determinar el **perfil** del ocupante del cargo para la [[Selección]] de. personal.
+2. Determinar el **perfil** del ocupante del cargo para la [[Selección de RRHH]].
 3. Suministrar el material necesario para la **capacitación** del personal.
 4. Determinar las escalas salariales para la **administración de salarios**.
 5. Estimular la motivación del personal para la **evaluación del desempeño**.
