@@ -6,7 +6,7 @@ La [[Selección de SW y HW]] requiere identificar ciertas **necesidades** en un 
 
 ## Priorización
 
-Cada característica de un SW o HW puede ser:
+Cada requerimiento o característica de un SW o HW puede ser:
 - **Obligatoria**: **Imprescindible**. No es negociable. Si no se cumple se rechaza la selección.
 - **Altamente Deseable**: **Recomendable**. Sin esta característica es improbable la selección.
 - **Deseable**: **Conveniente**. Es un detalle que desempata una selección igualada entre candidatos que cumplen las mismas características imprescindibles y recomendables.

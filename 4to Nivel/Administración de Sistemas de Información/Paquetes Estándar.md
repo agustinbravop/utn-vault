@@ -9,10 +9,10 @@ Ventajas:
 
 ## Situaciones Ideales para Comprar
 
-Se recomiendan 3 situaciones ideales de uso para obtener paquetes de soluciones:
-1. Conjunto de aplicaciones **bien integradas** para una empresa relativamente pequeña que no desea realizar cambios al paquete.
-2. Aplicación **no fundamental** para la actividad principal, pero con una interfaz simple y bien definida.
-3. Aplicación compleja que necesite **especialización técnica** en un área donde la empresa no considere que puede obtener una ventaja competitiva importante.
+Se recomiendan 3 **situaciones ideales de uso** para obtener paquetes de soluciones:
+1. **Conjunto** de aplicaciones **bien integradas** para una empresa relativamente pequeña que no desea realizar cambios al paquete.
+2. **Aplicación no fundamental** para la actividad principal, pero con una interfaz simple y bien definida.
+3. **Aplicación compleja** que necesite **especialización técnica** en un área donde la empresa no considere que puede obtener una ventaja competitiva importante.
 
 ## Desfasaje entre Requerimientos y Capacidades
 

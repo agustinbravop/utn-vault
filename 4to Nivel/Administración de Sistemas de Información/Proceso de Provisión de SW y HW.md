@@ -25,3 +25,5 @@ D-->|influyen|C
 ```
 
 Siempre se parte desde el **problema empresarial** para **solucionarlo mediante SW y HW**. La jerarquía es: **necesidad empresarial > SW de aplicaciones > SW de sistemas > HW**. No hay que cambiar sin razón, y cuando sí hay que cambiar es mejor hacerlo de manera **simple** y buscando la **flexibilidad**.
+
+Una decisión esencial es determinar el [[Canal de Obtención de SW]] más adecuado.

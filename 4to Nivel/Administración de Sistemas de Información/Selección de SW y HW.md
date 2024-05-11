@@ -5,6 +5,6 @@ La **compra de servicios de SI** implica un **proceso de selección** que involu
 4. Calcular la **calificación** de cada propuesta. ($calificación = \sum puntaje * importancia$).
 5. Seleccionar la alternativa con **mayor calificación**.
 
-La lista de criterios define el conjunto de [[Características de un SI]] que debe tener la propuesta. El proceso de priorización establece la jerarquía.
+La lista de criterios define el conjunto de [[Requerimientos de un SI]] que debe tener la propuesta. El proceso de priorización establece la jerarquía.
 
 ![[Selección de SW y HW 2024-05-10 11.34.14.excalidraw]]
