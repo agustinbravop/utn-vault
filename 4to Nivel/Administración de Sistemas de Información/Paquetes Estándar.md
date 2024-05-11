@@ -20,7 +20,7 @@ Dado que no está hecho a medida, las capacidades del paquete pueden diferir de 
 
 ![[Paquete Estándar 2024-05-10 12.10.50.excalidraw]]
 
-Este **plano de discrepancias** tiene **estrategias para manejar la disparidad**:
+Este **plano de discrepancias** tiene 4 **estrategias para manejar la disparidad**:
 1. **Adecuar el paquete**: requiere derechos del código fuente.
 2. **Modificar el proceso empresarial**.
 3. **Tolerar el desajuste**: depende de si es tolerable o no.

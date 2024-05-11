@@ -1,7 +1,7 @@
 Las **estrategias de SI se concretan al definir políticas** que guíen la toma de decisiones. El aspecto más directo de cómo implementar una estrategia de SI está dado por las opciones y elecciones hechas al **adquirir SW y HW y seleccionar RRHH**. Elegir es **asignar recursos** de la manera más favorable posible.
 ![[Provisión de SI y TI 2024-05-09 12.41.59.excalidraw]]
 
-La **administración de recursos** está interesada en la provisión de SW y HW por cuestiones como:
+La **administración de recursos** está interesada en la [[Provisión de SI y TI]] por cuestiones como:
 - Impacto de los paquetes de SW en el proceso de selección y en la empresa.
 - Conceptos de *downsizing* y *sistemas abiertos* que forman el paralelo tecnológico del tema empresarial y de la computación controlada por usuario.
 - Provisión externa de los elementos de un SI (*outsourcing*).
@@ -27,3 +27,7 @@ D-->|influyen|C
 Siempre se parte desde el **problema empresarial** para **solucionarlo mediante SW y HW**. La jerarquía es: **necesidad empresarial > SW de aplicaciones > SW de sistemas > HW**. No hay que cambiar sin razón, y cuando sí hay que cambiar es mejor hacerlo de manera **simple** y buscando la **flexibilidad**.
 
 Una decisión esencial es determinar el [[Canal de Obtención de SW]] más adecuado.
+
+## Resumen
+
+![[Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw]]
