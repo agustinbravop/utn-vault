@@ -4,7 +4,7 @@ Las [[Políticas]] de RRHH refieren a **cómo las organizaciones aspiran a traba
 
 ## Políticas por Proceso de ARH
 
-Cada [[Proceso de la ARH]] tiene sus propias políticas. Es lógico que igualmente éstas sean coherentes entre procesos.
+Cada proceso o subsistema de la [[Administración de Recursos Humanos]] tiene sus propias políticas. Es lógico que éstas sean coherentes entre sí.
 
 ### Políticas de [[Provisión de RRHH]]
 

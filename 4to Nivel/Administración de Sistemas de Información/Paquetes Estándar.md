@@ -1,11 +1,13 @@
-Comprar una solución prefabricada por un tercero es un [[Canal de Obtención de SW]] que cada vez más empresas lo prefieren por su **costo reducido** y mayor **certidumbre**. Al adquirir un paquete nos centramos solo en la selección del paquete y no en su desarrollo (evitamos retener el margen de costos). 
+Comprar una solución prefabricada por un tercero es un [[Canal de Obtención de SW]] que cada vez más empresas lo prefieren por su **costo reducido** y mayor **certidumbre**. 
+
+Al adquirir un paquete nos centramos solo en la selección del paquete y no en su desarrollo (evitamos retener el margen de costos). Se debe usar un [[Método de Evaluación de Paquetes Estándares]] para elegir la solución concreta.
 
 Ventajas:
-- Rápida disponibilidad.
+- Rápida **disponibilidad**.
 - Menores costos.
 - Calidad comprobable.
 - Actualizaciones continuas.
-- Certidumbre.
+- **Certidumbre**.
 
 ## Situaciones Ideales para Comprar
 

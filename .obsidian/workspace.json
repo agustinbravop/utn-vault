@@ -11,11 +11,14 @@
             "id": "e14755beb4ffa5b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "viewState": {
+                  "x": 928.5110133423487,
+                  "y": 889.2353961662858,
+                  "zoom": -0.6666665649414062
+                }
               }
             }
           },
@@ -49,14 +52,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58d8cdaec48cb966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Enfoques de Conversión.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Outsourcing.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
               }
             }
           },
@@ -200,36 +214,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dbbae7b6b8236a3",
+  "active": "e14755beb4ffa5b6",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Acuerdo de Nivel de Servicio.md",
-    "Acuerdos de Nivel de Servicio.md",
+    "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
     "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
     "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
-    "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Rightsizing.md",
+    "4to Nivel/Administración de Sistemas de Información/Downsizing.md",
+    "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
+    "4to Nivel/Administración de Sistemas de Información/Descripción y Análisis de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Análisis de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Enfoques de Conversión.md",
+    "4to Nivel/Administración de Sistemas de Información/Prestaciones de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Proceso de la ARH.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
     "4to Nivel/Administración de Sistemas de Información/Untitled.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Acuerdo de Nivel de Servicio.md",
+    "Acuerdos de Nivel de Servicio.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Outsourcing 2024-05-11 23.59.08.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
-    "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
     "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
-    "4to Nivel/Administración de Sistemas de Información/Downsizing.md",
-    "4to Nivel/Administración de Sistemas de Información/Rightsizing.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Selección de SW y HW 2024-05-10 11.34.14.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
-    "4to Nivel/Administración de Sistemas de Información/Proceso de la ARH.md",
-    "4to Nivel/Administración de Sistemas de Información/Paquetes Estándar.md",
     "desktop.ini",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Canal de Obtención de SW 2024-05-10 15.26.54.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Criterios de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación de Paquetes Estándares.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Tabla de evaluación entre alternativas de obtención.png",
-    "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Paquete Estándar 2024-05-10 12.10.50.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Desarrollo Interno de SW.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Continuo de alternativas de obtención de SW.png",
     "4to Nivel/Investigación Operativa/Actividades",
     "4to Nivel/Investigación Operativa",

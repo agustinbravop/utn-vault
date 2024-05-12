@@ -17,10 +17,10 @@ En el [[Proceso de Provisión de SW y HW]], el outsourcing o **tercerización** 
 >No reinventar la rueda.
 
 Hay 4 características básicas de una actividad conveniente para ser tercerizada:
-- Es "no estratégica": no pertenece al core *business* de la organización.
-- Es periódica o continua: para que los beneficios florezcan en el mediano-largo plazo.
-- Es previsible o dimensionable: para poder especificarla con buena precisión.
-- Es estándar: requerida de manera similar por muchas organizaciones en el mercado.
+- Es "**no estratégica**": no pertenece al core *business* de la organización.
+- Es **periódica** o continua: para que los beneficios florezcan en el mediano-largo plazo.
+- Es **previsible** o dimensionable: para poder especificarla con buena precisión.
+- Es **estándar**: requerida de manera similar por muchas organizaciones en el mercado.
 
 El beneficio es **desentenderse** de los aspectos operativos de una tarea que **no es estratégica**. Un principio general del outsourcing es **retener el control** de las **actividades esenciales**:
 - Las **siempre internas** con precedente de **larga data**.
@@ -54,4 +54,4 @@ El outsourcing es una **relación contractual** con un tercero a quien se lo deb
 
 Además hay **personal contratado y consultores externos** que están **ligados** a la empresa y son **responsables** a ella. Ellos ocmprenden los problemas de los SI pero no las políticas y objetivos de la empresa. Son ideales para el **corto plazo**. Sino, conviene usar personal interno.
 
-Es fundamental establecer un [[Acuerdo de Nivel de Servicio]] que asegure ciertos parámetros o indicadores.
+Es fundamental establecer un [[Acuerdo de Nivel de Servicio]] que asegure ciertos parámetros o indicadores del rendimiento.
