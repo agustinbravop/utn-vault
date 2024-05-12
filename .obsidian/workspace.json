@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df4cf7a48f626b7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Downsizing.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md"
               }
             }
           }
@@ -169,21 +157,21 @@
   },
   "active": "e14755beb4ffa5b6",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
+    "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
     "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
     "4to Nivel/Administración de Sistemas de Información/Downsizing.md",
     "4to Nivel/Administración de Sistemas de Información/Rightsizing.md",
-    "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Selección de SW y HW 2024-05-10 11.34.14.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
-    "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de la ARH.md",
     "4to Nivel/Administración de Sistemas de Información/Paquetes Estándar.md",
     "desktop.ini",
     "4to Nivel/Administración de Sistemas de Información/attachments/Canal de Obtención de SW 2024-05-10 15.26.54.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Criterios de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Método de Evaluación de Paquetes Estándares.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Tabla de evaluación entre alternativas de obtención.png",

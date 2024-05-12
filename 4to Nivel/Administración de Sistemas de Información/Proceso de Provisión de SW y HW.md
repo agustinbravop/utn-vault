@@ -31,3 +31,12 @@ Una decisión esencial es determinar el [[Canal de Obtención de SW]] más adecu
 ## Resumen
 
 ![[Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw]]
+
+## Concreción de la Solución Mediante la Fuente Seleccionada
+
+Hay tres posibilidades para adquirir elementos de un SI:
+- **Adquisición**: **menores costos** y **rápida disponibilidad** con una calidad conocida y comparable. Requiere adecuar las funcionalidades de los [[Paquetes Estándar]] a los [[Requerimientos de un SI]] de la organización. Es la única posibilidad para la [[Adquisición de HW]]. 
+- **Desarrollo**: el [[Desarrollo Interno de SW]] es apropiado cuando la necesidad empresarial consiste en obtener **ventaja competitiva**. Requiere un **control efectivo** del proyecto de desarrollo, y el mayor costo estará en el proceso de codificación. Ofrece mejor **mantenimiento y especificidad**.
+- **Outsourcing**: el [[Outsourcing]] **transfiere a terceros** la responsabilidad de proporcionar un servicio adaptado a nuestras necesidades.
+
+La salida de esta etapa es la **solución definitiva**.
