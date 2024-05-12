@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5dbbae7b6b8236a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,12 +200,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "89e3e5b9b28c70c4",
+  "active": "5dbbae7b6b8236a3",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Acuerdo de Nivel de Servicio.md",
+    "Acuerdos de Nivel de Servicio.md",
+    "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
     "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
     "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
-    "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
     "4to Nivel/Administración de Sistemas de Información/Untitled.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Outsourcing 2024-05-11 23.59.08.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
@@ -216,8 +230,6 @@
     "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Paquete Estándar 2024-05-10 12.10.50.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Desarrollo Interno de SW.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistemas Abiertos.md",
-    "Excalidraw/Investigación del Mercado 2024-05-03 15.13.13.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Continuo de alternativas de obtención de SW.png",
     "4to Nivel/Investigación Operativa/Actividades",
     "4to Nivel/Investigación Operativa",
