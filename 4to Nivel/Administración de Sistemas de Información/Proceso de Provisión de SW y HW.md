@@ -39,4 +39,6 @@ Hay tres posibilidades para adquirir elementos de un SI:
 - **Desarrollo**: el [[Desarrollo Interno de SW]] es apropiado cuando la necesidad empresarial consiste en obtener **ventaja competitiva**. Requiere un **control efectivo** del proyecto de desarrollo, y el mayor costo estará en el proceso de codificación. Ofrece mejor **mantenimiento y especificidad**.
 - **Outsourcing**: el [[Outsourcing]] **transfiere a terceros** la responsabilidad de proporcionar un servicio adaptado a nuestras necesidades.
 
-La salida de esta etapa es la **solución definitiva**.
+La salida de esta etapa es la **solución definitiva**. 
+
+Suponiendo una adquisición fuera de la empresa, se debe elegir una [[Alternativas para el Pago de las Adquisiciones]].

@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63ecb6280dc26e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89e3e5b9b28c70c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,8 +158,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md"
               }
+            }
+          },
+          {
+            "id": "c2393e9eb641b452",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -155,10 +188,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e14755beb4ffa5b6",
+  "active": "89e3e5b9b28c70c4",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
+    "4to Nivel/Administración de Sistemas de Información/Untitled.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Outsourcing 2024-05-11 23.59.08.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
     "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
     "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
@@ -180,11 +218,6 @@
     "4to Nivel/Administración de Sistemas de Información/Desarrollo Interno de SW.md",
     "4to Nivel/Administración de Sistemas de Información/Sistemas Abiertos.md",
     "Excalidraw/Investigación del Mercado 2024-05-03 15.13.13.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Mercados Laboral y de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Gestión de Proyectos.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Entrega Continua.md",
-    "4to Nivel/Administración de Sistemas de Información/Aplicación de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Continuo de alternativas de obtención de SW.png",
     "4to Nivel/Investigación Operativa/Actividades",
     "4to Nivel/Investigación Operativa",
