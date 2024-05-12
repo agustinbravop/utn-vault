@@ -4,103 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "bf2bc73963fd2c7a",
+        "id": "a93fb42a3f6a505c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d3208c959fb5313",
+            "id": "e14755beb4ffa5b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "11a456a4f04f97a1",
+            "id": "df4cf7a48f626b7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbc5ff224df734bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27314aa019dbf767",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "42da1acc550a8595",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Canal de Obtención de SW 2024-05-10 15.26.54.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5aaed85a8b0a63eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78dab7a70fd17cfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8bac4619678b720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Downsizing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mercado",
+                "query": "micro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md"
               }
             }
           }
@@ -236,19 +167,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbc5ff224df734bf",
+  "active": "e14755beb4ffa5b6",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
+    "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Downsizing.md",
+    "4to Nivel/Administración de Sistemas de Información/Rightsizing.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
-    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Selección de SW y HW 2024-05-10 11.34.14.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
     "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de la ARH.md",
     "4to Nivel/Administración de Sistemas de Información/Paquetes Estándar.md",
     "desktop.ini",
-    "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Canal de Obtención de SW 2024-05-10 15.26.54.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
-    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
     "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Criterios de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Método de Evaluación de Paquetes Estándares.md",
@@ -263,9 +197,6 @@
     "4to Nivel/Ingeniería y Calidad de Software/Gestión de Proyectos.md",
     "4to Nivel/Ingeniería y Calidad de Software/Entrega Continua.md",
     "4to Nivel/Administración de Sistemas de Información/Aplicación de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
-    "4to Nivel/Administración de Sistemas de Información/Mercado de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Continuo de alternativas de obtención de SW.png",
     "4to Nivel/Investigación Operativa/Actividades",
     "4to Nivel/Investigación Operativa",
