@@ -11,14 +11,11 @@
             "id": "e14755beb4ffa5b6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-                "viewState": {
-                  "x": 928.5110133423487,
-                  "y": 889.2353961662858,
-                  "zoom": -0.6666665649414062
-                }
+                "file": "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -50,11 +47,14 @@
             "id": "5dbbae7b6b8236a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "viewState": {
+                  "x": 186.1474118030045,
+                  "y": 436.94018584923714,
+                  "zoom": -1.2222220865885416
+                }
               }
             }
           },
@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,17 +215,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e14755beb4ffa5b6",
+  "active": "5dbbae7b6b8236a3",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
     "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
+    "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
+    "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Acuerdo de Nivel de Servicio.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Administración de Sistemas de Información/Rightsizing.md",
     "4to Nivel/Administración de Sistemas de Información/Downsizing.md",
     "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
     "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
     "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
     "4to Nivel/Administración de Sistemas de Información/Descripción y Análisis de Cargos.md",
@@ -237,7 +239,6 @@
     "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
     "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Acuerdo de Nivel de Servicio.md",
     "Acuerdos de Nivel de Servicio.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Outsourcing 2024-05-11 23.59.08.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
