@@ -9,10 +9,50 @@ En el **estudio de solución y determinación de los criterios** se deben efectu
 - **Desarrollar el sistema en forma realista**: tener en cuenta el **potencial real** del **equipo** y **tecnología** disponible.
 - **Advertir a los proveedores potenciales**: dar **aviso previo** mediante una *Carta de Invitación*.
 
+Consideraciones particulares de la adquisición de SW:
+- **Evaluación del usuario**: operación, confiabilidad, mantenimiento, performance, costos.
+- **Evaluación del proveedor**: uso, documentación, costos, modificación, seguridad, garantías.
+
 ## Encuesta de Mercado Informal
 
 Para conocer las **posibilidades existentes** en el mercado y refinar los **parámetros cualitativos y cuantitativos** inherentes a la obtención del nuevo sistema. Consiste en:
 1. **Obtención de copias de otros RDP**: de organizaciones similares.
 2. **Visita a otros gerentes de procesamiento de datos** (DP): área tradicionalmente encargada del provisionamiento.
 3. **Uso de organizaciones profesionales**: para compartir **conocimientos técnicos** y contactarse con **fabricantes**.
-4. **Investigación de publicaciones técnicas especializadas**: 
+4. **Investigación de publicaciones técnicas especializadas**: ofrecen **información detallada** **y comparativa** acerca de los sistemas actuales y sus problemas de administración asociados.
+5. **Uso de los oferentes como fuente de información**: ofrecen **demostraciones** sin costo alguno.
+
+## Planificación
+
+Es necesario **planificar las etapas** del proceso de adquisición para elaborar su **cronograma**. Los plazos dependen de las prioridades, tiempos, escala y vida útil esperada.
+
+## Encuesta
+
+Reconocer las **necesidades del usuario** para **identificar los requerimientos** de la aplicación y **seleccionar oferentes adecuados** a estas necesidades y objetivos de la organización. Los candidatos subpares que no cumplan los [[Requerimientos de un SI]] obligatorios o imprescindibles se deben descartar.
+
+Como resultado, el **responsable técnico** prepara un **informe de evaluación preliminar** que incluya:
+1. Definición de los **requerimientos** del paquete o equipo.
+2. **Razones** por las que recomendar un [[Paquetes Estándar]] por sobre su [[Desarrollo Interno de SW]].
+3. Resumen de cada paquete de SW que incluya **costos, especificaciones y características**. Ídem para el HW.
+
+## Estructura del RDP
+
+Un requerimiento de propuestas tiene las siguientes secciones:
+1. **Resumen Ejecutivo**: panorama general que resume el contenido del RDP. Se escribe último.
+2. **Propósito**: establece estructura, objetivos y alcance del RDP y qué departamento lo emitió.
+3. **Introducción y requerimientos generales**: descripción del negocio y funciones del SI. Especificar elementos de SW + HW + Servicios.
+4. **Organizaciones incluidas**: departamentos de la empresa que usarán el sistema propuesto.
+5. **Descripción de la aplicación**: detalle de subsistemas, procesos, flujos.
+6. **Requerimientos de información**: archivos del sistema y entradas/salidas esperadas.
+7. **Restricciones del diseño del sistema**: crecimiento esperado de las operaciones.
+8. **Régimen de trabajo**: servicios a comprar más allá del sistema básico.
+9. **Información requerida del oferente**: describe lo que esperamos en las respuestas del oferente.
+10. **Criterios de selección**: evaluación técnica y financiera (suelen tener el mismo peso).
+11. **Información administrativa y contractual**: implicaciones legales y contractuales del RDP.
+12.  **Apéndice**: especificación de contenido y formato del resumen de costos. Se hace un resumen separado para cada alternativa financiera:
+	- Plan financiero: duración del período de renta, período de cancelación y precio de compra.
+	- Costos de HW.
+	- Costos de SW del sistema y de aplicación.
+	- Costos de capacitación y entrenamiento.
+
+Luego de **elaborar el RDP**, invitar a los **oferentes**, y recibir sus **respuestas** inicia el proceso de **evaluación** propiamente dicho.

@@ -44,3 +44,5 @@ El outsourcing es una **relación contractual** con un tercero a quien se lo pue
 | Formal                           | Informal                               |
 
 Además hay **personal contratado y consultores externos** que están **ligados** a la empresa y son **responsables** a ella. Ellos ocmprenden los problemas de los SI pero no las políticas y objetivos de la empresa. Son ideales para el **corto plazo**. Sino, conviene usar personal interno.
+
+Es fundamental establecer 
