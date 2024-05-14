@@ -1,14 +1,31 @@
-En el [[Proceso de Provisión de SW y HW]], para analizar la adquisición de hardware, se consideran dos temas principales: la **fuente de suministro** y la **escala de las plataformas**. Esa escala se puede manejar mediante el [[Downsizing]]. El objetivo principal de la [[Adquisición de HW]] no es ahorrar HW, sino obtener el **HW adecuado** que ayude a cumplir los **objetivos empresariales**.
+En el proceso de [[Provisión de SI y TI]], para analizar la adquisición de hardware, se consideran dos temas principales: la **fuente de suministro** y la **índole de las plataformas**. Esa escala se puede manejar mediante el [[Downsizing]]. El objetivo principal de la [[Adquisición de HW]] no es ahorrar HW, sino obtener el **HW adecuado** que ayude a cumplir los **objetivos empresariales**.
 
 ## Canales de Adquisición
 
-**Todo** el hardware se adquiere en forma **externa** (excepto el ensamblaje de microcomputadoras). La **escala** o tamaño de la plataforma define el **alcance y tipo** de los **canales disponibles**.
+**Todo** el hardware se adquiere en forma **externa** (excepto el ensamblaje de microcomputadoras). La escala o tamaño o **índole** de la plataforma define el **alcance y tipo** de los **canales disponibles**.
 
-### Escala de la Plataforma
+### Índole de la Plataforma
 
-1. **Mainframes**: computadoras centrales de gran capacidad y escalado vertical. Vienen de fabricantes o terceros especializados.
+Para decidir el tipo de plataforma adecuada, se tienen en cuenta estas cuestiones:
+1. **Aspectos financieros**.
+2. Grado de adecuación entre la **estructura empresarial y ubicación**.
+3. Gestión de la **seguridad**.
+4. **Confiabilidad** y **disponibilidad** de los datos.
+5. **Volumen de datos** a procesar y almacenar y la escala de procesamientos.
+6. [[Políticas]] sobre SW y los [[Sistemas Abiertos]].
+7. **Estabilidad del procesamiento de la información**. Este es el ritmo de implementación de las migraciones, relacionado con los [[Enfoques de Conversión]].
+
+Las tres índoles o tamaños son:
+1. **Mainframes**: computadoras centrales de gran capacidad y escalado vertical. Vienen de fabricantes o terceros especializados. Son para sistemas centralizados. 
 2. **Minicomputadoras**: son similares a los mainframes pero con muchas **más opciones** de provisión. Vienen de fabricantes o revendedores de valor agregado (VARs).
-3. **Microcomputadoras**: procesamiento distribuido y escalado horizontal. Hay multitud de opciones, por lo que la decisión es más compleja.
+3. **Microcomputadoras**: procesamiento distribuido y escalado horizontal. Hay multitud de opciones, por lo que la decisión es más compleja. Para arquitecturas cliente-servidor.
+
+| Mainframe           | Minicomputadoras | Microcomputadoras    |
+| ------------------- | ---------------- | -------------------- |
+| Upsizing            | -                | [[Downsizing]]       |
+| Centralizado        | -                | Distribuido          |
+| Plataformas grandes | -                | Plataformas pequeñas |
+| Escalado vertical   | -                | Escalado horizontal  |
 
 ### Fuentes de Suministro
 

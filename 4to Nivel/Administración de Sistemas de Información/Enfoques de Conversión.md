@@ -5,3 +5,7 @@ Un **enfoque de conversión** es cómo controlar el cambio del sistema antiguo (
 - **Piloto**: es una planificación compleja para probar el sistema nuevo. Costoso y lento.
 
 ![[Enfoques de conversión.png]]
+
+La resistencia al cambio de los usuarios no debería influir en la decisión de alguno de estos enfoques, nosotros tenemos el **deber de convencer**.
+
+**No hay que cambiar sin razón**. Cuando se necesita cambiar, se mejor hacerlo de manera **simple y flexible**. Partir desde el problema empresarial para solucionarlo mediante SW y HW, no al revés.

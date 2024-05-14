@@ -1,4 +1,4 @@
-Una vez elegida una alternativa de solución en el [[Proceso de Provisión de SW y HW]] que se adquiere fuera de la empresa, se debe **establecer el método de financiación adecuado**. 
+Una vez elegida una alternativa de solución en el proceso de [[Provisión de SI y TI]] que se adquiere fuera de la empresa, se debe **establecer el método de financiación adecuado**. 
 
 Los **riesgos** inherentes a las alternativas están vinculados a tres **factores**:
 - **Flexibilidad**: de **almacenamiento**, **procesamiento** y **formatos** de datos. Es para dar respuesta al **cambio empresarial**.

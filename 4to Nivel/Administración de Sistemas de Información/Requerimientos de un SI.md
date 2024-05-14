@@ -1,8 +1,11 @@
 La [[Selección de SW y HW]] requiere identificar ciertas **necesidades** en un orden de **prioridades**.
 
-**Parámetros**:
-- **Cuantitativos**: surgen de mediciones o proyecciones de cantidades y capacidades que determinan una característica o subcaracterística de un **elemento de HW** o **facilidad de SW**. Se pueden **medir**. Ej: tps, capacidad de disco, cpu, ram.
-- **Cualitativos**: similares a los cuantitativos pero subjetivos, por lo que se deben transformar a un valor medible. Se determinan por la experiencia, restricciones del negocio, [[Políticas]], etc. Responden a **criterios profesionales**. Ej: estética de la app, tecnología de disco, dimensiones de pantalla.
+## Parámetros
+
+Existen parámetros cuantitativos y cualitativos que determinan el [[Rendimiento de un SI]] exigido. No se deben confundir con aspectos de funcionalidades.
+
+- **Cuantitativos**: surgen de mediciones o proyecciones de cantidades y capacidades que determinan una característica o subcaracterística de un **elemento de HW** o **facilidad de SW**. Se pueden **medir** y salen de la [[Carga de Trabajo]]. Ej: tps, capacidad de disco, cpu, ram.
+- **Cualitativos**: similares a los cuantitativos pero subjetivos, por lo que se deben transformar a un valor medible. Se determinan por la experiencia, restricciones del negocio, [[Políticas]], etc. Responden a **criterios profesionales**. Son los **requerimientos no funcionales**. Ej: estética de la app, tecnología de disco, dimensiones de pantalla.
 
 ## Priorización
 

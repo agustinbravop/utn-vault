@@ -8,6 +8,8 @@ Consiste en la obtención del software y hardware necesario para el sistema info
 
 ![[Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw]]
 
+Se parte de la **especificación del problema** con las **estrategias y cartera de aplicaciones** definidas gracias a la planificación estratégica de SI/TI. Luego se define el **SW** (si será desarrollo interno o externo) y qué infraestructura de **HW** necesita. Se **evalúan** las **alternativas existentes** con un **puntaje** a partir del cual se define la **selección** para posterior **obtención**.
+
 ## Objetivos
 
 1. Investigar e **identificar las alternativas de obtención** de SW y HW concretos, capaces de servir de soporte a la solución recomendada para el SI necesitado. Tiene en cuenta la **cartera de aplicaciones** así como las [[Políticas]] organizacionales y de SI/TI, opiniones técnicas, investigación del mercado de SW y decisiones del comité de SI/TI.
@@ -51,7 +53,6 @@ D-->|influyen|C
 Siempre se parte desde el **problema empresarial** para **solucionarlo mediante SW y HW**. La jerarquía es: **necesidad empresarial > SW de aplicaciones > SW de sistemas > HW**. No hay que cambiar sin razón, y cuando sí hay que cambiar es mejor hacerlo de manera **simple** y buscando la **flexibilidad**.
 
 Una decisión esencial es determinar el [[Canal de Obtención de SW]] más adecuado. La [[Adquisición de HW]] es más simple ya que siempre se obtiene de una fuente externa.
-
 
 ## Concreción de la Solución Mediante la Fuente Seleccionada
 

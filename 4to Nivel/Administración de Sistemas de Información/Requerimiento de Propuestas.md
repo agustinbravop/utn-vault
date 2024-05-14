@@ -1,4 +1,4 @@
-El **RDP** es un **documento** usado en el [[Proceso de Provisión de SW y HW]] para solicitar **ofertas competitivas** para **adquisiciones especiales**. Nos enfocamos en adquisición de computación (SI = SW + HW + Servicios). El RDP contiene toda la **información necesaria** para que el oferente de **respuestas viables**. Un RDP de calidad **requiere tiempo y costo** pero **reduce imprevistos**, esencial para adquirir un sistema de computación **satisfactorio** y para la **responsabilidad fiduciaria** de la administración. 
+El **RDP** es un **documento** usado en el proceso de [[Provisión de SI y TI]] para solicitar **ofertas competitivas** para **adquisiciones especiales**. Nos enfocamos en adquisición de computación (SI = SW + HW + Servicios). El RDP contiene toda la **información necesaria** para que el oferente de **respuestas viables**. Un RDP de calidad **requiere tiempo y costo** pero **reduce imprevistos**, esencial para adquirir un sistema de computación **satisfactorio** y para la **responsabilidad fiduciaria** de la administración. 
 
 ## Consideraciones Previas
 

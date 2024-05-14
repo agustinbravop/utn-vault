@@ -1,12 +1,14 @@
-Identificar el **canal de suministro** adecuado es una decisión esencial en el [[Proceso de Provisión de SW y HW]]. Responde a la pregunta "¿De **dónde obtener** el HW y SW?" El HW siempre es fuente externa, pero para el SW es más complejo.
+Identificar el **canal de suministro** adecuado es una decisión esencial en el proceso de [[Provisión de SI y TI]]. Responde a la pregunta "¿De **dónde obtener** el HW y SW?" El HW siempre es fuente externa, pero para el SW es más complejo.
 
 ![[Continuo de alternativas de obtención de SW.png]]
 
 La comparativa entre [[Desarrollo Interno de SW]] y comprar [[Paquetes Estándar]] de soluciones es una negociación entre **control y flexibilidad contra certidumbre y plazos breves**.
 
-Existen muchas **técnicas para la determinación** del canal de obtención más adecuado. Vemos una que se basa en una lista de criterios y un análisis de riesgos.
+Si al final de esta etapa se decide la **adquisición de SW**, se debe utilizar un [[Método de Evaluación de Paquetes Estándares]].
 
 ![[Canal de Obtención de SW 2024-05-10 15.26.54.excalidraw]]
+
+Existen muchas **técnicas para la determinación** del canal de obtención más adecuado. Vemos una que se basa en una lista de criterios y un análisis de riesgos.
 
 ## 1. Lista de Criterios
 

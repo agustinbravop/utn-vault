@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Enfoques de Conversión.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 67.27941176470588,
+        "dimension": 60.17156862745098,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -99,7 +99,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 32.720588235294116,
+        "dimension": 39.82843137254902,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "micro",
+                "query": "problema empresarial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Enfoques de Conversión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Enfoques de Conversión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Enfoques de Conversión.md"
               }
             }
           },
@@ -214,35 +214,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e14755beb4ffa5b6",
+  "active": "a6acd81263d33f82",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
-    "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
-    "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
-    "4to Nivel/Administración de Sistemas de Información/Aplicación de SI y TI.md",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
-    "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Acuerdo de Nivel de Servicio.md",
     "4to Nivel/Administración de Sistemas de Información/Rightsizing.md",
     "4to Nivel/Administración de Sistemas de Información/Downsizing.md",
     "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
-    "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación de Paquetes Estándares.md",
+    "4to Nivel/Administración de Sistemas de Información/Paquetes Estándar.md",
     "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
+    "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
+    "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
+    "4to Nivel/Administración de Sistemas de Información/Desarrollo Interno de SW.md",
+    "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas Abiertos.md",
+    "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Aplicación de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Acuerdo de Nivel de Servicio.md",
     "4to Nivel/Administración de Sistemas de Información/Descripción y Análisis de Cargos.md",
     "4to Nivel/Administración de Sistemas de Información/Análisis de Cargos.md",
     "4to Nivel/Administración de Sistemas de Información/Enfoques de Conversión.md",
     "4to Nivel/Administración de Sistemas de Información/Prestaciones de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Proceso de la ARH.md",
-    "4to Nivel/Administración de Sistemas de Información/Untitled.md",
-    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
-    "Acuerdos de Nivel de Servicio.md",
     "desktop.ini",
     "4to Nivel/Administración de Sistemas de Información/attachments/Tabla de evaluación entre alternativas de obtención.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Continuo de alternativas de obtención de SW.png",

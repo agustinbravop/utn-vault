@@ -1,6 +1,6 @@
 Outsourcing es la cesión a una empresa **externa** de la gestión de los SI de nuestra organización. Es una combinación dinámica de actividades de gestión de SI que puede ser desde asistencia técnica hasta desarrollo y mantenimiento de aplicaciones. Es una forma extrema de estructura de SI **centralizada**. El **ahorro de costos** por hacer outsourcing implica **menores cifras de personal**.
 
-En el [[Proceso de Provisión de SW y HW]], el outsourcing o **tercerización** o contratación nos presenta tres clases, dependiendo del **grado de management de SI transferido**:
+En el proceso de [[Provisión de SI y TI]], el outsourcing o **tercerización** o contratación nos presenta tres clases, dependiendo del **grado de management de SI transferido**:
 - **Proveedor de tiempo compartido**: proveen **acceso en línea** a una capacidad de **procesamiento** externa cobrada según el tiempo utilizado. 
 - **Agencias de servicios**: se compra como servicio **una tarea completa** delegada a un tercero especializado. Suele ser un elemento discreto y limitado. Ej: soporte técnico, liquidación de haberes. Pueden usarse como **back-up** de seguridad con una cuota fija.
 - **Management de servicios (FM)**: el tercero contratado **opera los elementos de SI**. Provee idoneidad técnica y de management.

@@ -43,3 +43,4 @@ Existen 4 [[Políticas]] para definir la libertad de las áreas empresariales al
 3. **Lista**: un área dedicada a definir normas confecciona una **lista de paquetes aceptables**. El resto se adhiere a la lista. Esto **centraliza** la toma de decisiones. 
 4. **Normas fijas**: el área de definición de normas define **un solo paquete** a usar en todas las áreas.
 
+Estas políticas son restricciones del proceso de [[Selección de SW y HW]].
