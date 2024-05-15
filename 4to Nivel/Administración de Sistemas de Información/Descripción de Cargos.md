@@ -1,4 +1,4 @@
-Es necesario describir un cargo para **conocer su contenido**. Este es un proceso que consiste en enumerar las tareas o funciones que lo conforman y lo diferencian de los demás cargos de la empresa. Se enumera detalladamente:
+Es necesario describir un [[Cargo]] para **conocer su contenido**. Este es un proceso que consiste en enumerar las tareas o funciones que lo conforman y lo diferencian de los demás cargos de la empresa. Se enumera detalladamente:
 - Las **funciones** o tareas (qué hace)
 - La **periodicidad** de la ejecución (cuándo)
 - Los **métodos** aplicados (cómo)

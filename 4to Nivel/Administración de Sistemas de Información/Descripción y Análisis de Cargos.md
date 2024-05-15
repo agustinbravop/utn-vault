@@ -1,4 +1,4 @@
-Las necesidades básicas de recursos humanos se establecen mediante un esquema de descripción y especificación de cargos. La **descripción del cargo** se refiera a las **tareas**, los deberes y las responsabilidades del cargo. La **especificación** del cargo se ocupa de los **requisitos** que el ocupante deba cumplir. El ocupante del cargo debe tener características compatibles con el [[Sistema de Roles|rol]] que deberá desempeñar. 
+Las necesidades básicas de recursos humanos se establecen mediante un esquema de descripción y especificación de [[Cargo|cargos]]. La **descripción del cargo** se refiera a las **tareas**, los deberes y las responsabilidades del cargo. La **especificación** del cargo se ocupa de los **requisitos** que el ocupante deba cumplir. El ocupante del cargo debe tener características compatibles con el [[Sistema de Roles|rol]] que deberá desempeñar. 
 
 La [[Descripción de Cargos]] y el [[Análisis de Cargos]] permiten conocer la totalidad del cargo.
 
@@ -32,7 +32,6 @@ Los principales objetivos son:
 2. Determinar el **perfil** del ocupante del cargo para la [[Selección de RRHH]].
 3. Suministrar el material necesario para la **capacitación** del personal.
 4. Determinar las escalas salariales para la **administración de salarios**.
-5. Estimular la motivación del personal para la **evaluación del desempeño**.
+5. Estimular la motivación del personal para la [[Evaluación del Desempeño]].
 6. Servir de **guía** para el supervisor y para el empleado en el desempeño de sus funciones.
 7. Suministrar datos a **higiene y seguridad** para minimizar la insalubridad y peligrosidad de ciertos cargos.
-

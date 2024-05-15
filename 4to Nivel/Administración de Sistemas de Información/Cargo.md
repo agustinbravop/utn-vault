@@ -10,4 +10,4 @@ Un cargo es una **unidad** de la organización y es un **conjunto de deberes y r
 
 ## Ocupante del Cargo
 
-Toda persona que trabaja en la organización ocupa un cargo. El **ocupante** de un caro es la persona designada para desempeñarlo. Existen cargos con un solo ocupante y otros con **varios ocupantes**. Esto significa que si un ocupante del cargo abandona la organización, el cargo quedará vacante (sin ocupar) hasta que se consiga un nuevo ocupante.
+Toda persona que trabaja en la organización ocupa un cargo. El **ocupante** de un cargo es la persona designada para desempeñarlo. Existen cargos con un solo ocupante y otros con **varios ocupantes**. Esto significa que si un ocupante del cargo abandona la organización, el cargo quedará vacante (sin ocupar) hasta que se consiga un nuevo ocupante.

@@ -1,4 +1,4 @@
-Los sistemas transaccionales son [[Sistemas de Referencia]] en los cuales los usuarios acceden desde terminales remotos para interactuar con un conjunto determinado de programas. Cada interacción es una **transacción**. La planificación no recibe ayuda humana externa, y cada usuario se siente dueño absoluto del sistema.
+Los sistemas transaccionales son [[Sistemas de Referencia]] en los cuales los usuarios acceden desde terminales remotos para interactuar con un conjunto determinado de programas. Cada interacción es una **transacción**. La planificación no recibe ayuda humana externa, y cada usuario se siente **dueño absoluto** del sistema. Ejemplo: comprar por Mercado Libre, inscribirse a materias en el SYSACAD.
 
 ![[Pasted image 20240506002636.png]]
 

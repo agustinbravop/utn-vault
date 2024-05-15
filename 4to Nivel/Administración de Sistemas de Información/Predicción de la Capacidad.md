@@ -27,8 +27,7 @@ Los **factores** a considerar para seleccionar la técnica de predicción cuanti
 
 1. **Regresión lineal**: estima el valor de una variable dependiente como **función lineal** de otras variables independientes. Apropiada para trabajar con **datos no estacionales** que muestran una tendencia.
 Siendo la línea de regresión: $y = a + b * x$, se puede usar el método de ***cuadrados mínimos***: 
-$$b=\frac{\sum^{n}_{i=1} x_iy_i-n\overline{x}\overline{y}}{\sum_{i=1}^{n}x^2_i-n\overline{x}^2} \ , \
-a = \overline{y}-b\overline{x}$$
+$$b=\frac{\sum^{n}_{i=1} x_iy_i-n\overline{x}\overline{y}}{\sum_{i=1}^{n}x^2_i-n\overline{x}^2} \ , \ a = \overline{y}-b\overline{x}$$
 2. **Medias móviles**: predicción simple cuyo valor predecido es la **media de observaciones previas**. Muy útil para predicciones a **corto plazo** de **datos casi estacionarios**. Siendo $y_i$ el conjunto de observaciones, el valor predicho es:
 $$f_{t+1}= \frac{y_t+y_{t-1}+ \ ... + \ y_{t-n+1}}{n}$$
 3. **Suavizado exponencial**: similar a las medias móviles pero con más peso en las **observaciones recientes** para dar una mejor indicación del futuro cercano. Se asigna un **peso** $\alpha$ con $0 < \alpha < 1$ al valor observado más reciente: 

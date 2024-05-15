@@ -9,5 +9,6 @@ En general el análisis se refiere a cuatro áreas:
 4. **Condiciones de trabajo**: ambiente y riesgos.
 
 ![[Pasted image 20240505141437.png]]
+
 En la administración de salarios, estos factores de especificaciones se vuelven factores de evaluación de cargos con un tratamiento estadístico que permiten medir y evaluar gran cantidad de cargos de manera objetiva.
 

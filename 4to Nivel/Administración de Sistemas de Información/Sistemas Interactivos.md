@@ -1,4 +1,4 @@
-Los sistemas interactivos son un [[Sistemas de Referencia]] en los cuales los usuarios acceden desde terminales remotos con acceso total al sistema operativo. La generación de una nueva petición depende de la recepción de la respuesta a la petición anterior, trabajando de **modo interactivo** en un **ciclo orden-respuesta**.
+Los sistemas interactivos son un [[Sistemas de Referencia]] en los cuales los usuarios acceden desde terminales remotos con acceso total al sistema operativo. La generación de una nueva petición depende de la recepción de la respuesta a la petición anterior, trabajando de **modo interactivo** en un **ciclo orden-respuesta**. Ejemplo: los videojuegos, un ajedrez en línea.
 
 ![[Pasted image 20240506003335.png]]
 
