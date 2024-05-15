@@ -16,9 +16,9 @@ La selección **compara** entre:
 
 Al comparar esas dos variables puede darse que:
 
-- Requisitos > Perfil: el candidato no reúne las condiciones ideales y es **rechazado**.
-- Requisitos = Perfil: el candidato tiene las condiciones ideales y es **aceptado**.
-- Requisitos < Perfil: el candidato está **superdotado** para el cargo.
+- $Requisitos > Perfil$: el candidato no reúne las condiciones ideales y es **rechazado**.
+- $Requisitos = Perfil$: el candidato tiene las condiciones ideales y es **aceptado**.
+- $Requisitos < Perfil$: el candidato está **superdotado** para el cargo.
 
 Esta comparación no necesita ser perfecta, sino que se centra en una **franja de aceptación** con cierta flexibilidad, similar a tener límites de tolerancia en un control de calidad. Es una **función de staff**.
 
@@ -58,11 +58,11 @@ Toda esta información se transforma en una **ficha de especificaciones del carg
 
 Una vez obtenida la información, se elige las técnicas de selección más adecuadas para conocer y escoger a los candidatos apropiados. Deben representar el mejor elemento de predicción para un buen desempeño futuro en el cargo. Al inicio del proceso se encuentran las técnicas más sencillas y económicas, y al final se hallan las más complejas y costosas. Se clasifican en:
 
-- Entrevistas de selección.
-- Pruebas de capacidad.
-- Pruebas psicométricas.
-- Pruebas de personalidad.
-- Técnicas de simulación.
+1. Entrevistas de selección.
+2. Pruebas de capacidad.
+3. Pruebas psicométricas.
+4. Pruebas de personalidad.
+5. Técnicas de simulación.
 
 ## Técnicas de Selección
 
