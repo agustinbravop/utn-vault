@@ -7,6 +7,7 @@ Este subsistema está interesado con el **ambiente organizacional**, dado que la
 1. [[Investigación del Mercado]]
 2. [[Reclutamiento]]
 3. [[Selección de RRHH]]
+4. Admisión
 
 Estos subprocesos forman un proceso de provisión cuyo resultado es la **admisión** **de personas** a la organización. Inicia con la decisión de línea del gerente de hacer una **solicitud de personal** para cubrir un puesto vacante, y termina con la **admisión** del mejor candidato.
 

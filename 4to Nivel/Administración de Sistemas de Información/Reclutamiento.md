@@ -7,9 +7,9 @@ Dependiendo de los [[Mercado de RRHH#Candidatos|candidatos]] considerados, el re
 ## Reclutamiento Interno
 
 Al presentarse la vacante, la empresa intenta llenarla mediante la **reubicación** de sus empleados. El movimiento puede ser:
-- Vertical: empleados ascendidos.
-- Horizontal: empleados trasladados.
-- Diagonal: empleados transferidos con un ascenso.
+- **Vertical**: empleados ascendidos.
+- **Horizontal**: empleados trasladados.
+- **Diagonal**: empleados transferidos con un ascenso.
 
 Hay que considerar que el puesto previo de la persona quedará vacante. Exige una intensa y continua **coordinación e integración** con las demás dependencias de la empresa, basado en datos relacionados con los otros subsistemas.
 
@@ -42,16 +42,16 @@ El contacto de la empresa con el mercado puede ser:
 
 Buscan divulgar hacia las fuentes de reclutamiento la existencia de una oportunidad de trabajo dentro de nuestra organización. Son **medios de comunicación.**
 
-- Consulta de los archivos de candidatos.
-- Candidatos presentados por otros empleados: bajo costo y alto rendimiento.
-- Carteles en la portería de la empresa: es un vehículo estático (el poster no se mueve).
-- Contactos con sindicatos: estrategia de apoyo.
-- Contactos con universidades: publicidad institucional.
-- Conferencias en universidades: charlas para promocionar la empresa.
-- Contactos con otras empresas: cooperación mutua.
-- Viajes de reclutamiento a otras localidades: por si el mercado local ya está explotado.
-- Anuncios en diarios y revistas: eficaz pero cuantitativo.
-- Agencias de reclutamiento: muy costoso.
+1. Consulta de los archivos de candidatos.
+2. Candidatos presentados por otros empleados: bajo costo y alto rendimiento.
+3. Carteles en la portería de la empresa: es un vehículo estático (el poster no se mueve).
+4. Contactos con sindicatos: estrategia de apoyo.
+5. Contactos con universidades: publicidad institucional.
+6. Conferencias en universidades: charlas para promocionar la empresa.
+7. Contactos con otras empresas: cooperación mutua.
+8. Viajes de reclutamiento a otras localidades: por si el mercado local ya está explotado.
+9. Anuncios en diarios y revistas: eficaz pero cuantitativo.
+10. Agencias de reclutamiento: muy costoso.
 
 ### Ventajas
 

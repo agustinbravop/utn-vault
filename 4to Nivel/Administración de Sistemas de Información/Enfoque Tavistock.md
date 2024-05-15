@@ -10,7 +10,7 @@ Las modificaciones realizadas en uno de ellos repercuten en el otro, y son proce
 
 ### Eficiencia
 
-El subsistema técnico es responsable de la **eficiencia potencial**, alcanzable cuando las herramientas, procesos y métodos son ejecutados y utilizados a la perfección. El subsistema social es el que utiliza al técnico y por ende convierte la eficiencia potencial en **eficiencia real**, debido al comportamiento fluctuante de las personas (como cuando tenemos malos días, o no sabemos usar tal herramienta).
+El subsistema técnico es responsable de la **[[Eficiencia y Eficacia|eficiencia]] potencial**, alcanzable cuando las herramientas, procesos y métodos son ejecutados y utilizados a la perfección. El subsistema social es el que utiliza al técnico y por ende convierte la eficiencia potencial en **eficiencia real**, debido al comportamiento fluctuante de las personas (como cuando tenemos malos días, o no sabemos usar tal herramienta).
 
 | Sistema Técnico                               | Sistema Social                          |
 | --------------------------------------------- | --------------------------------------- |
@@ -31,3 +31,5 @@ Teniendo en cuenta la [[Eficiencia y Eficacia]]:
 - El sistema gerencial determina la **eficacia**.
 - El sistema técnico determina la eficiencia potencial.
 - El sistema social determina la eficiencia real (alcanzable).
+
+![[Enfoque Tavistock.png]]
