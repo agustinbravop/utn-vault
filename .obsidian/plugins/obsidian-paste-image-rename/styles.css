@@ -1,8 +1,7 @@
 /* src/styles.css */
 :root {
   --shadow-color: 0deg 0% 0%;
-  --shadow-elevation-medium:
-    0.5px 0.5px 0.7px hsl(var(--shadow-color) / 0.14),
+  --shadow-elevation-medium: 0.5px 0.5px 0.7px hsl(var(--shadow-color) / 0.14),
     1.1px 1.1px 1.5px -0.9px hsl(var(--shadow-color) / 0.12),
     2.4px 2.5px 3.3px -1.8px hsl(var(--shadow-color) / 0.1),
     5.3px 5.6px 7.3px -2.7px hsl(var(--shadow-color) / 0.09),
@@ -27,7 +26,7 @@
 .image-rename-modal .info li > span:nth-of-type(1) {
   display: inline-block;
   width: 6em;
-  margin-right: .5em;
+  margin-right: 0.5em;
 }
 .image-rename-modal .info li > span:nth-of-type(1):after {
   content: ":";
@@ -47,7 +46,7 @@
   padding: 10px;
 }
 .image-rename-modal table {
-  font-size: .9em;
+  font-size: 0.9em;
   line-height: 1.8;
   margin-bottom: 1.5em;
   user-select: text;
@@ -59,7 +58,7 @@
   font-weight: 700;
 }
 .image-rename-modal table tbody td .file-path {
-  font-size: .8em;
+  font-size: 0.8em;
   color: var(--text-faint);
   line-height: 1;
 }

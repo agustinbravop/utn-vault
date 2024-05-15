@@ -1,6 +1,7 @@
 Alumno: Bravo Pérez, Agustín Nicolás.
 Fecha: 08/05/2024.
-## S - ¿Qué Sé? 
+
+## S - ¿Qué Sé?
 
 Entiendo por desarrollo de RRHH en una empresa el lograr que los empleados asciendan de puesto, adquieran más responsabilidades, se vuelvan más eficientes en sus tareas, o se sientan más a gusto en la organización. El desarrollo apunta a que la empresa mejore y que el personal siga creciendo.
 

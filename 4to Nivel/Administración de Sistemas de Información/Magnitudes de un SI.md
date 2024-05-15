@@ -1,6 +1,7 @@
 Las **magnitudes a medir** en la [[Evaluación de las Prestaciones]] de un sistema informático son **dimensiones** del sistema a analizar. Ellas caracterizan el comportamiento del hardware y software o hacen referencia a como el usuario o responsable del sistema ven el comportamiento.
 
 Las tres **dimensiones** son:
+
 1. **Consumo de tiempos**.
 2. **Utilización de recursos o dispositivos**.
 3. **Trabajo realizado por el sistema o componentes del mismo**.
@@ -12,13 +13,15 @@ Cada una de estas magnitudes no es medible, sino que se contabiliza mediante una
 ### Variables Externas
 
 Son perceptibles por el usuario:
- - **Productividad o throughput**: cantidad de trabajo útil ejecutado por unidad de tiempo.
- - **Capacidad**: productividad máxima alcanzable. 
- - **Tiempo de respuesta**: tiempo entre la solicitud de un trabajo y la recepción de su respuesta.
+
+- **Productividad o throughput**: cantidad de trabajo útil ejecutado por unidad de tiempo.
+- **Capacidad**: productividad máxima alcanzable.
+- **Tiempo de respuesta**: tiempo entre la solicitud de un trabajo y la recepción de su respuesta.
 
 ### Variables Internas
 
 Son intrínsecas al sistema, visibles para el responsable del sistema:
+
 - **Factor de utilización de un componente**: porcentaje de tiempo en uso de un [[Componentes de un SI|componente]].
 - **Solapamiento de componentes**: porcentaje de tiempo en uso simultáneo.
 - **Overhead**: porcentaje de tiempo usado en tareas no imputables directamente a un trabajo.
@@ -30,6 +33,7 @@ Son intrínsecas al sistema, visibles para el responsable del sistema:
 ### Variables Relativas al Comportamiento
 
 No están directamente relacionadas con las [[Prestaciones de un SI]], pero sí con el comportamiento:
+
 - **Fiabilidad**: probabilidad de que el sistema trabaje correctamente. **Tiempo medio entre fallos**.
 - **Disponibilidad**: probabilidad de que el SI esté **disponible ahora** y trabajando correctamente.
 - **Seguridad**: probabilidad de que el sistema **funcione sin comprometer** la seguridad.

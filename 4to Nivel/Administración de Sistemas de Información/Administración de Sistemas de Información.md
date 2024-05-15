@@ -3,5 +3,6 @@ Se realiza la **administración** de los [[Sistemas de Información]] y tecnolog
 Dado que los sistemas se proveen de los [[Recursos Organizacionales]] para utilizar recursos **humanos**, de **software** y de **hardware**, la [[Administración de Recursos Humanos]] juega un papel importante y complementario.
 
 Sus subsistemas son:
+
 - [[Provisión de SI y TI]].
 - [[Aplicación de SI y TI]].

@@ -7,35 +7,50 @@ var __getOwnPropNames = Object.getOwnPropertyNames;
 var __getOwnPropSymbols = Object.getOwnPropertySymbols;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
 var __propIsEnum = Object.prototype.propertyIsEnumerable;
-var __defNormalProp = (obj, key, value) => key in obj ? __defProp(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
+var __defNormalProp = (obj, key, value) =>
+  key in obj
+    ? __defProp(obj, key, {
+        enumerable: true,
+        configurable: true,
+        writable: true,
+        value,
+      })
+    : (obj[key] = value);
 var __spreadValues = (a, b) => {
   for (var prop in b || (b = {}))
-    if (__hasOwnProp.call(b, prop))
-      __defNormalProp(a, prop, b[prop]);
+    if (__hasOwnProp.call(b, prop)) __defNormalProp(a, prop, b[prop]);
   if (__getOwnPropSymbols)
     for (var prop of __getOwnPropSymbols(b)) {
-      if (__propIsEnum.call(b, prop))
-        __defNormalProp(a, prop, b[prop]);
+      if (__propIsEnum.call(b, prop)) __defNormalProp(a, prop, b[prop]);
     }
   return a;
 };
 var __spreadProps = (a, b) => __defProps(a, __getOwnPropDescs(b));
-var __commonJS = (cb, mod) => function __require() {
-  return mod || (0, cb[__getOwnPropNames(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
-};
+var __commonJS = (cb, mod) =>
+  function __require() {
+    return (
+      mod ||
+        (0, cb[__getOwnPropNames(cb)[0]])((mod = { exports: {} }).exports, mod),
+      mod.exports
+    );
+  };
 var __export = (target, all) => {
   for (var name in all)
     __defProp(target, name, { get: all[name], enumerable: true });
 };
 var __copyProps = (to, from, except, desc) => {
-  if (from && typeof from === "object" || typeof from === "function") {
+  if ((from && typeof from === "object") || typeof from === "function") {
     for (let key of __getOwnPropNames(from))
       if (!__hasOwnProp.call(to, key) && key !== except)
-        __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
+        __defProp(to, key, {
+          get: () => from[key],
+          enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable,
+        });
   }
   return to;
 };
-var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+var __toCommonJS = (mod) =>
+  __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var __async = (__this, __arguments, generator) => {
   return new Promise((resolve, reject) => {
     var fulfilled = (value) => {
@@ -52,7 +67,10 @@ var __async = (__this, __arguments, generator) => {
         reject(e);
       }
     };
-    var step = (x) => x.done ? resolve(x.value) : Promise.resolve(x.value).then(fulfilled, rejected);
+    var step = (x) =>
+      x.done
+        ? resolve(x.value)
+        : Promise.resolve(x.value).then(fulfilled, rejected);
     step((generator = generator.apply(__this, __arguments)).next());
   });
 };
@@ -66,9 +84,11 @@ var require_package = __commonJS({
       main: "main.js",
       scripts: {
         start: "node esbuild.config.mjs",
-        build: "tsc -noEmit -skipLibCheck && BUILD_ENV=production node esbuild.config.mjs && cp manifest.json build",
+        build:
+          "tsc -noEmit -skipLibCheck && BUILD_ENV=production node esbuild.config.mjs && cp manifest.json build",
         version: "node version-bump.mjs && git add manifest.json versions.json",
-        release: "npm run build && gh release create ${npm_package_version} build/*"
+        release:
+          "npm run build && gh release create ${npm_package_version} build/*",
       },
       keywords: [],
       author: "Reorx",
@@ -81,19 +101,19 @@ var require_package = __commonJS({
         esbuild: "0.16.17",
         obsidian: "^1.1.1",
         tslib: "2.5.0",
-        typescript: "4.9.4"
+        typescript: "4.9.4",
       },
       dependencies: {
-        "cash-dom": "^8.1.2"
-      }
+        "cash-dom": "^8.1.2",
+      },
     };
-  }
+  },
 });
 
 // src/main.ts
 var main_exports = {};
 __export(main_exports, {
-  default: () => PasteImageRenamePlugin
+  default: () => PasteImageRenamePlugin,
 });
 module.exports = __toCommonJS(main_exports);
 var import_obsidian2 = require("obsidian");
@@ -103,8 +123,7 @@ var import_obsidian = require("obsidian");
 
 // src/utils.ts
 var DEBUG = false;
-if (DEBUG)
-  console.log("DEBUG is enabled");
+if (DEBUG) console.log("DEBUG is enabled");
 function debugLog(...args) {
   if (DEBUG) {
     console.log(new Date().toISOString().slice(11, 23), ...args);
@@ -113,7 +132,7 @@ function debugLog(...args) {
 function createElementTree(rootEl, opts) {
   const result = {
     el: rootEl.createEl(opts.tag, opts),
-    children: []
+    children: [],
   };
   const children = opts.children || [];
   for (const child of children) {
@@ -131,13 +150,10 @@ var path = {
     const newParts = [];
     for (let i = 0, l = parts.length; i < l; i++) {
       const part = parts[i];
-      if (!part || part === ".")
-        continue;
-      else
-        newParts.push(part);
+      if (!part || part === ".") continue;
+      else newParts.push(part);
     }
-    if (parts[0] === "")
-      newParts.unshift("");
+    if (parts[0] === "") newParts.unshift("");
     return newParts.join("/");
   },
   // returns the last part of a path, e.g. 'foo.jpg'
@@ -147,28 +163,29 @@ var path = {
   },
   // return extension without dot, e.g. 'jpg'
   extension(fullpath) {
-    const positions = [...fullpath.matchAll(new RegExp("\\.", "gi"))].map((a) => a.index);
+    const positions = [...fullpath.matchAll(new RegExp("\\.", "gi"))].map(
+      (a) => a.index,
+    );
     return fullpath.slice(positions[positions.length - 1] + 1);
-  }
+  },
 };
-var filenameNotAllowedChars = /[^\p{L}0-9~`!@$&*()\-_=+{};'",<.>? ]/ug;
+var filenameNotAllowedChars = /[^\p{L}0-9~`!@$&*()\-_=+{};'",<.>? ]/gu;
 var sanitizer = {
   filename(s) {
     return s.replace(filenameNotAllowedChars, "").trim();
   },
   delimiter(s) {
     s = this.filename(s);
-    if (!s)
-      s = "-";
+    if (!s) s = "-";
     return s;
-  }
+  },
 };
 function escapeRegExp(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 function lockInputMethodComposition(el) {
   const state = {
-    lock: false
+    lock: false,
   };
   el.addEventListener("compositionstart", () => {
     state.lock = true;
@@ -190,59 +207,82 @@ var ImageBatchRenameModal = class extends import_obsidian.Modal {
       namePattern: "",
       extPattern: "",
       nameReplace: "",
-      renameTasks: []
+      renameTasks: [],
     };
   }
   onOpen() {
     this.containerEl.addClass("image-rename-modal");
     const { contentEl, titleEl } = this;
     titleEl.setText("Batch rename embeded files");
-    const namePatternSetting = new import_obsidian.Setting(contentEl).setName("Name pattern").setDesc("Please input the name pattern to match files (regex)").addText((text) => text.setValue(this.state.namePattern).onChange(
-      (value) => __async(this, null, function* () {
-        this.state.namePattern = value;
-      })
-    ));
+    const namePatternSetting = new import_obsidian.Setting(contentEl)
+      .setName("Name pattern")
+      .setDesc("Please input the name pattern to match files (regex)")
+      .addText((text) =>
+        text.setValue(this.state.namePattern).onChange((value) =>
+          __async(this, null, function* () {
+            this.state.namePattern = value;
+          }),
+        ),
+      );
     const npInputEl = namePatternSetting.controlEl.children[0];
     npInputEl.focus();
     const npInputState = lockInputMethodComposition(npInputEl);
-    npInputEl.addEventListener("keydown", (e) => __async(this, null, function* () {
-      if (e.key === "Enter" && !npInputState.lock) {
-        e.preventDefault();
-        if (!this.state.namePattern) {
-          errorEl.innerText = 'Error: "Name pattern" could not be empty';
-          errorEl.style.display = "block";
-          return;
+    npInputEl.addEventListener("keydown", (e) =>
+      __async(this, null, function* () {
+        if (e.key === "Enter" && !npInputState.lock) {
+          e.preventDefault();
+          if (!this.state.namePattern) {
+            errorEl.innerText = 'Error: "Name pattern" could not be empty';
+            errorEl.style.display = "block";
+            return;
+          }
+          this.matchImageNames(tbodyEl);
         }
-        this.matchImageNames(tbodyEl);
-      }
-    }));
-    const extPatternSetting = new import_obsidian.Setting(contentEl).setName("Extension pattern").setDesc("Please input the extension pattern to match files (regex)").addText((text) => text.setValue(this.state.extPattern).onChange(
-      (value) => __async(this, null, function* () {
-        this.state.extPattern = value;
-      })
-    ));
+      }),
+    );
+    const extPatternSetting = new import_obsidian.Setting(contentEl)
+      .setName("Extension pattern")
+      .setDesc("Please input the extension pattern to match files (regex)")
+      .addText((text) =>
+        text.setValue(this.state.extPattern).onChange((value) =>
+          __async(this, null, function* () {
+            this.state.extPattern = value;
+          }),
+        ),
+      );
     const extInputEl = extPatternSetting.controlEl.children[0];
-    extInputEl.addEventListener("keydown", (e) => __async(this, null, function* () {
-      if (e.key === "Enter") {
-        e.preventDefault();
-        this.matchImageNames(tbodyEl);
-      }
-    }));
-    const nameReplaceSetting = new import_obsidian.Setting(contentEl).setName("Name replace").setDesc("Please input the string to replace the matched name (use $1, $2 for regex groups)").addText((text) => text.setValue(this.state.nameReplace).onChange(
-      (value) => __async(this, null, function* () {
-        this.state.nameReplace = value;
-      })
-    ));
+    extInputEl.addEventListener("keydown", (e) =>
+      __async(this, null, function* () {
+        if (e.key === "Enter") {
+          e.preventDefault();
+          this.matchImageNames(tbodyEl);
+        }
+      }),
+    );
+    const nameReplaceSetting = new import_obsidian.Setting(contentEl)
+      .setName("Name replace")
+      .setDesc(
+        "Please input the string to replace the matched name (use $1, $2 for regex groups)",
+      )
+      .addText((text) =>
+        text.setValue(this.state.nameReplace).onChange((value) =>
+          __async(this, null, function* () {
+            this.state.nameReplace = value;
+          }),
+        ),
+      );
     const nrInputEl = nameReplaceSetting.controlEl.children[0];
     const nrInputState = lockInputMethodComposition(nrInputEl);
-    nrInputEl.addEventListener("keydown", (e) => __async(this, null, function* () {
-      if (e.key === "Enter" && !nrInputState.lock) {
-        e.preventDefault();
-        this.matchImageNames(tbodyEl);
-      }
-    }));
+    nrInputEl.addEventListener("keydown", (e) =>
+      __async(this, null, function* () {
+        if (e.key === "Enter" && !nrInputState.lock) {
+          e.preventDefault();
+          this.matchImageNames(tbodyEl);
+        }
+      }),
+    );
     const matchedContainer = contentEl.createDiv({
-      cls: "matched-container"
+      cls: "matched-container",
     });
     const tableET = createElementTree(matchedContainer, {
       tag: "table",
@@ -255,45 +295,50 @@ var ImageBatchRenameModal = class extends import_obsidian.Modal {
               children: [
                 {
                   tag: "td",
-                  text: "Original path"
+                  text: "Original path",
                 },
                 {
                   tag: "td",
-                  text: "Renamed Name"
-                }
-              ]
-            }
-          ]
+                  text: "Renamed Name",
+                },
+              ],
+            },
+          ],
         },
         {
-          tag: "tbody"
-        }
-      ]
+          tag: "tbody",
+        },
+      ],
     });
     const tbodyEl = tableET.children[1].el;
     const errorEl = contentEl.createDiv({
       cls: "error",
       attr: {
-        style: "display: none;"
-      }
+        style: "display: none;",
+      },
     });
-    new import_obsidian.Setting(contentEl).addButton((button) => {
-      button.setButtonText("Rename all").setClass("mod-cta").onClick(() => {
-        new ConfirmModal(
-          this.app,
-          "Confirm rename all",
-          `Are you sure? This will rename all the ${this.state.renameTasks.length} images matched the pattern.`,
-          () => {
-            this.renameAll();
-            this.close();
-          }
-        ).open();
+    new import_obsidian.Setting(contentEl)
+      .addButton((button) => {
+        button
+          .setButtonText("Rename all")
+          .setClass("mod-cta")
+          .onClick(() => {
+            new ConfirmModal(
+              this.app,
+              "Confirm rename all",
+              `Are you sure? This will rename all the ${this.state.renameTasks.length} images matched the pattern.`,
+              () => {
+                this.renameAll();
+                this.close();
+              },
+            ).open();
+          });
+      })
+      .addButton((button) => {
+        button.setButtonText("Cancel").onClick(() => {
+          this.close();
+        });
       });
-    }).addButton((button) => {
-      button.setButtonText("Cancel").onClick(() => {
-        this.close();
-      });
-    });
   }
   onClose() {
     const { contentEl } = this;
@@ -313,26 +358,26 @@ var ImageBatchRenameModal = class extends import_obsidian.Modal {
     const renameTasks = [];
     tbodyEl.empty();
     const fileCache = this.app.metadataCache.getFileCache(this.activeFile);
-    if (!fileCache || !fileCache.embeds)
-      return;
+    if (!fileCache || !fileCache.embeds) return;
     const namePatternRegex = new RegExp(state.namePattern, "g");
     const extPatternRegex = new RegExp(state.extPattern);
     fileCache.embeds.forEach((embed) => {
-      const file = this.app.metadataCache.getFirstLinkpathDest(embed.link, this.activeFile.path);
+      const file = this.app.metadataCache.getFirstLinkpathDest(
+        embed.link,
+        this.activeFile.path,
+      );
       if (!file) {
         console.warn("file not found", embed.link);
         return;
       }
       if (state.extPattern) {
         const m0 = extPatternRegex.exec(file.extension);
-        if (!m0)
-          return;
+        if (!m0) return;
       }
       const stem = file.basename;
       namePatternRegex.lastIndex = 0;
       const m1 = namePatternRegex.exec(stem);
-      if (!m1)
-        return;
+      if (!m1) return;
       let renamedName = file.name;
       if (state.nameReplace) {
         namePatternRegex.lastIndex = 0;
@@ -341,7 +386,7 @@ var ImageBatchRenameModal = class extends import_obsidian.Modal {
       }
       renameTasks.push({
         file,
-        name: renamedName
+        name: renamedName,
       });
       createElementTree(tbodyEl, {
         tag: "tr",
@@ -351,34 +396,34 @@ var ImageBatchRenameModal = class extends import_obsidian.Modal {
             children: [
               {
                 tag: "span",
-                text: file.name
+                text: file.name,
               },
               {
                 tag: "div",
                 text: file.path,
                 attr: {
-                  class: "file-path"
-                }
-              }
-            ]
+                  class: "file-path",
+                },
+              },
+            ],
           },
           {
             tag: "td",
             children: [
               {
                 tag: "span",
-                text: renamedName
+                text: renamedName,
               },
               {
                 tag: "div",
                 text: path.join(file.parent.path, renamedName),
                 attr: {
-                  class: "file-path"
-                }
-              }
-            ]
-          }
-        ]
+                  class: "file-path",
+                },
+              },
+            ],
+          },
+        ],
       });
     });
     debugLog("new renameTasks", renameTasks);
@@ -396,18 +441,23 @@ var ConfirmModal = class extends import_obsidian.Modal {
     const { contentEl, titleEl } = this;
     titleEl.setText(this.title);
     contentEl.createEl("p", {
-      text: this.message
+      text: this.message,
     });
-    new import_obsidian.Setting(contentEl).addButton((button) => {
-      button.setButtonText("Yes").setClass("mod-warning").onClick(() => {
-        this.onConfirm();
-        this.close();
+    new import_obsidian.Setting(contentEl)
+      .addButton((button) => {
+        button
+          .setButtonText("Yes")
+          .setClass("mod-warning")
+          .onClick(() => {
+            this.onConfirm();
+            this.close();
+          });
+      })
+      .addButton((button) => {
+        button.setButtonText("No").onClick(() => {
+          this.close();
+        });
       });
-    }).addButton((button) => {
-      button.setButtonText("No").onClick(() => {
-        this.close();
-      });
-    });
   }
 };
 
@@ -416,16 +466,13 @@ var dateTmplRegex = /{{DATE:([^}]+)}}/gm;
 var frontmatterTmplRegex = /{{frontmatter:([^}]+)}}/gm;
 var replaceDateVar = (s, date) => {
   const m = dateTmplRegex.exec(s);
-  if (!m)
-    return s;
+  if (!m) return s;
   return s.replace(m[0], date.format(m[1]));
 };
 var replaceFrontmatterVar = (s, frontmatter) => {
-  if (!frontmatter)
-    return s;
+  if (!frontmatter) return s;
   const m = frontmatterTmplRegex.exec(s);
-  if (!m)
-    return s;
+  if (!m) return s;
   return s.replace(m[0], frontmatter[m[1]] || "");
 };
 var renderTemplate = (tmpl, data, frontmatter) => {
@@ -438,7 +485,11 @@ var renderTemplate = (tmpl, data, frontmatter) => {
   while ((newtext = replaceFrontmatterVar(text, frontmatter)) != text) {
     text = newtext;
   }
-  text = text.replace(/{{imageNameKey}}/gm, data.imageNameKey).replace(/{{fileName}}/gm, data.fileName).replace(/{{dirName}}/gm, data.dirName).replace(/{{firstHeading}}/gm, data.firstHeading);
+  text = text
+    .replace(/{{imageNameKey}}/gm, data.imageNameKey)
+    .replace(/{{fileName}}/gm, data.fileName)
+    .replace(/{{dirName}}/gm, data.dirName)
+    .replace(/{{firstHeading}}/gm, data.firstHeading);
   return text;
 };
 
@@ -451,7 +502,7 @@ var DEFAULT_SETTINGS = {
   autoRename: false,
   handleAllAttachments: false,
   excludeExtensionPattern: "",
-  disableRenameNotice: false
+  disableRenameNotice: false,
 };
 var PASTED_IMAGE_PREFIX = "Pasted image ";
 var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
@@ -462,17 +513,16 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
   onload() {
     return __async(this, null, function* () {
       const pkg = require_package();
-      console.log(`Plugin loading: ${pkg.name} ${pkg.version} BUILD_ENV=${"production"}`);
+      console.log(
+        `Plugin loading: ${pkg.name} ${pkg.version} BUILD_ENV=${"production"}`,
+      );
       yield this.loadSettings();
       this.registerEvent(
         this.app.vault.on("create", (file) => {
-          if (!(file instanceof import_obsidian2.TFile))
-            return;
+          if (!(file instanceof import_obsidian2.TFile)) return;
           const timeGapMs = new Date().getTime() - file.stat.ctime;
-          if (timeGapMs > 1e3)
-            return;
-          if (isMarkdownFile(file))
-            return;
+          if (timeGapMs > 1e3) return;
+          if (isMarkdownFile(file)) return;
           if (isPastedImage(file)) {
             debugLog("pasted image created", file);
             this.startRenameProcess(file, this.settings.autoRename);
@@ -486,7 +536,7 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
               this.startRenameProcess(file, this.settings.autoRename);
             }
           }
-        })
+        }),
       );
       const startBatchRenameProcess = () => {
         this.openBatchRenameModal();
@@ -494,10 +544,14 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
       this.addCommand({
         id: "batch-rename-embeded-files",
         name: "Batch rename embeded files (in the current file)",
-        callback: startBatchRenameProcess
+        callback: startBatchRenameProcess,
       });
       if (DEBUG) {
-        this.addRibbonIcon("wand-glyph", "Batch rename embeded files", startBatchRenameProcess);
+        this.addRibbonIcon(
+          "wand-glyph",
+          "Batch rename embeded files",
+          startBatchRenameProcess,
+        );
       }
       const batchRenameAllImages = () => {
         this.batchRenameAllImages();
@@ -505,10 +559,14 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
       this.addCommand({
         id: "batch-rename-all-images",
         name: "Batch rename all images instantly (in the current file)",
-        callback: batchRenameAllImages
+        callback: batchRenameAllImages,
       });
       if (DEBUG) {
-        this.addRibbonIcon("wand-glyph", "Batch rename all images instantly (in the current file)", batchRenameAllImages);
+        this.addRibbonIcon(
+          "wand-glyph",
+          "Batch rename all images instantly (in the current file)",
+          batchRenameAllImages,
+        );
       }
       this.addSettingTab(new SettingTab(this.app, this));
     });
@@ -520,7 +578,10 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
         new import_obsidian2.Notice("Error: No active file found.");
         return;
       }
-      const { stem, newName, isMeaningful } = this.generateNewName(file, activeFile);
+      const { stem, newName, isMeaningful } = this.generateNewName(
+        file,
+        activeFile,
+      );
       debugLog("generated newName:", newName, isMeaningful);
       if (!isMeaningful || !autoRename) {
         this.openRenameModal(file, isMeaningful ? stem : "", activeFile.path);
@@ -531,10 +592,16 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
   }
   renameFile(file, inputNewName, sourcePath, replaceCurrentLine) {
     return __async(this, null, function* () {
-      const { name: newName } = yield this.deduplicateNewName(inputNewName, file);
+      const { name: newName } = yield this.deduplicateNewName(
+        inputNewName,
+        file,
+      );
       debugLog("deduplicated newName:", newName);
       const originName = file.name;
-      const linkText = this.app.fileManager.generateMarkdownLink(file, sourcePath);
+      const linkText = this.app.fileManager.generateMarkdownLink(
+        file,
+        sourcePath,
+      );
       const newPath = path.join(file.parent.path, newName);
       try {
         yield this.app.fileManager.renameFile(file, newPath);
@@ -545,11 +612,16 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
       if (!replaceCurrentLine) {
         return;
       }
-      const newLinkText = this.app.fileManager.generateMarkdownLink(file, sourcePath);
+      const newLinkText = this.app.fileManager.generateMarkdownLink(
+        file,
+        sourcePath,
+      );
       debugLog("replace text", linkText, newLinkText);
       const editor = this.getActiveEditor();
       if (!editor) {
-        new import_obsidian2.Notice(`Failed to rename ${newName}: no active editor`);
+        new import_obsidian2.Notice(
+          `Failed to rename ${newName}: no active editor`,
+        );
         return;
       }
       const cursor = editor.getCursor();
@@ -561,9 +633,9 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
           {
             from: __spreadProps(__spreadValues({}, cursor), { ch: 0 }),
             to: __spreadProps(__spreadValues({}, cursor), { ch: line.length }),
-            text: replacedLine
-          }
-        ]
+            text: replacedLine,
+          },
+        ],
       });
       if (!this.settings.disableRenameNotice) {
         new import_obsidian2.Notice(`Renamed ${originName} to ${newName}`);
@@ -581,7 +653,7 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
       },
       () => {
         this.modals.splice(this.modals.indexOf(modal), 1);
-      }
+      },
     );
     this.modals.push(modal);
     modal.open();
@@ -592,12 +664,13 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
     const modal = new ImageBatchRenameModal(
       this.app,
       activeFile,
-      (file, name) => __async(this, null, function* () {
-        yield this.renameFile(file, name, activeFile.path);
-      }),
+      (file, name) =>
+        __async(this, null, function* () {
+          yield this.renameFile(file, name, activeFile.path);
+        }),
       () => {
         this.modals.splice(this.modals.indexOf(modal), 1);
-      }
+      },
     );
     this.modals.push(modal);
     modal.open();
@@ -606,22 +679,28 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
     return __async(this, null, function* () {
       const activeFile = this.getActiveFile();
       const fileCache = this.app.metadataCache.getFileCache(activeFile);
-      if (!fileCache || !fileCache.embeds)
-        return;
+      if (!fileCache || !fileCache.embeds) return;
       const extPatternRegex = /jpe?g|png|gif|tiff|webp/i;
       for (const embed of fileCache.embeds) {
-        const file = this.app.metadataCache.getFirstLinkpathDest(embed.link, activeFile.path);
+        const file = this.app.metadataCache.getFirstLinkpathDest(
+          embed.link,
+          activeFile.path,
+        );
         if (!file) {
           console.warn("file not found", embed.link);
           return;
         }
         const m0 = extPatternRegex.exec(file.extension);
-        if (!m0)
-          return;
-        const { newName, isMeaningful } = this.generateNewName(file, activeFile);
+        if (!m0) return;
+        const { newName, isMeaningful } = this.generateNewName(
+          file,
+          activeFile,
+        );
         debugLog("generated newName:", newName, isMeaningful);
         if (!isMeaningful) {
-          new import_obsidian2.Notice("Failed to batch rename images: the generated name is not meaningful");
+          new import_obsidian2.Notice(
+            "Failed to batch rename images: the generated name is not meaningful",
+          );
           break;
         }
         yield this.renameFile(file, newName, activeFile.path, false);
@@ -637,10 +716,14 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
     if (fileCache) {
       debugLog("frontmatter", fileCache.frontmatter);
       frontmatter = fileCache.frontmatter;
-      imageNameKey = (frontmatter == null ? void 0 : frontmatter.imageNameKey) || "";
+      imageNameKey =
+        (frontmatter == null ? void 0 : frontmatter.imageNameKey) || "";
       firstHeading = getFirstHeading(fileCache.headings);
     } else {
-      console.warn("could not get file cache from active file", activeFile.name);
+      console.warn(
+        "could not get file cache from active file",
+        activeFile.name,
+      );
     }
     const stem = renderTemplate(
       this.settings.imageNamePattern,
@@ -648,15 +731,18 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
         imageNameKey,
         fileName: activeFile.basename,
         dirName: activeFile.parent.name,
-        firstHeading
+        firstHeading,
       },
-      frontmatter
+      frontmatter,
     );
-    const meaninglessRegex = new RegExp(`[${this.settings.dupNumberDelimiter}\\s]`, "gm");
+    const meaninglessRegex = new RegExp(
+      `[${this.settings.dupNumberDelimiter}\\s]`,
+      "gm",
+    );
     return {
       stem,
       newName: stem + "." + file.extension,
-      isMeaningful: stem.replace(meaninglessRegex, "") !== ""
+      isMeaningful: stem.replace(meaninglessRegex, "") !== "",
     };
   }
   // newName: foo.ext
@@ -665,15 +751,19 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
       const dir = file.parent.path;
       const listed = yield this.app.vault.adapter.list(dir);
       debugLog("sibling files", listed);
-      const newNameExt = path.extension(newName), newNameStem = newName.slice(0, newName.length - newNameExt.length - 1), newNameStemEscaped = escapeRegExp(newNameStem), delimiter = this.settings.dupNumberDelimiter, delimiterEscaped = escapeRegExp(delimiter);
+      const newNameExt = path.extension(newName),
+        newNameStem = newName.slice(0, newName.length - newNameExt.length - 1),
+        newNameStemEscaped = escapeRegExp(newNameStem),
+        delimiter = this.settings.dupNumberDelimiter,
+        delimiterEscaped = escapeRegExp(delimiter);
       let dupNameRegex;
       if (this.settings.dupNumberAtStart) {
         dupNameRegex = new RegExp(
-          `^(?<number>\\d+)${delimiterEscaped}(?<name>${newNameStemEscaped})\\.${newNameExt}$`
+          `^(?<number>\\d+)${delimiterEscaped}(?<name>${newNameStemEscaped})\\.${newNameExt}$`,
         );
       } else {
         dupNameRegex = new RegExp(
-          `^(?<name>${newNameStemEscaped})${delimiterEscaped}(?<number>\\d+)\\.${newNameExt}$`
+          `^(?<name>${newNameStemEscaped})${delimiterEscaped}(?<number>\\d+)\\.${newNameExt}$`,
         );
       }
       debugLog("dupNameRegex", dupNameRegex);
@@ -686,12 +776,12 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
           continue;
         }
         const m = dupNameRegex.exec(sibling);
-        if (!m)
-          continue;
+        if (!m) continue;
         dupNameNumbers.push(parseInt(m.groups.number));
       }
       if (isNewNameExist || this.settings.dupNumberAlways) {
-        const newNumber = dupNameNumbers.length > 0 ? Math.max(...dupNameNumbers) + 1 : 1;
+        const newNumber =
+          dupNameNumbers.length > 0 ? Math.max(...dupNameNumbers) + 1 : 1;
         if (this.settings.dupNumberAtStart) {
           newName = `${newNumber}${delimiter}${newNameStem}.${newNameExt}`;
         } else {
@@ -701,18 +791,22 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
       return {
         name: newName,
         stem: newName.slice(0, newName.length - newNameExt.length - 1),
-        extension: newNameExt
+        extension: newNameExt,
       };
     });
   }
   getActiveFile() {
-    const view = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
+    const view = this.app.workspace.getActiveViewOfType(
+      import_obsidian2.MarkdownView,
+    );
     const file = view == null ? void 0 : view.file;
     debugLog("active file", file == null ? void 0 : file.path);
     return file;
   }
   getActiveEditor() {
-    const view = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
+    const view = this.app.workspace.getActiveViewOfType(
+      import_obsidian2.MarkdownView,
+    );
     return view == null ? void 0 : view.editor;
   }
   onunload() {
@@ -720,13 +814,16 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
   }
   testExcludeExtension(file) {
     const pattern = this.settings.excludeExtensionPattern;
-    if (!pattern)
-      return false;
+    if (!pattern) return false;
     return new RegExp(pattern).test(file.extension);
   }
   loadSettings() {
     return __async(this, null, function* () {
-      this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
+      this.settings = Object.assign(
+        {},
+        DEFAULT_SETTINGS,
+        yield this.loadData(),
+      );
     });
   }
   saveSettings() {
@@ -774,17 +871,18 @@ var ImageRenameModal = class extends import_obsidian2.Modal {
     const { contentEl, titleEl } = this;
     titleEl.setText("Rename image");
     const imageContainer = contentEl.createDiv({
-      cls: "image-container"
+      cls: "image-container",
     });
     imageContainer.createEl("img", {
       attr: {
-        src: this.app.vault.getResourcePath(this.src)
-      }
+        src: this.app.vault.getResourcePath(this.src),
+      },
     });
     let stem = this.stem;
     const ext = this.src.extension;
     const getNewName = (stem2) => stem2 + "." + ext;
-    const getNewPath = (stem2) => path.join(this.src.parent.path, getNewName(stem2));
+    const getNewPath = (stem2) =>
+      path.join(this.src.parent.path, getNewName(stem2));
     const infoET = createElementTree(contentEl, {
       tag: "ul",
       cls: "info",
@@ -794,70 +892,80 @@ var ImageRenameModal = class extends import_obsidian2.Modal {
           children: [
             {
               tag: "span",
-              text: "Origin path"
+              text: "Origin path",
             },
             {
               tag: "span",
-              text: this.src.path
-            }
-          ]
+              text: this.src.path,
+            },
+          ],
         },
         {
           tag: "li",
           children: [
             {
               tag: "span",
-              text: "New path"
+              text: "New path",
             },
             {
               tag: "span",
-              text: getNewPath(stem)
-            }
-          ]
-        }
-      ]
+              text: getNewPath(stem),
+            },
+          ],
+        },
+      ],
     });
-    const doRename = () => __async(this, null, function* () {
-      debugLog("doRename", `stem=${stem}`);
-      this.renameFunc(getNewName(stem));
-    });
-    const nameSetting = new import_obsidian2.Setting(contentEl).setName("New name").setDesc("Please input the new name for the image (without extension)").addText((text) => text.setValue(stem).onChange(
-      (value) => __async(this, null, function* () {
-        stem = sanitizer.filename(value);
-        infoET.children[1].children[1].el.innerText = getNewPath(stem);
-      })
-    ));
+    const doRename = () =>
+      __async(this, null, function* () {
+        debugLog("doRename", `stem=${stem}`);
+        this.renameFunc(getNewName(stem));
+      });
+    const nameSetting = new import_obsidian2.Setting(contentEl)
+      .setName("New name")
+      .setDesc("Please input the new name for the image (without extension)")
+      .addText((text) =>
+        text.setValue(stem).onChange((value) =>
+          __async(this, null, function* () {
+            stem = sanitizer.filename(value);
+            infoET.children[1].children[1].el.innerText = getNewPath(stem);
+          }),
+        ),
+      );
     const nameInputEl = nameSetting.controlEl.children[0];
     nameInputEl.focus();
     const nameInputState = lockInputMethodComposition(nameInputEl);
-    nameInputEl.addEventListener("keydown", (e) => __async(this, null, function* () {
-      if (e.key === "Enter" && !nameInputState.lock) {
-        e.preventDefault();
-        if (!stem) {
-          errorEl.innerText = 'Error: "New name" could not be empty';
-          errorEl.style.display = "block";
-          return;
+    nameInputEl.addEventListener("keydown", (e) =>
+      __async(this, null, function* () {
+        if (e.key === "Enter" && !nameInputState.lock) {
+          e.preventDefault();
+          if (!stem) {
+            errorEl.innerText = 'Error: "New name" could not be empty';
+            errorEl.style.display = "block";
+            return;
+          }
+          doRename();
+          this.close();
         }
-        doRename();
-        this.close();
-      }
-    }));
+      }),
+    );
     const errorEl = contentEl.createDiv({
       cls: "error",
       attr: {
-        style: "display: none;"
-      }
+        style: "display: none;",
+      },
     });
-    new import_obsidian2.Setting(contentEl).addButton((button) => {
-      button.setButtonText("Rename").onClick(() => {
-        doRename();
-        this.close();
+    new import_obsidian2.Setting(contentEl)
+      .addButton((button) => {
+        button.setButtonText("Rename").onClick(() => {
+          doRename();
+          this.close();
+        });
+      })
+      .addButton((button) => {
+        button.setButtonText("Cancel").onClick(() => {
+          this.close();
+        });
       });
-    }).addButton((button) => {
-      button.setButtonText("Cancel").onClick(() => {
-        this.close();
-      });
-    });
   }
   onClose() {
     const { contentEl } = this;
@@ -886,57 +994,130 @@ var SettingTab = class extends import_obsidian2.PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    new import_obsidian2.Setting(containerEl).setName("Image name pattern").setDesc(imageNamePatternDesc).setClass("long-description-setting-item").addText((text) => text.setPlaceholder("{{imageNameKey}}").setValue(this.plugin.settings.imageNamePattern).onChange(
-      (value) => __async(this, null, function* () {
-        this.plugin.settings.imageNamePattern = value;
-        yield this.plugin.saveSettings();
-      })
-    ));
-    new import_obsidian2.Setting(containerEl).setName("Duplicate number at start (or end)").setDesc(`If enabled, duplicate number will be added at the start as prefix for the image name, otherwise it will be added at the end as suffix for the image name.`).addToggle((toggle) => toggle.setValue(this.plugin.settings.dupNumberAtStart).onChange(
-      (value) => __async(this, null, function* () {
-        this.plugin.settings.dupNumberAtStart = value;
-        yield this.plugin.saveSettings();
-      })
-    ));
-    new import_obsidian2.Setting(containerEl).setName("Duplicate number delimiter").setDesc(`The delimiter to generate the number prefix/suffix for duplicated names. For example, if the value is "-", the suffix will be like "-1", "-2", "-3", and the prefix will be like "1-", "2-", "3-". Only characters that are valid in file names are allowed.`).addText((text) => text.setValue(this.plugin.settings.dupNumberDelimiter).onChange(
-      (value) => __async(this, null, function* () {
-        this.plugin.settings.dupNumberDelimiter = sanitizer.delimiter(value);
-        yield this.plugin.saveSettings();
-      })
-    ));
-    new import_obsidian2.Setting(containerEl).setName("Always add duplicate number").setDesc(`If enabled, duplicate number will always be added to the image name. Otherwise, it will only be added when the name is duplicated.`).addToggle((toggle) => toggle.setValue(this.plugin.settings.dupNumberAlways).onChange(
-      (value) => __async(this, null, function* () {
-        this.plugin.settings.dupNumberAlways = value;
-        yield this.plugin.saveSettings();
-      })
-    ));
-    new import_obsidian2.Setting(containerEl).setName("Auto rename").setDesc(`By default, the rename modal will always be shown to confirm before renaming, if this option is set, the image will be auto renamed after pasting.`).addToggle((toggle) => toggle.setValue(this.plugin.settings.autoRename).onChange(
-      (value) => __async(this, null, function* () {
-        this.plugin.settings.autoRename = value;
-        yield this.plugin.saveSettings();
-      })
-    ));
-    new import_obsidian2.Setting(containerEl).setName("Handle all attachments").setDesc(`By default, the plugin only handles images that starts with "Pasted image " in name,
+    new import_obsidian2.Setting(containerEl)
+      .setName("Image name pattern")
+      .setDesc(imageNamePatternDesc)
+      .setClass("long-description-setting-item")
+      .addText((text) =>
+        text
+          .setPlaceholder("{{imageNameKey}}")
+          .setValue(this.plugin.settings.imageNamePattern)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.imageNamePattern = value;
+              yield this.plugin.saveSettings();
+            }),
+          ),
+      );
+    new import_obsidian2.Setting(containerEl)
+      .setName("Duplicate number at start (or end)")
+      .setDesc(
+        `If enabled, duplicate number will be added at the start as prefix for the image name, otherwise it will be added at the end as suffix for the image name.`,
+      )
+      .addToggle((toggle) =>
+        toggle
+          .setValue(this.plugin.settings.dupNumberAtStart)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.dupNumberAtStart = value;
+              yield this.plugin.saveSettings();
+            }),
+          ),
+      );
+    new import_obsidian2.Setting(containerEl)
+      .setName("Duplicate number delimiter")
+      .setDesc(
+        `The delimiter to generate the number prefix/suffix for duplicated names. For example, if the value is "-", the suffix will be like "-1", "-2", "-3", and the prefix will be like "1-", "2-", "3-". Only characters that are valid in file names are allowed.`,
+      )
+      .addText((text) =>
+        text
+          .setValue(this.plugin.settings.dupNumberDelimiter)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.dupNumberDelimiter =
+                sanitizer.delimiter(value);
+              yield this.plugin.saveSettings();
+            }),
+          ),
+      );
+    new import_obsidian2.Setting(containerEl)
+      .setName("Always add duplicate number")
+      .setDesc(
+        `If enabled, duplicate number will always be added to the image name. Otherwise, it will only be added when the name is duplicated.`,
+      )
+      .addToggle((toggle) =>
+        toggle
+          .setValue(this.plugin.settings.dupNumberAlways)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.dupNumberAlways = value;
+              yield this.plugin.saveSettings();
+            }),
+          ),
+      );
+    new import_obsidian2.Setting(containerEl)
+      .setName("Auto rename")
+      .setDesc(
+        `By default, the rename modal will always be shown to confirm before renaming, if this option is set, the image will be auto renamed after pasting.`,
+      )
+      .addToggle((toggle) =>
+        toggle.setValue(this.plugin.settings.autoRename).onChange((value) =>
+          __async(this, null, function* () {
+            this.plugin.settings.autoRename = value;
+            yield this.plugin.saveSettings();
+          }),
+        ),
+      );
+    new import_obsidian2.Setting(containerEl)
+      .setName("Handle all attachments")
+      .setDesc(
+        `By default, the plugin only handles images that starts with "Pasted image " in name,
 			which is the prefix Obsidian uses to create images from pasted content.
-			If this option is set, the plugin will handle all attachments that are created in the vault.`).addToggle((toggle) => toggle.setValue(this.plugin.settings.handleAllAttachments).onChange(
-      (value) => __async(this, null, function* () {
-        this.plugin.settings.handleAllAttachments = value;
-        yield this.plugin.saveSettings();
-      })
-    ));
-    new import_obsidian2.Setting(containerEl).setName("Exclude extension pattern").setDesc(`This option is only useful when "Handle all attachments" is enabled.
-			Write a Regex pattern to exclude certain extensions from being handled. Only the first line will be used.`).setClass("single-line-textarea").addTextArea((text) => text.setPlaceholder("docx?|xlsx?|pptx?|zip|rar").setValue(this.plugin.settings.excludeExtensionPattern).onChange(
-      (value) => __async(this, null, function* () {
-        this.plugin.settings.excludeExtensionPattern = value;
-        yield this.plugin.saveSettings();
-      })
-    ));
-    new import_obsidian2.Setting(containerEl).setName("Disable rename notice").setDesc(`Turn off this option if you don't want to see the notice when renaming images.
-			Note that Obsidian may display a notice when a link has changed, this option cannot disable that.`).addToggle((toggle) => toggle.setValue(this.plugin.settings.disableRenameNotice).onChange(
-      (value) => __async(this, null, function* () {
-        this.plugin.settings.disableRenameNotice = value;
-        yield this.plugin.saveSettings();
-      })
-    ));
+			If this option is set, the plugin will handle all attachments that are created in the vault.`,
+      )
+      .addToggle((toggle) =>
+        toggle
+          .setValue(this.plugin.settings.handleAllAttachments)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.handleAllAttachments = value;
+              yield this.plugin.saveSettings();
+            }),
+          ),
+      );
+    new import_obsidian2.Setting(containerEl)
+      .setName("Exclude extension pattern")
+      .setDesc(
+        `This option is only useful when "Handle all attachments" is enabled.
+			Write a Regex pattern to exclude certain extensions from being handled. Only the first line will be used.`,
+      )
+      .setClass("single-line-textarea")
+      .addTextArea((text) =>
+        text
+          .setPlaceholder("docx?|xlsx?|pptx?|zip|rar")
+          .setValue(this.plugin.settings.excludeExtensionPattern)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.excludeExtensionPattern = value;
+              yield this.plugin.saveSettings();
+            }),
+          ),
+      );
+    new import_obsidian2.Setting(containerEl)
+      .setName("Disable rename notice")
+      .setDesc(
+        `Turn off this option if you don't want to see the notice when renaming images.
+			Note that Obsidian may display a notice when a link has changed, this option cannot disable that.`,
+      )
+      .addToggle((toggle) =>
+        toggle
+          .setValue(this.plugin.settings.disableRenameNotice)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.disableRenameNotice = value;
+              yield this.plugin.saveSettings();
+            }),
+          ),
+      );
   }
 };

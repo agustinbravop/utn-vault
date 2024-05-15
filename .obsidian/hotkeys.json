@@ -1,17 +1,13 @@
 {
   "editor:context-menu": [
     {
-      "modifiers": [
-        "Alt"
-      ],
+      "modifiers": ["Alt"],
       "key": "Z"
     }
   ],
   "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
     {
-      "modifiers": [
-        "Alt"
-      ],
+      "modifiers": ["Alt"],
       "key": "E"
     }
   ],

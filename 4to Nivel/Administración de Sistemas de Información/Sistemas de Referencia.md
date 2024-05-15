@@ -1,4 +1,5 @@
 Se usa de referencia tres tipos de sistemas o **tipos de funcionamiento** de un SI:
+
 - [[Sistemas Batch]] o por lotes.
 - [[Sistemas Transaccionales]].
 - [[Sistemas Interactivos]] o por demanda.

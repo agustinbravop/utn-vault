@@ -1,4 +1,5 @@
 El concepto de **mercado** presenta tres aspectos importantes:
+
 1. **Dimensión espacial:** tiene un área física, geográfica o territorial.
 2. **Dimensión temporal:** todo mercado depende de la época.
 3. **Dimensión de oferta y demanda:** da la facilidad o dificultad de obtener el producto o servicio.

@@ -1,7 +1,8 @@
 Un **enfoque de conversión** es cómo controlar el cambio del sistema antiguo (existente) al sistema nuevo. A **menor riesgo, mayor costo**. Se debe determinar antes de hacer la adquisición, al **inicio del proceso** de [[Selección de SW y HW]], por que influirá en las opciones disponibles. Hay 4:
-- **Abrupto**: cambio instantáneo, barato y fácil pero propenso a errores y requiere *downtime*.
+
+- **Abrupto**: cambio instantáneo, barato y fácil pero propenso a errores y requiere _downtime_.
 - **En fases**: reduce el riesgo de problemas.
-- **Paralelo**: asegura la disponibilidad del sistema. No requiere *downtime*.
+- **Paralelo**: asegura la disponibilidad del sistema. No requiere _downtime_.
 - **Piloto**: es una planificación compleja para probar el sistema nuevo. Costoso y lento.
 
 ![[Enfoques de conversión.png]]

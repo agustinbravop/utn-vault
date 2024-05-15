@@ -13,6 +13,7 @@ Existen muchas **técnicas para la determinación** del canal de obtención más
 ## 1. Lista de Criterios
 
 Son criterios sujetos a la situación particular de la organización. Ni exclusivos ni excluyentes. No son criterios del SW, sino que evalúan aspectos del canal de obtención de SW que tendrán impacto empresarial.
+
 - **Costo**: justificar el gasto desde la relación costo/beneficio.
 - **Disponibilidad**: tiempo hasta la puesta en operación y uso del SW.
 - **Especificidad**: satisface necesidades específicas a nuestra organización.
@@ -24,6 +25,7 @@ Son criterios sujetos a la situación particular de la organización. Ni exclusi
 ## 2. Análisis de Alternativas de Obtención
 
 Una vez determinados todos los canales posibles:
+
 1. Determinar un **subconjunto de criterios** que serán la base de la evaluación.
 2. Asignar **pesos** a cada criterio según su **importancia relativa**. (se distribuyen un 100%)
 3. Asignar **puntajes** a cada combinación alternativa-criterio según una **escala** definida.
@@ -36,9 +38,9 @@ La alternativa con mayor puntaje será el canal de obtención de SW que mejor sa
 ## 3. Análisis de las Probabilidades de Éxito y Riesgo
 
 Otra comparación que sirve para descartar opciones que tienen un riesgo con **alta probabilidad** de suceder y un **alto impacto estratégico** asociado:
+
 1. Determinar los **factores de riesgo**. (ej: escaso mantenimiento, sobreutilización de recursos)
 2. Asignar a cada riesgo una **probabilidad de ocurrencia** (**Alta, Media, Baja**) y un puntaje similar por el **impacto** que tendrá en la organización (**Alto, Medio, Bajo**).
 3. Obtener los totales.
 4. Seleccionar la alternativa de menor impacto o riesgo.
 5. **Descartar las opciones con alta probabilidad y alto impacto en un factor de riesgo.**
-

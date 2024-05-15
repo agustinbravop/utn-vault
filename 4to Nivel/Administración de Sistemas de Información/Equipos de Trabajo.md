@@ -1,4 +1,5 @@
 Los **equipos de trabajo** son **autogestionados y multifuncionales**. Funcionan como procesos participativos de toma de decisiones y con tareas compartidas. Son similares a un [[Equipo Ágil]]. Los equipos de alto desempeño se destacan por su:
+
 - **Participación**: todos se comprometen con el empoderamiento y autoayuda.
 - **Responsabilidad**: todos se sienten responsables de los resultados.
 - **Claridad**: todos comprenden y apoyan los objetivos del equipo.
@@ -9,6 +10,7 @@ Los **equipos de trabajo** son **autogestionados y multifuncionales**. Funcionan
 - **Rapidez**: actúan pronto ante problemas y oportunidades.
 
 Es necesario que en el equipo haya:
+
 - **Apoyo interno**: de los miembros.
 - **Apoyo externo**: de la organización.
 - **Confianza**: entre las personas.

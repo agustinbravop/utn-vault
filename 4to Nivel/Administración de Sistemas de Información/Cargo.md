@@ -1,4 +1,5 @@
 Las personas trabajan en la organización a través del cargo que ocupan en ella. Se define:
+
 - **Tarea**: actividad individual que ejecuta el ocupante. Suele ser **simple, rutinaria, material**.
 - **Atribución**: actividad individual que ejecuta el ocupante. Suele ser **sofisticada, intelectual**.
 - **Función**: conjunto de tareas o atribuciones ejecutados de manera **sistemática y reiterada**.

@@ -13,13 +13,14 @@ Se parte de la **especificación del problema** con las **estrategias y cartera 
 ## Objetivos
 
 1. Investigar e **identificar las alternativas de obtención** de SW y HW concretos, capaces de servir de soporte a la solución recomendada para el SI necesitado. Tiene en cuenta la **cartera de aplicaciones** así como las [[Políticas]] organizacionales y de SI/TI, opiniones técnicas, investigación del mercado de SW y decisiones del comité de SI/TI.
-2. Desarrollar, **evaluar y clasificar** las **fuentes de obtención** posibles. Identificar el [[Canal de Obtención de SW]] adecuado teniendo en cuenta las restricciones de la organización. 
+2. Desarrollar, **evaluar y clasificar** las **fuentes de obtención** posibles. Identificar el [[Canal de Obtención de SW]] adecuado teniendo en cuenta las restricciones de la organización.
 3. Determinar y **recomendar** las **mejores propuestas** de los posibles proveedores. Se tienen en cuenta **parámetros cuantitativos y cualitativos** usando.
 4. Establecer los **requisitos de integración** de los desarrollos y/o productos elegidos. Cómo y de qué forma se van a integrar a sistemas existentes. Elegir un [[Enfoques de Conversión]] para **migrar** de un sistema anterior al nuevo.
 
 ## Responsabilidades de Management
 
 Nos permiten sacar el mejor provecho de las inversiones en SI:
+
 - La **gerencia superior** debe **reconocer la ganancia potencial** de toda adquisición. Debe tomar un **rol activo o de apoyo**, y es fundamental en la primera adquisición de un elemento de SI.
 - Examinar **relación** entre la empresa y las **estrategias de SI** para verificar que el **método de selección** esté acorde a **términos** de largo plazo y **requerimientos** a corto plazo.
 - Evaluar la **implicancia** de todas las aplicaciones en sentido empresarial, técnico y económico.
@@ -28,14 +29,16 @@ Las **estrategias de SI se concretan al definir políticas** que guíen la toma 
 ![[Provisión de SI y TI 2024-05-09 12.41.59.excalidraw]]
 
 La **administración de recursos** está interesada en la [[Provisión de SI y TI]] por cuestiones como:
+
 - Impacto de los paquetes de SW en el proceso de selección y en la empresa.
-- Conceptos de *downsizing* y *sistemas abiertos* que forman el paralelo tecnológico del tema empresarial y de la computación controlada por usuario.
-- Provisión externa de los elementos de un SI (*outsourcing*).
-$$ElementosDeUnSI = SW + HW + Servicios$$
+- Conceptos de _downsizing_ y _sistemas abiertos_ que forman el paralelo tecnológico del tema empresarial y de la computación controlada por usuario.
+- Provisión externa de los elementos de un SI (_outsourcing_).
+  $$ElementosDeUnSI = SW + HW + Servicios$$
 
 Dada la complejidad de los SI actuales, no existe un organismo encargado de la [[Selección de SW y HW]] (sector tradicionalmente conocido como "Procesamiento de Datos"), sino que hay una **red de grupos** con relación lógica.
 
 ![[Provisión de SI y TI 2024-05-09 12.52.00.excalidraw]]
+
 ```mermaid
 flowchart LR;
 
@@ -57,10 +60,11 @@ Una decisión esencial es determinar el [[Canal de Obtención de SW]] más adecu
 ## Concreción de la Solución Mediante la Fuente Seleccionada
 
 Hay tres posibilidades para adquirir elementos de un SI:
-- **Adquisición**: **menores costos** y **rápida disponibilidad** con una calidad conocida y comparable. Requiere adecuar las funcionalidades de los [[Paquetes Estándar]] a los [[Requerimientos de un SI]] de la organización. Es la única posibilidad para la [[Adquisición de HW]]. 
+
+- **Adquisición**: **menores costos** y **rápida disponibilidad** con una calidad conocida y comparable. Requiere adecuar las funcionalidades de los [[Paquetes Estándar]] a los [[Requerimientos de un SI]] de la organización. Es la única posibilidad para la [[Adquisición de HW]].
 - **Desarrollo**: el [[Desarrollo Interno de SW]] es apropiado cuando la necesidad empresarial consiste en obtener **ventaja competitiva**. Requiere un **control efectivo** del proyecto de desarrollo, y el mayor costo estará en el proceso de codificación. Ofrece mejor **mantenimiento y especificidad**.
 - **Outsourcing**: el [[Outsourcing]] **transfiere a terceros** la responsabilidad de proporcionar un servicio adaptado a nuestras necesidades.
 
-La salida de esta etapa es la **solución definitiva**. 
+La salida de esta etapa es la **solución definitiva**.
 
 Suponiendo una adquisición fuera de la empresa, se debe elegir una [[Alternativas para el Pago de las Adquisiciones]].

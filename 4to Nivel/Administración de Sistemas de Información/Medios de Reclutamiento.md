@@ -1,4 +1,5 @@
 Un empleador tiene a su disposición variedad de medios de [[Reclutamiento]] disponibles para encontrar candidatos de un puesto vacante en la empresa. Ante candidatos iguales, una política recomendable es el **reclutamiento interno por sobre externo**. Estos medios se complementan entre sí. Ellos son:
+
 1. **Medios tradicionales**: la **publicidad** (para [[Reclutamiento#Reclutamiento Externo|reclutamiento externo]]) o las **promociones** (para [[Reclutamiento#Reclutamiento Interno|reclutamiento interno]]) son un punto de partida convencional.
 2. **Software de reclutamiento y base de datos**: sirve cuando hay multiplicidad de posiciones para **acelerar** el proceso entero, teniendo fácil acceso a un listado de todos los aspirantes.
 3. **Reclutamiento vía email**: muy **popular** pero se debe evitar emails duplicados y descartar direcciones de correo inválidas.

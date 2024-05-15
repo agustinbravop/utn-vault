@@ -10,6 +10,7 @@ El **desempeño** del rol es la persona actuando acorde a su rol asignado. Este 
 ![[Sistema de Roles 2024-05-05 00.01.09.excalidraw]]
 
 Las discrepancias son:
+
 1. **Discrepancia de la expectativa:** el subordinado entendió mal, o el jefe no explicó bien.
 2. **Discrepancia con el rol:** el subordinado no siempre ejecuta de manera efectiva.
 3. **Retroalimentación de la discrepancia:** el jefe no siempre evalúa adecuadamente.
@@ -18,17 +19,18 @@ Las discrepancias son:
 ## Caracterización de los Roles de Equipo
 
 Los roles de equipo se refieren a la forma de contribuir a la tarea y de relacionarnos con otras personas del equipo de trabajo. Son espontáneos, intuitivos y emocionales, influenciados por factores de personalidad, comportamientos aprendidos, experiencia y conocimientos. Se han definido y caracterizado 9 roles de equipo agrupados en tres categorías:
+
 - Roles orientados a las ideas:
-	- **Cerebro**: principal fuente de ideas e innovación. Resuelve problemas difíciles.
-	- **Especialista**: conocimientos en temas muy específicos sobre el servicio o producto.
-	- **Monitor-Evaluador**: juzga con precisión todas las opciones evaluando su viabilidad.
+  - **Cerebro**: principal fuente de ideas e innovación. Resuelve problemas difíciles.
+  - **Especialista**: conocimientos en temas muy específicos sobre el servicio o producto.
+  - **Monitor-Evaluador**: juzga con precisión todas las opciones evaluando su viabilidad.
 - Roles orientados a la acción:
-	- **Impulsor**: estimula al equipo hacia la acción y encuentra vías para salvar obstáculos.
-	- **Implementador**: transforma las ideas en acciones prácticas.
-	- **Finalizador**: busca errores y omisiones. Seguimiento continuo de las tareas. Perfeccionista.
+  - **Impulsor**: estimula al equipo hacia la acción y encuentra vías para salvar obstáculos.
+  - **Implementador**: transforma las ideas en acciones prácticas.
+  - **Finalizador**: busca errores y omisiones. Seguimiento continuo de las tareas. Perfeccionista.
 - Roles orientados a las personas:
-	- **Cohesionador**: escucha y construye para evitar la fricción. Fomenta la unidad y armonía.
-	- **Investigador de Recursos**: explora recursos y oportunidades y desarrolla contactos. 
-	- **Coordinador**: clarifica objetivos para tomar decisiones. Organiza y controla actividades.
+  - **Cohesionador**: escucha y construye para evitar la fricción. Fomenta la unidad y armonía.
+  - **Investigador de Recursos**: explora recursos y oportunidades y desarrolla contactos.
+  - **Coordinador**: clarifica objetivos para tomar decisiones. Organiza y controla actividades.
 
 ![[Pasted image 20240505205924.png]]

@@ -1,9 +1,9 @@
 ## Enunciado
 
-Una fábrica produce cinco clases de tornillos de precisión en tres grupos de máquinas automáticas. Cada producto puede hacerse en cualquiera de los tres grupos de máquinas, pero el tiempo requerido en cada grupo es distinto, como se muestra en el siguiente cuadro (en hs.) 
+Una fábrica produce cinco clases de tornillos de precisión en tres grupos de máquinas automáticas. Cada producto puede hacerse en cualquiera de los tres grupos de máquinas, pero el tiempo requerido en cada grupo es distinto, como se muestra en el siguiente cuadro (en hs.)
 
-Productos 1 2 3 4 5 
-Grupo de máq. 1 0,4 0,2 0,4 0,2 0,4 
+Productos 1 2 3 4 5
+Grupo de máq. 1 0,4 0,2 0,4 0,2 0,4
 Grupo de máq. 2 0,8 0,6 0,6 0,2 0,6
 Grupo de máq. 3 1,0 1,0 0,8 0,6 1,0
 

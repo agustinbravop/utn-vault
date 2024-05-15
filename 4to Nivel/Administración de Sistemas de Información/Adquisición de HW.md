@@ -7,6 +7,7 @@ En el proceso de [[Provisión de SI y TI]], para analizar la adquisición de har
 ### Índole de la Plataforma
 
 Para decidir el tipo de plataforma adecuada, se tienen en cuenta estas cuestiones:
+
 1. **Aspectos financieros**.
 2. Grado de adecuación entre la **estructura empresarial y ubicación**.
 3. Gestión de la **seguridad**.
@@ -16,7 +17,8 @@ Para decidir el tipo de plataforma adecuada, se tienen en cuenta estas cuestione
 7. **Estabilidad del procesamiento de la información**. Este es el ritmo de implementación de las migraciones, relacionado con los [[Enfoques de Conversión]].
 
 Las tres índoles o tamaños son:
-1. **Mainframes**: computadoras centrales de gran capacidad y escalado vertical. Vienen de fabricantes o terceros especializados. Son para sistemas centralizados. 
+
+1. **Mainframes**: computadoras centrales de gran capacidad y escalado vertical. Vienen de fabricantes o terceros especializados. Son para sistemas centralizados.
 2. **Minicomputadoras**: son similares a los mainframes pero con muchas **más opciones** de provisión. Vienen de fabricantes o revendedores de valor agregado (VARs).
 3. **Microcomputadoras**: procesamiento distribuido y escalado horizontal. Hay multitud de opciones, por lo que la decisión es más compleja. Para arquitecturas cliente-servidor.
 
@@ -34,7 +36,7 @@ Las tres índoles o tamaños son:
 - **Comercios minoristas**: para **uso cotidiano** o pequeñas empresas. Poco asesoramiento.
 - **Supermercados de computadoras**: locales en grandes centros urbanos que ofrecen un **mayor rango de opciones** que los comercios minoristas, junto a un **servicio personal**.
 - **Compra por correo**: sirve para proveer cobertura a gran escala. Es una selección de bajo costo.
-- **Ensamble de componentes por parte del personal**: algunas empresas compran los componentes individuales (motherboards, monitores, etc) que luego lo ensambla el personal interno. Sirve para configuraciones muy específicas o especiales. 
+- **Ensamble de componentes por parte del personal**: algunas empresas compran los componentes individuales (motherboards, monitores, etc) que luego lo ensambla el personal interno. Sirve para configuraciones muy específicas o especiales.
 
 Además, todo tipo de HW se puede adquirir en el **mercado de segunda mano**. Lo importante es comparar los servicios adicionales como la integración de componentes, análisis de necesidades y asesoramiento de compra.
 

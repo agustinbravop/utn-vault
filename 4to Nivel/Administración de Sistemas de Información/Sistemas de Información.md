@@ -1,4 +1,5 @@
 Entendemos por **SI**:
+
 - El **conjunto formal de procesos** que,
 - operando **sobre una colección de datos estructurada** de acuerdo con las **necesidades** de una empresa,
 - **recopila, elabora y distribuye** (parte de) la información necesaria para la **operación** de dicha empresa y para las actividades de dirección y control correspondientes,
@@ -10,6 +11,7 @@ Los SI no solo satisfacen necesidades de información para los procesos producti
 ## Recursos de un SI
 
 Los recursos de un sistema de información son los medios de los que se vale para lograr sus objetivos, y los mecanismos para administrarlos. Se clasifican en tres:
+
 - **Hardware.**
 - **Software.**
 - **Recursos Humanos.**

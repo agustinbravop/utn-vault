@@ -11,11 +11,12 @@ En muchas organizaciones esta investigación interna se sustituye por un proceso
 
 ## Investigación Externa
 
-Se investiga el [[Mercado de RRHH]] para segmentarlo y diferenciarlo, lo que facilita su análisis y estudio. 
+Se investiga el [[Mercado de RRHH]] para segmentarlo y diferenciarlo, lo que facilita su análisis y estudio.
 
 La **segmentación del mercado** consiste en descomponerlo en clases de candidatos con características definidas, para estudiar cada segmento de manera específica. No se puede abarcar todo el mercado de RRHH, sino que se debe tener una dirección precisa.
 
 El problema fundamental de la organización es detectar y **localizar las fuentes de suministro** de recursos humanos que le interesen. El objetivo de la investigación externa es ubicar correctamente estas **fuentes de reclutamiento**, lo que le permite al siguiente proceso de [[Reclutamiento]]:
+
 - Elevar su rendimiento (mayor cantidad de candidatos).
 - Disminuir sus tiempos (agilización).
 - Reducir sus costos operacionales (ahorro en aplicación de técnicas)

@@ -5,6 +5,7 @@ Los sistemas interactivos son un [[Sistemas de Referencia]] en los cuales los us
 ## Índices Característicos
 
 En estos sistemas juega un papel el tiempo que el usuario usa para pensar su próxima petición:
+
 - **Número de** **usuarios conectados**: simultáneamente.
 - **Tiempo de reflexión** de los usuarios: tiempo entre peticiones de un usuario.
 - **Tiempo de respuesta**: de la petición. $TiempoDeRespuesta = Reacción +Ejecución+Retorno$.

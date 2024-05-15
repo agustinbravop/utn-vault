@@ -1,4 +1,4 @@
-La rotación de recursos humanos o *turnover* define la **fluctuación de personal** entre una organización y su ambiente. La entrada y salida de recursos mantienen entre sí **mecanismos de control (feedback) homeostáticos** capaces de autorregularse para garantizar un equilibrio.
+La rotación de recursos humanos o _turnover_ define la **fluctuación de personal** entre una organización y su ambiente. La entrada y salida de recursos mantienen entre sí **mecanismos de control (feedback) homeostáticos** capaces de autorregularse para garantizar un equilibrio.
 
 ![[Mercados Laboral y de RRHH 2024-05-04 15.08.45.excalidraw]]
 

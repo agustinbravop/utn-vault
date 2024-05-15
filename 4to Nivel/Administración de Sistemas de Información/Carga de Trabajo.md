@@ -1,4 +1,4 @@
-Se denomina **carga** (*workload*) a todas las **demandas** que realizan los **usuarios** a los servicios de un sistema informático durante un **intervalo de tiempo**. Esto implica un esfuerzo de las [[Prestaciones de un SI]] (los recursos de HW y SO).
+Se denomina **carga** (_workload_) a todas las **demandas** que realizan los **usuarios** a los servicios de un sistema informático durante un **intervalo de tiempo**. Esto implica un esfuerzo de las [[Prestaciones de un SI]] (los recursos de HW y SO).
 
 Los usuarios o las necesidades de servicio exigen que un sistema informático deba cumplir una serie de requisitos o **especificaciones de ejecución** para considerar que su funcionamiento es aceptable.
 
@@ -8,11 +8,12 @@ En el subsistema de [[Aplicación de SI y TI]] es clave hacer una adecuada [[Car
 
 ## Carga de Prueba
 
-Para la [[Evaluación de las Prestaciones]] se utiliza una **carga de prueba** que puede ser *real* o *sintética*.
+Para la [[Evaluación de las Prestaciones]] se utiliza una **carga de prueba** que puede ser _real_ o _sintética_.
 
 La **carga real** de un sistema informático **cambia continuamente** y las mediciones no pueden repetirse (excepto al trabajar en un entorno controlado de carga). Por esto para probar el sistema se suele usar un **modelo de carga** o **carga sintética** construida por un conjunto de programas que reproduce la carga real de manera compacta y repetible.
 
 Son **cualidades deseables** de la carga de prueba:
+
 - **Reproductibilidad**: poder probar varias veces.
 - **Compacidad**: que reduzca el tiempo de ejecución respecto de la carga real.
 - **Compatibilidad**: consistente con el uso de la carga.

@@ -1,6 +1,7 @@
 Forma parte del proceso de [[Provisión de RRHH]]. Su tarea básica es escoger de los candidatos obtenidos por el [[Reclutamiento]] aquellos que tengan mayores probabilidades de adaptarse al cargo ofrecido.
 
 El objetivo es **escoger** de entre los candidatos reclutados los más adecuados para ocupar los cargos existentes en la empresa teniendo en cuenta la eficiencia y el desempeño del personal. Busca solucionar dos problemas fundamentales:
+
 - **Adecuación** del hombre al cargo.
 - **Eficiencia** del hombre en el cargo.
 
@@ -9,10 +10,12 @@ La **selección de personal** funciona como un proceso secuencial que los candid
 ## Como Proceso de Comparación
 
 La selección **compara** entre:
+
 - Los **requisitos del cargo**, suministrados por el análisis y descripción del cargo, y
 - El **perfil de los candidatos** presentados, obtenido mediante técnicas de selección.
 
 Al comparar esas dos variables puede darse que:
+
 - Requisitos > Perfil: el candidato no reúne las condiciones ideales y es **rechazado**.
 - Requisitos = Perfil: el candidato tiene las condiciones ideales y es **aceptado**.
 - Requisitos < Perfil: el candidato está **superdotado** para el cargo.
@@ -38,9 +41,11 @@ El modelo de clasificación es superior en el **aprovechamiento de candidatos**,
 ## Bases para la Selección de Personas
 
 Dado que es un sistema de comparación y decisión, se debe apoyar en un estándar y criterios para que tenga validez. Se debe basar en las características del cargo vacante.
+
 ### Recolección de Información Acerca del Cargo
 
 Se puede suplir de cinco maneras:
+
 1. **Descripción y análisis del cargo:** inventario de los **aspectos intrínsecos** (contenido) y **extrínsecos** (requisitos) del cargo.
 2. **Aplicación de la técnica de los incidentes críticos:** los jefes directos anotan todos los hechos y comportamientos de los ocupantes del cargo que han producid un mejor o peor desempeño. Identifica las **características deseables** y las **no deseables**, pero es **subjetivo**.
 3. Requerimiento de personal: se verifican los requerimientos con el jefe inmediato.
@@ -52,6 +57,7 @@ Toda esta información se transforma en una **ficha de especificaciones del carg
 ### Elección de las Técnicas de Selección
 
 Una vez obtenida la información, se elige las técnicas de selección más adecuadas para conocer y escoger a los candidatos apropiados. Deben representar el mejor elemento de predicción para un buen desempeño futuro en el cargo. Al inicio del proceso se encuentran las técnicas más sencillas y económicas, y al final se hallan las más complejas y costosas. Se clasifican en:
+
 - Entrevistas de selección.
 - Pruebas de capacidad.
 - Pruebas psicométricas.
@@ -59,27 +65,26 @@ Una vez obtenida la información, se elige las técnicas de selección más adec
 - Técnicas de simulación.
 
 ## Técnicas de Selección
+
 ### Entrevistas de selección
 
-Es una técnica subjetiva e imprecisa pero la más utilizada. Si se piensa al candidato como una caja negra próxima a ser abierta, la entrevista es un sistema de comunicación.
-	- Estandarizada por completo: estructurada, cerrada, planeada, organizada, fácil de realizar.
-	- Preguntas estandarizadas: elaboradas con anticipación, admiten respuestas abiertas.
-	- Respuestas estandarizadas: no especifica preguntas, sino el tipo de respuesta deseada.
-	- No dirigida: son totalmente libres y dependen por completo del entrevistador.
+Es una técnica subjetiva e imprecisa pero la más utilizada. Si se piensa al candidato como una caja negra próxima a ser abierta, la entrevista es un sistema de comunicación. - Estandarizada por completo: estructurada, cerrada, planeada, organizada, fácil de realizar. - Preguntas estandarizadas: elaboradas con anticipación, admiten respuestas abiertas. - Respuestas estandarizadas: no especifica preguntas, sino el tipo de respuesta deseada. - No dirigida: son totalmente libres y dependen por completo del entrevistador.
 
 ### Pruebas de Conocimiento o de Capacidad
 
 Son instrumentos para **evaluar con objetividad las habilidades y conocimientos** adquiridos mediante estudio, práctica o **entrenamiento**. Hay varias maneras de clasificarlas:
+
 - Según la manera de aplicarlas: orales, escritas o de realización.
 - Según el área de conocimientos abarcado: generales o específicas.
 - Según la manera de elaborarlas: tradicionales (discursivo o expositivo), objetivas (exámenes fáciles de corregir) o mixtas.
 
 ### Pruebas Psicométricas
 
-Se aplican a las personas para apreciar su desarrollo mental, aptitudes, habilidades, conocimientos, etc. Son una **medida estandarizada del comportamiento** de las personas para compararlas con patrones estadísticos. 
+Se aplican a las personas para apreciar su desarrollo mental, aptitudes, habilidades, conocimientos, etc. Son una **medida estandarizada del comportamiento** de las personas para compararlas con patrones estadísticos.
 
 Hacen énfasis en las **aptitudes individuales**, las cuales con innatas a las personas y son una habilidad latente o potencial que puede ser desarrollada mediante el entrenamiento.
 $$Capacidad = Aptitud + Entrenamiento$$
+
 ### Pruebas de Personalidad
 
 Analizan los **rasgos de la personalidad**, características marcadas que distinguen a una persona de las demás. Los rasgos son determinados por el **carácter** (adquiridos) o por el **temperamento** (heredados).
@@ -88,4 +93,4 @@ Pueden ser genéricas o específicas. Exigen la participación de un **psicólog
 
 ### Técnicas de Simulación
 
-Son técnicas de **dinámica de grupo** con un método verbal o de ejecución. Se representa una escena para que el candidato haga *role-playing* para conocer los **roles** que más caracterizan su comportamiento (de manera aislada o en interacción con otros).
+Son técnicas de **dinámica de grupo** con un método verbal o de ejecución. Se representa una escena para que el candidato haga _role-playing_ para conocer los **roles** que más caracterizan su comportamiento (de manera aislada o en interacción con otros).

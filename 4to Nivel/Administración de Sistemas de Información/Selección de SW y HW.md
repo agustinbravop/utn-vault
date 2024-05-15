@@ -1,4 +1,5 @@
 La **compra de servicios de SI** implica un **proceso de selección** que involucra cierta técnica de puntaje y calificación. Los principios básicos son:
+
 1. Seleccionar los **criterios** para hacer la elección.
 2. Asignar a cada criterio un valor de **importancia**.
 3. Dar un **puntaje** a las **alternativas de adquisición** según su satisfacción de cada criterio.
@@ -10,6 +11,7 @@ La lista de criterios define el conjunto de [[Requerimientos de un SI]] que debe
 ![[Selección de SW y HW 2024-05-10 11.34.14.excalidraw]]
 
 Las **etapas** del proceso en la adquisición de forma externa son:
+
 1. **Definición de la solución** y elaboración del [[Requerimiento de Propuestas]].
 2. Convocatoria a los **oferentes**.
 3. **Selección de la oferta**: usando la herramienta [[Método de Evaluación Manual]].
