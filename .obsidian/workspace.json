@@ -11,11 +11,14 @@
             "id": "7994b2b0c5df3c20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Selección de RRHH.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "viewState": {
+                  "x": 1338.8088035212547,
+                  "y": 644.4248662837813,
+                  "zoom": -0.1111110432942708
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Selección de RRHH.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Selección de RRHH.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Selección de RRHH.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
               }
             }
           },
@@ -165,13 +168,13 @@
   },
   "active": "7994b2b0c5df3c20",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Selección de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
     "4to Nivel/Administración de Sistemas de Información/Mercado de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
     "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
     "New Text Document.txt",
-    "4to Nivel/Administración de Sistemas de Información/Selección de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md",
     "4to Nivel/Administración de Sistemas de Información/Planeación de Personal.md",
     "4to Nivel/Administración de Sistemas de Información/Rotación de Personal.md",
