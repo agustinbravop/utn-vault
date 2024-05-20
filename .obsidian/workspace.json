@@ -56,6 +56,66 @@
             }
           },
           {
+            "id": "cb8727464f39330b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Product Backlog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d2348bffde454a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Estimación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1abc97813bf9c9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Estimación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a14b1073cad141f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Punto Historia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1488bdb03287381c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Definition of Done.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "68391776bd078587",
             "type": "leaf",
             "state": {
@@ -68,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -142,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Product Backlog.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Definition of Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Product Backlog.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Definition of Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Product Backlog.md"
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Definition of Done.md"
               }
             }
           },
@@ -212,8 +272,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eafa63061ba73485",
+  "active": "1488bdb03287381c",
   "lastOpenFiles": [
+    "4to Nivel/Ingeniería y Calidad de Software/Punto Historia.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Definition of Done.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Planning Poker.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Estimación Ágil.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Estimación.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Product Backlog.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Priorización.md",
     "4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario.md",
     "4to Nivel/Ingeniería y Calidad de Software/Producto Mínimo Viable.md",
     "4to Nivel/Ingeniería y Calidad de Software/Mapa de Historias de Usuario.md",
@@ -234,16 +301,9 @@
     "4to Nivel/Ingeniería y Calidad de Software/Las 4 P.md",
     "4to Nivel/Ingeniería y Calidad de Software/Gestión de Proyectos.md",
     "4to Nivel/Ingeniería y Calidad de Software/Gestión de Requerimientos Ágil.md",
-    "Excalidraw/Las 4 P 2024-04-27 21.23.25.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240519205502_412.png",
     "Excalidraw/attachments/Pasted Image 20240519205432_615.png",
     "Excalidraw/attachments",
-    "Excalidraw/Procesos de Control 2024-04-27 02.24.11.excalidraw.md",
-    "Excalidraw/Procesos de Control 2024-04-27 02.10.53.excalidraw.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Teoría Clásica.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Disciplinas de la Ingeniería de Software.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Ingeniería en Sistemas de Información.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Untitled.md",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "New Text Document.txt",
     "4to Nivel/Administración de Sistemas de Información/attachments/Enfoque Tavistock.png",
