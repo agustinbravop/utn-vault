@@ -1,14 +1,14 @@
-Los modelos de procesos o ciclos de vida son estructuras generales para la ingeniería de software que definen las actividades a realizar para crear un producto. Son una receta que define quién está haciendo qué, cuándo y cómo para alcanzar el objetivo definido.
+Los modelos de procesos o ciclos de vida son **estructuras generales** para la [[Ingeniería de Software]] que definen las **actividades a realizar** para crear un producto. Son una **receta** que define quién está haciendo qué, cuándo y cómo para alcanzar el objetivo definido.
 
-Estos modelos especifican fases del proceso y un orden de ejecución, por lo que la elección del modelo a usar influye en la gestión del proyecto, según que tipo de [[Procesos de Control]] son.
+Estos modelos especifican **fases** del proceso y un **orden** de ejecución, por lo que la elección del modelo a usar influye en la **gestión** del proyecto, según que tipo de [[Procesos de Control]] son.
 
 ## Flujo del Proceso
 
-- Lineal: ejecuta secuencialmente cada paso del proceso.
+- **Lineal**: ejecuta secuencialmente cada paso del proceso.
   Comunicación --> Planificación --> Modelado --> Construcción --> Despliegue.
-- Iterativo: repite actividades antes de pasar a la siguiente.
-- Evolutivo: ejecución "circular" que genera incrementos graduales.
-- Paralelo: algunas actividades se ejecutan a la par.
+- **Iterativo**: repite actividades antes de pasar a la siguiente.
+- **Evolutivo**: ejecución "circular" que genera incrementos graduales.
+- **Paralelo**: algunas actividades se ejecutan a la par.
 
 ## Modelos Prescriptivos
 

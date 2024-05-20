@@ -4,8 +4,8 @@ Es importante para tomar acciones correctivas que sirvan para alcanzar los objet
 
 La gestión puede ser:
 
-- **Clásica**: es responsabilidad de una o dos personas.
-- **Ágil**: es responsabilidad de todo el equipo.
+- **Clásica**: es responsabilidad de una o dos personas. [[Teoría Clásica]].
+- **Ágil**: es responsabilidad de todo el equipo. [[Agilidad]].
 
 Pressman se enfoca en [[Las 4 P]].
 

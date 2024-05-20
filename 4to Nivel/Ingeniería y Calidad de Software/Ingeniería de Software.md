@@ -16,7 +16,7 @@ Según Pressman, la ingeniería se construye sobre ciertas capas, una encima de 
 ## Proceso
 
 ```mermaid
-flowchart LR
+flowchart TD
 Comunicación --> Planeación --> Modelado --> Construcción --> Despliegue
 ```
 

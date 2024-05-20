@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"cb48d06416884e74","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/Historia de la Ingeniería de Software.md","x":280,"y":-720,"width":400,"height":400},
+		{"id":"000ba5f865c89092","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/Gestión de la Configuración.md","x":80,"y":-240,"width":400,"height":400},
+		{"id":"36502419a40ea3a4","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/Ingeniería de Software.md","x":-200,"y":-720,"width":400,"height":400},
+		{"id":"59403a4a484b01c2","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/Teoría Clásica.md","x":760,"y":-240,"width":400,"height":400},
+		{"id":"6f80d54c83658b55","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/Crisis del Software.md","x":760,"y":-720,"width":400,"height":400},
+		{"id":"20be152cf8f64dcb","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/Agilidad.md","x":1400,"y":-240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"b301665ffc4662d9","fromNode":"36502419a40ea3a4","fromSide":"right","toNode":"cb48d06416884e74","toSide":"left"},
+		{"id":"948fea792286891e","fromNode":"cb48d06416884e74","fromSide":"right","toNode":"6f80d54c83658b55","toSide":"left"},
+		{"id":"a49353ffa33f26b2","fromNode":"6f80d54c83658b55","fromSide":"bottom","toNode":"59403a4a484b01c2","toSide":"top","label":"causa"},
+		{"id":"9eef7da986292944","fromNode":"59403a4a484b01c2","fromSide":"right","toNode":"20be152cf8f64dcb","toSide":"left","label":"evoluciona"},
+		{"id":"996b71c6cacc29f3","fromNode":"36502419a40ea3a4","fromSide":"bottom","toNode":"000ba5f865c89092","toSide":"left","label":"incluye"}
+	]
+}

@@ -1,4 +1,4 @@
-Se clasifican en tres grupos.
+Las disciplinas de la [[Ingeniería de Software]] se clasifican en tres grupos.
 
 ## Disciplinas Técnicas
 

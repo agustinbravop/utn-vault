@@ -19,11 +19,11 @@ Surge en el **Software Engineering Institute**:
 
 ### Participantes
 
-- Gerentes ejecutivos: para marcar objetivos.
-- Gerentes técnicos de proyecto: para planificar, motivar, controlar.
-- Profesionales: con las habilidades técnicas necesarias.
-- Clientes: que conocen los requerimientos del software.
-- Usuarios finales: que utilizarán el software.
+- **Gerentes ejecutivos**: para marcar objetivos.
+- **Gerentes técnicos de proyecto**: para planificar, motivar, controlar.
+- **Profesionales**: con las habilidades técnicas necesarias.
+- **Clientes**: que conocen los requerimientos del software.
+- **Usuarios finales**: que utilizarán el software.
 
 ### Equipo
 
@@ -40,7 +40,7 @@ En todo equipo es importante la confianza, distribuir las tareas conforme a las 
 
 El _Management 3.0_ y el _Peopleware_ proponen que lo importante es el equipo y que la organización se debe adaptar al equipo.
 
-Los **equipos ágiles**:
+Los [[Equipo Ágil|equipos ágiles]]:
 
 - Son multifuncionales, auto-organizados, pequeños y maduros.
 - Conocen el impacto de la falta de calidad.
@@ -50,18 +50,18 @@ Los **equipos ágiles**:
 
 Conocer el **alcance** o **ámbito** implica conocer:
 
-- Contexto organizacional.
-- Objetivos de información.
-- Funciones del software.
-- Restricciones y rendimiento del software.
-- Usuarios y clientes.
+- **Contexto** organizacional.
+- **Objetivos** de información.
+- **Funciones** del software.
+- **Restricciones** y rendimiento del software.
+- **Usuarios** y clientes.
 
 Según Pressman, el **ámbito** debe ser:
 
-- No ambiguo: todos entendemos lo mismo.
-- Enunciado acotado: ir parte por parte.
-- Limitaciones.
-- Riesgos conocidos.
+- **No ambiguo**: todos entendemos lo mismo.
+- **Enunciado acotado**: ir parte por parte.
+- **Limitaciones**.
+- **Riesgos conocidos**.
 
 Es importante una estrategia de **divide y vencerás** para descomponer el problema en partes más pequeñas.
 
@@ -69,15 +69,23 @@ Es importante una estrategia de **divide y vencerás** para descomponer el probl
 
 Guía la manera de construir el producto. Hay que buscar un [[Modelos del Proceso|modelo del proceso]] o ciclo de vida que se adapte al producto y al equipo.
 
-La elección del proceso condiciona la manera de desarrollar un proyecto y cambia la manera de gestionarlo ==> cambia el producto final.
+La **elección** del proceso condiciona la manera de desarrollar un proyecto y cambia la manera de gestionarlo $\implies$ cambia el producto final.
 
-Un proceso **ágil** permite corregir más veces el producto con el cliente. Esto implica gestionar más.
+```mermaid
+flowchart TD;
+A["Elección del proceso"] -->|condiciona| B["Manera de desarrollarlo"]
+A -->|condiciona| C["Manera de gestionarlo"]
+C-->|cambia| D["Producto final"]
+B -->|cambia|D
+```
+
+Un proceso **ágil** permite corregir más veces el producto con el cliente. Esto implica **gestionar más**.
 
 ## Proyecto
 
 > El día a día del programador debe ir desde una **tarea** claramente conectada a una **característica** que el cliente necesita, y ello a un **test**, y a una **implementación inmediata**, teniendo en cuenta el **diseño.** - Kent Beck en XP Explained
 
-Definido así hace 20 años en XP, es la manera actual de trabajar en la industria.
+Definido así hace 20 años en [[XP]], es la manera actual de trabajar en la industria.
 
 ### Economics of Software Development
 

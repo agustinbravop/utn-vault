@@ -1,24 +1,23 @@
-Esta disciplina tiene una historia joven pero de cambios constantes. Según Boehm:
+La [[Ingeniería de Software]] tiene una historia joven pero de cambios constantes. Según Boehm:
 
 ## 1950s
 
-Surge el desarrollo de software como una extensión del hardware y la maquinaria.
+Surge el desarrollo de software como una extensión del hardware y la maquinaria. Se aprende que el software no se trabaja de la misma manera que el hardware.
 
 - Engineer software like you engineer **hardware**.
 - Measure twice, cut once.
 - El hardware era mucho más caro que el personal.
-  Se aprende que el software no se trabaja de la misma manera que el hardware.
 
 ## 1960s
 
 - Code and fix approach.
 - Mantener software no es lo mismo que mantener hardware.
 - Hacker culture of cowboy programmers.
-  Se declara en 1968 en la **crisis del software**.
+- Se declara en 1968 la [[Crisis del Software]].
 
 ## 1970s
 
-Aparecen los métodos tradicionales para el desarrollo de software.
+Aparecen las metodologías tradicionales de la [[Teoría Clásica]] para el desarrollo de software.
 
 - Structured programming. Coupling and cohesion.
 - The Royce Waterfall Model.
@@ -27,17 +26,19 @@ Aparecen los métodos tradicionales para el desarrollo de software.
 
 ## 1980s
 
+Se comprende la necesidad de escalar los sistemas eficientemente.
+
 - Énfasis en la productividad y la escalabilidad.
 - No silver bullets.
 - Surge la orientación a objetos, visual programming.
 - Reutilización de componentes gracias al software comercial.
-  Se comprende la necesidad de escalar los sistemas eficientemente.
 
 ## 1990s
 
+Se valora cada vez más poder hacer cambios rápidos. Empiezan a aparecer métodos de la [[Agilidad]].
+
 - Design patterns, UML, WWW, OSS, RUP.
 - Énfasis en Time-to-Market y en controlar la concurrencia del desarrollo.
-  Se valora cada vez más poder hacer cambios rápidos. Empiezan a aparecer los métodos ágiles.
 
 ## 2000s
 
