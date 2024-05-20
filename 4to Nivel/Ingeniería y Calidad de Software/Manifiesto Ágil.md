@@ -1,8 +1,6 @@
-En 2001 se reunen referentes del desarrollo de softare:
-
 > Estamos descubriendo mejores maneras de desarrollar software.
 
-El manifiesto ágil propone 4 valores y 12 principios, y le da nombre a la **[[Agilidad]]**.
+En 2001 se reúnen referentes del desarrollo de software y firman el manifiesto ágil, que le da nombre a la [[Agilidad]], proponiendo 4 valores y 12 principios.
 
 ## 4 Valores
 
@@ -29,3 +27,11 @@ Si bien se valoran los elementos de la derecha, se valoran más los de la izquie
 10. La **simplicidad**, o el arte de maximizar la cantidad de trabajo no realizado, es esencial.
 11. Las mejores arquitecturas, requisitos y diseños emergen de **equipos auto-organizados**.
 12. **A intervalos regulares el equipo reflexiona** sobre cómo ser más efectivo para a continuación ajustar y perfeccionar su comportamiento en consecuencia.
+
+## Autores
+
+Entre otros, los firmantes del manifiesto ágil son:
+
+- Robert C. Martin
+- Kent Beck
+- 

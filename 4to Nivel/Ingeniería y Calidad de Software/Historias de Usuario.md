@@ -1,6 +1,6 @@
 Representan una **funcionalidad mínima que aporta valor** para el negocio. Lo ideal es que tarde entre 2 y 3 días de desarrollo para ser completada. Si es muy grande la llamamos **Épica** y la desglosamos en varias historias de usuario.
 
-Son un **recordatorio** de qué hay que hacer para que el equipo determine cómo hacerlo. Se ordenan en el [[Product Backlog]].
+Son un **recordatorio** de qué hay que hacer para que el equipo determine cómo hacerlo. El objetivo de usarlas es el **entendimiento compartido**. Se ordenan en el [[Product Backlog]].
 
 ## Las 3 C
 
@@ -21,7 +21,7 @@ quiero hacer [funcionalidad]
 con el objetivo de [beneficio]
 ```
 
-Aclarar el rol ayuda a identificar y diferenciar los permisos de los roles del sistema. En la industria y algunos autores omiten el título y el beneficio.
+Aclarar el **rol** ayuda a identificar y diferenciar los **permisos** de los distintos **roles** del sistema. En la industria y algunos autores omiten el título y el beneficio.
 
 ## Criterios de Aceptación
 
@@ -34,7 +34,7 @@ Scenario
 	Then [result]
 ```
 
-Además pueden incluir **restricciones** no funcionales asociadas al requisito de la HU.
+Además pueden incluir **restricciones** **no funcionales** asociadas al requisito de la HU.
 
 ## Alcance
 
@@ -49,7 +49,7 @@ Es importante escribir buenas historias de usuario.
 
 ### Método INVEST
 
-Comprueba (NO asegura) la calidad.
+Comprueba (NO asegura) la calidad. La HU debe reunir estas características:
 
 - **Independent:** se busca minimizar las dependencias. Difícil de lograr en la realidad.
 - **Negotiable:** debe ser discutible con el cliente.
@@ -76,11 +76,11 @@ Comprueba (NO asegura) la calidad.
 
 ### Bad Smells de Mike Cohn
 
-Indicadores de una mala historia de usuario:
+**Indicadores** de una mala historia de usuario:
 
-1. Historias demasiado pequeñas
-2. Historias interdependientes.
-3. Goldplating.
+1. Historias demasiado pequeñas: dificulta la estimación.
+2. Historias interdependientes: dificulta la planificación.
+3. **Goldplating**: generarle necesidades al cliente que no tiene.
 4. Demasiados detalles.
 5. Detalles de interfaz muy tempranos.
 6. Pensando demasiado adelante.

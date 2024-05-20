@@ -67,7 +67,7 @@ Es importante una estrategia de **divide y vencerás** para descomponer el probl
 
 ## Proceso
 
-Guía la manera de construir el producto. Hay que buscar un [[Modelos del Proceso|modelo del proceso]] o ciclo de vida que se adapte al producto y al equipo.
+Guía la manera de construir el producto. Hay que buscar un [[Modelos de Proceso|modelo del proceso]] o ciclo de vida que se adapte al producto y al equipo.
 
 La **elección** del proceso condiciona la manera de desarrollar un proyecto y cambia la manera de gestionarlo $\implies$ cambia el producto final.
 

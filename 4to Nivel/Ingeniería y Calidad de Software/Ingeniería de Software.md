@@ -20,7 +20,7 @@ flowchart TD
 Comunicación --> Planeación --> Modelado --> Construcción --> Despliegue
 ```
 
-El proceso busca que la ingeniería sea rentable y sostenible en el tiempo y en la escala del proyecto. Existen varios [[Modelos del Proceso]].
+El proceso busca que la ingeniería sea rentable y sostenible en el tiempo y en la escala del proyecto. Existen varios [[Modelos de Proceso]].
 
 ### [[Historia de la Ingeniería de Software]]
 
