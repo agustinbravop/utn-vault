@@ -1,14 +1,16 @@
 >Practice-based methodology for effective modeling and documentation.
 
-Propuesto en la [[Agilidad]] por Scott Ambler, es una modernización de las prácticas para documentar de la [[Teoría Clásica]]. Es una colección de valores, principios y prácticas para **modelar** software.
+Propuesto en la [[Agilidad]] por Scott Ambler, es una modernización de las prácticas para **documentar** de la [[Teoría Clásica]]. Es una colección de valores, principios y prácticas para **modelar** software.
+
+![[Agile Modelling.png]]
 
 ## 5 Valores
 
-1. Comunicación.
-2. Simplicidad.
-3. Feedback.
-4. Coraje.
-5. Humildad.
+1. **Comunicación**.
+2. **Simplicidad**.
+3. **Feedback**.
+4. **Coraje**.
+5. **Humildad**.
 
 ## 11 Principios
 
@@ -26,19 +28,19 @@ Propuesto en la [[Agilidad]] por Scott Ambler, es una modernización de las prá
 
 ## Prácticas (Principales)
 
-- Active Stakeholder Participation
-- Apply the Right Artifact(s)
-- Collective Ownership
-- Create Several Models in Parallel
-- Create Simple Content
-- Depict Models Simply
-- Display Models Publicly
-- Iterate to Another Artifact
-- Model in Small Increments
-- Model With Others
-- Prove it With Code
-- Single Source Information
-- Use the Simplest Tools
+- Active Stakeholder Participation.
+- Apply the Right Artifact(s).
+- Collective Ownership.
+- Create Several Models in Parallel.
+- Create Simple Content.
+- Depict Models Simply.
+- Display Models Publicly.
+- Iterate to Another Artifact.
+- Model in Small Increments.
+- Model With Others.
+- Prove it With Code.
+- Single Source Information.
+- Use the Simplest Tools.
 
 ## Ideas Interesantes
 

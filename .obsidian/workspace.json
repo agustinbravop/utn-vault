@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Heart of Agile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb32a1e8a6a7d0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60f32bf08e0d89e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Scrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -199,14 +225,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e6ffaf891ff39f7",
+  "active": "cb32a1e8a6a7d0cc",
   "lastOpenFiles": [
-    "4to Nivel/Ingeniería y Calidad de Software/Agile Modelling.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Lean.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Kanban.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Kanban las 7 Cadencias.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Kanban Condensed.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Tablero Kanban.png",
+    "4to Nivel/Ingeniería y Calidad de Software/Heart of Agile.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Shu-Ha-Ri-Kokoro Curve.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240521150613.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Heart of Agile.png",
     "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Scrum.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Untitled 2.md",
     "4to Nivel/Ingeniería y Calidad de Software/Crystal Clear.md",
     "4to Nivel/Ingeniería y Calidad de Software/XP.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Agile Modelling.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Agile Modelling.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/XP process.png",
+    "4to Nivel/Ingeniería y Calidad de Software/Scrum.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Untitled 2.md",
     "4to Nivel/Ingeniería y Calidad de Software/Untitled 1.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Proceso de Scrum.png",
     "4to Nivel/Ingeniería y Calidad de Software/Sprint.md",
@@ -225,25 +262,14 @@
     "4to Nivel/Ingeniería y Calidad de Software/Proyectos Ágiles.md",
     "4to Nivel/Ingeniería y Calidad de Software/Procesos de Control.md",
     "4to Nivel/Ingeniería y Calidad de Software/Modelos de Proceso.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Manifiesto Ágil.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Entrega Continua.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Integración Continua.md",
     "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
     "Excalidraw/attachments/Pasted Image 20240519205502_412.png",
-    "Excalidraw/attachments/Pasted Image 20240519205432_615.png",
     "Excalidraw/attachments",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "New Text Document.txt",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Enfoque Tavistock.png",
     "desktop.ini",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Tabla de evaluación entre alternativas de obtención.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Continuo de alternativas de obtención de SW.png",
     "4to Nivel/Investigación Operativa/Actividades",
     "4to Nivel/Investigación Operativa",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Enfoques de conversión.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Patrones de datos históricos de la carga.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506114910.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003335.png",
     "4to Nivel/Administración de Sistemas de Información/attachments",
     "utn-vault",
     "4to Nivel/Simulación/TPI",

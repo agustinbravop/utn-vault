@@ -29,8 +29,8 @@ Ser ágil se vuelve **rentable** cuando el equipo sabe porqué hace lo que está
 
 La agilidad viene hace tiempo con buenas ideas que se materializan en **prácticas concretas**. Para aplicar agilidad, nos conviene hacer ***cherry picking*** de las prácticas que nos convienen a nosotros. Existen muchas propuestas ágiles, entre ellas:
 
-- [[Scrum]] - Ken Schwaber, Jeff Sutherland.
-- [[XP]] - Kent Beck.
-- [[Agile Modelling]] - Scott Ambler.
-- [[Crystal Clear]] - Alistair Cockburn.
-- [[Heart of Agile]] - Alistair Cockburn.
+- [[Scrum]], Ken Schwaber y Jeff Sutherland.
+- [[XP]], Kent Beck.
+- [[Agile Modelling]], Scott Ambler.
+- [[Crystal Clear]], Alistair Cockburn.
+- [[Heart of Agile]], Alistair Cockburn.

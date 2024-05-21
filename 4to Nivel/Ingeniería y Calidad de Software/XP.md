@@ -2,13 +2,15 @@ En la [[Agilidad]], ***eXtreme Programming*** es un modo de desarrollar software
 
 Es inmediato, concreto y con **feedback continuo** mediante ciclos cortos. Responde a las necesidades de negocio dinámicas para **reducir el costo de los cambios**. Foco en las **pruebas automatizadas** para controlar el avance del trabajo. Foco en la comunicación oral, pruebas y código fuente para la estructura y significado del problema y la solución.
 
+![[XP process.png]]
+
 ## 5 Valores
 
-1. Comunicación.
-2. Feedback.
-3. Simplicidad.
-4. Coraje.
-5. Respeto.
+1. **Comunicación**.
+2. **Feedback**.
+3. **Simplicidad**.
+4. **Coraje**.
+5. **Respeto**.
 
 ## 5 Principios
 
