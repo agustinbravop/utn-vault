@@ -1,4 +1,6 @@
-La agilidad, fundada en 2001 en el [[Manifiesto Ágil]], es la forma moderna de desarrollar software. Gracias a la **globalización** se vuelve evidente la necesidad de ser ágiles y moverse a la velocidad del mercado para satisfacer los requisitos cambiantes. Es cada vez más importante el Time-To-Market.
+>El desarrollo de software falla en entregar valor. Debemos encontrar nuevas maneras de trabajar. - Kent Beck, *XP*.
+
+La agilidad, fundada en 2001 en el [[Manifiesto Ágil]], es la forma moderna de desarrollar software. Es una reacción a la [[Teoría Clásica]] de la [[Ingeniería de Software]]. Gracias a la **globalización** se vuelve evidente la necesidad de ser ágiles y moverse a la velocidad del mercado para satisfacer los requisitos cambiantes. Es cada vez más importante el Time-To-Market.
 
 > Es una cultura basada en valores.
 > Es una filosofía de vida.
@@ -17,12 +19,18 @@ La agilidad NO es:
 
 ## Proceso
 
-Ser ágil es usar un [[Modelos de Proceso|ciclo de vida]] **iterativo e incremental** con un [[Procesos de Control|proceso de control]] empírico. Se utiliza en los [[Proyectos Ágiles]].
+El **valor para el negocio** lo determina el cliente $\implies$ es **subjetivo** y es lo más **importante**. Para esto el cliente debe tener claro lo que quiere, y por eso es importante el **feedback continuo**. Ser ágil es usar un [[Modelos de Proceso|ciclo de vida]] **iterativo e incremental** con un [[Procesos de Control|proceso de control]] empírico. Se utiliza en los [[Proyectos Ágiles]].
 
 ![[Pasted image 20240428160442.png]]
 
 Ser ágil se vuelve **rentable** cuando el equipo sabe porqué hace lo que está haciendo y sabe que vale la pena y le sirve. Requiere esfuerzo al inicio pero con la experiencia se aprecia cada vez más.
 
-## Valor
+## Propuestas
 
-El **valor para el negocio** lo determina el cliente $\implies$ es **subjetivo** y es lo más **importante**. Para esto el cliente debe tener claro lo que quiere, y por eso es importante el **feedback continuo**.
+La agilidad viene hace tiempo con buenas ideas que se materializan en **prácticas concretas**. Para aplicar agilidad, nos conviene hacer ***cherry picking*** de las prácticas que nos convienen a nosotros. Existen muchas propuestas ágiles, entre ellas:
+
+- [[Scrum]] - Ken Schwaber, Jeff Sutherland.
+- [[XP]] - Kent Beck.
+- [[Agile Modelling]] - Scott Ambler.
+- [[Crystal Clear]] - Alistair Cockburn.
+- [[Heart of Agile]] - Alistair Cockburn.

@@ -34,4 +34,4 @@ Se consideran dos **variables**:
 - **Tamaño**: complejidad asociada a la funcionalidad.
 - **Velocidad**: es la **capacidad de trabajo** del equipo.
 
-Se usan herramientas como el [[Punto Historia]] para estimar las [[Historias de Usuario]] en prácticas como la [[Planning Poker]].
+Se usan herramientas como el [[Punto Historia]] para estimar las [[Historias de Usuario]] en prácticas como la [[Planning Poker]]. A la larga un [[Equipo Ágil]] estabiliza su [[Velocidad]] por iteración, facilitando la estimación de qué pueden lograr en cada iteración.
