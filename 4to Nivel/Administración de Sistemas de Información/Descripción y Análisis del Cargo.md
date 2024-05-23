@@ -1,4 +1,4 @@
-Las necesidades básicas de recursos humanos se establecen mediante un esquema de descripción y especificación de [[Cargo|cargos]]. La **descripción del cargo** se refiera a las **tareas**, los deberes y las responsabilidades del cargo. La **especificación** del cargo se ocupa de los **requisitos** que el ocupante deba cumplir. El ocupante del cargo debe tener características compatibles con el [[Sistema de Roles|rol]] que deberá desempeñar.
+Las necesidades básicas de recursos humanos se establecen mediante un esquema de descripción y **especificación** de [[Cargo|cargos]]. La **descripción del cargo** se refiera a las **tareas**, los deberes y las responsabilidades del cargo. La **especificación** del cargo se ocupa de los **requisitos** que el ocupante deba cumplir. El ocupante del cargo debe tener características compatibles con el [[Sistema de Roles|rol]] que deberá desempeñar.
 
 La [[Descripción de Cargos]] y el [[Análisis de Cargos]] permiten conocer la totalidad del cargo.
 
@@ -15,9 +15,9 @@ Los métodos más usados son:
 
 | Método       | Participación del Analista | Participación del Ocupante |
 | ------------ | -------------------------- | -------------------------- |
-| Observación  | Activa                     | Pasiva                     |
-| Cuestionario | Pasiva                     | Activa                     |
-| Entrevista   | Activa                     | Activa                     |
+| **Observación**  | Activa                     | Pasiva                     |
+| **Cuestionario** | Pasiva                     | Activa                     |
+| **Entrevista**   | Activa                     | Activa                     |
 
 ## Objetivos
 

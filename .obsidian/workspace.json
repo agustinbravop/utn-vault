@@ -4,83 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5b50290d61bb3d09",
+        "id": "9a7576c74fd2ac67",
         "type": "tabs",
         "children": [
           {
-            "id": "8e6ffaf891ff39f7",
+            "id": "39f9d9cf39ba39f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Heart of Agile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb32a1e8a6a7d0cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60f32bf08e0d89e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Scrum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e511034110b5c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Crystal Clear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c78d260f7334cede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d3e3f790bd8dc22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/XP.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "viewState": {
+                  "x": 1399.2468715941345,
+                  "y": 1527.4699535480345,
+                  "zoom": -2.333333129882812
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -155,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
               }
             }
           },
@@ -225,18 +166,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb32a1e8a6a7d0cc",
+  "active": "39f9d9cf39ba39f9",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Descripción y Análisis del Cargo.md",
+    "4to Nivel/Administración de Sistemas de Información/Descripción de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Análisis de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Ingeniería y Calidad de Software/Heart of Agile.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
     "4to Nivel/Ingeniería y Calidad de Software/Lean.md",
     "4to Nivel/Ingeniería y Calidad de Software/Kanban.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Kanban las 7 Cadencias.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Kanban Condensed.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Tablero Kanban.png",
-    "4to Nivel/Ingeniería y Calidad de Software/Heart of Agile.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Shu-Ha-Ri-Kokoro Curve.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240521150613.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Heart of Agile.png",
-    "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
     "4to Nivel/Ingeniería y Calidad de Software/Crystal Clear.md",
     "4to Nivel/Ingeniería y Calidad de Software/XP.md",
     "4to Nivel/Ingeniería y Calidad de Software/Agile Modelling.md",
@@ -259,13 +204,9 @@
     "4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario.md",
     "4to Nivel/Ingeniería y Calidad de Software/Producto Mínimo Viable.md",
     "4to Nivel/Ingeniería y Calidad de Software/Mapa de Historias de Usuario.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Proyectos Ágiles.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Procesos de Control.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Modelos de Proceso.md",
     "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
     "Excalidraw/attachments/Pasted Image 20240519205502_412.png",
     "Excalidraw/attachments",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "New Text Document.txt",
     "desktop.ini",
     "4to Nivel/Investigación Operativa/Actividades",
