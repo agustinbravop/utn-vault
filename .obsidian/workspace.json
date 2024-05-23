@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
                 "viewState": {
-                  "x": 1399.2468715941345,
-                  "y": 1527.4699535480345,
-                  "zoom": -2.333333129882812
+                  "x": 181.6623683700351,
+                  "y": 1127.483225350667,
+                  "zoom": -0.6666665649414062
                 }
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
+                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas"
               }
             }
           },
@@ -168,10 +168,14 @@
   },
   "active": "39f9d9cf39ba39f9",
   "lastOpenFiles": [
+    "4to Nivel/Ingeniería y Calidad de Software/Teoría Clásica.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Procesos de Control.md",
+    "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "desktop.ini",
     "4to Nivel/Administración de Sistemas de Información/Descripción y Análisis del Cargo.md",
     "4to Nivel/Administración de Sistemas de Información/Descripción de Cargos.md",
     "4to Nivel/Administración de Sistemas de Información/Análisis de Cargos.md",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Ingeniería y Calidad de Software/Heart of Agile.md",
     "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
     "4to Nivel/Ingeniería y Calidad de Software/Lean.md",
@@ -202,13 +206,9 @@
     "4to Nivel/Ingeniería y Calidad de Software/Product Backlog.md",
     "4to Nivel/Ingeniería y Calidad de Software/Priorización.md",
     "4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Producto Mínimo Viable.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Mapa de Historias de Usuario.md",
-    "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
     "Excalidraw/attachments/Pasted Image 20240519205502_412.png",
     "Excalidraw/attachments",
     "New Text Document.txt",
-    "desktop.ini",
     "4to Nivel/Investigación Operativa/Actividades",
     "4to Nivel/Investigación Operativa",
     "4to Nivel/Administración de Sistemas de Información/attachments",

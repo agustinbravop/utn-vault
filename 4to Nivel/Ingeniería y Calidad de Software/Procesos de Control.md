@@ -7,6 +7,9 @@ Se identifican las **variables del proyecto** para predecir su comportamiento. E
 
 ## Procesos Empíricos
 
-**Aceptan la complejidad** del proyecto y **miden constantemente** los resultados para adaptar el comportamiento. Se reduce el alcance a varias **iteraciones cortas**, de manera que hay más **controles más temprano** en la vida del proyecto. Esto implica pasar más tiempo controlando y gestionando. Más cercano a los procesos de la [[Agilidad]].
+**Aceptan la complejidad** del proyecto y **miden constantemente** los resultados para adaptar el comportamiento. Se reduce el alcance a varias **iteraciones cortas**, de manera que hay más **controles más temprano** en la vida del proyecto. Esto implica pasar más tiempo controlando y gestionando.
 ![[Procesos de Control 2024-04-27 02.24.11.excalidraw]]
 
+## Procesos Ágiles
+
+La [[Agilidad]] propone iteraciones de como máximo un mes, acortando al extremo el *feedback loop* entre una acción y su resultado, permitiendo controlar constantemente el avance del proyecto en base a los resultados logrados, para poder adaptarse al ambiente VUCA.
