@@ -11,14 +11,11 @@
             "id": "39f9d9cf39ba39f9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
-                "viewState": {
-                  "x": 181.6623683700351,
-                  "y": 1127.483225350667,
-                  "zoom": -0.6666665649414062
-                }
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Manifiesto Ágil.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Manifiesto Ágil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Manifiesto Ágil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas"
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Manifiesto Ágil.md"
               }
             }
           },
@@ -168,16 +165,23 @@
   },
   "active": "39f9d9cf39ba39f9",
   "lastOpenFiles": [
+    "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Gestión de Proyectos.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Gestión de la Configuración.md",
+    "4to Nivel/Ingeniería y Calidad de Software/XP.md",
+    "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
+    "4to Nivel/Ingeniería y Calidad de Software/Untitled 3.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Untitled 2.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Untitled 1.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Untitled.md",
     "4to Nivel/Ingeniería y Calidad de Software/Teoría Clásica.md",
     "4to Nivel/Ingeniería y Calidad de Software/Procesos de Control.md",
-    "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "desktop.ini",
     "4to Nivel/Administración de Sistemas de Información/Descripción y Análisis del Cargo.md",
     "4to Nivel/Administración de Sistemas de Información/Descripción de Cargos.md",
     "4to Nivel/Administración de Sistemas de Información/Análisis de Cargos.md",
     "4to Nivel/Ingeniería y Calidad de Software/Heart of Agile.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
     "4to Nivel/Ingeniería y Calidad de Software/Lean.md",
     "4to Nivel/Ingeniería y Calidad de Software/Kanban.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Kanban las 7 Cadencias.png",
@@ -187,13 +191,10 @@
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240521150613.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Heart of Agile.png",
     "4to Nivel/Ingeniería y Calidad de Software/Crystal Clear.md",
-    "4to Nivel/Ingeniería y Calidad de Software/XP.md",
     "4to Nivel/Ingeniería y Calidad de Software/Agile Modelling.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Agile Modelling.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/XP process.png",
     "4to Nivel/Ingeniería y Calidad de Software/Scrum.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Untitled 2.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Untitled 1.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Proceso de Scrum.png",
     "4to Nivel/Ingeniería y Calidad de Software/Sprint.md",
     "4to Nivel/Ingeniería y Calidad de Software/Equipo Ágil.md",
@@ -202,10 +203,6 @@
     "4to Nivel/Ingeniería y Calidad de Software/Definition of Done.md",
     "4to Nivel/Ingeniería y Calidad de Software/Punto Historia.md",
     "4to Nivel/Ingeniería y Calidad de Software/Planning Poker.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Estimación Ágil.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Product Backlog.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Priorización.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario.md",
     "Excalidraw/attachments/Pasted Image 20240519205502_412.png",
     "Excalidraw/attachments",
     "New Text Document.txt",

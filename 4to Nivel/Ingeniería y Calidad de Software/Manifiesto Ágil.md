@@ -30,8 +30,22 @@ Si bien se valoran los elementos de la derecha, se valoran más los de la izquie
 
 ## Autores
 
-Entre otros, los firmantes del manifiesto ágil son:
+Los 17 firmantes del manifiesto ágil son:
 
-- Robert C. Martin
-- Kent Beck
-- 
+- Kent Beck  
+- Mike Beedle  
+- Arie van Bennekum  
+- Alistair Cockburn  
+- Ward Cunningham  
+- Martin Fowler  
+- James Grenning  
+- Jim Highsmith  
+- Andrew Hunt  
+- Ron Jeffries  
+- Jon Kern  
+- Brian Marick  
+- Robert C. Martin  
+- Steve Mellor  
+- Ken Schwaber  
+- Jeff Sutherland
+- Dave Thomas

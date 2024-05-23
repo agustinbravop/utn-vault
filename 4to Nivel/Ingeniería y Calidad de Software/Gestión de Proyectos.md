@@ -1,6 +1,6 @@
-Involucra la planificación, supervisión y control del personal, el proceso y los eventos del ciclo de vida del software.
+Involucra la **planificación, supervisión y control** del personal, el proceso y los eventos del ciclo de vida del software.
 
-Es importante para tomar acciones correctivas que sirvan para alcanzar los objetivos sin que los costos se disparen. **Es la actividad que más ayuda a tener éxito en el proyecto.**
+Es importante para tomar **acciones correctivas** que sirvan para **alcanzar los objetivos** sin que los costos se disparen. **Es la actividad que más ayuda a tener éxito en el proyecto.**
 
 La gestión puede ser:
 
