@@ -1,14 +1,10 @@
-Todo integrante del equipo integra sus cambios al repositorio central al menos una vez al día, siendo los cambios una funcionalidad nueva testeada automáticamente. Similar al principio [[FAIL]], propone no tenerle miedo a los errores.
+Es una **práctica** de desarrollo de software donde los miembros del equipo **integran su trabajo frecuentemente**. Todo integrante del equipo integra sus cambios al repositorio central **al menos una vez al día**, siendo los cambios una **funcionalidad nueva testeada automáticamente**. Similar al principio [[FAIL]], propone no tenerle miedo a los errores.
 
-¿Cuánto se tarda una organización en pasar a producción un cambio de una línea de código? La integración continua intenta acortar los procesos burocráticos para facilitar el poder cambiar software.
+¿Cuánto se tarda una organización en pasar a producción un cambio de una línea de código? La integración continua intenta acortar los procesos burocráticos para poder cambiar software más fácilmente.
 
-Se puede extender con [[Despliegue Continuo]] y [[Entrega Continua]].
+Se puede extender con [[Despliegue Continuo]] y [[Entrega Continua]]. Ejemplo:
 
-## DevOps
-
-Flickr en 2009 presenta la idea de **DevOps**, un compromiso y balance entre los desarrolladores que quieren agilidad y cambios y los operadores que buscan estabilidad.
-
-El negocio quiere ir rápido pero también quiere ir bien ==> se necesita buena calidad ==> el testing se vuelve fundamental.
+![[esquema-integracion-continua.png]]
 
 ## Madurez del Equipo
 
@@ -21,9 +17,17 @@ a["Tareas Acotadas"] --> b["Builds Automatizadas"] --> c["Servidor de IC"] --> d
 
 ## Build
 
-Es la combinación correcta de versiones de los [[Gestión de la Configuración#Elemento de configuración|ECs]] para obtener una release.
+Es la **combinación correcta de versiones** de los [[Gestión de la Configuración#Elemento de configuración|ECs]] de software, usando datos de configuración apropiados, para lograr un programa ejecutable. Cada integración se comprueba mediante un proceso de build automatizada.
 
 - Debe ser **automatizada:** disparada por un evento pre-establecido.
-- Es una secuencia de tareas: limpieza + compilado + pruebas + inspecciones + despliegue.
+- Es una **secuencia de tareas**: limpieza + compilado + pruebas + inspecciones + despliegue.
 - Debe poder ser probada automáticamente.
-- Debe ser rápida para que el proceso no demore y no se pierda productividad.
+- Debe ser **rápida** para que el proceso no demore y no se pierda productividad.
+
+## Beneficios
+
+1. **Reducir riesgos y tiempos** (minimiza los "delta changes" del código).
+2. **Reducir tiempos** del proceso.
+3. Construcción de la build mediante un **proceso conocido**.
+4. **Confianza** en el equipo de desarrollo.
+5. **Feedback** frecuente.
