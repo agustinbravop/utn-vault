@@ -18,6 +18,6 @@ DevOps es implementar [[Agilidad]] en infraestructura de sistemas. Busca **dismi
 ## Cultura
 
 1. **Respeto**: no estereotipar a los devs y los ops, no decir "NO" de primeras, compartir información.
-2. **Confianza**
-3. **Actitud saludable frente al fracaso**
-4. **Evitar culpar**
+2. **Confianza**.
+3. **Actitud saludable frente al fracaso**.
+4. **Evitar culpar**.
