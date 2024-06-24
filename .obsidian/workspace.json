@@ -4,93 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9a7576c74fd2ac67",
+        "id": "9b9c9da81c3f6f10",
         "type": "tabs",
         "children": [
           {
-            "id": "fc0738a1f2aebe5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/DevOps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fe7d2e8ce4c816d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Gestión de la Calidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e8820e00ed32466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Pruebas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02b70be1396b6a18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Automatización de Pruebas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75be90a33ddf9316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Pruebas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6d23d7efe5a80eb",
+            "id": "7bdfcf646b65562b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9dd4f5d1f06ebf38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Pruebas Manuales.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md"
+                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md"
               }
             }
           },
@@ -234,10 +161,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6d23d7efe5a80eb",
+  "active": "7bdfcf646b65562b",
   "lastOpenFiles": [
-    "Excalidraw/Template.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Agile Modelling.png",
     "Excalidraw/Procesos de Control 2024-04-27 02.24.11.excalidraw.md",
+    "Excalidraw/Template.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Enfoque Tavistock.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428185529.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190314.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190845.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191005.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
     "Excalidraw/Procesos de Control 2024-04-27 02.10.53.excalidraw.md",
     "Excalidraw/Mercados Laboral y de RRHH 2024-05-04 15.08.45.excalidraw.md",
     "Excalidraw/Mercado Laboral 2024-05-03 15.06.39.excalidraw.md",
@@ -258,7 +193,6 @@
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Economics of Testing.png",
     "desktop.ini",
     "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
     "4to Nivel/Ingeniería y Calidad de Software/Casos de Prueba.md",
     "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Caja Negra.md",
     "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Caja Blanca.md",
@@ -266,16 +200,9 @@
     "4to Nivel/Ingeniería y Calidad de Software/DevOps.md",
     "4to Nivel/Ingeniería y Calidad de Software/Integración Continua.md",
     "4to Nivel/Ingeniería y Calidad de Software/Entrega Continua.md",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/esquema-integracion-continua.png",
-    "4to Nivel/Ingeniería y Calidad de Software/Despliegue Continuo.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Ingeniería en Sistemas de Información.md",
     "4to Nivel/Investigación Operativa/desktop.ini",
     "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Kanban las 7 Cadencias.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Kanban Condensed.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Tablero Kanban.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Shu-Ha-Ri-Kokoro Curve.png",
     "Excalidraw/attachments",
     "New Text Document.txt",
     "4to Nivel/Investigación Operativa/Actividades",
