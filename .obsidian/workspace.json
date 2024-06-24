@@ -61,9 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Automatización de Pruebas.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Pruebas.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f6d23d7efe5a80eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md"
               }
             }
           },
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Automatización de Pruebas.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Automatización de Pruebas.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Automatización de Pruebas.md"
+                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md"
               }
             }
           },
@@ -224,21 +234,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75be90a33ddf9316",
+  "active": "f6d23d7efe5a80eb",
   "lastOpenFiles": [
-    "4to Nivel/Ingeniería y Calidad de Software/Test Doubles.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Excalidraw/Procesos de Control 2024-04-27 02.24.11.excalidraw.md",
+    "Excalidraw/Procesos de Control 2024-04-27 02.10.53.excalidraw.md",
+    "Excalidraw/Mercados Laboral y de RRHH 2024-05-04 15.08.45.excalidraw.md",
+    "Excalidraw/Mercado Laboral 2024-05-03 15.06.39.excalidraw.md",
+    "Excalidraw/Las 4 P 2024-04-27 21.23.25.excalidraw.md",
+    "Excalidraw/Las 4 P 2024-04-27 18.50.40.excalidraw.md",
+    "Excalidraw/Investigación del Mercado 2024-05-04 15.25.29.excalidraw.md",
+    "Excalidraw/Investigación del Mercado 2024-05-03 15.13.13.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20240519205502_412.png",
+    "Excalidraw/attachments/Pasted Image 20240519205432_615.png",
+    "4to Nivel/Ingeniería y Calidad de Software/Estrategias de Prueba.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Pruebas.md",
     "4to Nivel/Ingeniería y Calidad de Software/Automatización de Pruebas.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Diseño de Casos de Prueba.md",
     "4to Nivel/Ingeniería y Calidad de Software/Pruebas Manuales.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Test Doubles.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pirámide de pruebas automatizadas.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pirámide de pruebas.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Economics of Testing.png",
-    "4to Nivel/Ingeniería y Calidad de Software/Pruebas.md",
     "desktop.ini",
     "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Estrategias de Prueba.md",
     "4to Nivel/Ingeniería y Calidad de Software/Casos de Prueba.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Diseño de Casos de Prueba.md",
     "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Caja Negra.md",
     "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Caja Blanca.md",
     "4to Nivel/Ingeniería y Calidad de Software/Gestión de la Calidad.md",
@@ -248,24 +269,13 @@
     "4to Nivel/Ingeniería y Calidad de Software/attachments/esquema-integracion-continua.png",
     "4to Nivel/Ingeniería y Calidad de Software/Despliegue Continuo.md",
     "4to Nivel/Ingeniería y Calidad de Software/Ingeniería en Sistemas de Información.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Manifiesto Ágil.md",
     "4to Nivel/Investigación Operativa/desktop.ini",
-    "4to Nivel/Ingeniería y Calidad de Software/Gestión de Proyectos.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Gestión de la Configuración.md",
-    "4to Nivel/Ingeniería y Calidad de Software/XP.md",
     "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
-    "4to Nivel/Ingeniería y Calidad de Software/Untitled 3.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Untitled 2.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Untitled 1.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Teoría Clásica.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Procesos de Control.md",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Kanban las 7 Cadencias.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Kanban Condensed.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Tablero Kanban.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Shu-Ha-Ri-Kokoro Curve.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240521150613.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Heart of Agile.png",
     "Excalidraw/attachments",
     "New Text Document.txt",
     "4to Nivel/Investigación Operativa/Actividades",
