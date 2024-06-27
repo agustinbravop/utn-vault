@@ -10,7 +10,8 @@ Algunas definiciones:
 - **[[Estrategias de Branch y Merge]]**: es para incorporar cambios de ramas al trunk.
 - **Delta de cambios:** conjunto de cambios que nos llevan de una versión a la otra (diff).
 
-![[Control de la Configuración 2024-04-28 00.12.11.excalidraw]]
+![[Control de la Configuración 2024-04-28 00.12.11.excalidraw.svg]]
+
 Es importante que los _delta changes_ se hagan cada plazos cortos así son pocos los cambios, y la integración del código se vuelve frecuente. Esos cambios deben estar justificados y sería ideal que su descripción tenga un link al ticket de cambio asociado. Por ejemplo, que un commit de GitHub tenga un link a la historia de usuario o tarea de Jira.
 
 ## Repositorios

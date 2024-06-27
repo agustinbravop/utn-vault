@@ -1,15 +1,29 @@
 {
   "editor:context-menu": [
     {
-      "modifiers": ["Alt"],
+      "modifiers": [
+        "Alt"
+      ],
       "key": "Z"
     }
   ],
   "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
     {
-      "modifiers": ["Alt"],
+      "modifiers": [
+        "Alt"
+      ],
       "key": "E"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:open-image-excalidraw-source": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
 }

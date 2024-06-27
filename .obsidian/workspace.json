@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9b9c9da81c3f6f10",
+        "id": "b25dd85578017aaf",
         "type": "tabs",
         "children": [
           {
-            "id": "7bdfcf646b65562b",
+            "id": "de57416dd22ceea6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md"
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Sistemas de Control de Versiones.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Sistemas de Control de Versiones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Sistemas de Control de Versiones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md"
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Sistemas de Control de Versiones.md"
               }
             }
           },
@@ -161,18 +163,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bdfcf646b65562b",
+  "active": "de57416dd22ceea6",
   "lastOpenFiles": [
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.svg",
+    "4to Nivel/Ingeniería y Calidad de Software/Sistemas de Control de Versiones.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.svg",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240521150613.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191713.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments/Pasted Image 20240624150428_199.jpg",
+    "4to Nivel/Ingeniería y Calidad de Software/Scrum.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Diseño de Casos de Prueba.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Caja Blanca.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.11.25.excalidraw.svg",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Sistemas de Control de Versiones 2024-06-24 15.20.48.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Sistemas de Control de Versiones 2024-06-24 15.20.48.excalidraw.svg",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.11.41.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.11.25.excalidraw.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Agile Modelling.png",
     "Excalidraw/Procesos de Control 2024-04-27 02.24.11.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Enfoque Tavistock.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428185529.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190314.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428190845.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191005.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
     "Excalidraw/Procesos de Control 2024-04-27 02.10.53.excalidraw.md",
     "Excalidraw/Mercados Laboral y de RRHH 2024-05-04 15.08.45.excalidraw.md",
     "Excalidraw/Mercado Laboral 2024-05-03 15.06.39.excalidraw.md",
@@ -180,26 +194,14 @@
     "Excalidraw/Las 4 P 2024-04-27 18.50.40.excalidraw.md",
     "Excalidraw/Investigación del Mercado 2024-05-04 15.25.29.excalidraw.md",
     "Excalidraw/Investigación del Mercado 2024-05-03 15.13.13.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20240519205502_412.png",
-    "Excalidraw/attachments/Pasted Image 20240519205432_615.png",
     "4to Nivel/Ingeniería y Calidad de Software/Estrategias de Prueba.md",
     "4to Nivel/Ingeniería y Calidad de Software/Pruebas.md",
     "4to Nivel/Ingeniería y Calidad de Software/Automatización de Pruebas.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Diseño de Casos de Prueba.md",
     "4to Nivel/Ingeniería y Calidad de Software/Pruebas Manuales.md",
     "4to Nivel/Ingeniería y Calidad de Software/Test Doubles.md",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pirámide de pruebas automatizadas.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pirámide de pruebas.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Economics of Testing.png",
     "desktop.ini",
     "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
     "4to Nivel/Ingeniería y Calidad de Software/Casos de Prueba.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Caja Negra.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Técnicas de Caja Blanca.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Gestión de la Calidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/DevOps.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Integración Continua.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Entrega Continua.md",
     "4to Nivel/Investigación Operativa/desktop.ini",
     "4to Nivel/Ingeniería y Calidad de Software/MOC.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
@@ -209,7 +211,6 @@
     "4to Nivel/Investigación Operativa",
     "4to Nivel/Administración de Sistemas de Información/attachments",
     "utn-vault",
-    "4to Nivel/Simulación/TPI",
-    "4to Nivel/Simulación"
+    "4to Nivel/Simulación/TPI"
   ]
 }
