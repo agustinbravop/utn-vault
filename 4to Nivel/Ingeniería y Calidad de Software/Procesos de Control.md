@@ -1,4 +1,4 @@
-Los procesos de control determinan cuándo y cómo controlar el proyecto. Están íntimamente relacionados con los [[Modelos de Proceso]] o ciclos de vida que el equipo decidió utilizar para el proyecto.
+Los procesos de control determinan cuándo y cómo controlar el proyecto. Están íntimamente relacionados con el [[Ciclo de Vida]] que el equipo decidió utilizar para el proyecto.
 
 ## Procesos Predictivos
 

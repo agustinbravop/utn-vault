@@ -19,7 +19,7 @@ La agilidad NO es:
 
 ## Proceso
 
-El **valor para el negocio** lo determina el cliente $\implies$ es **subjetivo** y es lo más **importante**. Para esto el cliente debe tener claro lo que quiere, y por eso es importante el **feedback continuo**. Ser ágil es usar un [[Modelos de Proceso|ciclo de vida]] **iterativo e incremental** con un [[Procesos de Control|proceso de control]] empírico. Se utiliza en los [[Proyectos Ágiles]].
+El **valor para el negocio** lo determina el cliente $\implies$ es **subjetivo** y es lo más **importante**. Para esto el cliente debe tener claro lo que quiere, y por eso es importante el **feedback continuo**. Ser ágil es usar un [[Ciclo de Vida]] **iterativo e incremental** con un [[Procesos de Control|proceso de control]] empírico. Se utiliza en los [[Proyectos Ágiles]].
 
 ![[Pasted image 20240428160442.png]]
 

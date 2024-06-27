@@ -3,6 +3,8 @@ Las **pruebas** apuntan a **destruir** el software construido $\implies$ mentali
 Premisa principal: **todo software tiene errores** y debemos **encontrar la mayoría posible**. Dado un presupuesto, buscamos encontrar la mejor manera de **detectar la mayor cantidad de errores**.
 
 Incluye el diseño de los [[Casos de Prueba]]. Se pueden **automatizar** con la [[Automatización de Pruebas]]. Se organiza mediante [[Estrategias de Prueba]].
+
+En los [[Proyectos Ágiles]] las pruebas no son una etapa del proyecto, sino que el tester es un **miembro del equipo** siempre presente. Las [[Pruebas]] son una **disciplina y actividad**, no un paso o fase del proyecto.
 ## Principios
 
 1. A las pruebas se les puede hacer un **seguimiento** hasta los **requisitos** del cliente.

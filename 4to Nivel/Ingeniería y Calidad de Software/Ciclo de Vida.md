@@ -1,4 +1,4 @@
-Los modelos de procesos o ciclos de vida son **estructuras generales** para la [[Ingeniería de Software]] que definen las **actividades a realizar** para crear un producto. Son una **receta** que define quién está haciendo qué, cuándo y cómo para alcanzar el objetivo definido.
+Los **modelos de procesos** o ciclos de vida son **estructuras generales** para la [[Ingeniería de Software]] que definen las **actividades a realizar** para crear un producto. Son una **receta** que define quién está haciendo qué, cuándo y cómo para alcanzar el objetivo definido.
 
 Estos modelos especifican **fases** del proceso y un **orden** de ejecución, por lo que la elección del modelo a usar influye en la **gestión** del proyecto, según que tipo de [[Procesos de Control]] son.
 

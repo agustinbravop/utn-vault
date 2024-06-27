@@ -2,8 +2,6 @@
 
 En la [[Agilidad]], se vuelve útil la automatización de pruebas porque se espera realizar **muchos cambios** al software $\implies$ se espera **probar muchas veces** el software. La TA nos **facilita ser ágiles**.
 
-En los [[Proyectos Ágiles]] las pruebas no son una etapa del proyecto, sino que el tester es un **miembro del equipo** siempre presente. Las [[Pruebas]] son una **disciplina y actividad**, no un paso o fase del proyecto.
-
 3 mitos falsos:
 
 - Siempre mejora la calidad del software (no es suficiente).
