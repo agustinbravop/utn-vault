@@ -83,14 +83,11 @@
             "id": "d6c741f5e34702da",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
-                "viewState": {
-                  "x": 229.60080345667149,
-                  "y": 2574.7749795726522,
-                  "zoom": -1.0258901627591177
-                }
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Deuda Técnica.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -141,9 +138,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ccbdde102cbce61",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -180,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ocupante del cargo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 200
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -217,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Deuda Técnica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Deuda Técnica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas"
+                "file": "4to Nivel/Ingeniería y Calidad de Software/Deuda Técnica.md"
               }
             }
           },
@@ -287,11 +294,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6c741f5e34702da",
+  "active": "7ccbdde102cbce61",
   "lastOpenFiles": [
+    "4to Nivel/Ingeniería y Calidad de Software/Disciplinas de la Ingeniería de Software.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Ingeniería de Software.md",
+    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "4to Nivel/Ingeniería y Calidad de Software/Calidad.md",
     "4to Nivel/Ingeniería y Calidad de Software/Punto Historia.md",
-    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "4to Nivel/Ingeniería y Calidad de Software/Auditoría del Desarrollo.md",
     "4to Nivel/Ingeniería y Calidad de Software/Las 4 P.md",
     "4to Nivel/Ingeniería y Calidad de Software/Ciclo de Vida.md",
@@ -315,10 +324,8 @@
     "4to Nivel/Ingeniería y Calidad de Software/Automatización de Pruebas.md",
     "4to Nivel/Ingeniería y Calidad de Software/Test Doubles.md",
     "4to Nivel/Ingeniería y Calidad de Software/Teoría Clásica.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Sistemas de Control de Versiones.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments/Pasted Image 20240624150428_199.jpg",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.svg",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.svg",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240521150613.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428191713.png",

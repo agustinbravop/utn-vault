@@ -4,6 +4,8 @@ En 1968 se reúnen personas para establecer las primeras metodologías de cómo 
 
 > Software engineering is programming integrated over time - Google
 
+[[Historia de la Ingeniería de Software]]. [[Disciplinas de la Ingeniería de Software]].
+
 ## Capas
 
 Según Pressman, la ingeniería se construye sobre ciertas capas, una encima de la otra:
@@ -21,7 +23,3 @@ Comunicación --> Planeación --> Modelado --> Construcción --> Despliegue
 ```
 
 El proceso busca que la ingeniería sea rentable y sostenible en el tiempo y en la escala del proyecto. Existen varios [[Ciclo de Vida]].
-
-### [[Historia de la Ingeniería de Software]]
-
-## [[Disciplinas de la Ingeniería de Software]]
