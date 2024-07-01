@@ -4,153 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "b25dd85578017aaf",
+        "id": "cd1adbe0b1061fbc",
         "type": "tabs",
         "children": [
           {
-            "id": "de57416dd22ceea6",
+            "id": "075929882637130d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "viewState": {
+                  "x": 2838.5786439724907,
+                  "y": 2036.1914035928744,
+                  "zoom": -3.4444441731770827
+                }
+              }
+            }
+          },
+          {
+            "id": "acb7e4ddfa3d16b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Pruebas.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cdf4653a4ffc9a94",
+            "id": "d0eaa89a987dda6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Deuda Técnica.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "677af6c5294b41d1",
+            "id": "4cd2a94ba749af87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Gestión de la Calidad.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Reclutamiento Mixto.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "80407d9c1e76976e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Aseguramiento de la Calidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "501ee25a3667fded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Aseguramiento de la Calidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0c2370ab2ced22f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Calidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6c741f5e34702da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Deuda Técnica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e35376e309d7eda0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Las 4 P.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2420b88a42c33e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/SPICE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c7b7e6622493d41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Calidad del Proceso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5cf677f0d666f2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Calidad del Producto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ccbdde102cbce61",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Deuda Técnica.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Deuda Técnica.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/Deuda Técnica.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
               }
             }
           },
@@ -294,36 +202,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ccbdde102cbce61",
+  "active": "075929882637130d",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
+    "4to Nivel/Administración de Sistemas de Información/Acuerdos de Nivel de Servicio.md",
+    "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
+    "4to Nivel/Administración de Sistemas de Información/Carga de Prueba.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+    "Proceso de Provisión de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/Admisión.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Equipos de Trabajo.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Reclutamiento Externo.md",
+    "4to Nivel/Administración de Sistemas de Información/Reclutamiento Mixto.md",
+    "4to Nivel/Administración de Sistemas de Información/Reclutamiento.md",
+    "4to Nivel/Administración de Sistemas de Información/Reclutamiento Interno.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Medios de Reclutamiento.md",
+    "4to Nivel/Administración de Sistemas de Información/Mercados Laboral y de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
+    "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
+    "4to Nivel/Materias.md",
+    "4to Nivel/Investigación Operativa/Actividades/Tornillos - Planteo de Pg Lineal.md",
+    "4to Nivel/Simulación/TPI/Escenario.md",
+    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "4to Nivel/Ingeniería y Calidad de Software/Disciplinas de la Ingeniería de Software.md",
     "4to Nivel/Ingeniería y Calidad de Software/Ingeniería de Software.md",
-    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "4to Nivel/Ingeniería y Calidad de Software/Calidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Punto Historia.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Auditoría del Desarrollo.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Las 4 P.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Ciclo de Vida.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Procesos de Control.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Gestión de la Configuración.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Modelos de Calidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/CISQ.md",
-    "4to Nivel/Ingeniería y Calidad de Software/ISO-IEC 25010.md",
-    "4to Nivel/Ingeniería y Calidad de Software/SPICE.md",
     "ISO",
-    "4to Nivel/Ingeniería y Calidad de Software/CMMI.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Gestión de la Calidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Aseguramiento de la Calidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Control de la Calidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Factores de la Calidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Deuda Técnica.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Pruebas.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Calidad del Producto.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Calidad del Proceso.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Automatización de Pruebas.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Test Doubles.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Teoría Clásica.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments/Pasted Image 20240624150428_199.jpg",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.svg",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.svg",
@@ -334,10 +245,8 @@
     "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Agile Modelling.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Enfoque Tavistock.png",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Pasted image 20240428185529.png",
     "desktop.ini",
     "4to Nivel/Investigación Operativa/desktop.ini",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "Excalidraw/attachments",
     "New Text Document.txt",
     "4to Nivel/Investigación Operativa/Actividades",

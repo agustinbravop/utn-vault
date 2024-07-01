@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"1622bf535e947d86","type":"file","file":"4to Nivel/Administración de Sistemas de Información/Racionalidad.md","x":80,"y":-560,"width":400,"height":400},
+		{"id":"cc1fedec827ffa5c","x":80,"y":-60,"width":400,"height":400,"type":"file","file":"4to Nivel/Administración de Sistemas de Información/Eficiencia y Eficacia.md"},
+		{"id":"9ce3f1cd4fce186a","type":"file","file":"4to Nivel/Administración de Sistemas de Información/Enfoque Tavistock.md","x":-420,"y":-560,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ab5cd2346b154d65","fromNode":"1622bf535e947d86","fromSide":"bottom","toNode":"cc1fedec827ffa5c","toSide":"top"}
+	]
+}

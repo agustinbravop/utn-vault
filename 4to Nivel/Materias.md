@@ -1,16 +1,16 @@
 Obligatorias:
 
-- Administración de Sistemas de Información
-- Ingeniería y Calidad de Software
-- Simulación
-- Investigación Operativa
-- Legislación
-- Tecnologías para la Automatización
-- Redes
+1. Administración de Sistemas de Información
+2. Ingeniería y Calidad de Software
+3. Simulación
+4. Investigación Operativa
+5. Legislación
+6. Tecnologías para la Automatización
+7. Redes de Datos
 
 Electivas:
 
-- Agilidad Avanzada
-- Aspectos Avanzados de la Calidad de Software
-- Análisis de Datos Empresariales
-- Sistemas de Información Geográficos
+1. Agilidad Avanzada
+2. Aspectos Avanzados de la Calidad de Software
+3. Análisis de Datos Empresariales
+4. Sistemas de Información Geográficos

@@ -25,7 +25,7 @@ Una buena planificación de la capacidad, puede al menos minimizar el ajuste de 
 
 La **capacidad adecuada** para dar soporte a la operación de una instalación del sistema es función de tres elementos:
 
-1. Los **[[Acuerdos de Nivel de Servicio]]** o SLAs. Son umbrales de productividad, rendimiento y de disponibilidad exigidos y pactados que se deben garantizar. La **calidad de servicio** o **_QoS_** se puede cuantificar mediante la deficiencia de la calidad: $$Desviación QoS=\frac{QoSConseguida-QoSDeseada}{QoSDeseada}$$
+1. El **[[Acuerdo de Nivel de Servicio]]** o **SLA**. Son umbrales de productividad, rendimiento y de disponibilidad exigidos y pactados que se deben garantizar. La **calidad de servicio** o **_QoS_** se puede cuantificar mediante la deficiencia de la calidad: $$Desviación QoS=\frac{QoSConseguida-QoSDeseada}{QoSDeseada}$$
 2. La **arquitectura del sistema**: se puede cumplir los niveles usando dispositivos y subsistemas distintos. Esto depende de las exigencias del aplicativo, de la experiencia en la explotación, de la facilidad de administración u otros motivos no necesariamente relacionados al rendimiento.
 3. El **presupuesto**: los costos restringen la capacidad de la que se puede disponer. Hay costos de **arranque** (compra, instalación, formación inicial) y de **operación** (mantenimiento, ambientales).
 

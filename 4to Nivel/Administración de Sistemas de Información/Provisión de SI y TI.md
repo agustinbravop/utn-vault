@@ -6,7 +6,7 @@ Consiste en la obtención del software y hardware necesario para el sistema info
 
 ## Proceso
 
-![[Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw]]
+![[Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.svg]]
 
 Se parte de la **especificación del problema** con las **estrategias y cartera de aplicaciones** definidas gracias a la planificación estratégica de SI/TI. Luego se define el **SW** (si será desarrollo interno o externo) y qué infraestructura de **HW** necesita. Se **evalúan** las **alternativas existentes** con un **puntaje** a partir del cual se define la **selección** para posterior **obtención**.
 
