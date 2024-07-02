@@ -4,25 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "7bc95bd2a9424269",
+        "id": "2a0b57d2bc450647",
         "type": "tabs",
         "children": [
           {
-            "id": "bdce468c223464e5",
+            "id": "74a107a333a23c5a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-                "viewState": {
-                  "x": 10766.316614200474,
-                  "y": 4468.848075789255,
-                  "zoom": -3.333333129882812
-                }
+                "file": "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80b0436a656faf4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Rendimiento de un SI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c5c5b77a5d8ee79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Ley de Amdahl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aec117b5516454a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Monitorización.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56a24f61b46e499e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Rendimiento de un SI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1708151d748edf23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "file": "4to Nivel/Administración de Sistemas de Información/Ley de Amdahl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "file": "4to Nivel/Administración de Sistemas de Información/Ley de Amdahl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
+                "file": "4to Nivel/Administración de Sistemas de Información/Ley de Amdahl.md"
               }
             }
           },
@@ -166,35 +224,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bdce468c223464e5",
+  "active": "5c5c5b77a5d8ee79",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
-    "4to Nivel/Administración de Sistemas de Información/Compensaciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Remuneración Fija.md",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Mantenimiento de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Plan de Carrera.md",
-    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Entrenamiento.md",
-    "4to Nivel/Administración de Sistemas de Información/Cultura Organizacional.md",
-    "4to Nivel/Administración de Sistemas de Información/Remuneración Variable.md",
-    "4to Nivel/Administración de Sistemas de Información/Beneficios Sociales.md",
-    "4to Nivel/Administración de Sistemas de Información/Clima Organizacional.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Ley de Amdahl.png",
+    "4to Nivel/Administración de Sistemas de Información/Rendimiento de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Ley de Amdahl.md",
+    "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
+    "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Monitorización.md",
+    "4to Nivel/Administración de Sistemas de Información/Evaluación de las Prestaciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Seguimiento de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
     "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Higiene y Seguridad.md",
-    "4to Nivel/Administración de Sistemas de Información/Higiene Laboral.md",
-    "4to Nivel/Administración de Sistemas de Información/Seguridad Laboral.md",
-    "4to Nivel/Administración de Sistemas de Información/Seguridad e Higiene.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Compensaciones 2024-07-02 00.00.43.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Movimientos de Personal.md",
+    "4to Nivel/Administración de Sistemas de Información/Seguimiento de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Prestaciones de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Ingeniería y Calidad de Software/Ciclo de Vida.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría de la Función de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
+    "4to Nivel/Administración de Sistemas de Información/Proceso de Control.md",
+    "4to Nivel/Administración de Sistemas de Información/Untitled.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistema de Roles.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Sistema de Roles 2024-05-05 00.01.09.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Sistema de Roles 2024-05-05 00.01.09.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/Evaluación del Desempeño.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Administración por Excepción.png",
+    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Compensaciones 2024-07-02 00.00.43.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/Política Salarial.md",
-    "4to Nivel/Administración de Sistemas de Información/Investigación Salarial.md",
-    "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md",
-    "4to Nivel/Administración de Sistemas de Información/Evaluación de Cargos.md",
-    "4to Nivel/Administración de Sistemas de Información/Desarrollo de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Desarrollo Interno de SW.md",
     "desktop.ini",
     "4to Nivel/Administración de Sistemas de Información/attachments/Plan de Carrera 2024-07-01 16.09.27.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505213856.png",
@@ -202,11 +263,8 @@
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506002636.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003335.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Patrones de datos históricos de la carga.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Plan de Carrera 2024-07-01 16.09.27.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Plan de Carrera 2024-07-01 16.05.30.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
-    "attachments/Ciclo del Entrenamiento.png",
-    "attachments/Proceso del entrenamiento.png",
     "attachments",
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "ISO",

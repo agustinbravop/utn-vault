@@ -34,19 +34,19 @@ Si un programa de evaluación del desempeño está bien planeado, proporciona be
 
 La responsabilidad de evaluar el desempeño depende de la política de RRHH adoptada por la organización. Cada alternativa implica una filosofía de acción distinta. El responsable puede ser el:
 
-- **Gerente**: mantiene su **autoridad de línea**, y la [[Administración de Recursos Humanos]] asiste como función de staff.
-- **Empleado**: **autoevaluación** en organizaciones más democráticas.
-- **Empleado y gerente**: esquema **dinámico** y avanzado con una serie de pasos:
-  1.  Formulación de objetivos por consenso: negociación por sobre imposición.
-  2.  Compromiso personal en la consecución de los objetivos: el evaluado se compromete a alcanzar los objetivos.
-  3.  Actuación y negociación con el gerente en la asignación de recursos y medios necesarios para alcanzar los objetivos: sino, los objetivos serían inalcanzables.
-  4.  Desempeño: comportamiento y estrategia individual del evaluado para lograr objetivos.
-  5.  Medición constante de los resultados y comparación con los objetivos fijados.
-  6.  Retroalimentación intensiva y medición conjunta continua: relación esfuerzo-resultado.
-- **Equipo de trabajo**: los [[Equipos de Trabajo]] responden por la evaluación de sus miembros y fijan sus **propias metas**.
-- **Órgano de gestión de personal**: proceso **centralizado** que exige reglas y normas burocráticas. Se enfoca en lo **genérico** y no en lo particular.
-- **Comité de evaluación**: la evaluación es **colectiva** y realizada por un grupo de personas. Es centralizada y tiene un espíritu de juzgamiento por sobre orientación y mejoramiento.
-- **Evaluador de 360°**: cada persona es evaluada por las personas de su **entorno** con las que interactúa. Refleja distintos **puntos de vista** (supervisor, colegas, clientes, órgano de RRHH).
+1. **Gerente**: mantiene su **autoridad de línea**, y la [[Administración de Recursos Humanos]] asiste como función de staff.
+2. **Empleado**: **autoevaluación** en organizaciones más democráticas.
+3. **Empleado y gerente**: esquema **dinámico** y avanzado con una serie de pasos:
+   1. Formulación de objetivos por consenso: negociación por sobre imposición.
+   2. Compromiso personal en la consecución de los objetivos: el evaluado se compromete a alcanzar los objetivos.
+   3. Actuación y negociación con el gerente en la asignación de recursos y medios necesarios para alcanzar los objetivos: sino, los objetivos serían inalcanzables.
+   4. Desempeño: comportamiento y estrategia individual del evaluado para lograr objetivos.
+   5. Medición constante de los resultados y comparación con los objetivos fijados.
+   6. Retroalimentación intensiva y medición conjunta continua: relación esfuerzo-resultado.
+4. **Equipo de trabajo**: los [[Equipos de Trabajo]] responden por la evaluación de sus miembros y fijan sus **propias metas**.
+5. **Órgano de gestión de personal**: proceso **centralizado** que exige reglas y normas burocráticas. Se enfoca en lo **genérico** y no en lo particular.
+6. **Comité de evaluación**: la evaluación es **colectiva** y realizada por un grupo de personas. Es centralizada y tiene un espíritu de juzgamiento por sobre orientación y mejoramiento.
+7. **Evaluador de 360°**: cada persona es evaluada por las personas de su **entorno** con las que interactúa. Refleja distintos **puntos de vista** (supervisor, colegas, clientes, órgano de RRHH).
 
 ## Métodos Tradicionales
 

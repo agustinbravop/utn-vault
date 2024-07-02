@@ -7,7 +7,7 @@ $$Rol = Funciones + Comportamiento$$
 
 El **desempeño** del rol es la persona actuando acorde a su rol asignado. Este desempeño recibe muchas influencias. Por ejemplo: cuando un jefe que asigna un rol a su empleado, hay **discrepancias** entre la **expectativa** del jefe y el **desempeño** del empleado.
 
-![[Sistema de Roles 2024-05-05 00.01.09.excalidraw]]
+![[Sistema de Roles 2024-05-05 00.01.09.excalidraw.svg]]
 
 Las discrepancias son:
 

@@ -4,5 +4,6 @@ Dado que los sistemas se proveen de los [[Recursos Organizacionales]] para utili
 
 Sus subsistemas son:
 
-- [[Provisión de SI y TI]].
-- [[Aplicación de SI y TI]].
+1. [[Provisión de SI y TI]].
+2. [[Aplicación de SI y TI]].
+3. [[Seguimiento de SI y TI]].

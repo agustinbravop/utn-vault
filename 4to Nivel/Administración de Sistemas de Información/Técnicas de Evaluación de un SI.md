@@ -1,14 +1,10 @@
-Las **técnicas de evaluación** son métodos y herramientas que permiten **obtener los índices de prestaciones de un sistema** que está ejecutando una [[Carga de Trabajo]] dada y con unos valores determinados de **parámetros** del sistema.
+Las **técnicas** de [[Evaluación de las Prestaciones]] son métodos y herramientas que permiten **obtener los índices de prestaciones de un sistema** que está ejecutando una [[Carga de Trabajo]] dada y con unos valores determinados de los **parámetros** del sistema.
 
 Las técnicas se clasifican en tres tipos:
 
-- Monitorización.
-- Modelado.
-- Benchmarking.
-
-## Monitorización
-
-Son herramientas de **medición** para el **seguimiento** del comportamiento de los principales elementos de un SI cuando está sometido a una carga de trabajo dada. Son imprescindibles para **tomar mediciones** con las que evaluar el comportamiento de un **sistema existente**.
+- [[Monitorización]].
+- [[Modelado]].
+- [[Benchmarking]].
 
 ## Modelado
 

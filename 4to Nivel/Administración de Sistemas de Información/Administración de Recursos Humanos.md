@@ -23,7 +23,7 @@ Presenta cinco **procesos o subsistemas** básicos:
 | [[Aplicación de RRHH]]    | Qué harán las personas en la organización      | Integración de personas, diseño de cargos, descripción y análisis de cargos, evaluación del desempeño.    |
 | [[Mantenimiento de RRHH]] | Cómo mantenerlas trabajando en la organización | Remuneración y compensación, beneficios y servicios sociales, higiene y seguridad, relaciones sindicales. |
 | [[Desarrollo de RRHH]]    | Cómo prepararlas y desarrollarlas              | Capacitación, desarrollo de personas, desarrollo organizacional.                                          |
-| Seguimiento y Control     | Cómo saber quiénes son y qué hacen             | Base de datos o sistemas de información, controles-frecuencia-productividad-balance social.               |
+| [[Seguimiento de RRHH]]   | Cómo saber quiénes son y qué hacen             | Base de datos o sistemas de información, controles-frecuencia-productividad-balance social.               |
 
 Estos procesos subsistemas son estrechamente **interdependientes e interrelacionados**, de manera que cualquier cambio producido en uno de ellos influye en los demás. Constituyen un **proceso global y dinámico** que cumple los **objetivos de la ARH**. El proceso puede no darse en este orden ya que cada subsistema es contingencial y dependen de factores ambientales, organizacionales, tecnológicos, humanos, etc.
 

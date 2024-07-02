@@ -8,31 +8,31 @@ Cada proceso o subsistema de la [[Administración de Recursos Humanos]] tiene su
 
 ### Políticas de [[Provisión de RRHH]]
 
-- Dónde, cómo y en qué condiciones **reclutar** los recursos humanos requeridos.
-- Criterios de **selección** y estándares de calidad para la **admisión**.
-- Cómo **integrar** los nuevos miembros al ambiente interno de la organización.
+1. Dónde, cómo y en qué condiciones **reclutar** los recursos humanos requeridos.
+2. Criterios de **selección** y estándares de calidad para la **admisión**.
+3. Cómo **integrar** los nuevos miembros al ambiente interno de la organización.
 
 ### Políticas de [[Aplicación de RRHH]]
 
-- Cómo determinar los **requisitos básicos** de la fuerza laboral.
-- Criterios de **planeación, distribución** y traslado interno de recursos humanos.
-- Criterios de **evaluación de la calidad** y la adecuación de los recursos humanos.
+1. Cómo determinar los **requisitos básicos** de la fuerza laboral.
+2. Criterios de **planeación, distribución** y traslado interno de recursos humanos.
+3. Criterios de **evaluación de la calidad** y la adecuación de los recursos humanos.
 
-### Políticas de Mantenimiento
+### Políticas de [[Mantenimiento de RRHH]]
 
-- Criterios de **remuneración directa**: evaluación del cargo y salarios.
-- Criterios de **remuneración indirecta**: programas de beneficios sociales.
-- Cómo **mantener motivada** la fuerza laboral en un [[Clima Organizacional]] adecuado.
-- Criterios de **higiene y seguridad** relativos a las condiciones físicas ambientales.
-- Buenas **relaciones con sindicatos** y representantes del personal.
+1. Criterios de **remuneración directa**: evaluación del cargo y salarios.
+2. Criterios de **remuneración indirecta**: programas de beneficios sociales.
+3. Cómo **mantener motivada** la fuerza laboral en un [[Clima Organizacional]] adecuado.
+4. Criterios de **higiene y seguridad** relativos a las condiciones físicas ambientales.
+5. Buenas **relaciones con sindicatos** y representantes del personal.
 
-### Políticas de Desarrollo
+### Políticas de [[Desarrollo de RRHH]]
 
-- Criterios de **diagnóstico** y programación de preparación y rotación constante del personal.
-- Criterios de **desarrollo continuo** a mediano y largo plazo del potencial humano en posiciones gradualmente elevadas.
-- Creación y desarrollo de condiciones capaces de garantizar la **excelencia organizacional**.
+1. Criterios de **diagnóstico** y programación de preparación y rotación constante del personal.
+2. Criterios de **desarrollo continuo** a mediano y largo plazo del potencial humano en posiciones gradualmente elevadas.
+3. Creación y desarrollo de condiciones capaces de garantizar la **excelencia organizacional**.
 
-### Políticas de Control
+### Políticas de [[Seguimiento de RRHH]]
 
-- Cómo mantener una **base de datos** para realizar los análisis cuantitativo y cualitativo de la fuerza laboral disponible.
-- Criterios para mantener **auditoría** permanente a la aplicación y adecuación de políticas y procedimientos relacionados con los recursos humanos.
+1. Cómo mantener una **base de datos** para realizar los análisis cuantitativo y cualitativo de la fuerza laboral disponible.
+2. Criterios para mantener **auditoría** permanente a la aplicación y adecuación de políticas y procedimientos relacionados con los recursos humanos.

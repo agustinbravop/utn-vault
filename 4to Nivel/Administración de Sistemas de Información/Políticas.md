@@ -8,4 +8,4 @@ En particular nos interesan las [[Políticas de Recursos Humanos]] para la [[Adm
 
 A partir de las políticas pueden definirse **procedimientos a implantar**, los cuales son **caminos de acción predeterminados** para orientar el desempeño de las operaciones y actividades, teniendo en cuenta los objetivos de la organización.
 
-Los procedimientos son un plan permanente para orientar a las personas en la ejecución de sus tareas y dar coherencia a la realización de las actividades. Aseguran un trato equitativo a todos los miembros y un tratamiento uniforme a todas las situaciones.
+Los procedimientos son un **plan permanente** para orientar a las personas en la ejecución de sus tareas y dar coherencia a la realización de las actividades. Aseguran un **trato equitativo** a todos los miembros y un tratamiento **uniforme** a todas las situaciones.
