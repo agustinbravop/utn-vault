@@ -8,9 +8,10 @@ Afecta actitudes, intereses y motivaciones de las personas. **Refuerza conductas
 
 Leyes del aprendizaje para su [[Eficiencia y Eficacia]]:
 
-1. Efecto: repetir el comportamiento que produce resultados.
-2. Estímulo: usar incentivos y recompensas.
-3. Intensidad.
-4. Frecuencia: refuerzo constante.
-5. Continuidad: requiere constancia.
-6. Descongelamiento:
+1. **Efecto**: repetir el comportamiento que produce resultados.
+2. **Estímulo**: usar incentivos y recompensas.
+3. **Intensidad**.
+4. **Frecuencia**: refuerzo constante.
+5. **Continuidad**: requiere constancia.
+6. **Descongelamiento**: sustituir lo viejo por lo nuevo.
+7. **Complejidad creciente**: ir de lo sencillo a lo complejo, de lo concreto a lo abstracto.
