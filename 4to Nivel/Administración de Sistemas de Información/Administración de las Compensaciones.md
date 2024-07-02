@@ -1,8 +1,12 @@
 La administración de las [[Compensaciones]] es un **sistema de recompensas y castigos** con el fin de **limitar el comportamiento** de las personas y operar dentro de ciertos estándares. Se busca garantizar la **estabilidad** en el [[Cargo]].
 
-Es un conjunto de normas y procedimientos tendientes a establecer y mantener estructuras de salarios equitativas y justas, con relación a los salarios de otros cargos de la organización (**equilibrio interno**) y de mismos cargos en otras empresas (**equilibrio externo**).
+Es un conjunto de normas y procedimientos tendientes a establecer y mantener **estructuras** de salarios equitativas y justas, con relación a los salarios de otros cargos de la organización (**equilibrio interno**) y de mismos cargos en otras empresas (**equilibrio externo**).
 
-3 principios:
+Es también un **sistema de incentivos y recompensas** que la organización establece para recompensar a las personas que trabajan en ella.
+
+## Recompensas y Castigos
+
+Se fundamenta en 3 **principios**:
 
 1. Retroalimentación del **comportamiento deseado**.
 2. Concatenación con los **resultados esperados**.
@@ -25,7 +29,7 @@ Se debe compensar la **contribución** a las 3 actividades, no solo a los objeti
 
 ## Implicancias Legales
 
-Las compensaciones se ven acotadas por las implicancias legales de la legislación pertinente. Las remuneraciones se ven estrechamente relacionadas con el estado financiero de la empresa. La legislación argentina hace que los costos salariales sean **costos fijos**.
+Las compensaciones se ven acotadas por las implicancias legales de la legislación pertinente. La [[Remuneración Fija]] se ve estrechamente relacionada con el estado financiero de la empresa. La legislación argentina hace que los costos salariales sean **costos fijos**.
 
 En Argentina hay 3 principios:
 

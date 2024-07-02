@@ -22,7 +22,7 @@ Cada proceso o subsistema de la [[Administración de Recursos Humanos]] tiene su
 
 - Criterios de **remuneración directa**: evaluación del cargo y salarios.
 - Criterios de **remuneración indirecta**: programas de beneficios sociales.
-- Cómo **mantener motivada** la fuerza laboral en un clima organizacional adecuado.
+- Cómo **mantener motivada** la fuerza laboral en un [[Clima Organizacional]] adecuado.
 - Criterios de **higiene y seguridad** relativos a las condiciones físicas ambientales.
 - Buenas **relaciones con sindicatos** y representantes del personal.
 

@@ -21,13 +21,12 @@ La evaluación del cargo es una **recomendación de staff**. Tiene un **objetivo
 
 ## Clasificación de Cargos
 
-**Agrupar los cargos** en clases facilita la [[Administración de Compensaciones]] y permite hacer un **tratamiento genérico** a cada clase de cargo.
+**Agrupar los cargos** en clases facilita la [[Administración de las Compensaciones]] y permite hacer un **tratamiento genérico** a cada clase de cargo.
 
 Criterios de clasificación:
 
-1. Por puntos: clases determinadas por intervalos de puntos.
-3. Por cargos de carrera: secretario I, secretario II, secretario III.
-4. Por grupo ocupacional: ingeniero civil, ingeniero electricista, ingeniero químico.
-5. Por área de servicio: tesorero, contador, cajero.
-6. Por categoría: desarrollador junior, desarrollador senior, desarrollador bilingüe.
-
+1. **Por puntos**: clases determinadas por intervalos de puntos.
+3. **Por cargos de carrera**: secretario I, secretario II, secretario III.
+4. **Por grupo ocupacional**: ingeniero civil, ingeniero electricista, ingeniero químico.
+5. **Por área de servicio**: tesorero, contador, cajero.
+6. **Por categoría**: desarrollador junior, desarrollador senior, desarrollador bilingüe.

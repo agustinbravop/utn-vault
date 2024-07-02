@@ -6,7 +6,7 @@ Objetivos:
 
 1. Preparar para el **cargo**: reducir la **diferencia** entre el desempeño actual y el futuro.
 2. Dar **oportunidades** para el desarrollo continuo (no solo en el cargo actual).
-3. Cambiar la **actitud** de las personas: mejorar la motivación y el clima organizacional.
+3. Cambiar la **actitud** de las personas: mejorar la motivación y el [[Clima Organizacional]].
 
 Es una **responsabilidad de línea** y una **función de *staff***.
 

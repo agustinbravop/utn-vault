@@ -4,71 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8c49a7d7b8b3803b",
+        "id": "7bc95bd2a9424269",
         "type": "tabs",
         "children": [
           {
-            "id": "2cda832cd550f5f4",
+            "id": "bdce468c223464e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Administración de Compensaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81de333733213405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Evaluación de Cargos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a872fca35e5dce72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Política Salarial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36863ef3eccedef9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Compensaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f78acba8bb9fc832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Movimientos de Personal.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "viewState": {
+                  "x": 10766.316614200474,
+                  "y": 4468.848075789255,
+                  "zoom": -3.333333129882812
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Aprendizaje",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Política Salarial.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Política Salarial.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Política Salarial.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
               }
             }
           },
@@ -212,17 +166,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a872fca35e5dce72",
+  "active": "bdce468c223464e5",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Investigación Salarial.md",
-    "4to Nivel/Administración de Sistemas de Información/Política Salarial.md",
-    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Evaluación de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
     "4to Nivel/Administración de Sistemas de Información/Compensaciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Compensaciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Remuneración Fija.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
     "4to Nivel/Administración de Sistemas de Información/Mantenimiento de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Plan de Carrera.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Entrenamiento.md",
+    "4to Nivel/Administración de Sistemas de Información/Cultura Organizacional.md",
+    "4to Nivel/Administración de Sistemas de Información/Remuneración Variable.md",
+    "4to Nivel/Administración de Sistemas de Información/Beneficios Sociales.md",
+    "4to Nivel/Administración de Sistemas de Información/Clima Organizacional.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Higiene y Seguridad.md",
+    "4to Nivel/Administración de Sistemas de Información/Higiene Laboral.md",
+    "4to Nivel/Administración de Sistemas de Información/Seguridad Laboral.md",
+    "4to Nivel/Administración de Sistemas de Información/Seguridad e Higiene.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Compensaciones 2024-07-02 00.00.43.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Movimientos de Personal.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Compensaciones 2024-07-02 00.00.43.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/Política Salarial.md",
+    "4to Nivel/Administración de Sistemas de Información/Investigación Salarial.md",
+    "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md",
+    "4to Nivel/Administración de Sistemas de Información/Evaluación de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Desarrollo de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Desarrollo Interno de SW.md",
+    "desktop.ini",
     "4to Nivel/Administración de Sistemas de Información/attachments/Plan de Carrera 2024-07-01 16.09.27.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505213856.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506002143.png",
@@ -230,33 +203,14 @@
     "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240506003335.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Patrones de datos históricos de la carga.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Plan de Carrera 2024-07-01 16.09.27.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Plan de Carrera 2024-07-01 16.05.30.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Plan de Carrera 2024-07-01 16.05.30.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/Desarrollo de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
-    "4to Nivel/Administración de Sistemas de Información/Desarrollo Organizacional.md",
-    "4to Nivel/Administración de Sistemas de Información/Cambio Organizacional.md",
-    "4to Nivel/Administración de Sistemas de Información/Cultura Organizacional.md",
-    "4to Nivel/Administración de Sistemas de Información/Aprendizaje.md",
-    "4to Nivel/Administración de Sistemas de Información/Acuerdo de Nivel de Servicio.md",
-    "README.md",
-    "index.md",
-    "4to Nivel/Administración de Sistemas de Información/Inventario de Necesidades de Entrenamiento.md",
-    "Untitled.md",
-    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Aplicación de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Aplicación de SI y TI.md",
-    "4to Nivel/Administración de Sistemas de Información/Entrenamiento.md",
     "attachments/Ciclo del Entrenamiento.png",
     "attachments/Proceso del entrenamiento.png",
     "attachments",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.svg",
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "ISO",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments",
-    "desktop.ini",
     "4to Nivel/Investigación Operativa/desktop.ini",
     "Excalidraw/attachments",
     "New Text Document.txt",
