@@ -1,4 +1,4 @@
-En el subsistema de [[Aplicación de SI y TI]], para evaluar correctamente las prestaciones de un SI, la [[Carga de Trabajo]] debe ser cuidadosamente seleccionada. La [[Carga de Trabajo#Carga de Prueba|carga de prueba]] es la carga utilizada en la [[Evaluación de las Prestaciones]]. Esta carga puede ser _real_ o _sintética_.
+En el subsistema de [[Aplicación de SI y TI]], para evaluar correctamente las prestaciones de un SI, la [[Carga de Trabajo]] debe ser cuidadosamente seleccionada. La [[Carga de Prueba]] es la carga utilizada en la [[Evaluación de las Prestaciones]]. Esta carga puede ser _real_ o _sintética_.
 
 ## Magnitudes que Caracterizan la Carga
 
