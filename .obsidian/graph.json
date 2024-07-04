@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "- path: Excalidraw, path: \"4to Nivel/Administración de Sistemas de Información\"  ",
+  "search": "- path: Excalidraw, - file: *.excalidraw, path: \"4to Nivel/Administración de Sistemas de Información\" ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 320,
-  "scale": 0.47888815587391326,
-  "close": true
+  "scale": 0.2726860479721044,
+  "close": false
 }

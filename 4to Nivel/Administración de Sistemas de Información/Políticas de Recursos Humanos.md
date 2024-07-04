@@ -26,6 +26,8 @@ Cada proceso o subsistema de la [[Administración de Recursos Humanos]] tiene su
 4. Criterios de **higiene y seguridad** relativos a las condiciones físicas ambientales.
 5. Buenas **relaciones con sindicatos** y representantes del personal.
 
+[[Política Salarial]].
+
 ### Políticas de [[Desarrollo de RRHH]]
 
 1. Criterios de **diagnóstico** y programación de preparación y rotación constante del personal.

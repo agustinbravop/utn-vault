@@ -4,59 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "98f577f66977b43e",
+        "id": "9439153e2bd64859",
         "type": "tabs",
         "children": [
           {
-            "id": "e1ce26f6c1e94df6",
+            "id": "1781c809a9dd3e07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Evaluación de las Prestaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddb4c19d32c1e4f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f488a6789d00987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8d0fcbd9378d123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Benchmark.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "viewState": {
+                  "x": 10828.096159685852,
+                  "y": 1442.5167705221804,
+                  "zoom": -1.206456164764913
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
               }
             }
           },
@@ -200,13 +166,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f488a6789d00987",
+  "active": "a5a650c066f2c957",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
     "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
+    "4to Nivel/Administración de Sistemas de Información/Política Salarial.md",
+    "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
+    "4to Nivel/Administración de Sistemas de Información/Evaluación de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Evaluación de las Prestaciones.md",
     "4to Nivel/Administración de Sistemas de Información/Auditoría de la Función de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Seguimiento de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Administración de Sistemas de Información/Carga de Prueba.md",
     "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
     "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
@@ -214,7 +185,6 @@
     "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Sintonización de un Sistema.png",
     "4to Nivel/Administración de Sistemas de Información/Cuellos de Botella.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Detección y Eliminación de Cuellos de Botella.png",
-    "4to Nivel/Administración de Sistemas de Información/Evaluación de las Prestaciones.md",
     "4to Nivel/Administración de Sistemas de Información/Cultura Organizacional.md",
     "4to Nivel/Administración de Sistemas de Información/Desarrollo de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Benchmarking.md",
@@ -229,11 +199,7 @@
     "4to Nivel/Administración de Sistemas de Información/attachments/Monitor 2024-07-02 18.55.32.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/Sistemas Interactivos.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Estación de servicio para el análisis operacional.png",
-    "4to Nivel/Administración de Sistemas de Información/Prestaciones de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Rendimiento de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Ley de Amdahl.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Ley de Amdahl.png",
-    "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Sistema de Roles 2024-05-05 00.01.09.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/attachments/Administración por Excepción.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Compensaciones 2024-07-02 00.00.43.excalidraw.svg",

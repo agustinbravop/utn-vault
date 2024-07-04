@@ -1,19 +1,21 @@
 Es el proceso de **analizar y comparar** el contenido de cada [[Cargo]] de la organización para colocarlos en un **orden de jerarquización** que sirva de base a un sistema de [[Compensaciones]]. Significa determinar el **valor relativo** de cada cargo.
 
-La importancia de cada puesto depende de:
+La **importancia** de cada puesto depende de:
 
-- La carga de tareas (dimensión cuantitativa), y
-- El impacto de las tareas en los resultados globales (dimensión cuantitativa)
+- La **carga** de tareas (dimensión cuantitativa), y
+- El **impacto** de las tareas en los resultados globales (dimensión cuantitativa).
+
+$$Importancia \ del \ cargo = Carga \ de \ tareas + Impacto \ en \ resultados \ globales$$
 
 ## Métodos de Evaluación
 
 El punto de partida es obtener información del cargo mediante el [[Análisis de Cargos]].
 
-| Base de Comparación | Comparación No Cuantitativa | Comparación Cuantitativa    |
-| ------------------- | --------------------------- | --------------------------- |
-| Cargo como un todo  | Cargo como un todo          | Partes del cargo o factores |
-| Cargo vs cargo      | Jerarquización de cargos    | Comparación por factores    |
-| Cargo vs escala     | Categorías predeterminadas  | Evaluación por puntos       |
+| Comparación Básica | Comparación No Cuantitativa | Comparación Cuantitativa    |
+| ------------------ | --------------------------- | --------------------------- |
+| Cargo como un todo | Cargo como un todo          | Partes del cargo o factores |
+| Cargo vs cargo     | Jerarquización de cargos    | Comparación por factores    |
+| Cargo vs escala    | Categorías predeterminadas  | Evaluación por puntos       |
 
 ### Comité de Evaluación
 
