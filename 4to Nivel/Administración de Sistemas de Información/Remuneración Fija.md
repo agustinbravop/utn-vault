@@ -7,6 +7,7 @@ Un **sistema de remuneración** consta de tres aspectos:
 3. **Vincular con las personas**: según la **importancia** del puesto y el **desempeño** del ocupante.
 
 Se compone de la administración de remuneraciones y de [[Beneficios Sociales]] (y servicios sociales).
+
 ## Salario
 
 El **salario** es la retribución con **valor monetario** que el empleador paga al empleado por el [[Cargo]] que ejerce, y por los servicios que presta, en cierto período de tiempo. Puede ser:

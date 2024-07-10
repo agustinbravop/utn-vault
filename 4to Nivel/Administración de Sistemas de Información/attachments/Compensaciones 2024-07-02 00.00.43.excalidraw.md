@@ -6,7 +6,9 @@ tags: [excalidraw]
 ==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Excalidraw Data
+
 ## Text Elements
+
 Miembro ^f1EqtFaJ
 
 Organización ^WtqJY7mc
@@ -16,7 +18,9 @@ contribuciones ^IjcxgI2O
 recompensas ^oxCV5LRj
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTiAdho6IIR9BA4oZm4AbXAwUDAi6HhxdEDsKI5lYOSiyEYWdi40HgBmfmLG1k4AOU4xbgBGBIBOAAYhngAOADYEhM7IQg5i
 
@@ -54,4 +58,5 @@ SVwujaYejyUBTGSuS0hlTMh8UKZxTNSoAkS0g2VVjgCFjyTFStSUTZcVcTMQgdiNSrSjTkSuxld5cHS/
 
 BAgzBhBmACJDViBqz6jsCHsME/ZK5DVkd6dUdjVNBggIJaD5UiBJMaDriWjjVfinU7yuRvYhIrjg4Cy7AI9DishERjU4BDw2A1g3TcAzzmjwBFIHt4R/9H1qIWwgA===
 ```
+
 %%

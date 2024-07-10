@@ -1,4 +1,4 @@
->**La calidad no cuesta**. Lo que cuesta dinero son las cosas sin calidad, todas las acciones que resultan de no hacer bien las cosas la primera vez.
+> **La calidad no cuesta**. Lo que cuesta dinero son las cosas sin calidad, todas las acciones que resultan de no hacer bien las cosas la primera vez.
 
 Falta de [[Calidad]] $\implies$difícil mantenibilidad $\implies$**cae la productividad** $\implies$se **disparan los costos**.
 

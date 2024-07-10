@@ -1,5 +1,6 @@
-Los ***story points*** o puntos historia son una herramienta que hacen a la [[Estimación]] parte de las [[Historias de Usuario]]. Es el **esfuerzo ideal** medido en jornadas. Considera:
-- La ***complejidad*** de la tarea, que es **subjetiva** al equipo.
+Los **_story points_** o puntos historia son una herramienta que hacen a la [[Estimación]] parte de las [[Historias de Usuario]]. Es el **esfuerzo ideal** medido en jornadas. Considera:
+
+- La **_complejidad_** de la tarea, que es **subjetiva** al equipo.
 - La cantidad de **esfuerzo necesario** para lograr completarla.
 - El **riesgo** inherente a la HU.
 

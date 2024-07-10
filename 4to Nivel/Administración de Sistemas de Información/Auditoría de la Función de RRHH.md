@@ -5,11 +5,11 @@ Su finalidad es verificar el desempeño de la [[Administración de Recursos Huma
 ¿Qué evalúa la auditoria de RRHH?
 
 1. **Inspección y verificación** de las funciones de personal llevadas a cabo por:
-	- El **área de RRHH** (*staff*).
-	- Los **gerentes de línea**. Determina cómo llevan a cabo sus funciones de personal y en qué medida cumplen con las políticas y procedimientos.
+   - El **área de RRHH** (_staff_).
+   - Los **gerentes de línea**. Determina cómo llevan a cabo sus funciones de personal y en qué medida cumplen con las políticas y procedimientos.
 2. Auditoría del **nivel de satisfacción de los empleados**.
 
- La auditoría no solo señala problemas, sino que presenta **sugerencias**. Juega un papel **educativo**.
+La auditoría no solo señala problemas, sino que presenta **sugerencias**. Juega un papel **educativo**.
 
 Algunas empresas contratan un consultor externo como **agente de auditoría**. Algunas también conforman **equipos internos**.
 
@@ -59,7 +59,7 @@ La auditoría se puede **enfocar** en uno o todos de los siguientes niveles:
 2. **Programas**: prácticas y procedimientos de RRHH.
 3. **Políticas**: las explícitas (formalizadas) y las implícitas.
 4. **Filosofía de la administración**: sus prioridades, valores, metas y objetivos.
-5. **Teoría**: las explicaciones que relacionan la filosofía, la política, y los programas. 
+5. **Teoría**: las explicaciones que relacionan la filosofía, la política, y los programas.
 
 La auditoría verifica hasta qué punto:
 

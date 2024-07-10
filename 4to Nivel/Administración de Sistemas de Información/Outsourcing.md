@@ -68,10 +68,10 @@ Es fundamental establecer un [[Acuerdo de Nivel de Servicio]] que asegure cierto
 3. No Ilevar adelante una negociaci6n seria a menos que este presente el representante del vendedor con autoridad de aprobacion final.
 4. Nunca firmar el contrato estandar.
 5. Establecer con el vendedor un contrato de acuerdo de calidad de servicio (SLA) mientras la balanza de poder se incline a favor del comprador.
-6. Asegurar que el SLA establezca las penalidades pan cualquier incumplimiento en Ia entrega de lo especificado, de manera de contar con una herramienta objetiva y no emocional. La calidad del servicio debe reflejar la información referida a la buena practica en base a las fuentes disponibles. 
+6. Asegurar que el SLA establezca las penalidades pan cualquier incumplimiento en Ia entrega de lo especificado, de manera de contar con una herramienta objetiva y no emocional. La calidad del servicio debe reflejar la información referida a la buena practica en base a las fuentes disponibles.
 7. Estar dispuesto a suspender las negociaciones con el fin de mejorar Ia posición, pues los vendedores suelen estar mas apurados por vender que Ia empresa por comprar.
 8. Asegurar que los acuerdos, contratos y todos los tratados posteriores esten formalmente documentados; las promesas orales deben constar por escrito en el contrato.
-9. Si se solicita un "mejor precio", incluir el derecho a obtener un descuento si posteriormente se descubre que se ofrece un mejor precio en otro lugar. 
-10. Evitar los paquetes de acuerdos cuando no se requieren componentes individuales. 
+9. Si se solicita un "mejor precio", incluir el derecho a obtener un descuento si posteriormente se descubre que se ofrece un mejor precio en otro lugar.
+10. Evitar los paquetes de acuerdos cuando no se requieren componentes individuales.
 11. Exigir que el vendedor provea datos estadísticos regulares con respecto a la entrega de los elementos de cualquier servicio, y luego verificarlos periódicamente a fin de iniciar acción legal ante una desviación del SLA.
 12. Invitar regularmente a que nuevos proveedores presupuesten las actividades llevadas a cabo por el proveedor actual. Emplear los datos obtenidos para modificar en forma ventajosa el SLA.

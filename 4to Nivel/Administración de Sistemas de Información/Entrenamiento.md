@@ -1,4 +1,4 @@
-El **entrenamiento** es el proceso educativo a **corto plazo** aplicado de manera **sistemática y organizada** en el que las personas **aprenden** conocimientos, actitudes y habilidades en función de **objetivos** definidos. 
+El **entrenamiento** es el proceso educativo a **corto plazo** aplicado de manera **sistemática y organizada** en el que las personas **aprenden** conocimientos, actitudes y habilidades en función de **objetivos** definidos.
 
 Es un proceso de [[Educación]] por la empresa y de [[Aprendizaje]] por el empleado, con el propósito de **ayudar a alcanzar los objetivos** de la empresa. Es una **inversión**, no un gasto.
 
@@ -8,7 +8,7 @@ Objetivos:
 2. Dar **oportunidades** para el desarrollo continuo (no solo en el cargo actual).
 3. Cambiar la **actitud** de las personas: mejorar la motivación y el [[Clima Organizacional]].
 
-Es una **responsabilidad de línea** y una **función de *staff***.
+Es una **responsabilidad de línea** y una **función de _staff_**.
 
 El contenido del entrenamiento puede incluir cuatro cambios de comportamiento:
 

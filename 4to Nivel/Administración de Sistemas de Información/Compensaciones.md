@@ -22,5 +22,5 @@ El salario tiene un **carácter variado**:
 
 - **Compensación no financiera**: no tiene valor monetario. El prestigio, reconocimiento, seguridad en el empleo, autoestima.
 - **Compensación financiera**: es la remuneración, tiene valor económico.
-	- **Directa**: es el pago recibido como **salarios** directos, premios y comisiones.
-	- **Indirecta**: es el **salario indirecto**. Vacaciones, propinas, horas extras, adicionales, beneficios.
+  - **Directa**: es el pago recibido como **salarios** directos, premios y comisiones.
+  - **Indirecta**: es el **salario indirecto**. Vacaciones, propinas, horas extras, adicionales, beneficios.

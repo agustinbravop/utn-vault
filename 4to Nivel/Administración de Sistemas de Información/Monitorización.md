@@ -5,15 +5,15 @@ La monitorización es implementada por un [[Monitor]] como herramienta de monito
 Sirve para:
 
 1. Conocer la utilización de recursos (identificar [[Cuellos de Botella]]).
-2. Encontrar segmentos de código más utilizados (*profiling*).
+2. Encontrar segmentos de código más utilizados (_profiling_).
 3. Realizar la [[Caracterización de la Carga]] y crear una [[Carga de Prueba]].
-4. La adaptación dinámica del propio sistema según su carga (*auto-scaling*).
+4. La adaptación dinámica del propio sistema según su carga (_auto-scaling_).
 
-Una **medida** permite tratar fenómenos cuantitativamente, son observaciones mediante las cuales se efectúa el **seguimiento** del sistema. No se habla de medición dada la dificultad de repetir las mismas condiciones de carga y tiempo. Por esto se habla de monitorización y seguimiento. 
+Una **medida** permite tratar fenómenos cuantitativamente, son observaciones mediante las cuales se efectúa el **seguimiento** del sistema. No se habla de medición dada la dificultad de repetir las mismas condiciones de carga y tiempo. Por esto se habla de monitorización y seguimiento.
 
 ## Tipos de Técnicas
 
-1. **Detección de acontecimientos**: por eventos que cambian el estado del sistema. Requiere insertar *traps* en en lugares determinados del SO para detectar esos eventos.
+1. **Detección de acontecimientos**: por eventos que cambian el estado del sistema. Requiere insertar _traps_ en en lugares determinados del SO para detectar esos eventos.
 2. **Períodos de tiempo**: por muestreo a intervalos de tiempo fijos o aleatorios mediante interrupciones de reloj.
 
 ## Presentación de los Resultados

@@ -5,10 +5,11 @@ La **guía 2020** dice que cada práctica sugerida debe ser evaluada antes de im
 ![[Proceso de Scrum.png]]
 
 Scrum es muy utilizado en la **industria**, pero no siempre se sigue la guía scrum al pie de la letra:
+
 - A veces no hay Scrum Master y uno del equipo de desarrollo rellena ese rol.
 - No suele haber un representante del cliente disponible 24/7, y se utiliza un "Business Analyst".
 - A veces puede haber muchos POs y no se sabe a quién hacerle caso.
-- Se puede hacer una ***weekly*** en lugar de una *daily*.
+- Se puede hacer una **_weekly_** en lugar de una _daily_.
 
 ## 5 Valores
 
@@ -35,14 +36,14 @@ Scrum es muy utilizado en la **industria**, pero no siempre se sigue la guía sc
 Scrum define una serie de roles para gestionar las **personas** **responsables** del proyecto:
 
 - **Primarios**: es el **equipo scrum** **comprometido** (compromiso equitativo) a lograr los objetivos.
-	1. **Equipo de Desarrollo**: es el [[Equipo Ágil]] que **lleva a cabo** el proyecto. Aseguran la **calidad** al construir correctamente.
-	2. **Scrum Master**: es el **facilitador** del **proceso** de Scrum. Ayuda a construir de **manera** correcta respetando Scrum.
-	3. **Product Owner**: define el **alcance** (qué hacemos y qué no hacemos). Nos permite construir lo correcto para satisfacer las **necesidades**.
-- **Secundarios**: solo están **involucrados** en el proyecto. Son los *stakeholders* y los usuarios.
+  1.  **Equipo de Desarrollo**: es el [[Equipo Ágil]] que **lleva a cabo** el proyecto. Aseguran la **calidad** al construir correctamente.
+  2.  **Scrum Master**: es el **facilitador** del **proceso** de Scrum. Ayuda a construir de **manera** correcta respetando Scrum.
+  3.  **Product Owner**: define el **alcance** (qué hacemos y qué no hacemos). Nos permite construir lo correcto para satisfacer las **necesidades**.
+- **Secundarios**: solo están **involucrados** en el proyecto. Son los _stakeholders_ y los usuarios.
 
 ## Necesidades
 
-Las necesidades son un conjunto de ítems ([[Historias de Usuario]] que cumplan el método *INVEST*) ordenados por prioridad según el PO y organizados en el [[Product Backlog]], el cual está en constante movimiento. Cuando llegan nuevas HUs cambian las prioridades existentes. El SM puede ayudar al PO a organizar el backlog.
+Las necesidades son un conjunto de ítems ([[Historias de Usuario]] que cumplan el método _INVEST_) ordenados por prioridad según el PO y organizados en el [[Product Backlog]], el cual está en constante movimiento. Cuando llegan nuevas HUs cambian las prioridades existentes. El SM puede ayudar al PO a organizar el backlog.
 
 ## Ceremonias
 
@@ -55,6 +56,7 @@ Se reúnen el equipo scrum (PO + SM + devs) para hacer la [[Estimación]] y defi
 ### Daily
 
 **Todos los días** de trabajo se reúne brevemente el equipo para **actualizar el tablero**:
+
 - Reunión de **15 minutos** máximo al **inicio** de la jornada laboral.
 - **Todos se paran** para incomodarse y terminar rápido.
 - Cada uno comparte **avances y problemas** (después se pueden solucionar los **bloqueos**).
@@ -64,13 +66,14 @@ Se reúnen el equipo scrum (PO + SM + devs) para hacer la [[Estimación]] y defi
 
 ### Sprint Review
 
-**Al final del sprint se le muestra al PO el working software** logrado. Se ve el estado de cada HU y se muestran solo las *done*. Participa el equipo scrum entero. El **PO valida cada HU** y vuelven al backlog las insatisfactorias. No necesariamente implica un pase a producción o release.
+**Al final del sprint se le muestra al PO el working software** logrado. Se ve el estado de cada HU y se muestran solo las _done_. Participa el equipo scrum entero. El **PO valida cada HU** y vuelven al backlog las insatisfactorias. No necesariamente implica un pase a producción o release.
 
 ### Sprint Retrospective
 
 **Evaluación frecuente del proceso** (no del producto) del equipo que se hace cada X cantidad de sprints o cuando algo grave sucedió. Participa el equipo scrum para charlar sobre lo que se hizo bien y mal en la **forma de trabajar**. Es importante definir **accionables** para mejorar a corto y largo plazo.
 
 Hay muchas técnicas para la retrospectiva. Algunas son:
+
 - La estrella de mar.
 - El bote.
 - Las 4 Ls.

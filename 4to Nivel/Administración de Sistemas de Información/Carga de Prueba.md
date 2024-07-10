@@ -17,8 +17,8 @@ Las **fases de implementación** de un modelo de carga son:
 
 1. **Especificación**: se definen los **componentes básicos** de la carga real y el conjunto de **parámetros** para describirlos en base al **nivel de detalle** del modelo.
 2. **Construcción**: cuatro operaciones básicas:
-	1. Análisis de los **parámetros**: mediante técnicas estadísticas.
-	2. Extracción de **valores representativos**: mediante variedad de técnicas.
-	3. Asignación de valores a los **componentes** del modelo.
-	4. Reconstrucción de **mezclas de componentes** significativos: secuencias de peticiones que reproduzcan en el modelo **situaciones similares** a las de la carga real.
+   1. Análisis de los **parámetros**: mediante técnicas estadísticas.
+   2. Extracción de **valores representativos**: mediante variedad de técnicas.
+   3. Asignación de valores a los **componentes** del modelo.
+   4. Reconstrucción de **mezclas de componentes** significativos: secuencias de peticiones que reproduzcan en el modelo **situaciones similares** a las de la carga real.
 3. **Validación**: se evalúa el **criterio** de [[Caracterización de la Carga#Representatividad de un Modelo de Carga|representatividad]] del modelo (y su nivel). Se **compara** su comportamiento con el de la carga real en **puntos conocidos**. Un modelo de carga puede **calibrarse** modificando los valores de sus parámetros.

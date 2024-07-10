@@ -6,7 +6,9 @@ tags: [excalidraw]
 ==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Excalidraw Data
+
 ## Text Elements
+
 1. Especificar las fuentes posibles
    (Investigación) ^TGNrN2EX
 
@@ -49,7 +51,9 @@ Adquisición ^TvfdT2Hy
 ó ^02KTc5Wn
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTiAdho6IIR9BA4oZm4AbXAwUDAi6HhxdEDsKI5lYOSiyEYWdi40AGYAFn5ixtZOADlOMW529oBGAA4ANgBOaZ5xrshCDmIs
 
@@ -181,4 +185,5 @@ XsRmTvV+B/9A5mAnW2T18x/w/ivlR885AFh/5faQHsD2Y0d8mvqSRbUPgG3Dax60dM+tHM6LYHUzfzAQ
 
 zCsN8ORBgqZOkQA98wAWCi84A3kIzCAUAP1hQBo/nYCuQGiMwCPAjOmihsAqwDn6yYwQIIzgAxEMIxwg4QG1yj4bYEAA
 ```
+
 %%

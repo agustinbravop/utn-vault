@@ -1,4 +1,4 @@
-Existen **organizaciones estandarizantes** que proponen **modelos** de [[Calidad]] del software para **medir** la calidad del producto o del proceso. 
+Existen **organizaciones estandarizantes** que proponen **modelos** de [[Calidad]] del software para **medir** la calidad del producto o del proceso.
 
 Estos modelos son un **punto de referencia** que indica los procesos y **requisitos a cumplir** para lograr la calidad. También definen **características y métricas** que describen el **grado de calidad** de algún **aspecto clave** del proceso o del producto.
 
@@ -17,6 +17,7 @@ Estos modelos suelen evaluar documentación $\implies$deben actualizarse a la ag
 | Ventaja competitiva | Es necesario volver a certificar cada X años |
 
 Certificar no nos vuelve maduros, hay que tener madurez para certificar.
+
 ## Modelos del Proceso
 
 - [[SPICE]]

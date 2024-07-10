@@ -4,7 +4,7 @@ Integra estándares en un marco único que se actualiza cada ciertos años, mant
 
 ## Niveles
 
-1. **Inicial**: procesos *ad-hoc*.
+1. **Inicial**: procesos _ad-hoc_.
 2. **Gestionado**: planificación y ejecución según políticas definidas.
 3. **Definido**: procesos estandarizados y documentados a nivel organizacional.
 4. **Gestionado cuantitativamente**: control de procesos mediante métricas y datos estadísticos.

@@ -13,8 +13,8 @@ Los métodos más usados son:
 3. **Entrevista directa**: es el enfoque más **flexible y productivo**, con una interacción frente a frente que **elimina dudas** y desconfianzas. La participación de ambos es activa y verbal. Ofrece la **mayor calidad y aplicabilidad** en todo tipo de cargo, pero tiene un **costo operativo elevado**.
 4. **Métodos mixtos**: se recomienda **combinar** dos o más métodos para aprovechar sus ventajas y contrarrestar sus desventajas. También conviene hacer un cuestionario o entrevista con el superior del cargo para conocer expectativas.
 
-| Método       | Participación del Analista | Participación del Ocupante |
-| ------------ | -------------------------- | -------------------------- |
+| Método           | Participación del Analista | Participación del Ocupante |
+| ---------------- | -------------------------- | -------------------------- |
 | **Observación**  | Activa                     | Pasiva                     |
 | **Cuestionario** | Pasiva                     | Activa                     |
 | **Entrevista**   | Activa                     | Activa                     |

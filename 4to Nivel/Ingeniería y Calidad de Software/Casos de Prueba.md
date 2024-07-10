@@ -6,4 +6,3 @@ Es un [[Artefactos de Software]] que se usa para llevar a cabo una **prueba**. E
 
 - **Caja Negra**: nos concentramos en el software desde afuera (entradas y salidas) para probar su comportamiento observable.
 - **Caja Blanca**: inspeccionamos el código de manera intencional para probar su funcionamiento interno y construcción.
-

@@ -6,9 +6,10 @@ El subsistema de [[Aplicación de SI y TI]] nutre al seguimiento con:
 2. La [[Caracterización de la Carga]] mediante las [[Magnitudes de un SI]] y sus variables.
 3. La [[Planificación de la Capacidad]] (un modelo de explotación).
 
-Incluye la [[Evaluación de las Prestaciones]]. 
+Incluye la [[Evaluación de las Prestaciones]].
 
 Puigjaner centra su análisis en el hardware y el sistema operativo.
+
 $$
 Sistema \ informático = HW + SO
 $$

@@ -6,7 +6,9 @@ tags: [excalidraw]
 ==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Excalidraw Data
+
 ## Text Elements
+
 Expectativa
 del rol ^8sLIBMNm
 
@@ -35,7 +37,9 @@ Subordinado ^w1hossQ9
 Jefe ^WLhOVXSW
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTiAdho6IIR9BA4oZm4AbXAwUDAi6HhxdEDsKI5lYOSiyEYWdi40AGYABn5ixtZOADlOMW4ARnbRhIA2ABZW1omuyEIOYixu
 
@@ -135,4 +139,5 @@ ZAcjL4G7KGBg8GRPk2QByDaBjA1gcR1Ek6DqBgg2kCYPxQbdrBig6eAwMipxVEoPAwwbSD/ApVAXYQ+w
 
 iI8oO2GQPWgSA+vSnUmCFzqrIjEIHUIPANCahmINRmoweAs6XAY4ygEsD+ENAdgl4nRho+JkxUZHODCAMQ+LE4CUiGUEAOAIEDMDCBmALwUo0UYaHhkyEMcTmELjZoKQMguATQMEFAgq7sAJMnLdjRFwgHUBuWrkJHCYHHGP9vRuwBJsqBCMRccAb4GwBWCNaNjWxrGuADkjhk4Q4QOhORCbBAA=
 ```
+
 %%

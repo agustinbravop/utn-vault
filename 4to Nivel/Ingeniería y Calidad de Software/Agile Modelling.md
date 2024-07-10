@@ -1,4 +1,4 @@
->Practice-based methodology for effective modeling and documentation.
+> Practice-based methodology for effective modeling and documentation.
 
 Propuesto en la [[Agilidad]] por Scott Ambler, es una modernización de las prácticas para **documentar** de la [[Teoría Clásica]]. Es una colección de valores, principios y prácticas para **modelar** software.
 
@@ -44,7 +44,7 @@ Propuesto en la [[Agilidad]] por Scott Ambler, es una modernización de las prá
 
 ## Ideas Interesantes
 
-- **Iteración cero**: *envisioning* para identificar la **visión** de los requerimientos y la arquitectura.
+- **Iteración cero**: _envisioning_ para identificar la **visión** de los requerimientos y la arquitectura.
 - Solo hacer modelos que aporten valor (**content > representation**).
 - **Document late**: si un requerimiento es documentar, hacerlo al final.
 - **Model Storming**: model on a just-in-time basis to explore details and designs (**views > copies**).

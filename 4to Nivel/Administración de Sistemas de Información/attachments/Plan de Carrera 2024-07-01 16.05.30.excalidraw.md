@@ -6,7 +6,9 @@ tags: [excalidraw]
 ==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Excalidraw Data
+
 ## Text Elements
+
 Administración de la Carera ^23oylsjr
 
 Necesidades de la organización ^rTe7Ao8h
@@ -20,7 +22,9 @@ Necesidades de las personas ^hyzfpgtR
 - Operativas ^CNKmDZ6Z
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTiAdho6IIR9BA4oZm4AbXAwUDAiiBJuCB4AZjYYfGYAK1JkoshYRDKoLCgm4sxuZ0qE/mKYPoA2AE4hyAoSdW4eABZR7QTV
 
@@ -70,4 +74,5 @@ lhNb1wlupq9pGek4AAc8ycAcABIdChF0AGU6QZQLYFq3QDAhACAFARs6t7WmtXwmIL9r9V9gp3sRMioH
 
 MEMNXwSEkQHKYFus06LJmfbwcboxKJIpEnXwbE3YHUD0swHiLJnAMckeJo8s6szUQgOAJzFiDiKTvyrpCALpEAA=
 ```
+
 %%

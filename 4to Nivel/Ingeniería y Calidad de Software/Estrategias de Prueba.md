@@ -26,4 +26,4 @@ Prueban que el software funcione acorde a las **expectativas razonables** del **
 
 ### Prueba del Sistema
 
-El software es **solo una pieza más** del sistema. Probamos el software junto con el hardware, las personas, los procedimientos, etc. Es el **uso real**. Ejemplos: de **recuperación**, de **seguridad**, de **resistencia**, de **rendimiento**. 
+El software es **solo una pieza más** del sistema. Probamos el software junto con el hardware, las personas, los procedimientos, etc. Es el **uso real**. Ejemplos: de **recuperación**, de **seguridad**, de **resistencia**, de **rendimiento**.

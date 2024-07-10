@@ -12,4 +12,4 @@ Se identifican las **variables del proyecto** para predecir su comportamiento. E
 
 ## Procesos Ágiles
 
-La [[Agilidad]] propone iteraciones de como máximo un mes, acortando al extremo el *feedback loop* entre una acción y su resultado, permitiendo controlar constantemente el avance del proyecto en base a los resultados logrados, para poder adaptarse al ambiente VUCA.
+La [[Agilidad]] propone iteraciones de como máximo un mes, acortando al extremo el _feedback loop_ entre una acción y su resultado, permitiendo controlar constantemente el avance del proyecto en base a los resultados logrados, para poder adaptarse al ambiente VUCA.

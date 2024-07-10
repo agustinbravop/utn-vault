@@ -6,7 +6,7 @@ Los procesos de seguimiento de los RRHH están ligados al desempeño de las pers
 
 ## Administración por Excepción
 
->Me tengo que preocupar cuando hay **incidentes** o imprevistos alejados de la norma.
+> Me tengo que preocupar cuando hay **incidentes** o imprevistos alejados de la norma.
 
 ![[Administración por Excepción.png]]
 

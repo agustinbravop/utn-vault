@@ -10,7 +10,7 @@ La auditoría asegura que los procedimientos de control en una organización est
 
 ## Metodología
 
-Funciones del área de desarrollo: 
+Funciones del área de desarrollo:
 
 1. Planificación.
 2. Desarrollo de nuevos sistemas.
@@ -18,18 +18,20 @@ Funciones del área de desarrollo:
 4. Formación del personal.
 5. Establecimiento de normas y controles.
 
-La auditoría se divide en dos partes principales: 
+La auditoría se divide en dos partes principales:
 
 - Auditoría de la organización y gestión del área de desarrollo.
 - Auditoría de proyectos de desarrollo de sistemas de información.
 
 Se utiliza la metodología de **ISACA**, basada en la **evaluación de riesgos** y la determinación de **objetivos de control** que minimicen esos riesgos.
+
 - Para cada objetivo de control se especifican **técnicas de control**, y se aportan **pruebas de cumplimiento** para su comprobación.
 - El auditor determina el **grado de cumplimiento** de cada objetivo de control.
 
 ## Auditoría de la Organización y Gestión del Área de Desarrollo
 
 8 objetivos de control para la organización y gestión del área:
+
 1. El área de desarrollo debe tener **cometidos asignados** y una organización que permita el cumplimiento de los mismos.
 2. El personal de área debe contar con **formación adecuada** y estar **motivado**.
 3. Los proyectos deben basarse en el **plan de sistemas**, y este debe mantenerse actualizado.
@@ -39,11 +41,11 @@ Se utiliza la metodología de **ISACA**, basada en la **evaluación de riesgos**
 7. Las relaciones con el exterior deben que producirse de acuerdo a un **procedimiento**.
 8. La organización del área debe estar adaptada a las **necesidades actuales**.
 
-Cada objetivo de control incluye técnicas de control y pruebas de cumplimiento específicas. 
+Cada objetivo de control incluye técnicas de control y pruebas de cumplimiento específicas.
 
 ## Auditoría de Proyectos de Desarrollo de SI
 
-Cada desarrollo de un nuevo sistema de información es considerado un **proyecto independiente**, con objetivos específicos que afectan a distintas unidades de la organización. 
+Cada desarrollo de un nuevo sistema de información es considerado un **proyecto independiente**, con objetivos específicos que afectan a distintas unidades de la organización.
 
 Cada proyecto debe tener un **responsable** y debe ser gestionado con **técnicas adecuadas** para **alcanzar los objetivos** establecidos, considerando los **recursos disponibles** y las **restricciones temporales**. Todas las partes de la organización afectadas por el sistema deben participar en la gestión del proyecto.
 
@@ -57,7 +59,7 @@ Se definen **objetivos y técnicas de control** generales aplicables a cualquier
 
 ### Fases del Desarrollo de Sistema
 
-Cinco subdivisiones dentro del desarrollo: 
+Cinco subdivisiones dentro del desarrollo:
 
 1. **Aprobación**, **planificación** y **gestión** del proyecto.
 2. **Análisis**.
@@ -75,10 +77,10 @@ Se utiliza como referencia la metodología de desarrollo Métrica versión 2.1. 
 #### Análisis
 
 - Análisis de requisitos:
-    1. **Usuarios** establecen los **requisitos** del sistema.
-    2. Se utiliza la **alternativa más favorable** para conseguir que se cumplan los requisitos establecidos.
+  1. **Usuarios** establecen los **requisitos** del sistema.
+  2. Se utiliza la **alternativa más favorable** para conseguir que se cumplan los requisitos establecidos.
 - Especificación funcional del sistema:
-    1. El sistema debe especificarse desde el **punto de vista funcional**, contando con la aprobación de los **usuarios**.
+  1. El sistema debe especificarse desde el **punto de vista funcional**, contando con la aprobación de los **usuarios**.
 
 #### Diseño
 

@@ -28,7 +28,7 @@ La evaluación del cargo es una **recomendación de staff**. Tiene un **objetivo
 Criterios de clasificación:
 
 1. **Por puntos**: clases determinadas por intervalos de puntos.
-3. **Por cargos de carrera**: secretario I, secretario II, secretario III.
-4. **Por grupo ocupacional**: ingeniero civil, ingeniero electricista, ingeniero químico.
-5. **Por área de servicio**: tesorero, contador, cajero.
-6. **Por categoría**: desarrollador junior, desarrollador senior, desarrollador bilingüe.
+2. **Por cargos de carrera**: secretario I, secretario II, secretario III.
+3. **Por grupo ocupacional**: ingeniero civil, ingeniero electricista, ingeniero químico.
+4. **Por área de servicio**: tesorero, contador, cajero.
+5. **Por categoría**: desarrollador junior, desarrollador senior, desarrollador bilingüe.

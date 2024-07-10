@@ -4,6 +4,7 @@
 - Evaluación de la **capacidad** y/o **madurez** de los procesos.
 
 Facilita la **mejora continua** y la transparencia, otorgando competitividad a la empresa. Como desventaja, resulta costoso de implementar.
+
 ## Niveles de Capacidad
 
 Define unos niveles de capacidad de los procesos, y unos criterios de evaluación.

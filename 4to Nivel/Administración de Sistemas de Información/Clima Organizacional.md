@@ -1,4 +1,4 @@
-El **clima organizacional** es la cualidad del **ambiente organizacional** que los miembros de la organización perciben, e **influye en su comportamiento**. 
+El **clima organizacional** es la cualidad del **ambiente organizacional** que los miembros de la organización perciben, e **influye en su comportamiento**.
 
 A nivel organizacional, el **ambiente interno** que existe entre los miembros de la organización está ligado al **grado de motivación** de los empleados. Se busca que las personas puedan:
 

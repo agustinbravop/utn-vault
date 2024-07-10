@@ -1,4 +1,4 @@
->El desarrollo de software falla en entregar valor. Debemos encontrar nuevas maneras de trabajar. - Kent Beck, *XP*.
+> El desarrollo de software falla en entregar valor. Debemos encontrar nuevas maneras de trabajar. - Kent Beck, _XP_.
 
 La agilidad, fundada en 2001 en el [[Manifiesto Ágil]], es la forma moderna de desarrollar software. Es una reacción a la [[Teoría Clásica]] de la [[Ingeniería de Software]]. Gracias a la **globalización** se vuelve evidente la necesidad de ser ágiles y moverse a la velocidad del mercado para satisfacer los requisitos cambiantes. Es cada vez más importante el Time-To-Market.
 
@@ -6,7 +6,7 @@ La agilidad, fundada en 2001 en el [[Manifiesto Ágil]], es la forma moderna de 
 > Es una filosofía de vida.
 > Es una forma de pensar de continua exploración, adaptación, aprendizaje y mejora.
 
-La agilidad es **1 mindset**, descrito por **4 valores**, definido por **12 principios**, manifestado mediante multitud de **prácticas, técnicas, herramientas y marcos de trabajo.** No existen las *metodologías* ágiles.
+La agilidad es **1 mindset**, descrito por **4 valores**, definido por **12 principios**, manifestado mediante multitud de **prácticas, técnicas, herramientas y marcos de trabajo.** No existen las _metodologías_ ágiles.
 
 ## Antipatrones
 
@@ -27,7 +27,7 @@ Ser ágil se vuelve **rentable** cuando el equipo sabe porqué hace lo que está
 
 ## Propuestas
 
-La agilidad viene hace tiempo con buenas ideas que se materializan en **prácticas concretas**. Para aplicar agilidad, nos conviene hacer ***cherry picking*** de las prácticas que nos convienen a nosotros. Existen muchas propuestas ágiles, entre ellas:
+La agilidad viene hace tiempo con buenas ideas que se materializan en **prácticas concretas**. Para aplicar agilidad, nos conviene hacer **_cherry picking_** de las prácticas que nos convienen a nosotros. Existen muchas propuestas ágiles, entre ellas:
 
 - [[Scrum]], Ken Schwaber y Jeff Sutherland.
 - [[XP]], Kent Beck.

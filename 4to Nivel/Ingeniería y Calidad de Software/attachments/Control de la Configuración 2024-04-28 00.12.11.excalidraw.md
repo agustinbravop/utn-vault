@@ -6,6 +6,7 @@ tags: [excalidraw]
 ==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Excalidraw Data
+
 ## Text Elements
 
 v1 ^F1qwVH1R
@@ -27,7 +28,9 @@ head ^G73fQ9a0
 trunk ^WxkiwkKo
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTiAdho6IIR9BA4oZm4AbXAwUDAi6HhxdCCiOSR+YsYWdi40HgAWGsg61k4AOU4xbgAOfoAGBIBWZqGANlG2iEIOYixuCFwh
 
@@ -91,4 +94,5 @@ KPNXUHRv9jSbAiuc2dJv4yRn2PekoBfl0BEBzXPp17ghxkEAkDmhiBNAyojhiAbfNAdxiAYwHeMEeQjh
 
 AwiGhOw2weQfIPEErp3uD/BKEvwQD79ISnAd2ngggBwBAgZgYQMwArQHhiAnA//oLhMLMQDwIbSmFZU0DBAYIMPD/pUEuYt0JQVlLPguQ8FI4jCi7HwSQixoWRNAIcP3lkBhBWU4AwcRYMANwCODby4AfqN8ihDhBOo14ZsEAA==
 ```
+
 %%

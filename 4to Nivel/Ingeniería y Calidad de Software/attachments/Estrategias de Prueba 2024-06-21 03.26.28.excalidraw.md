@@ -6,7 +6,9 @@ tags: [excalidraw]
 ==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Excalidraw Data
+
 ## Text Elements
+
 Requisitos ^ZjMR0LLj
 
 Diseño ^QOkwKRGl
@@ -20,7 +22,9 @@ Pruebas de integración ^lrqyykbZ
 Pruebas de alto nivel ^m12UYkB1
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTiAdho6IIR9BA4oZm4AbXAwUDAi6HhxdCgsKGSiyEYWdi40AEYE/mK61k4AOU4xbgAWHgBmAE5+oaaADhG2yEIOYixuCFwA
 
@@ -56,4 +60,5 @@ H05jFAH5BlFTGDFVH3As6nJvgbFLFpCxQQFVLQEHHTFpCfi7osytbrFNGbFQBDFXH1Zbr7H3GHH6Aiwz
 
 mfifgghgTKAdgHTWijjbA6k6kqkQAcngkPiLzHEUScD9jnIQBwCBBmDCDMApRGzECimmHvigxgR+JGxqFoBPYZC4CaDBAXjiqgZECay6KXYlgmzJHhkKSkiSS4YXYKRGl2DXAIDYBZA/AmxwC3BsCLBQn+mBkUxrrgAPYQCZThDxG6QgC6RAA===
 ```
+
 %%

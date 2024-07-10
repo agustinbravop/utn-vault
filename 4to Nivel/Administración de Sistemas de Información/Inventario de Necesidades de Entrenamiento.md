@@ -1,6 +1,6 @@
-Es el primer paso del proceso de [[Entrenamiento]]. Consiste en analizar y evaluar los problemas u objetivos organizacionales existentes que estén relacionados con las capacidades o habilidades del personal existente y según los requisitos de los cargos. 
+Es el primer paso del proceso de [[Entrenamiento]]. Consiste en analizar y evaluar los problemas u objetivos organizacionales existentes que estén relacionados con las capacidades o habilidades del personal existente y según los requisitos de los cargos.
 
-Una **necesidad de entrenamiento** en el cargo es una **diferencia** entre las habilidades actuales del ocupante y los requisitos exigidos por el cargo. 
+Una **necesidad de entrenamiento** en el cargo es una **diferencia** entre las habilidades actuales del ocupante y los requisitos exigidos por el cargo.
 
 $Necesidades \ de \ entrenamiento = Requisitos \ del \ cargo - Habilidades \ del \ ocupante$
 

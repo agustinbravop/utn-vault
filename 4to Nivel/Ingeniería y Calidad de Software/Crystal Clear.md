@@ -1,4 +1,4 @@
->A human-powered methodology for small teams.
+> A human-powered methodology for small teams.
 
 Es una propuesta de la [[Agilidad]] hecha por Agile Cockburn, quien luego propone el [[Heart of Agile]].
 
@@ -14,10 +14,10 @@ Es una propuesta de la [[Agilidad]] hecha por Agile Cockburn, quien luego propon
 
 ## 5 Estrategias
 
-1. **Exploratory 360°**: para un *project chartering* inicial.
-2. **Early victory**: usar un MVP. *Easiest Thing First, Hardest Second*.
+1. **Exploratory 360°**: para un _project chartering_ inicial.
+2. **Early victory**: usar un MVP. _Easiest Thing First, Hardest Second_.
 3. **Walking skeleton**: funcionalidades **end-to-end** pequeñas incrementalmente implementadas.
-4. **Incremental rearchitecture**: *refactoring* para extender la arquitectura.
+4. **Incremental rearchitecture**: _refactoring_ para extender la arquitectura.
 5. **Information radiators**: tableros y gráficos fáciles de ver en el ambiente de trabajo del equipo.
 
 ## 9 Técnicas

@@ -34,7 +34,7 @@ Se deben elegir las técnicas que optimicen el [[Aprendizaje]]. Se busca mayor v
 Según el uso:
 
 1. **Orientadas al contenido**: para transmitir **conocimientos o información**. Lectura, recursos audiovisuales, instrucción programada, etc.
-2. **Orientadas al proceso**: para cambiar **actitudes y habilidades interpersonales**. *Role-playing*, entrenamiento de sensibilidad, de grupos, etc.
+2. **Orientadas al proceso**: para cambiar **actitudes y habilidades interpersonales**. _Role-playing_, entrenamiento de sensibilidad, de grupos, etc.
 3. **Mixtas**: tienen ambos objetivos. Conferencias simulaciones, juegos, rotaciones, etc.
 
 Según el tiempo: si se aplican antes o después del ingreso al trabajo.
@@ -45,4 +45,4 @@ Según el tiempo: si se aplican antes o después del ingreso al trabajo.
 Según el lugar de aplicación:
 
 1. **En el lugar de trabajo**: es **simple y práctico**. Tiene varias modalidades: admisión de aprendices, rotación de cargos, entrenamiento en tareas, enriquecimiento del cargo.
-2. **Fuera del lugar de trabajo**: son **complementarios** para cuando se requiere la atención completa del empleado. Exposiciones, estudio de casos, debates, películas, *role-playing*, etc.
+2. **Fuera del lugar de trabajo**: son **complementarios** para cuando se requiere la atención completa del empleado. Exposiciones, estudio de casos, debates, películas, _role-playing_, etc.

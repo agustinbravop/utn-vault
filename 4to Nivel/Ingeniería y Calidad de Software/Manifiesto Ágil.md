@@ -32,20 +32,20 @@ Si bien se valoran los elementos de la derecha, se valoran más los de la izquie
 
 Los 17 firmantes del manifiesto ágil son:
 
-- Kent Beck  
-- Mike Beedle  
-- Arie van Bennekum  
-- Alistair Cockburn  
-- Ward Cunningham  
-- Martin Fowler  
-- James Grenning  
-- Jim Highsmith  
-- Andrew Hunt  
-- Ron Jeffries  
-- Jon Kern  
-- Brian Marick  
-- Robert C. Martin  
-- Steve Mellor  
-- Ken Schwaber  
+- Kent Beck
+- Mike Beedle
+- Arie van Bennekum
+- Alistair Cockburn
+- Ward Cunningham
+- Martin Fowler
+- James Grenning
+- Jim Highsmith
+- Andrew Hunt
+- Ron Jeffries
+- Jon Kern
+- Brian Marick
+- Robert C. Martin
+- Steve Mellor
+- Ken Schwaber
 - Jeff Sutherland
 - Dave Thomas

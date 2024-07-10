@@ -40,6 +40,7 @@ En Argentina hay 3 principios:
 ## Teoría de la Inequidad
 
 Existe **inequidad** cuando la persona siente que se le paga menos o más de lo que corresponde, lo que genera un sentimiento de **injusticia e insatisfacción**. Genera tensión entre empleado y empleador.
+
 $$
 \frac{Mis \ recompensas}{Mis \ contribuciones} = \frac{Recompensas \ de \ los \ demás}{Contribuciones \ de \ los \ demás}
 $$
@@ -52,6 +53,6 @@ La productividad humana depende del interés y la motivación.
 
 El **lapso de arbitrio** es el período máximo de tiempo en el que el empleado puede realizar su trabajo sin que su superior evalúe el trabajo asignado. Es una cuantificación objetiva de la **importancia de la tarea** ejecutada, y del **nivel jerárquico** del empleado.
 
-Los empleados que cumplen diferentes tareas pero con el **mismo lapso de arbitrio** deben tener la **misma retribución salarial** (según Jaques). 
+Los empleados que cumplen diferentes tareas pero con el **mismo lapso de arbitrio** deben tener la **misma retribución salarial** (según Jaques).
 
 Una variable crucial del trabajo es el **grado de control del individuo sobre su comportamiento**.

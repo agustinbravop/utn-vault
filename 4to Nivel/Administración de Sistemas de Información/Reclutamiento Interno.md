@@ -1,4 +1,3 @@
-
 Es un tipo de [[Reclutamiento]]. Al presentarse la vacante, la empresa intenta llenarla mediante la **reubicación** de sus empleados. El **movimiento** puede ser:
 
 - **Vertical**: empleados ascendidos.

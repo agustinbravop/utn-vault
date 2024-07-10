@@ -32,9 +32,10 @@ Ejemplo: X% sobre el sueldo básico al analista que apruebe la evaluación Y con
 
 Un **bono** es una forma de compensación variable asociada a una **tarea específica**. No son discrecionales. Siempre son **monetarios** y **presupuestados**.
 
-Si se cumple la tarea $\implies$ se accede al bono. 
+Si se cumple la tarea $\implies$ se accede al bono.
 
 Ejemplo: se pagará X$ por única vez a cada desarrollador del equipo que implemente Y proceso.
+
 ### Premios
 
 Los reconocimientos o **premios** son acciones orientadas a estimular comportamientos y **distinguir el esfuerzo**. Es apreciar el trabajo y las **buenas prácticas**. Se otorgan después del hecho y se centran en el **comportamiento**. Sí son **discrecionales** (el jefe decide). Se presupuestan. No necesitan ser monetarios.

@@ -1,4 +1,4 @@
-En la [[Agilidad]], ***eXtreme Programming*** es un modo de desarrollar software **liviano**, **eficiente**, a largo plazo, **flexible**, **predecible**, científico y **divertido**.
+En la [[Agilidad]], **_eXtreme Programming_** es un modo de desarrollar software **liviano**, **eficiente**, a largo plazo, **flexible**, **predecible**, científico y **divertido**.
 
 Es inmediato, concreto y con **feedback continuo** mediante ciclos cortos. Responde a las necesidades de negocio dinámicas para **reducir el costo de los cambios**. Foco en las **pruebas automatizadas** para controlar el avance del trabajo. Foco en la comunicación oral, pruebas y código fuente para la estructura y significado del problema y la solución.
 
@@ -15,7 +15,7 @@ Es inmediato, concreto y con **feedback continuo** mediante ciclos cortos. Respo
 ## 5 Principios
 
 1. **Rapid feedback**: reducir el tiempo entre una acción y su retroalimentación.
-2. **Assume simplicity**: la solución simple es la mejor (***KISS***).
+2. **Assume simplicity**: la solución simple es la mejor (**_KISS_**).
 3. **Incremental change**: iteraciones cortas.
 4. **Quality work**: hacer un buen trabajo y trabajar con calidad.
 5. **Embrace change**: adaptarse a nuevos requerimientos.
@@ -29,7 +29,7 @@ Es inmediato, concreto y con **feedback continuo** mediante ciclos cortos. Respo
 
 ## Prácticas
 
-- **Metaphor**: poder definir el producto en una frase (*shared storytelling*).
+- **Metaphor**: poder definir el producto en una frase (_shared storytelling_).
 - **Collective ownership**: el código es de todos y todos lo pueden cambiar.
 - **Coding standards**: código legible y de calidad.
 - **40 hour week**: no necesitar laburar el fin de semana.

@@ -6,11 +6,15 @@ tags: [excalidraw]
 ==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Excalidraw Data
+
 ## Text Elements
+
 LOL! ^rhQmJk7M
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTiAdho6IIR9BA4oZm4AbXAwUDAiiBJuCFJJAEV9ACkAawSAWWSiyFhEMqgsKBbizG5nHgSE7QSAVgAWADYATgBmKbmADjG5
 
@@ -24,4 +28,5 @@ NY0kz2ID6pGxrcu/cDIPwaC+C6hqvIWzJf3/IEZu6+a0iYhCkIItCunRYacrSDTSAQyK2AoXTcHbVBqK
 
 ViA2fWuafyqhBxuwzhRxjYo4ECMxhGYABxUhhb47c7cgN0IIQHiA3djhlHp2MMlwTRglegShNjbAiDgbgY5+Dg/aT0hBJ+YQoA3fiM4QE3ijsAArBBsCyblU7gRo2GIBBvojqPDy7AuwHk/h2U5cJ6cU+SgA
 ```
+
 %%

@@ -56,7 +56,6 @@ Un requerimiento de propuestas tiene las siguientes secciones:
 11. **Información administrativa y contractual**: implicaciones legales y contractuales del RDP.
 12. **Apéndice**: especificación de contenido y formato del resumen de costos. Se hace un resumen separado para cada alternativa financiera:
 
-
     - Plan financiero: duración del período de renta, período de cancelación y precio de compra.
     - Costos de HW.
     - Costos de SW del sistema y de aplicación.
