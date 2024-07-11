@@ -1,6 +1,7 @@
 ---
 title: "Materia: Ingeniería y Calidad de Software"
 ---
+
 Área: Desarrollo de Software/Tecnologías Aplicadas.
 Asignatura: Ingeniería y Calidad de Software.
 Ciclo Lectivo: 2024.

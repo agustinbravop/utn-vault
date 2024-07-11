@@ -8,7 +8,7 @@ Consiste en tres **etapas**:
 
 Se verifican las **necesidades de RRHH de la organización** a corto, mediano y largo plazos de manera continua y constante. Se abarcan todas las áreas y niveles para conocer los perfiles y características que los nuevos miembros deberán ofrecer.
 
-En muchas organizaciones esta investigación interna se sustituye por un proceso más amplio denominado *planeación de personal*.
+En muchas organizaciones esta investigación interna se sustituye por un proceso más amplio denominado _planeación de personal_.
 
 ## Investigación Externa
 
