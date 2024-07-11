@@ -1,16 +1,19 @@
-Área: Sistemas de Información/Tecnologías Aplicadas/Integradora
-Asignatura: Administración de Sistemas de Información
-Ciclo Lectivo: 2024
-Carga horaria: 144 horas cátedra
-Cursado: Anual
+---
+title: "Materia: Administración de Sistemas de Información"
+---
+Área: Sistemas de Información/Tecnologías Aplicadas/Integradora.
+Asignatura: Administración de Sistemas de Información.
+Ciclo Lectivo: 2024.
+Carga horaria: 144 horas cátedra.
+Cursado: Anual.
 
 Foco en mucha lectura de bibliografía.
 
 ### Profesores
 
-- Ing. Esp. Claudia Soria Ojeda
-- Ing. Rosina Analía Ramírez
-- Ing. Raúl Montiel
+- Ing. Esp. Claudia Soria Ojeda.
+- Ing. Rosina Analía Ramírez.
+- Ing. Raúl Montiel.
 
 ### Aprobación
 

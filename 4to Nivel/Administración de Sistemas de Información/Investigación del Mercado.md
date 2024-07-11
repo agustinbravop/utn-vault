@@ -1,13 +1,14 @@
-Es el primer proceso de la [[Provisión de RRHH]], y consiste en ver qué perfiles existen y dónde encontrarlos, en base a las descripciones y análisis de cargo. Su objetivo es hallar las **fuentes de provisión** de recursos humanos, determinadas por las relaciones de la organización con los [[Mercados Laboral y de RRHH]].
+Es el primer proceso de la [[Provisión de RRHH]], y consiste en ver qué **perfiles** existen y dónde encontrarlos, en base a la [[Descripción y Análisis del Cargo]]. Su objetivo es hallar las **fuentes de provisión** de recursos humanos, determinadas por las relaciones de la organización con los [[Mercados Laboral y de RRHH]].
 
-Consiste en tres etapas:
-![[Investigación del Mercado 2024-05-04 15.25.29.excalidraw]]
+Consiste en tres **etapas**:
+
+![[Investigación del Mercado 2024-07-11 00.04.30.excalidraw.svg]]
 
 ## Investigación interna
 
 Se verifican las **necesidades de RRHH de la organización** a corto, mediano y largo plazos de manera continua y constante. Se abarcan todas las áreas y niveles para conocer los perfiles y características que los nuevos miembros deberán ofrecer.
 
-En muchas organizaciones esta investigación interna se sustituye por un proceso más amplio denominado [[Planeación de Personal]].
+En muchas organizaciones esta investigación interna se sustituye por un proceso más amplio denominado *planeación de personal*.
 
 ## Investigación Externa
 

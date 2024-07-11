@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9439153e2bd64859",
+        "id": "7da50ed792807595",
         "type": "tabs",
         "children": [
           {
-            "id": "1781c809a9dd3e07",
+            "id": "54a49e96f3c96f1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/index.md"
               }
             }
           },
@@ -163,50 +163,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1781c809a9dd3e07",
+  "active": "54a49e96f3c96f1a",
   "lastOpenFiles": [
+    "4to Nivel/Ingeniería y Calidad de Software/index.md",
+    "4to Nivel/index.md",
+    "4to Nivel/Administración de Sistemas de Información/index.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Las 4 P.md",
+    "index.md",
+    "4to Nivel/Administración de Sistemas de Información/Entrenamiento.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Proceso del entrenamiento.png",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Ciclo del Entrenamiento.png",
+    "README.md",
+    "Excalidraw/attachments/Pasted Image 20240519205502_412.png",
+    "Excalidraw/attachments/Pasted Image 20240519205432_615.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Las 4 P 2024-07-11 00.01.23.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Las 4 P 2024-07-11 00.01.23.excalidraw.svg",
+    "4to Nivel/Ingeniería y Calidad de Software/Calidad.md",
+    "4to Nivel/Ingeniería y Calidad de Software/XP.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments/Pasted Image 20240711000721_578.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments/Pasted Image 20240711000706_562.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments",
+    "Excalidraw/Template.excalidraw.md",
+    "Excalidraw/Investigación del Mercado 2024-05-04 15.25.29.excalidraw.md",
+    "Excalidraw/Investigación del Mercado 2024-05-03 15.13.13.excalidraw.md",
+    "Excalidraw/Investigación del Mercado 2024-05-03 15.13.13.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/Investigación del Mercado.md",
+    "4to Nivel/Administración de Sistemas de Información/Planeación de Personal.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Investigación del Mercado 2024-07-11 00.04.30.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Investigación del Mercado 2024-07-11 00.04.30.excalidraw.svg",
+    "Excalidraw/Investigación del Mercado 2024-05-04 15.25.29.excalidraw.svg",
+    "Excalidraw/Las 4 P 2024-04-27 18.50.40.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Las 4 P 2024-07-11 00.02.30.excalidraw.md",
+    "Excalidraw/Las 4 P 2024-04-27 21.23.25.excalidraw.md",
+    "Excalidraw/Mercado Laboral 2024-05-03 15.06.39.excalidraw.md",
+    "Excalidraw/Mercados Laboral y de RRHH 2024-05-04 15.08.45.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Rotación de Personal.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Rotación de Personal 2024-07-11 00.00.52.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Mercados Laboral y de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Mercados Laboral y de RRHH 2024-07-11 00.00.19.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Administración de Sistemas de Información/Políticas de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
-    "4to Nivel/Administración de Sistemas de Información/Política Salarial.md",
-    "4to Nivel/Administración de Sistemas de Información/Proceso de Provisión de SW y HW.md",
-    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación Manual.md",
-    "4to Nivel/Administración de Sistemas de Información/Evaluación de Cargos.md",
-    "4to Nivel/Administración de Sistemas de Información/Evaluación de las Prestaciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Auditoría de la Función de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Seguimiento de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Carga de Prueba.md",
-    "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
-    "4to Nivel/Administración de Sistemas de Información/Carga de Trabajo.md",
-    "4to Nivel/Administración de Sistemas de Información/Sintonización.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Sintonización de un Sistema.png",
-    "4to Nivel/Administración de Sistemas de Información/Cuellos de Botella.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Detección y Eliminación de Cuellos de Botella.png",
-    "4to Nivel/Administración de Sistemas de Información/Cultura Organizacional.md",
-    "4to Nivel/Administración de Sistemas de Información/Desarrollo de RRHH.md",
-    "4to Nivel/Administración de Sistemas de Información/Benchmarking.md",
-    "4to Nivel/Administración de Sistemas de Información/Benchmark.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
-    "4to Nivel/Administración de Sistemas de Información/Técnicas de Evaluación de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Modelado.md",
-    "4to Nivel/Administración de Sistemas de Información/Monitor.md",
-    "4to Nivel/Administración de Sistemas de Información/Monitorización.md",
-    "4to Nivel/Administración de Sistemas de Información/Análisis Operacional.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Monitor 2024-07-02 18.55.32.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Monitor 2024-07-02 18.55.32.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Estación de servicio para el análisis operacional.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Ley de Amdahl.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Sistema de Roles 2024-05-05 00.01.09.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Administración por Excepción.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Compensaciones 2024-07-02 00.00.43.excalidraw.svg",
     "desktop.ini",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Plan de Carrera 2024-07-01 16.09.27.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Pasted image 20240505213856.png",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
     "attachments",
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "ISO",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments",
     "4to Nivel/Investigación Operativa/desktop.ini",
     "Excalidraw/attachments",
     "New Text Document.txt",

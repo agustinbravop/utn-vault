@@ -1,10 +1,10 @@
 Es un acrónimo que se enfoca en los cuatro elementos más importantes a gestionar.
 En este orden de importancia:
 
-1. **Personas**
-2. **Producto**
-3. **Proceso**
-4. **Proyecto**
+1. **Personas**.
+2. **Producto**.
+3. **Proceso**.
+4. **Proyecto**.
 
 ## Personas
 
@@ -34,7 +34,8 @@ Se clasifican en:
 - **Descentralizado Democrático**: hay líderes por tarea y con consenso grupal. Sirve para problemas complejos.
 - **Descentralizado Controlado:** jefes por área para problemas modularizables.
 - **Centralizado Controlado**: solamente el jefe resuelve problemas.
-  ![[Las 4 P 2024-04-27 18.50.40.excalidraw]]
+
+![[Las 4 P 2024-07-11 00.02.30.excalidraw.svg]]
 
 En todo equipo es importante la confianza, distribuir las tareas conforme a las habilidades de cada integrante, y conservar la cohesión.
 
@@ -94,5 +95,7 @@ Necesitamos desarrollo de software que sea económicamente más valioso de maner
 ### Costos del Cambio
 
 Hacer iteraciones más cortas permite identificar problemas más temprano y reducir el costo o pérdida asociado al defecto. La agilidad propone que la entrega constante aplane la curva del costo.
-![[Las 4 P 2024-04-27 21.23.25.excalidraw]]
-En el desarrollo tradicional, el impacto de un error en producción es muy alto y costoso, mientras que en la curva propuesta por XP el costo del cambio se aplana con el tiempo. Esto solo se puede lograr con la _built-in quality_, haciendo énfasis en buenas prácticas y testing.
+
+![[Las 4 P 2024-07-11 00.01.23.excalidraw.svg]]
+
+En el desarrollo tradicional, el impacto de un error en producción es muy alto y costoso, mientras que en la curva propuesta por XP **el costo del cambio se aplana con el tiempo**. Esto solo se puede lograr con [[Calidad]] _built-in_, haciendo énfasis en buenas prácticas y [[Pruebas]].
