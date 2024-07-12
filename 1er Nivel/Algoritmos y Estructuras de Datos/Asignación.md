@@ -1,0 +1,1 @@
+Una asignación en [[Pseudocódigo]] 
