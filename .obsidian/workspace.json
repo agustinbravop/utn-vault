@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7da50ed792807595",
+        "id": "74d163369c38bf1b",
         "type": "tabs",
         "children": [
           {
-            "id": "54a49e96f3c96f1a",
+            "id": "9ad5e40506d3bb2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -56,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"cuellos de botella\"",
+                "query": "path:\"4to Nivel/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,14 +155,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5a650c066f2c957",
+  "active": "9ad5e40506d3bb2e",
   "lastOpenFiles": [
-    "1er Nivel",
-    "4to Nivel/index.md",
     "4to Nivel/Administración de Sistemas de Información/index.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/index.md",
+    "1er Nivel/index.md",
+    "4to Nivel/index.md",
+    "index.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos",
+    "1er Nivel",
     "4to Nivel/Ingeniería y Calidad de Software/index.md",
     "4to Nivel/Ingeniería y Calidad de Software/Las 4 P.md",
-    "index.md",
     "4to Nivel/Administración de Sistemas de Información/Entrenamiento.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Proceso del entrenamiento.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Ciclo del Entrenamiento.png",
@@ -201,7 +196,6 @@
     "Excalidraw/Mercados Laboral y de RRHH 2024-05-04 15.08.45.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/Rotación de Personal.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Rotación de Personal 2024-07-11 00.00.52.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Mercados Laboral y de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "desktop.ini",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
@@ -211,8 +205,6 @@
     "4to Nivel/Investigación Operativa/desktop.ini",
     "Excalidraw/attachments",
     "New Text Document.txt",
-    "4to Nivel/Investigación Operativa/Actividades",
-    "4to Nivel/Investigación Operativa",
-    "4to Nivel/Administración de Sistemas de Información/attachments"
+    "4to Nivel/Investigación Operativa/Actividades"
   ]
 }
