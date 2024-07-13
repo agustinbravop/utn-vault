@@ -1,0 +1,1 @@
+Pascal es un lenguaje de programación de alto nivel y con propósito general desarrollado por el suizo Niklaus Wirth para enseñar técnicas de programación a universitarios. Su primer compilador completo apareció en 1970.
