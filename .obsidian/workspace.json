@@ -4,185 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "74d163369c38bf1b",
+        "id": "7bbe351b3ec71ec3",
         "type": "tabs",
         "children": [
           {
-            "id": "266d018b200c9fc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Registro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45bd7fad35f53124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Archivo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01cabfe806d3ad60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Base de Datos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce2965863f15e8bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Procesos sobre Archivos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0df2abc102a65ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Pascal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b682a65893ecb35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Arreglo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e60e863b4f301a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Arreglos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8b9d45ad1b437ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e17b201b232f1e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Lista.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f591981ac43e61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Lista.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff0dcf7910d552ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Listas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8c4f5bc590f43c9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/attachments/Lista 2024-07-12 20.34.17.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "047d5569ccd96fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f84daeeb3a146c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Campo Clave.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd43ca12fc1b33ad",
+            "id": "ff4520757b8e007d",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"4to Nivel/\" ",
+                "query": "Auditoría",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Listas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Listas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Listas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -326,37 +155,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff0dcf7910d552ac",
+  "active": "248e2874cbd9669e",
   "lastOpenFiles": [
-    "1er Nivel/Algoritmos y Estructuras de Datos/Lista.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Calidad.md",
+    "Auditoría de Calidad.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Registro.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Secuencia.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Untitled 1.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Untitled.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Árbol Binario.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Árbol.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Recursividad.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Archivos.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Listas.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Lista.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/attachments/Lista 2024-07-12 20.34.17.excalidraw.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/attachments/Lista 2024-07-12 20.34.17.excalidraw.svg",
     "1er Nivel/Algoritmos y Estructuras de Datos/Puntero.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/C.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Untitled.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Arreglos.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Arreglo.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Pascal.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Pseudocódigo.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Algoritmo.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Procesos sobre Archivos.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/attachments/Esquema de la Actualización Secuencial.png",
     "1er Nivel/Algoritmos y Estructuras de Datos/attachments",
     "1er Nivel/Algoritmos y Estructuras de Datos/Campo Clave.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Base de Datos.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Archivo.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Registro.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Secuencia.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Asignación.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Función.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Paso de Parámetro.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Variable.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Procedimiento.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Funciones.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Estructuras.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/index.md",
-    "4to Nivel/Administración de Sistemas de Información/index.md",
     "1er Nivel/Algoritmos y Estructuras de Datos",
     "1er Nivel",
     "4to Nivel/Administración de Sistemas de Información/attachments/Proceso del entrenamiento.png",

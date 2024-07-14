@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "- path: Excalidraw, - file: *.excalidraw, path: \"4to Nivel/Administración de Sistemas de Información\" ",
+  "search": "-file: \"*.exalidraw.md\", path:\"4to Nivel/Ingeniería y Calidad de Software\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:\"1er Nivel/Algoritmos y Estructuras de Datos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15714683
+      }
+    },
+    {
+      "query": "path:\"4to Nivel/Ingeniería y Calidad de Software\" ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -21,10 +35,10 @@
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.504158004158004,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 320,
-  "scale": 0.2726860479721044,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 0.7069025455590469,
   "close": false
 }

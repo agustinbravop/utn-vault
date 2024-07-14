@@ -2,7 +2,7 @@ La calidad representa las **propiedades inherentes** a un objeto que permiten ap
 
 > Es la capacidad de un conjunto de características inherentes a un producto, modelo, o sistema, de **satisfacer necesidades**.
 
-En el software, la calidad se trabaja en base a las **expectativas** del cliente: lo que alguien quiere y cómo lo quiere. Existen [[Factores de la Calidad]] del software que se utilizan en los [[Modelos de Calidad]]. Se suele dividir en [[Calidad del Proceso]] y [[Calidad del Producto]]. Se puede auditar en una [[Auditoría de Calidad]].
+En el software, la calidad se trabaja en base a las **expectativas** del cliente: lo que alguien quiere y cómo lo quiere. Existen [[Factores de la Calidad]] del software que se utilizan en los [[Modelos de Calidad]]. Se suele dividir en [[Calidad del Proceso]] y [[Calidad del Producto]]. Se puede auditar la calidad del desarrollo en una [[Auditoría del Desarrollo]].
 
 $Calidad \ del \ Software = Calidad \ del \ Proceso + Calidad \ del \ Producto + Equipo \ Maduro$
 
