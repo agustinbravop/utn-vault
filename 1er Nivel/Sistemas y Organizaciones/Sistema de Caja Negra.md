@@ -1,0 +1,1 @@
+Un [[Sistema]] de **caja negra** es un sistema al que no podemos factorizar debido a algún impedimento. Tenemos la incapacidad de hacerlo. Solo conocemos su **comportamiento exterior** en base a sus entradas y salidas.

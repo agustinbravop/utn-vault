@@ -11,11 +11,170 @@
             "id": "ff4520757b8e007d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c8249bafb5a39bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Teoría General de Sistemas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba20ed61486ff4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Sistema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fba634687ec7770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Jerarquización.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ac1888dc45b05ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Sistema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb78d822778ee060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Homeostasia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1510312dd400ba1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Organización.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0356c0c29a7d0ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Subsistema Administrativo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "880352cf447b620d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Organizaciones como Sistemas Abiertos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c9a7737a1ad5e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Entorno.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f932abcd5ded44f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/attachments/Entorno 2024-07-14 16.09.52.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e8c8f58416f0e3b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Entropía.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0be3122e05a150c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Principio de Relatividad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9822e59d6668a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Límite del Sistema.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -89,6 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Entorno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Entorno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +287,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1er Nivel/Sistemas y Organizaciones/Entorno.md"
+              }
             }
           },
           {
@@ -155,8 +318,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "248e2874cbd9669e",
+  "active": "4c9a7737a1ad5e60",
   "lastOpenFiles": [
+    "1er Nivel/Sistemas y Organizaciones/attachments/Entorno 2024-07-14 16.09.52.excalidraw.md",
+    "1er Nivel/Sistemas y Organizaciones/Entorno.md",
+    "1er Nivel/Sistemas y Organizaciones/attachments/Entorno 2024-07-14 16.09.52.excalidraw.svg",
+    "1er Nivel/Sistemas y Organizaciones/attachments",
+    "1er Nivel/Sistemas y Organizaciones/Organizaciones como Sistemas Abiertos.md",
+    "1er Nivel/Sistemas y Organizaciones/Subsistema Administrativo.md",
+    "1er Nivel/Sistemas y Organizaciones/Organización.md",
+    "1er Nivel/Sistemas y Organizaciones/Subsistema Técnico.md",
+    "1er Nivel/Sistemas y Organizaciones/Subsistema Social.md",
+    "1er Nivel/Sistemas y Organizaciones/Homeostasia.md",
+    "1er Nivel/Sistemas y Organizaciones/Sistema.md",
+    "1er Nivel/Sistemas y Organizaciones/Globalismo.md",
+    "1er Nivel/Sistemas y Organizaciones/Jerarquización.md",
+    "1er Nivel/Sistemas y Organizaciones/Entropía.md",
+    "1er Nivel/Sistemas y Organizaciones/Principio de Relatividad.md",
+    "1er Nivel/Sistemas y Organizaciones/Sistema de Caja Negra.md",
+    "1er Nivel/Sistemas y Organizaciones/Límite del Sistema.md",
+    "1er Nivel/Sistemas y Organizaciones/Teoría General de Sistemas.md",
+    "1er Nivel/Sistemas y Organizaciones/index.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/index.md",
+    "1er Nivel/Sistemas y Organizaciones",
     "4to Nivel/Ingeniería y Calidad de Software/Calidad.md",
     "Auditoría de Calidad.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Registro.md",
@@ -164,28 +348,9 @@
     "1er Nivel/Algoritmos y Estructuras de Datos/Untitled 1.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Untitled.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Árbol Binario.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Árbol.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Recursividad.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Archivos.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Listas.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Lista.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/attachments/Lista 2024-07-12 20.34.17.excalidraw.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/attachments/Lista 2024-07-12 20.34.17.excalidraw.svg",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Puntero.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/C.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Procesos con Arreglos.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Arreglo.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Pascal.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Pseudocódigo.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Algoritmo.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/attachments/Esquema de la Actualización Secuencial.png",
     "1er Nivel/Algoritmos y Estructuras de Datos/attachments",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Campo Clave.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Base de Datos.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Archivo.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Asignación.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Función.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Paso de Parámetro.md",
     "1er Nivel/Algoritmos y Estructuras de Datos",
     "1er Nivel",
     "4to Nivel/Administración de Sistemas de Información/attachments/Proceso del entrenamiento.png",
@@ -196,15 +361,12 @@
     "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments/Pasted Image 20240711000721_578.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments/Pasted Image 20240711000706_562.png",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments",
-    "Excalidraw/Investigación del Mercado 2024-05-03 15.13.13.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "desktop.ini",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
     "attachments",
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "ISO",
-    "4to Nivel/Investigación Operativa/desktop.ini",
-    "Excalidraw/attachments",
-    "New Text Document.txt"
+    "4to Nivel/Investigación Operativa/desktop.ini"
   ]
 }
