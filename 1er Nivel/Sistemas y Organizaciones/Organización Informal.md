@@ -1,0 +1,1 @@
+La organización informal es la **red de relaciones personales y sociales** no establecidas ni requeridas, pero que se producen a medida que las personas se asocian entre sí. Está conformada por grupos pequeños que se unen por cierto **interés común**. Tiene relevancia en el proceso de formación de objetivos y en la [[Administración]] de la organización.

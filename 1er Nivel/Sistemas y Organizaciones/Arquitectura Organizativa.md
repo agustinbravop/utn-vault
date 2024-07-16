@@ -1,0 +1,1 @@
+Diseñar la [[Organización]] consiste en definir la **arquitectura organizativa**: las formas que toman las estructuras de las organizaciones. Se realiza cada vez que es necesario diseñar un modelo específico y único para cada organización.
