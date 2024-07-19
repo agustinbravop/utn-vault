@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"83054c93b7f83e40","type":"group","x":360,"y":-920,"width":440,"height":1440,"label":"Características de los Sistemas"},
+		{"id":"21aef9f18ef859d2","x":317,"y":216,"width":400,"height":400,"type":"file","file":"1er Nivel/Sistemas y Organizaciones/Organización.md"},
+		{"id":"b46a7fb11955622a","type":"file","file":"1er Nivel/Sistemas y Organizaciones/Teoría General de Sistemas.md","x":-261,"y":-1200,"width":400,"height":400},
+		{"id":"e3daf21f772d5be6","type":"file","file":"1er Nivel/Sistemas y Organizaciones/Sistema.md","x":-261,"y":-400,"width":400,"height":400},
+		{"id":"888280df4723eaa6","type":"file","file":"1er Nivel/Sistemas y Organizaciones/Jerarquía de los Sistemas.md","x":-960,"y":-640,"width":400,"height":400},
+		{"id":"35e7ee2ab07263d7","type":"file","file":"1er Nivel/Sistemas y Organizaciones/Principio de Relatividad.md","x":-960,"y":-120,"width":400,"height":400},
+		{"id":"177dc6f0d83d19ec","type":"file","file":"1er Nivel/Sistemas y Organizaciones/Homeostasia.md","x":380,"y":-780,"width":400,"height":400},
+		{"id":"448ce806ef23e8a5","type":"file","file":"1er Nivel/Sistemas y Organizaciones/Entropía.md","x":380,"y":-340,"width":400,"height":400},
+		{"id":"aa7b7f93b0604d0e","type":"file","file":"1er Nivel/Sistemas y Organizaciones/Globalismo.md","x":380,"y":100,"width":400,"height":400},
+		{"id":"b70afe01e0339545","type":"text","text":"# Propósito","x":380,"y":-900,"width":400,"height":80}
+	],
+	"edges":[
+		{"id":"cbd1c51cf163a69e","fromNode":"b46a7fb11955622a","fromSide":"bottom","toNode":"e3daf21f772d5be6","toSide":"top","label":"estudia"},
+		{"id":"1406475190a4313d","fromNode":"888280df4723eaa6","fromSide":"right","toNode":"e3daf21f772d5be6","toSide":"left"},
+		{"id":"8fe6fc8740aaf63d","fromNode":"35e7ee2ab07263d7","fromSide":"right","toNode":"e3daf21f772d5be6","toSide":"left"},
+		{"id":"8f81bd90431fc764","fromNode":"e3daf21f772d5be6","fromSide":"right","toNode":"83054c93b7f83e40","toSide":"left"}
+	]
+}

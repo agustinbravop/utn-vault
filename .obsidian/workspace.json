@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "35b4dd0db23255f1",
+        "id": "62ca9c302f4193da",
         "type": "tabs",
         "children": [
           {
-            "id": "31be7fbf4360667c",
+            "id": "8a00b9020c192c81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1er Nivel/Sistemas y Organizaciones/Procesos de Toma de Decisiones.md",
-                "mode": "source",
-                "source": false
+                "file": "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
+                "viewState": {
+                  "x": 317.1254912441723,
+                  "y": 215.68120141925078,
+                  "zoom": -1.7777776082356769
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Sistemas y Organizaciones/Procesos de Toma de Decisiones.md",
+                "file": "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1er Nivel/Sistemas y Organizaciones/Procesos de Toma de Decisiones.md",
+                "file": "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1er Nivel/Sistemas y Organizaciones/Procesos de Toma de Decisiones.md"
+                "file": "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas"
               }
             }
           },
@@ -163,10 +166,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31be7fbf4360667c",
+  "active": "8a00b9020c192c81",
   "lastOpenFiles": [
-    "1er Nivel/Sistemas y Organizaciones/Administración.md",
+    "1er Nivel/Sistemas y Organizaciones/attachments/Sistemas de Información 2024-07-18 19.26.52.excalidraw.md",
+    "1er Nivel/Sistemas y Organizaciones/Jerarquía de los Sistemas.md",
+    "1er Nivel/Sistemas y Organizaciones/Entorno.md",
+    "1er Nivel/Sistemas y Organizaciones/Información.md",
+    "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
+    "1er Nivel/Sistemas y Organizaciones/Método del Ciclo de Vida.md",
+    "1er Nivel/Sistemas y Organizaciones/Untitled.md",
+    "1er Nivel/Sistemas y Organizaciones/Sistemas de Información.md",
+    "1er Nivel/Sistemas y Organizaciones/Problema de Información.md",
+    "1er Nivel/Sistemas y Organizaciones/Integración de los Sistemas de Información.md",
+    "1er Nivel/Sistemas y Organizaciones/Sistemas para Automatización de la Oficina.md",
+    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de OA.png",
+    "1er Nivel/Sistemas y Organizaciones/Sistemas Basados en el Conocimiento.md",
+    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de KBS.png",
+    "1er Nivel/Sistemas y Organizaciones/Funciones Básicas del Tratamiento de la Información.md",
+    "1er Nivel/Sistemas y Organizaciones/Usuario.md",
+    "1er Nivel/Sistemas y Organizaciones/Sistemas de Información para Ejecutivos.md",
+    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de EIS.png",
+    "1er Nivel/Sistemas y Organizaciones/Sistemas para el Soporte de Decisiones.md",
+    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de DSS.png",
+    "1er Nivel/Sistemas y Organizaciones/Sistemas de Información Administrativa.md",
+    "1er Nivel/Sistemas y Organizaciones/Sistemas de Procesamiento de Transacciones.md",
+    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de MIS.png",
+    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de TPS.png",
+    "1er Nivel/Sistemas y Organizaciones/Datos.md",
+    "1er Nivel/Sistemas y Organizaciones/attachments/Sistemas de Información 2024-07-18 19.26.52.excalidraw.svg",
     "1er Nivel/Sistemas y Organizaciones/Procesos de Toma de Decisiones.md",
+    "1er Nivel/Sistemas y Organizaciones/Administración.md",
     "1er Nivel/Sistemas y Organizaciones/Procesos Organizacionales.md",
     "1er Nivel/Sistemas y Organizaciones/Procesos Industriales.md",
     "1er Nivel/Sistemas y Organizaciones/Procesos de Gestión.md",
@@ -176,32 +205,7 @@
     "1er Nivel/Sistemas y Organizaciones/Departamentalización.md",
     "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 12.10.09.excalidraw.md",
     "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 12.10.09.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 12.02.30.excalidraw.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 12.02.30.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 12.00.41.excalidraw.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 12.00.41.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 11.58.45.excalidraw.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 11.58.45.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 11.57.08.excalidraw.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 11.57.08.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 11.55.43.excalidraw.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 11.55.43.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 11.52.57.excalidraw.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 11.52.57.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/Arquitectura Organizativa.md",
-    "1er Nivel/Sistemas y Organizaciones/Organización.md",
     "desktop.ini",
-    "1er Nivel/Sistemas y Organizaciones/Controlar.md",
-    "1er Nivel/Sistemas y Organizaciones/Proceso de Retroalimentación.md",
-    "1er Nivel/Sistemas y Organizaciones/Dirigir.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Pirámide de Maslow.png",
-    "1er Nivel/Sistemas y Organizaciones/Planificar.md",
-    "1er Nivel/Sistemas y Organizaciones/Organización Informal.md",
-    "1er Nivel/Sistemas y Organizaciones/Organizar.md",
-    "1er Nivel/Sistemas y Organizaciones/Organización Formal.md",
-    "1er Nivel/Sistemas y Organizaciones/Habilidades del Administrador.md",
-    "1er Nivel/Sistemas y Organizaciones/Entorno.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Entorno 2024-07-14 16.09.52.excalidraw.md",
     "1er Nivel/Sistemas y Organizaciones/attachments",
     "1er Nivel/Sistemas y Organizaciones",
     "1er Nivel/Algoritmos y Estructuras de Datos/attachments",

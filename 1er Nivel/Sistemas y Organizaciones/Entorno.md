@@ -2,7 +2,7 @@ El **entorno** de la [[Organización]] es el conjunto de todos los elementos o a
 
 La organización es un **sujeto activo y pasivo**, implicando una permanente **función adaptativa** de su estructura ante posibles **cambios** del entorno. Se considera al entorno una **fuente de recursos** e información.
 
-Según la [[Jerarquización]] de los sistemas, el entorno de la organización es su **macrosistema**.
+Según la [[Jerarquía de los Sistemas]], el entorno de la organización es su **macrosistema**.
 
 ![[Entorno 2024-07-14 16.09.52.excalidraw.svg]]
 
