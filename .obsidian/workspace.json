@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
+                "file": "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
                 "viewState": {
-                  "x": 317.1254912441723,
-                  "y": 215.68120141925078,
-                  "zoom": -1.7777776082356769
+                  "x": 4427.929886933195,
+                  "y": 1480.0539696728863,
+                  "zoom": -2.333333129882812
                 }
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
+                "file": "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
+                "file": "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas"
+                "file": "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas"
               }
             }
           },
@@ -168,11 +168,20 @@
   },
   "active": "8a00b9020c192c81",
   "lastOpenFiles": [
+    "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
+    "1er Nivel/Sistemas y Organizaciones/Proceso de Retroalimentación.md",
+    "1er Nivel/Sistemas y Organizaciones/Límite del Sistema.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Algoritmos con Arreglos.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Algoritmos con Archivos.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Algoritmos con Listas.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Paso de Parámetro.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Estructuras de Código.md",
+    "1er Nivel/Sistemas y Organizaciones/Organización Formal.md",
     "1er Nivel/Sistemas y Organizaciones/attachments/Sistemas de Información 2024-07-18 19.26.52.excalidraw.md",
     "1er Nivel/Sistemas y Organizaciones/Jerarquía de los Sistemas.md",
     "1er Nivel/Sistemas y Organizaciones/Entorno.md",
     "1er Nivel/Sistemas y Organizaciones/Información.md",
-    "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
     "1er Nivel/Sistemas y Organizaciones/Método del Ciclo de Vida.md",
     "1er Nivel/Sistemas y Organizaciones/Untitled.md",
     "1er Nivel/Sistemas y Organizaciones/Sistemas de Información.md",
@@ -192,18 +201,9 @@
     "1er Nivel/Sistemas y Organizaciones/Sistemas de Procesamiento de Transacciones.md",
     "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de MIS.png",
     "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de TPS.png",
-    "1er Nivel/Sistemas y Organizaciones/Datos.md",
     "1er Nivel/Sistemas y Organizaciones/attachments/Sistemas de Información 2024-07-18 19.26.52.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/Procesos de Toma de Decisiones.md",
-    "1er Nivel/Sistemas y Organizaciones/Administración.md",
-    "1er Nivel/Sistemas y Organizaciones/Procesos Organizacionales.md",
-    "1er Nivel/Sistemas y Organizaciones/Procesos Industriales.md",
-    "1er Nivel/Sistemas y Organizaciones/Procesos de Gestión.md",
     "1er Nivel/Sistemas y Organizaciones/attachments/Diagrama de Flechas.png",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Los Procesos Organizacionales 2024-07-18 12.20.47.excalidraw.md",
     "1er Nivel/Sistemas y Organizaciones/attachments/Los Procesos Organizacionales 2024-07-18 12.20.47.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/Departamentalización.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 12.10.09.excalidraw.md",
     "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 12.10.09.excalidraw.svg",
     "desktop.ini",
     "1er Nivel/Sistemas y Organizaciones/attachments",

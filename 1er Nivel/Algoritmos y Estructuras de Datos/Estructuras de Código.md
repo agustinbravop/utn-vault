@@ -1,4 +1,4 @@
-Las estructuras en [[Pseudocódigo]] son un conjunto de instrucciones que tiene un encabezado y un pie con palabras reservadas. Permiten modificar el **flujo de control**.
+Las estructuras de código en [[Pseudocódigo]] son un conjunto de instrucciones que tiene un encabezado y un pie con palabras reservadas. Permiten modificar el **flujo de control**.
 
 ## Condicionales
 

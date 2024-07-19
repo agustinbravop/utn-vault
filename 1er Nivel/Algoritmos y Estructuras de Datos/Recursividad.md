@@ -1,4 +1,4 @@
-La **recursividad** es una técnica matemática y computacional en la cual la solución se basa en que el [[Algoritmo]] se llama a sí mismo dentro del proceso. Es una forma de repetición distinto a usar [[Estructuras#Iterativas|estructuras iterativas]] mediante bucles.
+La **recursividad** es una técnica matemática y computacional en la cual la solución se basa en que el [[Algoritmo]] se llama a sí mismo dentro del proceso. Es una forma de repetición distinto a usar [[Estructuras de Código#Iterativas|estructuras iterativas]] mediante bucles.
 
 ```
 FUNCIÓN factorial(n: entero): entero ES
