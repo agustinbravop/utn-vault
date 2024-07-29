@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "a106b20c6af2b303",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a00b9020c192c81",
+  "active": "a106b20c6af2b303",
   "lastOpenFiles": [
     "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
     "1er Nivel/Sistemas y Organizaciones/Proceso de Retroalimentación.md",
