@@ -43,7 +43,7 @@ flowchart TD;
 10 --> 13((" "))
 ```
 
-Para todo **ABB** debe cumplirse que para todo nodo del árbol: 
+Para todo **ABB** debe cumplirse que para todo nodo del árbol:
 
 $$elementos \ del \ hijo \ izquierdo < nodo \ propio < elementos \ del \ hijo \ derecho$$
 

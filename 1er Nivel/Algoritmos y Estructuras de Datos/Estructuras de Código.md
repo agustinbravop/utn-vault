@@ -13,7 +13,7 @@ SI [condición] ENTONCES [acción] FIN_SI
 ### Alternativa
 
 ```
-SI [condición] ENTONCES 
+SI [condición] ENTONCES
 	[acción_1]
 SINO
 	[acción_2]
@@ -23,7 +23,7 @@ FIN_SI
 ### Múltiple
 
 ```
-SEGÚN [variable_de_control] HACER 
+SEGÚN [variable_de_control] HACER
 	[valor_1]: [acción_1]
 	[valor_2]: [acción_2]
 	[valor_3]: [acción_3]

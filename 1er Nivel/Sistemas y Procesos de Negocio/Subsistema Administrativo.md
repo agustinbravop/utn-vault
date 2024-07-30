@@ -1,6 +1,6 @@
 El subsistema administrativo se extiende por toda la [[Organización]] relacionándola con su medio, estableciendo los objetivos, desarrollando planes, diseñando **estructuras** y estableciendo controles.
 
->"...Consideramos que la estructura es el conjunto de las relaciones de los distintos subsistemas que conforman la empresa." - Jorge Hermida.
+> "...Consideramos que la estructura es el conjunto de las relaciones de los distintos subsistemas que conforman la empresa." - Jorge Hermida.
 
 Incluye:
 

@@ -1,0 +1,1 @@
+> Una arquitectura de [[Computadora]] determina el criterio lógico necesario de diseño para definir y relacionar los componentes de un ordenador sin perder de vista el campo de aplicación del mismo. - Ing. Gustavo Maurokefalidis.

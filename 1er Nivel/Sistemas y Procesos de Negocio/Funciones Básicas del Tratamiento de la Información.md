@@ -1,4 +1,4 @@
-Los [[Datos]] entran a los [[1er Nivel/Sistemas y Organizaciones/Sistemas de Información|Sistemas de Información]] y luego son transmitidos, almacenados, manipulados y presentados.
+Los [[Datos]] entran a los [[1er Nivel/Sistemas y Procesos de Negocio/Sistemas de Información|Sistemas de Información]] y luego son transmitidos, almacenados, manipulados y presentados.
 
 ## Entrada de Datos
 

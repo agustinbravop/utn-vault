@@ -13,7 +13,7 @@ Las secuencias se almacenan en **memoria persistente** (disco). El **tamaño** d
 Según su procesamiento, las secuencias se clasifican en:
 
 1. **Definida**: se usa una [[Estructuras de Código#Iterativas|estructura iterativa]] manejada por **contador**.
-2. **Indefinida pura**: se usa una estructura **post-test** porque se conoce el **último elemento.
+2. **Indefinida pura**: se usa una estructura **post-test** porque se conoce el \*\*último elemento.
 3. **Indefinida impura**: se usa una estructura **pre-test** porque tiene **marca de fin**.
 
 ## Máquina de Caracteres

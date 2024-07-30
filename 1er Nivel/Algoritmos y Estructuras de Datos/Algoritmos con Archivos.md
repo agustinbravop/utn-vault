@@ -6,8 +6,8 @@ Un solo fichero de entrada. Puede o no haber un fichero de salida.
 
 1. **Genérico**: es el proceso de **carga** o generación, tiene como objetivo crear un archivo **consistente** y, de ser posible, **congruente grueso**.
 2. **Emisión**: tiene como objetivo la salida impresa de datos.
-	- **Listador en bruto**: imprime tal cual lo que está en el fichero.
-	- **Padrón**: los datos están ordenados. Puede haber encabezados y totales.
+   - **Listador en bruto**: imprime tal cual lo que está en el fichero.
+   - **Padrón**: los datos están ordenados. Puede haber encabezados y totales.
 3. Estadísticos: hacen un recorrido del archivo para contabilizar elementos, emitiendo un cuadro estadístico de resumen, ahorrando papel pero usando memoria mucha interna.
 4. **Corte de control**: dan padrones con totales parciales. Requieren entradas ordenadas por un [[Campo Clave]] de **clave compleja**.
 

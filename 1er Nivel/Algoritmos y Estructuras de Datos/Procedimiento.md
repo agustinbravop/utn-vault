@@ -2,7 +2,7 @@ Un **procedimiento** es una subacción que ejecuta una tarea determinada con un 
 
 Ventajas de usarlos:
 
-- Diseño *top-down*.
+- Diseño _top-down_.
 - Facilita la división de tareas entre programadores.
 - Se pueden incorporar a librerías.
 - Evita copiar y pegar código.

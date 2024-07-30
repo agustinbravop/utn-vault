@@ -1,4 +1,4 @@
-*Langefors* considera al sistema de [[Información]] un [[Sistema]] incluido en otro sistema más grande, del cual recibe [[Datos]]. Para *Senn* es un conjunto de personas, datos y procedimientos que funcionan en conjunto.
+_Langefors_ considera al sistema de [[Información]] un [[Sistema]] incluido en otro sistema más grande, del cual recibe [[Datos]]. Para _Senn_ es un conjunto de personas, datos y procedimientos que funcionan en conjunto.
 
 > El sistema de información es aquel capaz de **recolectar**, **almacenar**, **procesar** y **distribuir** todos los datos relativos a la información de la empresa.
 

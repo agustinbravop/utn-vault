@@ -18,8 +18,8 @@ Características:
 7. **Proceso de transformación**: es el fenómeno que produce cambios. Convierte las entradas en salidas, agregando **valor y utilidad**.
 8. **Salidas**: son los **resultados** del proceso de transformación y es la finalidad del sistema. Deben ser congruentes con el objetivo del sistema.
 9. **Proceso de retroalimentación**: busca controlar y comparar la salida con un criterio predeterminado. Es un sistema de comunicación de retorno proporcionado por la salida del sistema a su entrada para alterarla de alguna manera. Impone **correcciones** en el sistema, adecuando entradas y salidas y **reduciendo desvíos**. Mantiene un estado relativamente estable y aumenta las probabilidades de que el sistema sobreviva frente a presiones externas.
-	- Retroalimentación **positiva**: la salida amplifica y refuerza la entrada.
-	- Retroalimentación **negativa**: frena e inhibe la salida y actúa sobre la entrada.
+   - Retroalimentación **positiva**: la salida amplifica y refuerza la entrada.
+   - Retroalimentación **negativa**: frena e inhibe la salida y actúa sobre la entrada.
 
 ## Clasificación
 
@@ -51,7 +51,7 @@ Según su **generación**:
 1. Naturales: creados por la madre naturaleza.
 2. Artificiales: son los sistemas creados por el hombre.
 
-Según su ***dinamismo***:
+Según su **_dinamismo_**:
 
 1. **Estables**: los que se **mantienen** sin modificar su estructura.
 2. **Adaptativos**: los que **alteran** su estructura como respuesta al contexto.

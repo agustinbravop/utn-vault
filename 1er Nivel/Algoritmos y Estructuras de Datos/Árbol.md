@@ -1,4 +1,4 @@
-Un **árbol** es una estructura de datos [[Recursividad|recursiva]] y **estrictamente jerárquica** con un conjunto **dinámico** de nodos. Sirve para representar árboles genealógicos, estructuras de carpetas. 
+Un **árbol** es una estructura de datos [[Recursividad|recursiva]] y **estrictamente jerárquica** con un conjunto **dinámico** de nodos. Sirve para representar árboles genealógicos, estructuras de carpetas.
 
 ```mermaid
 flowchart TD;
@@ -14,7 +14,7 @@ flowchart TD;
 
 El **grado** de un nodo padre es la cantidad de nodos hijos que tiene. El grado de un árbol es el grado de su nodo de mayor grado. Las **hojas** del árbol son los nodos sin hijos. El **nivel** de un árbol es la longitud del camino de longitud máxima que se pueda trazar desde la raíz hasta una hoja.
 
-Sea un árbol n-ario de grado $n \ge 1$ donde cada nodo padre tiene como mucho una cantidad $n$ de hijos. **El número máximo de nodos en el nivel $i$ es $n^i$**. Un árbol **unario** es equivalente a una [[Lista]]. 
+Sea un árbol n-ario de grado $n \ge 1$ donde cada nodo padre tiene como mucho una cantidad $n$ de hijos. **El número máximo de nodos en el nivel $i$ es $n^i$**. Un árbol **unario** es equivalente a una [[Lista]].
 
 Un caso especial de árbol muy interesante es el [[Árbol Binario]].
 

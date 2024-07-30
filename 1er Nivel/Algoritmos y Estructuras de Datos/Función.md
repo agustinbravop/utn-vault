@@ -1,4 +1,4 @@
-Una función es un *subalgoritmo* que recibe **parámetros** y devuelve un único **resultado**. Hay **funciones internas** (o intrínsecas o predefinidas) que ya vienen incorporadas al sistema. El usuario puede **definir funciones** de manera externa.
+Una función es un _subalgoritmo_ que recibe **parámetros** y devuelve un único **resultado**. Hay **funciones internas** (o intrínsecas o predefinidas) que ya vienen incorporadas al sistema. El usuario puede **definir funciones** de manera externa.
 
 ```
 FUNCION [nombre]([parámetros]): [tipo_retorno]

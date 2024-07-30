@@ -6,11 +6,11 @@ Las **organizaciones** se caracterizan por:
 
 La actividad humana es generadora de organizaciones: nos permiten lograr finas y regular la conducta individual y social. La cátedra ofrece la siguiente definición:
 
->Una **organización** es un **sistema social** integrado por individuos y grupos que, bajo una determinada **estructura** y dentro de un **contexto** que controlan parcialmente, desarrollan actividades aplicando **recursos** en pos de ciertos **valores comunes**.
+> Una **organización** es un **sistema social** integrado por individuos y grupos que, bajo una determinada **estructura** y dentro de un **contexto** que controlan parcialmente, desarrollan actividades aplicando **recursos** en pos de ciertos **valores comunes**.
 
 A partir el enfoque de sistemas, se analiza a la organización como un [[Sistema]] entrada-proceso-salida, cuyos procesos están influenciados por la **retroalimentación** de las salidas. Es un **sistema abierto** en **comportamiento global**, incluida en un sistema más amplio: la sociedad.
 
-Según esta óptica, las organizaciones productivas son concebidas como **sistemas socio-técnicos abiertos**. La **eficiencia** depende de la optimización de ambos sistemas: el *técnico* y el *social*.
+Según esta óptica, las organizaciones productivas son concebidas como **sistemas socio-técnicos abiertos**. La **eficiencia** depende de la optimización de ambos sistemas: el _técnico_ y el _social_.
 
 Una organización tiene 3 subsistemas centrales:
 

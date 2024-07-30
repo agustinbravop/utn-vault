@@ -14,8 +14,8 @@ FIN_REGISTRO
 
 ### Particularizadas
 
-1. **Pilas**: los *stacks* permiten acceder a sus elementos de forma LIFO (Last In first Out). Tiene dos operaciones básicas para manejar los datos, apilar (*push*) y retirar (*pop*).
-2. **Cola**: las *queues* son una lista ordinal de datos con modo de acceso FIFO (First In First Out). Siempre se insertan elementos al final y no permite el acceso aleatorio a un elemento concreto.
+1. **Pilas**: los _stacks_ permiten acceder a sus elementos de forma LIFO (Last In first Out). Tiene dos operaciones básicas para manejar los datos, apilar (_push_) y retirar (_pop_).
+2. **Cola**: las _queues_ son una lista ordinal de datos con modo de acceso FIFO (First In First Out). Siempre se insertan elementos al final y no permite el acceso aleatorio a un elemento concreto.
 
 ### Generalizadas
 

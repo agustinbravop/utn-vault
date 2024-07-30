@@ -14,7 +14,7 @@ El **caso base** devuelve sin llamarse a sí mismo, sirve como un **final** de l
 
 La recursividad supone una **reducción de la complejidad** del problema (donde `f(n - 1)` es menos complejo que `f(n)`) hasta que se llega al caso base, el más simple de todos. Sirve para **simplificar el código** o cuando la estructura de datos es recursiva (por ejemplo un [[Árbol]]), pero es ineficiente para largas repeticiones porque la recursividad es **lenta y cara**.
 
-Las llamadas a la función se van apilando en en *callstack* hasta que se llega al caso base y las funciones comienzan a retornar: el *callstack* comienza a desapilarse.
+Las llamadas a la función se van apilando en en _callstack_ hasta que se llega al caso base y las funciones comienzan a retornar: el _callstack_ comienza a desapilarse.
 
 Tipos de recursividad:
 
@@ -22,8 +22,8 @@ Tipos de recursividad:
 2. **Múltiple**: la función presenta más de una llamada a sí misma.
 3. **Anidada**: presenta varias llamadas en la misma línea (por ejemplo la serie de fibonacci).
 4. **De cabeza**: se llama a sí misma al inicio del cuerpo (primera instrucción).
-4. **De cola**: se llama a sí misma al final del cuerpo (última instrucción).
-5. **Intermedia**: se llama a sí misma en el medio del cuerpo.
+5. **De cola**: se llama a sí misma al final del cuerpo (última instrucción).
+6. **Intermedia**: se llama a sí misma en el medio del cuerpo.
 
 Para resolver problemas de manera recursiva:
 

@@ -2,4 +2,4 @@ Los **TPS** dan soporte al funcionamiento **rutinario** de la organización: las
 
 ![[Modelo de TPS.png]]
 
-Es el único tipo de los [[1er Nivel/Sistemas y Organizaciones/Sistemas de Información|Sistemas de Información]] que tiene que satisfacer **necesidades de información externas** a la organización.
+Es el único tipo de los [[1er Nivel/Sistemas y Procesos de Negocio/Sistemas de Información|Sistemas de Información]] que tiene que satisfacer **necesidades de información externas** a la organización.

@@ -2,4 +2,4 @@ Los **DSS** dan soporte a las decisiones no programadas de los directores. Un fa
 
 ![[Modelo de DSS.png]]
 
-*Groupware*: software orientado a grupos para que varios encargados puedan resolver problemas trabajando juntos.
+_Groupware_: software orientado a grupos para que varios encargados puedan resolver problemas trabajando juntos.

@@ -1,5 +1,5 @@
 ---
-title: "Materia: Sistemas y Organizaciones"
+title: "Materia: Sistemas y Procesos de Negocio"
 ---
 
 Asignatura: Sistemas y Organizaciones.

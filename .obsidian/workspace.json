@@ -4,36 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "62ca9c302f4193da",
+        "id": "aa37301175659a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "8a00b9020c192c81",
+            "id": "3caa1e2207ad1c1c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
-                "viewState": {
-                  "x": 4427.929886933195,
-                  "y": 1480.0539696728863,
-                  "zoom": -2.333333129882812
-                }
+                "file": "1er Nivel/Arquitectura de Computadoras/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "a106b20c6af2b303",
+            "id": "308c4ad4ccb6d055",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "1er Nivel/Arquitectura de Computadoras/Computadora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fde615562721d89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
+                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
+                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas"
+                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md"
               }
             }
           },
@@ -177,57 +188,59 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a106b20c6af2b303",
+  "active": "3fde615562721d89",
   "lastOpenFiles": [
-    "1er Nivel/Sistemas y Organizaciones/MOC Sistemas y Organizaciones.canvas",
-    "1er Nivel/Sistemas y Organizaciones/Proceso de Retroalimentación.md",
-    "1er Nivel/Sistemas y Organizaciones/Límite del Sistema.md",
+    "1er Nivel/Arquitectura de Computadoras/Computadora.md",
+    "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
+    "1er Nivel/Arquitectura de Computadoras/index.md",
+    "1er Nivel/Inglés 1/index.md",
+    "1er Nivel/Inglés 1/Sustantivo.md",
+    "1er Nivel/Inglés 1/Frase Nominal.md",
+    "1er Nivel/index.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/index.md",
+    "1er Nivel/Inglés 1/MOC Inglés 1.canvas",
+    "1er Nivel/Inglés 1/Adjetivo.md",
+    "1er Nivel/Inglés 1/Tiempo Verbal.md",
+    "1er Nivel/Inglés 1/Verbo.md",
+    "1er Nivel/Inglés 1/Verbo To Be.md",
+    "1er Nivel/Inglés 1/Adverbio.md",
+    "1er Nivel/Inglés 1/Cognado Falso.md",
+    "1er Nivel/Inglés 1/Cognado.md",
+    "1er Nivel/Inglés 1/Estrategias de Lectura.md",
+    "1er Nivel/Inglés 1",
+    "1er Nivel/Arquitectura de Computadoras",
+    "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas",
+    "index.md",
+    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
+    "4to Nivel/Administración de Sistemas de Información/Componentes de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Cambio Organizacional.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Acuerdo de Nivel de Servicio.md",
+    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Proyectos Ágiles.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Modelos de Calidad.md",
+    "4to Nivel/Ingeniería y Calidad de Software/ISO-IEC 25010.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.svg",
     "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Algoritmos con Arreglos.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Algoritmos con Archivos.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Algoritmos con Listas.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Paso de Parámetro.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Estructuras de Código.md",
-    "1er Nivel/Sistemas y Organizaciones/Organización Formal.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Sistemas de Información 2024-07-18 19.26.52.excalidraw.md",
-    "1er Nivel/Sistemas y Organizaciones/Jerarquía de los Sistemas.md",
-    "1er Nivel/Sistemas y Organizaciones/Entorno.md",
-    "1er Nivel/Sistemas y Organizaciones/Información.md",
-    "1er Nivel/Sistemas y Organizaciones/Método del Ciclo de Vida.md",
-    "1er Nivel/Sistemas y Organizaciones/Untitled.md",
-    "1er Nivel/Sistemas y Organizaciones/Sistemas de Información.md",
-    "1er Nivel/Sistemas y Organizaciones/Problema de Información.md",
-    "1er Nivel/Sistemas y Organizaciones/Integración de los Sistemas de Información.md",
-    "1er Nivel/Sistemas y Organizaciones/Sistemas para Automatización de la Oficina.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de OA.png",
-    "1er Nivel/Sistemas y Organizaciones/Sistemas Basados en el Conocimiento.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de KBS.png",
-    "1er Nivel/Sistemas y Organizaciones/Funciones Básicas del Tratamiento de la Información.md",
-    "1er Nivel/Sistemas y Organizaciones/Usuario.md",
-    "1er Nivel/Sistemas y Organizaciones/Sistemas de Información para Ejecutivos.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de EIS.png",
-    "1er Nivel/Sistemas y Organizaciones/Sistemas para el Soporte de Decisiones.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de DSS.png",
-    "1er Nivel/Sistemas y Organizaciones/Sistemas de Información Administrativa.md",
-    "1er Nivel/Sistemas y Organizaciones/Sistemas de Procesamiento de Transacciones.md",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de MIS.png",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Modelo de TPS.png",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Sistemas de Información 2024-07-18 19.26.52.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Diagrama de Flechas.png",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Los Procesos Organizacionales 2024-07-18 12.20.47.excalidraw.svg",
-    "1er Nivel/Sistemas y Organizaciones/attachments/Departamentalización 2024-07-18 12.10.09.excalidraw.svg",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Modelo de OA.png",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Modelo de KBS.png",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Modelo de EIS.png",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Modelo de DSS.png",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Modelo de MIS.png",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Modelo de TPS.png",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Sistemas de Información 2024-07-18 19.26.52.excalidraw.svg",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Diagrama de Flechas.png",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Los Procesos Organizacionales 2024-07-18 12.20.47.excalidraw.svg",
     "desktop.ini",
-    "1er Nivel/Sistemas y Organizaciones/attachments",
-    "1er Nivel/Sistemas y Organizaciones",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments",
+    "1er Nivel/Sistemas y Procesos de Negocio",
     "1er Nivel/Algoritmos y Estructuras de Datos/attachments",
     "1er Nivel/Algoritmos y Estructuras de Datos",
     "1er Nivel",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
-    "attachments",
-    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
-    "ISO",
-    "4to Nivel/Investigación Operativa/desktop.ini"
+    "attachments"
   ]
 }

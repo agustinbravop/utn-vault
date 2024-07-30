@@ -37,7 +37,7 @@ FIN_REGISTRO
 
 ## Campo
 
-Es un conjunto de caracteres capaz de suministrar una determinada información referida a un concepto. Es la entidad lógica más pequeña, y es la mínima unidad de información de un registro. Nos permiten tener "subsecuencias continuas dentro de una secuencia mayor." 
+Es un conjunto de caracteres capaz de suministrar una determinada información referida a un concepto. Es la entidad lógica más pequeña, y es la mínima unidad de información de un registro. Nos permiten tener "subsecuencias continuas dentro de una secuencia mayor."
 
 Al definir un campo, se debe indicar un:
 
