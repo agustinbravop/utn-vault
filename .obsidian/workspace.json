@@ -25,26 +25,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Computadora.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3fde615562721d89",
+            "id": "5783bcaacbfeba42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Representación de la Información.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "420bd0510c894d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/Codificación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eb71e6716b4da60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/Códigos Redundantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "180fa8d28e50e951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/Notación Punto Flotante.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3921a1385e130c9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.22.10.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "7d362abbd029c972",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.22.10.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Códigos Redundantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Códigos Redundantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md"
+                "file": "1er Nivel/Arquitectura de Computadoras/Códigos Redundantes.md"
               }
             }
           },
@@ -188,11 +244,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fde615562721d89",
+  "active": "3eb71e6716b4da60",
   "lastOpenFiles": [
-    "1er Nivel/Arquitectura de Computadoras/Computadora.md",
+    "1er Nivel/Arquitectura de Computadoras/Codificación.md",
+    "1er Nivel/Arquitectura de Computadoras/Códigos Redundantes.md",
+    "1er Nivel/Arquitectura de Computadoras/Código BCD.md",
+    "1er Nivel/Arquitectura de Computadoras/Representación de la Información.md",
+    "1er Nivel/Arquitectura de Computadoras/Codificación de las Instrucciones.md",
+    "1er Nivel/Arquitectura de Computadoras/Notación Punto Flotante.md",
     "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
     "1er Nivel/Arquitectura de Computadoras/index.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.22.10.excalidraw.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.24.53.excalidraw.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.24.53.excalidraw.svg",
+    "1er Nivel/Arquitectura de Computadoras/Computadora.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.22.10.excalidraw.svg",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.15.49.excalidraw.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.15.49.excalidraw.svg",
+    "1er Nivel/Arquitectura de Computadoras/attachments",
     "1er Nivel/Inglés 1/index.md",
     "1er Nivel/Inglés 1/Sustantivo.md",
     "1er Nivel/Inglés 1/Frase Nominal.md",
@@ -214,15 +283,6 @@
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
-    "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
-    "4to Nivel/Administración de Sistemas de Información/Componentes de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Cambio Organizacional.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Acuerdo de Nivel de Servicio.md",
-    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Proyectos Ágiles.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Modelos de Calidad.md",
-    "4to Nivel/Ingeniería y Calidad de Software/ISO-IEC 25010.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.svg",
     "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
     "1er Nivel/Sistemas y Procesos de Negocio/attachments/Modelo de OA.png",
@@ -231,16 +291,12 @@
     "1er Nivel/Sistemas y Procesos de Negocio/attachments/Modelo de DSS.png",
     "1er Nivel/Sistemas y Procesos de Negocio/attachments/Modelo de MIS.png",
     "1er Nivel/Sistemas y Procesos de Negocio/attachments/Modelo de TPS.png",
-    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Sistemas de Información 2024-07-18 19.26.52.excalidraw.svg",
-    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Diagrama de Flechas.png",
-    "1er Nivel/Sistemas y Procesos de Negocio/attachments/Los Procesos Organizacionales 2024-07-18 12.20.47.excalidraw.svg",
     "desktop.ini",
     "1er Nivel/Sistemas y Procesos de Negocio/attachments",
     "1er Nivel/Sistemas y Procesos de Negocio",
     "1er Nivel/Algoritmos y Estructuras de Datos/attachments",
     "1er Nivel/Algoritmos y Estructuras de Datos",
     "1er Nivel",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments",
-    "attachments"
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments"
   ]
 }
