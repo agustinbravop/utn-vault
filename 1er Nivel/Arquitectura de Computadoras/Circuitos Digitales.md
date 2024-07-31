@@ -14,6 +14,6 @@ Se pueden representar como funciones de lógica booleana, las cuales tienen dos 
 
 ## Compuertas Lógicas
 
-La unidad lógica de los circuitos digitales son las **compuertas lógicas**, conectadas entre sí por cables o líneas que transmiten un cero o un uno.
+La unidad básica de los circuitos digitales son las **compuertas lógicas**, conectadas entre sí por cables o líneas que transmiten un cero o un uno.
 
 ![[Tabla de Compuertas Lógicas.png]]
