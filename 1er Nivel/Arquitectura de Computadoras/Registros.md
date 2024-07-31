@@ -22,3 +22,15 @@ Existen muchas operaciones que se pueden realizar con registros, las cuales se i
 ### Transferencias entre Registro
 
 ![[Transferencias entre Registros.png]]
+
+### Desplazamientos a Derecha
+
+![[Desplazamientos a Derecha.png]]
+
+La señal `DESD` que recibe el registro es **impulsional**: la operación se realiza en un clock del reloj.
+
+### Contador Binario
+
+![[Contador Binario.png]]
+
+Incrementa su contenido en una unidad por cada impulso de cuenta recibido.

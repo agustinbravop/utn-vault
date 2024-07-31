@@ -18,8 +18,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9324c81d76c9011c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/Buses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0af76f4ab36d5086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/Números Binarios con Signo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ca6243ca877f953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc787d91b00f7b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos de ABACUS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b5e6fa6881498b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/Suma en ABACUS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3471549c39cd54ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1er Nivel/Arquitectura de Computadoras/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Registros.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Números Binarios con Signo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Registros.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Números Binarios con Signo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Registros.md"
+                "file": "1er Nivel/Arquitectura de Computadoras/Números Binarios con Signo.md"
               }
             }
           },
@@ -163,24 +236,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b56fccffab6b940",
+  "active": "0af76f4ab36d5086",
   "lastOpenFiles": [
-    "1er Nivel/Arquitectura de Computadoras/attachments/Transferencias entre Registros.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Sumador de B y B' en Complemento a Dos.png",
+    "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos.md",
+    "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos de ABACUS.md",
+    "1er Nivel/Arquitectura de Computadoras/Números Binarios con Signo.md",
+    "1er Nivel/Arquitectura de Computadoras/Unidad Aritmético-Lógica.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Elemento de la ALU.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Sumador en Paralelo.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Semi Sumador.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Operador Lógico Completo.png",
+    "1er Nivel/Arquitectura de Computadoras/Arquitectura ABACUS.md",
+    "1er Nivel/Arquitectura de Computadoras/Untitled.md",
+    "1er Nivel/Arquitectura de Computadoras/Suma en ABACUS.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura ABACUS.png",
+    "1er Nivel/Arquitectura de Computadoras/Buses.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Registros Situados entre Dos Buses.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Pasted image 20240731121532.png",
+    "1er Nivel/Arquitectura de Computadoras/Registros.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Contador Binario.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Desplazamientos a Derecha.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Buses.png",
     "1er Nivel/Arquitectura de Computadoras/Aestable.md",
     "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.15.49.excalidraw.md",
-    "1er Nivel/Arquitectura de Computadoras/Registros.md",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Puesta a Cero y Complementación de un Registro.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Registro.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Aestable.png",
     "1er Nivel/Arquitectura de Computadoras/Monoestable.md",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Monoestable.png",
     "1er Nivel/Arquitectura de Computadoras/Circuitos Secuenciales.md",
     "1er Nivel/Arquitectura de Computadoras/Circuitos Digitales.md",
     "1er Nivel/Arquitectura de Computadoras/Biestables.md",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Flip-Flop T.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Flip-Flop D.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Flip-Flop D.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Flip-Flop JK.png",
     "1er Nivel/Arquitectura de Computadoras/index.md",
     "1er Nivel/Arquitectura de Computadoras/Código de Hamming.md",
     "1er Nivel/Arquitectura de Computadoras/attachments/Circuitos Secuenciales 2024-07-31 00.44.22.excalidraw.md",
@@ -191,15 +274,7 @@
     "1er Nivel/Arquitectura de Computadoras/Codificación.md",
     "1er Nivel/Arquitectura de Computadoras/Código BCD.md",
     "1er Nivel/Arquitectura de Computadoras/Representación de la Información.md",
-    "1er Nivel/Arquitectura de Computadoras/Codificación de las Instrucciones.md",
-    "1er Nivel/Arquitectura de Computadoras/Notación Punto Flotante.md",
-    "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.22.10.excalidraw.md",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Arquitectura de Computadoras 2024-07-29 23.24.53.excalidraw.md",
-    "1er Nivel/Arquitectura de Computadoras/Computadora.md",
     "1er Nivel/Arquitectura de Computadoras/attachments",
-    "1er Nivel/Inglés 1/index.md",
-    "1er Nivel/Inglés 1/Sustantivo.md",
     "1er Nivel/Inglés 1/MOC Inglés 1.canvas",
     "1er Nivel/Inglés 1",
     "1er Nivel/Arquitectura de Computadoras",
