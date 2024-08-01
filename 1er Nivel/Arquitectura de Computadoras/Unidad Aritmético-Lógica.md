@@ -19,3 +19,5 @@ A esta ALU de ABACUS se le puede asociar los siguientes indicadores:
 1. **DEB**: indicador de desbordamiento cableado en una suma (si se opera [[Números Binarios con Signo|en complemento a 2]]).
 2. **S**: indicador de signo.
 3. **CE**: indicador de cero.
+
+El diseño de la ALU impacta en los ciclos de cálculo del computador, lo cual afecta la performance de la [[Arquitectura de Computadoras]].

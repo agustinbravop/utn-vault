@@ -1,5 +1,7 @@
 Dentro del contexto de la [[Unidad Aritmético-Lógica]], un **operador elemental** es un componente lógico con entradas y salidas que permite realizar un cálculo sobre dos bits del mismo peso de dos cadenas de bits.
 
+Los operadores cableados son más performantes, mientras que los operadores microprogramados son más baratos. La [[Arquitectura ABACUS]] cablea unas pocas operaciones básicas ([[Operadores Aritméticos de ABACUS]]) y desarrolla esquemas para implementar operaciones más complejas como la división, multiplicación o el manejo de números con [[Coma Flotante]].
+
 ## Clasificación
 
 Según la operación:
