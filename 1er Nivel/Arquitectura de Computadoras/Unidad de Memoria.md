@@ -4,6 +4,6 @@ El [[Punto de Memoria]] es el soporte físico que permite almacenar un bit de in
 
 1. [[Punto de Memoria 2D]].
 2. [[Punto de Memoria 3D]].
-3. [[Punto de Memoria 2.5D]].
+3. [[Organización de una Memoria 2.5D]].
 
 Existe una [[Jerarquía de Memorias]] que balancea el costo, capacidad y tiempo de acceso de los niveles de memoria disponibles.
