@@ -6,7 +6,7 @@ Unidades:
 - [[Unidad de Control]].
 - [[Unidad de Memoria]].
 
-![[Arquitectura ABACUS.png]]
+![[Esquema General de ABACUS.png]]
 
 - **Bus M**: de instrucciones y operandos (datos).
 - **Bus S**: de direcciones de memoria de los operandos.

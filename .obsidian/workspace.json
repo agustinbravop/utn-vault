@@ -8,91 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e20d225ce118129",
+            "id": "1532ee4238cfe9b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Unidad de Memoria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c870166600fd3414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Direccionamiento Relativo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4faf90f032362dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Unidad de Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8923202bb186a3a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura ABACUS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d4d2525fd6a5f2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Secuenciador Central.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3792d03c9fe192a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Codificación de las Instrucciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b6d30434834663a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Direccionamiento Inmediato.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Secuenciador Central.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Secuenciador Central.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Secuenciador Central.md"
+                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md"
               }
             }
           },
@@ -236,24 +163,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5a650c066f2c957",
+  "active": "1532ee4238cfe9b0",
   "lastOpenFiles": [
-    "1er Nivel/Arquitectura de Computadoras/attachments/Cronograma del Distribuidor de Fases.png",
+    "1er Nivel/Arquitectura de Computadoras/CISC.md",
+    "1er Nivel/Arquitectura de Computadoras/Microprogramación.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Acompasamiento de las Micro-instrucciones.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Direccionamiento de las Micro-instrucciones.png",
+    "1er Nivel/Arquitectura de Computadoras/Modelo de Wilkes.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Modelo de Wilkes.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Pasted image 20240802004356.png",
     "1er Nivel/Arquitectura de Computadoras/Secuenciador Central.md",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Cronograma del Distribuidor de Fases.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Decodificación de la Instrucción.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Distribuidor de Fases.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Entorno del Secuenciador.png",
-    "1er Nivel/Arquitectura de Computadoras/Señales de Gobierno.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Secuenciador para la Multiplicación.png",
+    "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos de ABACUS.md",
     "1er Nivel/Arquitectura de Computadoras/Arquitectura ABACUS.md",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Señales de Gobierno de ABACUS.png",
     "1er Nivel/Arquitectura de Computadoras/Unidad de Control.md",
+    "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos.md",
+    "1er Nivel/Arquitectura de Computadoras/Señales de Gobierno.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Pasted image 20240802000651.png",
+    "1er Nivel/Arquitectura de Computadoras/Cronograma en ABACUS.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Cronograma para Instrucciones de Salto.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Cronograma para la Puesta a Cero del Acumulador.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Cronograma de Almacenamiento.png",
+    "1er Nivel/Arquitectura de Computadoras/attachments/Cronograma de Procesamiento.png",
     "1er Nivel/Arquitectura de Computadoras/Direccionamiento Relativo.md",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Direccionamiento Indexado.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Direccionamiento por Página o Yuxtaposición.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Direccionamiento por Referencia al Programa.png",
     "1er Nivel/Arquitectura de Computadoras/Codificación de las Instrucciones.md",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Direccionamiento por Base y Desplazamiento.png",
     "1er Nivel/Arquitectura de Computadoras/Técnicas de Direccionamiento.md",
     "1er Nivel/Arquitectura de Computadoras/Direccionamiento Indirecto.md",
     "1er Nivel/Arquitectura de Computadoras/Direccionamiento Directo.md",
@@ -265,14 +198,9 @@
     "1er Nivel/Arquitectura de Computadoras/Punto de Memoria 2D.md",
     "1er Nivel/Arquitectura de Computadoras/Jerarquía de Memorias.md",
     "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
-    "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos de ABACUS.md",
-    "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos.md",
     "1er Nivel/Arquitectura de Computadoras/Unidad Aritmético-Lógica.md",
     "1er Nivel/Arquitectura de Computadoras/Registros.md",
     "1er Nivel/Arquitectura de Computadoras/Coma Flotante.md",
-    "1er Nivel/Arquitectura de Computadoras/Números Binarios con Signo.md",
-    "1er Nivel/Arquitectura de Computadoras/Notación Punto Flotante.md",
-    "1er Nivel/Arquitectura de Computadoras/Codificación.md",
     "1er Nivel/Arquitectura de Computadoras/attachments",
     "1er Nivel/Inglés 1/MOC Inglés 1.canvas",
     "1er Nivel/Inglés 1",
