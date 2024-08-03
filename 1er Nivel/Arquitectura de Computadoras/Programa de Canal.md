@@ -5,3 +5,4 @@ Las instrucciones del canal son de la siguiente manera:
 ```
 [Cód. periférico][dir. 1er palabra][cant. palabras][indicadores]
 ```
+P
