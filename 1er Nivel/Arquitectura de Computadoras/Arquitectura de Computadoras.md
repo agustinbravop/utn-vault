@@ -2,7 +2,7 @@
 
 ![[Arquitectura de Computadoras 2024-07-29 23.15.49.excalidraw.svg]]
 
-En la asignatura vemos en particular:
+En la asignatura vemos:
 
 - [[Arquitectura ABACUS]].
 - [[CISC]].
