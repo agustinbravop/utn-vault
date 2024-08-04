@@ -11,12 +11,12 @@ Según la operación:
 
 Según su naturaleza:
 
-- **Combinacional**: realizan todos sus cálculos en un solo *clock* de tiempo. Son rápidos pero grandes y caros.
+- **Combinacional**: realizan todos sus cálculos en un solo _clock_ de tiempo. Son rápidos pero grandes y caros.
 - **[[Circuitos Secuenciales|Secuencial]]**: necesitan saber si usa el **AC** como entrada y/o como salida (puede ser una fuente y/o un destino). Son simples y baratos pero más lentos que los combinacionales.
 
 ## Indicadores
 
-Los indicadores (*flags*) de un operador aritmético informan de distintos eventos que puedan haber ocurrido al ejecutar la operación. Sirven para detectar errores, hacer saltos condicionales, etc. Algunos son:
+Los indicadores (_flags_) de un operador aritmético informan de distintos eventos que puedan haber ocurrido al ejecutar la operación. Sirven para detectar errores, hacer saltos condicionales, etc. Algunos son:
 
 1. Última operación.
 2. Error de desbordamiento.

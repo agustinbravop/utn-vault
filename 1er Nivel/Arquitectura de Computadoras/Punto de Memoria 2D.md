@@ -1,6 +1,6 @@
 ![[Punto de Memoria 2D.png]]
 
-$O$ es el valor del [[Punto de Memoria]] (el estado del [[Biestables|biestable]] cuando es seleccionado. Solo se lee $O$ si el punto está seleccionado por $S$ (señal de *select*). Solo se sobrescribe el punto con el valor de $I$ (señal de *input*) cuando el punto está seleccionado (con $S$) y con $W$ (señal de *write*) activado.
+$O$ es el valor del [[Punto de Memoria]] (el estado del [[Biestables|biestable]] cuando es seleccionado. Solo se lee $O$ si el punto está seleccionado por $S$ (señal de _select_). Solo se sobrescribe el punto con el valor de $I$ (señal de _input_) cuando el punto está seleccionado (con $S$) y con $W$ (señal de _write_) activado.
 
 ## Organización de una Memoria 2D
 

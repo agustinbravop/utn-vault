@@ -1,4 +1,4 @@
-El [[Verbo]] *to be* es uno de los más utilizados y más variados del inglés.
+El [[Verbo]] _to be_ es uno de los más utilizados y más variados del inglés.
 
 `[to be] = am/is/are, was/were, will = ser/estar`.
 

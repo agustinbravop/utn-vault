@@ -2,7 +2,7 @@ La microprogramación en una [[Arquitectura de Computadoras]] consiste en reempl
 
 Se llama **micro-instrucciones** a las instrucciones del micro-programa. Ejecutar una micro-instrucción genera micro-órdenes.
 
-La microprogramación permite tener *ordenadores de código de instrucción variable*, es decir que es posible modificar fácilmente el conjunto de instrucciones de una computadora micro-programada. Abre un campo entre hardware y software denominado ***firmware***.
+La microprogramación permite tener _ordenadores de código de instrucción variable_, es decir que es posible modificar fácilmente el conjunto de instrucciones de una computadora micro-programada. Abre un campo entre hardware y software denominado **_firmware_**.
 
 Los fundamentos de la microprogramación se definieron en el [[Modelo de Wilkes]] en 1951.
 
@@ -15,8 +15,8 @@ Los fundamentos de la microprogramación se definieron en el [[Modelo de Wilkes]
 
 - **Secuencial**: la próxima micro-instrucción es la de la dirección siguiente. Es simple y no alarga a la micro-instrucción. Requiere micro-instrucciones de salto.
 - **Explícito**: similar al modelo de Wilkes, cada micro-instrucción tiene en sus bits de menor peso el formato `[A..][..I..][..B]` y se calcula la siguiente micro-instrucción de esta manera:
-	- Si $I = 0 \implies$ siguiente micro-instrucción $= (A) + (B)$.
-	- Si $I = 1 \implies$ siguiente micro-instrucción $= (A) + (C)$.
+  - Si $I = 0 \implies$ siguiente micro-instrucción $= (A) + (B)$.
+  - Si $I = 1 \implies$ siguiente micro-instrucción $= (A) + (C)$.
 
 ![[Direccionamiento de las Micro-instrucciones.png]]
 

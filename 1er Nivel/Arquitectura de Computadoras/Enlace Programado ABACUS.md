@@ -1,6 +1,6 @@
 Dentro de los [[Canales]], el enlace programado es más bien un **medio de acceso** controlado por el **programa en curso** (es decir que la responsabilidad cae en el programador). Usa el **modo bloqueado** y el **modo interrupción de programa** de la [[Simultaneidad de los Procesos IO]].
 
-Transfiere solo una palabra y hace prueba de estado. Aprovecha cuatro instrucciones: 
+Transfiere solo una palabra y hace prueba de estado. Aprovecha cuatro instrucciones:
 
 1. `PRE`: prueba de estado.
 2. `GBP`: gobierno de periférico.

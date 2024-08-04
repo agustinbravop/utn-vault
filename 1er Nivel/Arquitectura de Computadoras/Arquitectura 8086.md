@@ -11,10 +11,10 @@ La arquitectura Intel 8086es una [[Arquitectura de Computadoras]] muy popular en
 
 Registros apuntadores (sirven para el direccionamiento):
 
-1. $SP$: *stack pointer*. Suma o resta 2 o 1 al hacer `PUSH` o `POP`.
-2. $BP$: *base pointer*. Sirve para [[Direccionamiento Indirecto]] dentro de la pila (stack).
-3. $SI$: *source index*. Sirve para operaciones con cadenas.
-4. $DI$: *destination index*. Sirve para operaciones con cadenas.
+1. $SP$: _stack pointer_. Suma o resta 2 o 1 al hacer `PUSH` o `POP`.
+2. $BP$: _base pointer_. Sirve para [[Direccionamiento Indirecto]] dentro de la pila (stack).
+3. $SI$: _source index_. Sirve para operaciones con cadenas.
+4. $DI$: _destination index_. Sirve para operaciones con cadenas.
 
 El registro de banderas contiene 9 banderas:
 
@@ -26,7 +26,7 @@ El registro de banderas contiene 9 banderas:
 6. $AF$: auxiliar, indica si hay que ajustar operaciones con números BCD.
 7. $DF$: controla la dirección hacia delante o atrás en operaciones con cadenas.
 8. $IF$: indica si están disponibles las instrucciones de periféricos.
-9. $TF$: modo *debug*, controla una operación paso a paso.
+9. $TF$: modo _debug_, controla una operación paso a paso.
 
 ## Segmentos de la Memoria
 

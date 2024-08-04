@@ -14,7 +14,7 @@ Se toma al **contador del programa** como referencia.
 
 ![[Direccionamiento por Referencia al Programa.png]]
 
-Esto sirve para bifurcaciones del código, donde se accede con un *if* o con un *else* según un *offset* positivo o negativo.
+Esto sirve para bifurcaciones del código, donde se accede con un _if_ o con un _else_ según un _offset_ positivo o negativo.
 
 ## Por Página o Yuxtaposición
 

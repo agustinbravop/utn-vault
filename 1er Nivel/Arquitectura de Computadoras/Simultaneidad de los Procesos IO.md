@@ -1,4 +1,3 @@
-
 Hay un problema fundamental que una [[Arquitectura de Computadoras]] debe solucionar en la diferencia de velocidad entre la rápida ejecución de las instrucciones del programa en la [[Unidad Aritmético-Lógica]] y los lentos ritmos de transferencia de los [[Canales]]. La simultaneidad entre procesamientos y entradas-salidas tiene una historia de avances y enfoques.
 
 1. **Modo bloqueado**: en cada instrucción de entrada-salida **se espera** hasta que el periférico esté disponible. Es muy simple pero muy ineficiente, el computador se queda esperando mucho tiempo.

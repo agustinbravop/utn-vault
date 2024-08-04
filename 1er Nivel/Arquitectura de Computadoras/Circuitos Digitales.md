@@ -1,4 +1,4 @@
-Una variable booleana o representa un ***bit*** (*b*inary dig*it*). Es un campo discreto. Una señal digital es un conjunto de variables booleanas. 
+Una variable booleana o representa un **_bit_** (*b*inary dig*it*). Es un campo discreto. Una señal digital es un conjunto de variables booleanas.
 
 Un sistema digital o **circuito digital** es cualquier dispositivo destinado a generar y procesar señales digitales. Una [[Computadora]] digital usa **lógica binaria** (verdadero o falso, cero o uno, la corriente pasa o no).
 

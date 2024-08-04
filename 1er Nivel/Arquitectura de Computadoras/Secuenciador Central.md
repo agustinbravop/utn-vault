@@ -1,7 +1,7 @@
 El **secuenciador central** en la [[Arquitectura ABACUS]] es el órgano que **genera las** [[Señales de Gobierno]] desde la [[Unidad de Control]] en base al **registro de instrucción** $I$ y el **estado de la máquina**. El estado de la máquina es un conjunto de 4 indicadores o [[Biestables]]:
 
 1. **D/M**: **detención** o marcha de la máquina.
-2. **I**: un flip-flop RS que indica si actualmente estamos en un **ciclo instrucción**. Se le asocian dos micro-órdenes $RI$ (reset de $I$) y $SI$ (set de $I$). 
+2. **I**: un flip-flop RS que indica si actualmente estamos en un **ciclo instrucción**. Se le asocian dos micro-órdenes $RI$ (reset de $I$) y $SI$ (set de $I$).
 3. **O**: otro flip-flop RS que indica si actualmente estamos en un **ciclo operando**. Se le asocian dos micro-órdenes $RO$ (reset de $O$) y $SO$ (set de $O$).
 4. **S**: el **bit de signo** del registro AC.
 
@@ -22,8 +22,9 @@ Esas señales temporales regularmente espaciadas generan un [[Cronograma en ABAC
 ## Expresiones Lógicas
 
 Tomando cada micro-orden que aparece en cada cronograma, se deducen todos los casos (instantes de tiempo en el cronograma de dos fases de ABACUS) en los que debe estar activada, y se los junta en una **expresión lógica** que toma como variables binarias de entrada el estado de la máquina.
-$$ 
-\begin{aligned} 
+
+$$
+\begin{aligned}
 ENS &= \theta_0 \\
 ICM &= \theta_0 \\
 PACM &= \theta_0 \\

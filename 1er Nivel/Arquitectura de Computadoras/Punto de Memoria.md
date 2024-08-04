@@ -9,7 +9,7 @@ El **punto de memoria** es el **soporte físico** que permite almacenar un bit d
 
 ## Ram Estática
 
-Las posiciones en la memoria se escriben o leen en cualquier orden (*random access*). Cada bit en una SRAM se almacena en 4 transistores que forman 1 [[Biestables|biestable]]. Otros 2 transistores más controlan el acceso.
+Las posiciones en la memoria se escriben o leen en cualquier orden (_random access_). Cada bit en una SRAM se almacena en 4 transistores que forman 1 [[Biestables|biestable]]. Otros 2 transistores más controlan el acceso.
 
 ![[SRAM.png]]
 

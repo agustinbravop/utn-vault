@@ -1,4 +1,4 @@
-La **interfaz del canal** en los [[Canales]] de una [[Arquitectura de Computadoras]] es la "caja negra" que permite adaptar las señales del periférico a las especificaciones de la [[Computadora]]. 
+La **interfaz del canal** en los [[Canales]] de una [[Arquitectura de Computadoras]] es la "caja negra" que permite adaptar las señales del periférico a las especificaciones de la [[Computadora]].
 
 La interfaz está formada físicamente por un cierto número de conectores, salidos del canal, en los cuales puede ir a enchufarse. Suele haber tres tipos de hilos:
 
@@ -14,7 +14,7 @@ Una computadora suele tener **varios periféricos conectados**. Necesita una for
 
 ### Concentración por Línea Ómnibus
 
-A cada palabra de memoria transferida se le agrega un *header* que tiene la dirección del periférico. La palabra y el header viajan por el bus hasta llegar al controlador de periférico que corresponde.
+A cada palabra de memoria transferida se le agrega un _header_ que tiene la dirección del periférico. La palabra y el header viajan por el bus hasta llegar al controlador de periférico que corresponde.
 
 ![[Concentración por Líneas Ómnibus.png]]
 

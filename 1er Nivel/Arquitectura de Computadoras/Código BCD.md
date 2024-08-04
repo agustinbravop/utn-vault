@@ -1,4 +1,4 @@
-Con 4 bits se puede representar $2^4 = 16$ números, osea un dígito hexadecimal, utilizando el código ***binary coded decimal***. Hay varias versiones:
+Con 4 bits se puede representar $2^4 = 16$ números, osea un dígito hexadecimal, utilizando el código **_binary coded decimal_**. Hay varias versiones:
 
 1. **Natural**: pesos 8421.
 2. **Exceso 3**: cada número tiene un 3 sumado.

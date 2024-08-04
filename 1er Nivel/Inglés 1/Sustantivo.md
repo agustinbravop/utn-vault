@@ -10,12 +10,12 @@ Los accidentes de:
 
 - **Género**: a veces tienen sufijos para el femenino. `waitress`, `hostess`, `actress`.
 - **Número**: son morfológicos que varían para el singular y plural.
-	1. Termina en `s/ss/sb/ch/z/x/o` $\implies$ `-es`: `bus -> buses, hero -> heroes`.
-	2. Termina en `y` precedida de consonante $\implies$ `-ies`: `lady -> ladies, city -> cities`.
-	3. Termina en `y` precedida de vocal $\implies$ `-s`: `day -> days, key -> keys`.
-	4. Termina en `f/fe` $\implies$ `-ves`: `knife -> knives, thief -> thieves`.
-	5. Irregulares: `man -> men, child -> childreen, mouse -> mice, fish -> fish`.
-	6. Sustantivos de origen latín/griego que siguen reglas latinas/griegas: `radius -> radii, larva -> larvae, criterion -> criteria, crisis -> crises`.
+  1.  Termina en `s/ss/sb/ch/z/x/o` $\implies$ `-es`: `bus -> buses, hero -> heroes`.
+  2.  Termina en `y` precedida de consonante $\implies$ `-ies`: `lady -> ladies, city -> cities`.
+  3.  Termina en `y` precedida de vocal $\implies$ `-s`: `day -> days, key -> keys`.
+  4.  Termina en `f/fe` $\implies$ `-ves`: `knife -> knives, thief -> thieves`.
+  5.  Irregulares: `man -> men, child -> childreen, mouse -> mice, fish -> fish`.
+  6.  Sustantivos de origen latín/griego que siguen reglas latinas/griegas: `radius -> radii, larva -> larvae, criterion -> criteria, crisis -> crises`.
 
 ## Caso Posesivo
 

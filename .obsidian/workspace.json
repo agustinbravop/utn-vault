@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mantisa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,8 +165,17 @@
   },
   "active": "a28e18b2183ed6a1",
   "lastOpenFiles": [
-    "README.md",
+    "5to Nivel/index.md",
+    "4to Nivel/index.md",
+    "5to Nivel",
+    "3er Nivel/index.md",
+    "1er Nivel/index.md",
+    "2do Nivel/index.md",
+    "3er Nivel",
+    "2do Nivel",
     "index.md",
+    "README.md",
+    "Auditoría de Calidad.md",
     "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas",
     "1er Nivel/Inglés 1/MOC Inglés 1.canvas",
     "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
@@ -199,12 +208,6 @@
     "1er Nivel/Arquitectura de Computadoras/Lenguaje de Máquina.md",
     "1er Nivel/Arquitectura de Computadoras/CISC.md",
     "1er Nivel/Arquitectura de Computadoras/RISC.md",
-    "1er Nivel/Arquitectura de Computadoras/Microprogramación.md",
-    "1er Nivel/Arquitectura de Computadoras/Modelo de Wilkes.md",
-    "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos de ABACUS.md",
-    "1er Nivel/Arquitectura de Computadoras/Arquitectura ABACUS.md",
-    "1er Nivel/Arquitectura de Computadoras/Unidad de Control.md",
-    "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos.md",
     "1er Nivel/Arquitectura de Computadoras/attachments",
     "1er Nivel/Inglés 1",
     "1er Nivel/Arquitectura de Computadoras",
@@ -214,9 +217,6 @@
     "desktop.ini",
     "1er Nivel/Sistemas y Procesos de Negocio/attachments",
     "1er Nivel/Sistemas y Procesos de Negocio",
-    "1er Nivel/Algoritmos y Estructuras de Datos/attachments",
-    "1er Nivel/Algoritmos y Estructuras de Datos",
-    "1er Nivel",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/attachments"
+    "1er Nivel/Algoritmos y Estructuras de Datos/attachments"
   ]
 }

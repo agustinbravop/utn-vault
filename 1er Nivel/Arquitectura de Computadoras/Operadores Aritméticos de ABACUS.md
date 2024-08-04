@@ -4,13 +4,13 @@ La [[Arquitectura ABACUS]] en su [[Unidad Aritmético-Lógica]] usa [[Operadores
 
 ![[Operador Lógico Completo.png]]
 
-Se propone un [[Biestables|biestable]] RCS (C de complemento o *toggle*) que sirva para realizar las operaciones lógicas AND, OR y XOR.
+Se propone un [[Biestables|biestable]] RCS (C de complemento o _toggle_) que sirva para realizar las operaciones lógicas AND, OR y XOR.
 
 ## Semi Sumador
 
 Un semi sumador suma dos bits sin acarreo previo. Es útil para sumar los bits de menor peso (que no tienen acarreo de un bit previo).
 
-Las ecuaciones lógicas son: $S = A \oplus B \ ; \ C = A B$. Un XOR es una suma alebráica sin *carry*.
+Las ecuaciones lógicas son: $S = A \oplus B \ ; \ C = A B$. Un XOR es una suma alebráica sin _carry_.
 
 ![[Semi Sumador.png]]
 
@@ -44,11 +44,11 @@ Hacer DESD o DESI hasta que $Z=1$ (y por ende $E_a=E_b$). Luego, sumar o sustrae
 
 $MC$ es el [[Registros|registro]] multiplicador-cociente, que asiste al registro AC.
 
-La ejecución es en serie (bit por bit). 
+La ejecución es en serie (bit por bit).
 
 Multiplicado $\to B$ \
 Multiplicador $\to AC$ \
-$DESD(AC) \to MC$ \ 
+$DESD(AC) \to MC$ \
 (1) Si $MC_0 \ne 0 \implies (B) + (AC) \to AC$ \
 $DESD (AC)+(MC)$ \
 Si es el último bit (si un descontador llegó a cero) $\implies$ fin \

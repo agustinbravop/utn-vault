@@ -1,4 +1,4 @@
-Un **biestable** o *flip-flop* es un [[Circuitos Digitales|sistema lógico]] que permite mantener **dos estados estables**, son elementos de memoria capaces de **almacenar un bit** de información. Las entradas son impulsionales pero las salidas son niveles lógicos (siempre accesibles excepto durante los momentos de transición).
+Un **biestable** o _flip-flop_ es un [[Circuitos Digitales|sistema lógico]] que permite mantener **dos estados estables**, son elementos de memoria capaces de **almacenar un bit** de información. Las entradas son impulsionales pero las salidas son niveles lógicos (siempre accesibles excepto durante los momentos de transición).
 
 Fundamentalmente está constituido por dos circuitos NOT montados en oposición.
 
@@ -41,6 +41,6 @@ La entrada $D$ siempre sobre escribe su valor sin importar el estado previo. $Q_
 
 ## Flip-Flop T
 
-La entrada $T$ (*toggle*) **conmuta** el estado. $Q_{siguiente} = Q \oplus T$. Si $T = 0 \implies Q$ se mantiene. Si $T = 1 \implies Q$ se complementa. Es una versión de una sola entrada del JK.
+La entrada $T$ (_toggle_) **conmuta** el estado. $Q_{siguiente} = Q \oplus T$. Si $T = 0 \implies Q$ se mantiene. Si $T = 1 \implies Q$ se complementa. Es una versión de una sola entrada del JK.
 
 ![[Flip-Flop T.png]]

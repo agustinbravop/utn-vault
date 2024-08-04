@@ -7,7 +7,6 @@ La suma en la [[Arquitectura ABACUS]] tiene 4 fases:
 
 Cada paso activa ciertas [[Señales de Gobierno]].
 
-
 | Paso                | Señales de Gobierno              | Explicación                                                                                                    |
 | ------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | $(P) \to S$         | $SRP, \ \vec{ENS}$               | Escribir el contenido de P en S.                                                                               |
@@ -16,5 +15,5 @@ Cada paso activa ciertas [[Señales de Gobierno]].
 | $(D) \to S$         | $SRD, \ \vec{ENS}$               | Escribir el contenido de D en S.                                                                               |
 | $((S)) \to M$       | $\vec{ICM}, \ \vec{PACM}, \ LEC$ | Buscar la dirección de S y copiar su contenido a M.                                                            |
 | $(AC) + (M) \to AC$ | $SRM, \ ENA, \ SUM, \ \vec{EAC}$ | Sumar ese contenido al contenido del AC.                                                                       |
-| $(P) + 1 \to P$     | $\vec{INCP}$                     | Incrementar en uno el *instruction pointer*.                                                                   |
+| $(P) + 1 \to P$     | $\vec{INCP}$                     | Incrementar en uno el _instruction pointer_.                                                                   |
 | $(P) \to S$         | $SRP, \ \vec{ENS}$               | Escribir dirección de la sig. instrucción en S.                                                                |

@@ -35,6 +35,6 @@ La [[Unidad de Control]] termina el ciclo de memoria en curso y le **cede el pr√
 
 ## Transferencia por Acceso Directo a Memoria
 
-Se imagina que la memoria tiene dos *muelles* de acceso, uno para el ordenador (programas) y otro para la unidad exterior (canales). Esto **independiza** la memoria y se acerca a una [[Simultaneidad de los Procesos IO]] total entre el procesamiento y la entrada-salida.
+Se imagina que la memoria tiene dos _muelles_ de acceso, uno para el ordenador (programas) y otro para la unidad exterior (canales). Esto **independiza** la memoria y se acerca a una [[Simultaneidad de los Procesos IO]] total entre el procesamiento y la entrada-salida.
 
 ![[Transferencia por Acceso Directo a Memoria.png]]

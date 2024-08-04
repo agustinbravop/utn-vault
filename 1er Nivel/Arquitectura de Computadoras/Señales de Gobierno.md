@@ -1,4 +1,4 @@
-Las **señales de gobierno** o **micro-órdenes** activan distintos [[Circuitos Digitales]] de la [[Arquitectura ABACUS]]. Pueden ser **de nivel** o **impulsionales**. Se presumen de nivel y una flecha  $\vec{}$  encima indica que son impulsionales. Son generadas por el [[Secuenciador Central]].
+Las **señales de gobierno** o **micro-órdenes** activan distintos [[Circuitos Digitales]] de la [[Arquitectura ABACUS]]. Pueden ser **de nivel** o **impulsionales**. Se presumen de nivel y una flecha $\vec{}$ encima indica que son impulsionales. Son generadas por el [[Secuenciador Central]].
 
 ![[Señales de Gobierno de ABACUS.png]]
 

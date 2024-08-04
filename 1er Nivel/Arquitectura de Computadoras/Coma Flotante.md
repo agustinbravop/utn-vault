@@ -15,5 +15,5 @@ Para realizar cálculos entre dos números de coma flotante $A$ y $B$:
 1. **Alinear mantisas**: $A$ y $B$ deben tener el mismo exponente, es decir tener la coma en el mismo lugar. Sea $E_A \lt E_B \implies$ se incrementa $E_A$ en uno y se desplaza $M_A$ uno a la derecha hasta que $E_A = E_B$. Ídem para $E_A \gt E_B$.
 2. **Ajustar signos**: si la operación es $M_A - M_B \land M_A < M_B \implies$ hacer la operación $M_B - M_A = R$ (al revés) y luego complementar el signo de $R$. Esto asegura que la resta da positivo y luego se complementa el signo del resultado.
 3. **Normalizar resultado**: el resultando puede no estar normalizado si hubo:
-	- **Suma y desbordamiento** $\implies$ DESD $M \land E++$ una sola vez. Hace que $S = 1$.
-	- **Resta y ceros a la izquierda** $\implies$ DESI $M \land E--$ hasta que el bit de mayor peso de $M$ sea 1. Esto solo sucede cuando $M_A > M_B$ y por ende $S = 0$.
+   - **Suma y desbordamiento** $\implies$ DESD $M \land E++$ una sola vez. Hace que $S = 1$.
+   - **Resta y ceros a la izquierda** $\implies$ DESI $M \land E--$ hasta que el bit de mayor peso de $M$ sea 1. Esto solo sucede cuando $M_A > M_B$ y por ende $S = 0$.

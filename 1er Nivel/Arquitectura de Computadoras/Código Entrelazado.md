@@ -4,13 +4,15 @@ Una matriz de $n$ filas y $m$ columnas necesita $n + m + 1$ bits de control. Est
 
 ## Ejemplo
 
-| 0   | 1   | 0   | 1   | *0* |
+| 0   | 1   | 0   | 1   | _0_ |
 | --- | --- | --- | --- | --- |
-| 1   | 1   | 0   | 0   | *0* |
-| 0   | 0   | 0   | 1   | *1* |
-| *1* | *0* | *0* | *0* | *0* |
+| 1   | 1   | 0   | 0   | _0_ |
+| 0   | 0   | 0   | 1   | _1_ |
+| _1_ | _0_ | _0_ | _0_ | _0_ |
 
-$$3 * 4 = 12 \ \text{bits de información}. 
-3 + 4 + 1 = 8 \ \text{bits de control}.$$
+$$
+3 * 4 = 12 \ \text{bits de información}.
+3 + 4 + 1 = 8 \ \text{bits de control}.
+$$
 
 Por cada 20 bits enviados, solo 12 transmiten información.
