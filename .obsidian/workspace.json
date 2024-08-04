@@ -4,131 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "65cd18355b74b0ad",
+        "id": "9b23f22b0d32212d",
         "type": "tabs",
         "children": [
           {
-            "id": "1532ee4238cfe9b0",
+            "id": "a28e18b2183ed6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/CISC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb266d14b11a9188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Arquitectura 8086.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bcb68bee911a843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Técnicas de Transferencia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d9103510800f593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Canales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dce75279daa053e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Programa de Canal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "176ffd11518b68ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Encadenamiento de Datos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9541f1cc4ab0da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Interfaz del Canal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "712d2574b2b30210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Técnicas de Transferencia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3e80050ccca3a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Lenguaje de Máquina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45573fe5071bb5c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/RISC.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Programa de Canal.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Programa de Canal.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Programa de Canal.md"
+                "file": "index.md"
               }
             }
           },
@@ -272,10 +163,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dce75279daa053e3",
+  "active": "a28e18b2183ed6a1",
   "lastOpenFiles": [
-    "1er Nivel/Arquitectura de Computadoras/Canales.md",
+    "README.md",
+    "index.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas",
+    "1er Nivel/Inglés 1/MOC Inglés 1.canvas",
+    "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
+    "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
+    "1er Nivel/Arquitectura de Computadoras/Secuenciador Central.md",
+    "1er Nivel/Arquitectura de Computadoras/Código Entrelazado.md",
     "1er Nivel/Arquitectura de Computadoras/Programa de Canal.md",
+    "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.md",
+    "1er Nivel/Arquitectura de Computadoras/Untitled.md",
+    "1er Nivel/Arquitectura de Computadoras/Canales.md",
     "1er Nivel/Arquitectura de Computadoras/Encadenamiento de Datos.md",
     "1er Nivel/Arquitectura de Computadoras/attachments/Encadenamiento de Datos.png",
     "1er Nivel/Arquitectura de Computadoras/Canal Automático para ABACUS.md",
@@ -300,25 +201,16 @@
     "1er Nivel/Arquitectura de Computadoras/RISC.md",
     "1er Nivel/Arquitectura de Computadoras/Microprogramación.md",
     "1er Nivel/Arquitectura de Computadoras/Modelo de Wilkes.md",
-    "1er Nivel/Arquitectura de Computadoras/Secuenciador Central.md",
     "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos de ABACUS.md",
     "1er Nivel/Arquitectura de Computadoras/Arquitectura ABACUS.md",
     "1er Nivel/Arquitectura de Computadoras/Unidad de Control.md",
     "1er Nivel/Arquitectura de Computadoras/Operadores Aritméticos.md",
-    "1er Nivel/Arquitectura de Computadoras/Señales de Gobierno.md",
-    "1er Nivel/Arquitectura de Computadoras/Cronograma en ABACUS.md",
-    "1er Nivel/Arquitectura de Computadoras/Direccionamiento Relativo.md",
-    "1er Nivel/Arquitectura de Computadoras/Codificación de las Instrucciones.md",
-    "1er Nivel/Arquitectura de Computadoras/Técnicas de Direccionamiento.md",
     "1er Nivel/Arquitectura de Computadoras/attachments",
-    "1er Nivel/Inglés 1/MOC Inglés 1.canvas",
     "1er Nivel/Inglés 1",
     "1er Nivel/Arquitectura de Computadoras",
-    "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas",
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
-    "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
     "desktop.ini",
     "1er Nivel/Sistemas y Procesos de Negocio/attachments",
     "1er Nivel/Sistemas y Procesos de Negocio",

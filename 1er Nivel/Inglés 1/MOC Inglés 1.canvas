@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"bdccf6fc2882c215","type":"file","file":"1er Nivel/Inglés 1/Adjetivo.md","x":1240,"y":-840,"width":400,"height":400},
-		{"id":"06e9ee7234609654","type":"file","file":"1er Nivel/Inglés 1/Adverbio.md","x":1680,"y":-840,"width":400,"height":400},
-		{"id":"bcd9551458ff69dc","type":"file","file":"1er Nivel/Inglés 1/Sustantivo.md","x":800,"y":-840,"width":400,"height":400},
+		{"id":"bdccf6fc2882c215","type":"file","file":"1er Nivel/Inglés 1/Adjetivo.md","x":1240,"y":-840,"width":400,"height":400,"color":"4"},
+		{"id":"06e9ee7234609654","type":"file","file":"1er Nivel/Inglés 1/Adverbio.md","x":1680,"y":-840,"width":400,"height":400,"color":"4"},
+		{"id":"bcd9551458ff69dc","type":"file","file":"1er Nivel/Inglés 1/Sustantivo.md","x":800,"y":-840,"width":400,"height":400,"color":"4"},
 		{"id":"1feea1eb04457459","type":"file","file":"1er Nivel/Inglés 1/Frase Nominal.md","x":800,"y":-320,"width":400,"height":400},
 		{"id":"cdb6db87a40d5c57","type":"file","file":"1er Nivel/Inglés 1/Cognado.md","x":360,"y":-840,"width":400,"height":400},
 		{"id":"a0e9cc0663bbea0b","type":"file","file":"1er Nivel/Inglés 1/Cognado Falso.md","x":360,"y":-320,"width":400,"height":400},
 		{"id":"59d0fd15f835b179","type":"file","file":"1er Nivel/Inglés 1/Estrategias de Lectura.md","x":-80,"y":-840,"width":400,"height":400},
-		{"id":"98b983dba219f088","type":"file","file":"1er Nivel/Inglés 1/Verbo.md","x":2120,"y":-840,"width":400,"height":400},
+		{"id":"98b983dba219f088","type":"file","file":"1er Nivel/Inglés 1/Verbo.md","x":2120,"y":-840,"width":400,"height":400,"color":"4"},
 		{"id":"888f3fad433dcbe3","type":"file","file":"1er Nivel/Inglés 1/Tiempo Verbal.md","x":2560,"y":-840,"width":400,"height":400},
 		{"id":"ccd0e726e8bc14dc","type":"file","file":"1er Nivel/Inglés 1/Verbo To Be.md","x":2120,"y":-320,"width":400,"height":400}
 	],

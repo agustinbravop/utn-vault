@@ -5,7 +5,7 @@ La suma en la [[Arquitectura ABACUS]] tiene 4 fases:
 3. Operación suma: $(AC) + (M) \to AC$.
 4. Preparar siguiente instrucción: $(P) + 1 \to P \ ; \ (P) \to S$.
 
-Cada paso activa ciertas **señales de gobierno**.
+Cada paso activa ciertas [[Señales de Gobierno]].
 
 
 | Paso                | Señales de Gobierno              | Explicación                                                                                                    |
