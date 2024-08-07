@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b23f22b0d32212d",
+        "id": "3136557231d28c6a",
         "type": "tabs",
         "children": [
           {
-            "id": "a28e18b2183ed6a1",
+            "id": "adff66bafb78ebf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "viewState": {
+                  "x": 2416.495601785111,
+                  "y": 2345.109415555654,
+                  "zoom": -2.333333435058594
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
               }
             }
           },
@@ -163,8 +166,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a28e18b2183ed6a1",
+  "active": "adff66bafb78ebf7",
   "lastOpenFiles": [
+    "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Inventario de Necesidades de Entrenamiento.md",
+    "4to Nivel/Administración de Sistemas de Información/index.md",
+    "1er Nivel/Arquitectura de Computadoras/Representación de la Información.md",
+    "1er Nivel/Arquitectura de Computadoras/Unidad de Memoria.md",
+    "1er Nivel/Arquitectura de Computadoras/Aestable.md",
+    "1er Nivel/Arquitectura de Computadoras/Microprogramación.md",
+    "1er Nivel/Arquitectura de Computadoras/index.md",
+    "index.md",
     "5to Nivel/index.md",
     "4to Nivel/index.md",
     "5to Nivel",
@@ -173,13 +187,11 @@
     "2do Nivel/index.md",
     "3er Nivel",
     "2do Nivel",
-    "index.md",
     "README.md",
     "Auditoría de Calidad.md",
     "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas",
     "1er Nivel/Inglés 1/MOC Inglés 1.canvas",
     "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
-    "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
     "1er Nivel/Arquitectura de Computadoras/Secuenciador Central.md",
     "1er Nivel/Arquitectura de Computadoras/Código Entrelazado.md",
     "1er Nivel/Arquitectura de Computadoras/Programa de Canal.md",
@@ -195,25 +207,15 @@
     "1er Nivel/Arquitectura de Computadoras/attachments/Intercambio de Salida para el Enlace Programado.png",
     "1er Nivel/Arquitectura de Computadoras/attachments/Enlace Programado ABACUS.png",
     "1er Nivel/Arquitectura de Computadoras/Simultaneidad de los Procesos IO.md",
-    "1er Nivel/Arquitectura de Computadoras/Arquitectura 8086.md",
-    "1er Nivel/Arquitectura de Computadoras/Técnicas de Transferencia.md",
     "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia por Acceso Directo a Memoria.png",
     "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia por Robo de Ciclo.png",
     "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia por Instrucción Forzada.png",
     "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia Programada.png",
-    "1er Nivel/Arquitectura de Computadoras/Interfaz del Canal.md",
     "1er Nivel/Arquitectura de Computadoras/attachments/Concentración por Multiplaje.png",
-    "1er Nivel/Arquitectura de Computadoras/Arquitectura de Computadoras.md",
-    "1er Nivel/Arquitectura de Computadoras/CISC vs RISC.md",
-    "1er Nivel/Arquitectura de Computadoras/Lenguaje de Máquina.md",
-    "1er Nivel/Arquitectura de Computadoras/CISC.md",
-    "1er Nivel/Arquitectura de Computadoras/RISC.md",
     "1er Nivel/Arquitectura de Computadoras/attachments",
     "1er Nivel/Inglés 1",
     "1er Nivel/Arquitectura de Computadoras",
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
     "desktop.ini",
     "1er Nivel/Sistemas y Procesos de Negocio/attachments",
     "1er Nivel/Sistemas y Procesos de Negocio",
