@@ -8,8 +8,8 @@ Los **riesgos** inherentes a las alternativas están vinculados a tres **factore
 
 Las opciones son:
 
-- Compra definitiva.
-- Compra temporaria: leasing simple u operativo, con derecho a compra, o alquiler.
+- **Compra definitiva**.
+- **Compra temporaria**: leasing simple u operativo, con derecho a compra, o alquiler.
 
 No todo elemento de SI tiene todas las opciones disponibles. Por ejemplo, algunos SW solo se pueden alquilar, o algunos elementos de HW solo se pueden comprar de forma definitiva.
 

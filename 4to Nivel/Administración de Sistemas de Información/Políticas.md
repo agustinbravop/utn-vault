@@ -1,8 +1,12 @@
 Las políticas son **reglas establecidas para dirigir funciones** y asegurar que se desempeñen de acuerdo con los objetivos deseados. Son **consecuencia de la [[Racionalidad]]**, la filosofía y la cultura organizacional.
 
-Son guías para la acción y dan respuesta a problemas frecuentes para que los subordinados no necesiten acudir siempre ante sus supervisores, mejorando la eficiencia de varios procesos. Las políticas establecen el **código de valores éticos** de la organización, que rige las relaciones con sus empleados, accionistas, clientes, etc.
+Son **guías para la acción** y dan respuesta a problemas frecuentes para que los subordinados no necesiten acudir siempre ante sus supervisores, mejorando la eficiencia de varios procesos. Las políticas establecen el **código de valores éticos** de la organización, que rige las relaciones con sus empleados, accionistas, clientes, etc.
+
 
 En particular nos interesan las [[Políticas de Recursos Humanos]] para la [[Administración de Recursos Humanos]].
+
+
+Las políticas son una declaración **general** de principios para un **área** de control definida. Guían el desarrollo de reglas y criterios más específicos y concretos. Son desplegadas por estándares, mejores prácticas, procedimientos, y guías. Son obligatorias, incumplir una exige aprobar una excepción.
 
 ## Procedimientos
 
