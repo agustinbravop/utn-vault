@@ -1,0 +1,29 @@
+El control interno informático es la unidad organizativa que controla diariamente que todas las actividades de los SI. Su misión es asegurar que las medidas implementadas por cada responsable sean correctas y válidas.
+
+Objetivos:
+
+1. Controlar que todas las actividades son **acorde a procedimientos** y normas.
+2. **Asesorar** y transmitir sobre el conocimiento de las normas.
+3. Colaborar con [[Auditoría de los SI|auditorías informáticas]] internas y externas.
+4. Intervenir en la definición y ejecución de controles de niveles de servicio.
+5. Realizar sobre los SI/TI el **control** de actividades operativas (controles de calidad, redes, seguridad, licencias, etc).
+
+Para la implantación de un sistema de controles internos informáticos, se debe:
+
+- Conocer la configuración del [[Ambiente Informático]].
+- Definir la gestión de SI, administración de sistemas, seguridad, y gestión del cambio.
+
+```mermaid
+flowchart LR;
+1["Dirección\nde SI"] --> 2["Dirección\nde informática"] --> 3["Control interno\ninformático"] --> 4["Auditor\ninformático"]
+```
+
+El auditor informático revisa controles internos en cada función informática.
+
+## Control Interno
+
+El **control interno** es cualquier actividad para prevenir o corregir errores o irregularidades que puedan afectar al correcto funcionamiento de un sistema. Los controles se clasifican en:
+
+1. **Preventivos**: evitar el hecho.
+2. **Detectivos**: detectar el evento cuanto antes.
+3. **Correctivos**: facilitar el retorno del SI a un estado normal.

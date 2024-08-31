@@ -70,7 +70,7 @@
 		{"id":"cf850f62831e9706","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/SPICE.md","x":6880,"y":2400,"width":400,"height":400},
 		{"id":"52b7e40fd61f3cac","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/CISQ.md","x":7380,"y":1960,"width":400,"height":400},
 		{"id":"55c477c2109eef5b","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/ISO-IEC 25010.md","x":7380,"y":2400,"width":400,"height":400},
-		{"id":"39e73af4dd3a2633","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/Auditoría del Desarrollo.md","x":7780,"y":840,"width":400,"height":400}
+		{"id":"39e73af4dd3a2633","type":"file","file":"4to Nivel/Ingeniería y Calidad de Software/Auditoría del Desarrollo de Software.md","x":7780,"y":840,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"b301665ffc4662d9","fromNode":"36502419a40ea3a4","fromSide":"right","toNode":"cb48d06416884e74","toSide":"left"},

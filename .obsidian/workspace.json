@@ -11,18 +11,98 @@
             "id": "c3644be15b87036d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-                "viewState": {
-                  "x": 16490.585517092644,
-                  "y": 990.6111364155049,
-                  "zoom": -0.6666668701171882
-                }
+                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc8d8d6407150033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "552271fc42a5d2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "240f7a2940cfdf6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e757cf5cd67439d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Auditoría del Desarrollo (Piattini) 2024-08-31 18.08.18.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0ddbb762c9ac2670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Controles y Contra Medidas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0ae86a14c9d0fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae4c8965f93b2243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
+                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md"
               }
             }
           },
@@ -166,8 +246,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3644be15b87036d",
+  "active": "552271fc42a5d2db",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Lardent.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Auditoría del Desarrollo (Piattini) 2024-08-31 18.08.18.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Auditoría del Desarrollo (Piattini) 2024-08-31 18.08.18.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/Controles y Contra Medidas.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
+    "4to Nivel/index.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Auditoría del Desarrollo de Software.md",
+    "4to Nivel/Administración de Sistemas de Información/Control Interno Informático.md",
     "4to Nivel/Administración de Sistemas de Información/Ambiente Informático.md",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Administración de Sistemas de Información/Políticas.md",
@@ -178,7 +268,6 @@
     "4to Nivel/Administración de Sistemas de Información/Manejo del Riesgo.md",
     "4to Nivel/Administración de Sistemas de Información/Untitled.md",
     "4to Nivel/Administración de Sistemas de Información/Políticas de Seguridad.md",
-    "4to Nivel/Administración de Sistemas de Información/Controles y Contra Medidas.md",
     "4to Nivel/Administración de Sistemas de Información/Amenaza.md",
     "4to Nivel/Administración de Sistemas de Información/Identificación del Riesgo.md",
     "4to Nivel/Administración de Sistemas de Información/Riesgo.md",
@@ -190,13 +279,6 @@
     "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
     "4to Nivel/Administración de Sistemas de Información/Inventario de Necesidades de Entrenamiento.md",
-    "4to Nivel/Administración de Sistemas de Información/index.md",
-    "1er Nivel/Arquitectura de Computadoras/Representación de la Información.md",
-    "1er Nivel/Arquitectura de Computadoras/Unidad de Memoria.md",
-    "1er Nivel/Arquitectura de Computadoras/Aestable.md",
-    "1er Nivel/Arquitectura de Computadoras/Microprogramación.md",
-    "1er Nivel/Arquitectura de Computadoras/index.md",
-    "index.md",
     "5to Nivel",
     "3er Nivel",
     "2do Nivel",
@@ -211,7 +293,6 @@
     "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia por Acceso Directo a Memoria.png",
     "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia por Robo de Ciclo.png",
     "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia por Instrucción Forzada.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia Programada.png",
     "1er Nivel/Arquitectura de Computadoras/attachments",
     "1er Nivel/Inglés 1",
     "1er Nivel/Arquitectura de Computadoras",
