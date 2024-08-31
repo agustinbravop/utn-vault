@@ -6,7 +6,19 @@ Son **guías para la acción** y dan respuesta a problemas frecuentes para que l
 En particular nos interesan las [[Políticas de Recursos Humanos]] para la [[Administración de Recursos Humanos]].
 
 
-Las políticas son una declaración **general** de principios para un **área** de control definida. Guían el desarrollo de reglas y criterios más específicos y concretos. Son desplegadas por estándares, mejores prácticas, procedimientos, y guías. Son obligatorias, incumplir una exige aprobar una excepción.
+Las políticas son una declaración **general** de principios para un **área** de control definida. Guían el desarrollo de reglas y criterios más específicos y concretos. Son desplegadas por estándares, mejores prácticas, procedimientos, y guías. Son **obligatorias**, incumplir una exige aprobar una excepción.
+
+## Estándares
+
+Reglas que especifican una acción o respuesta a seguir ante una situación dada. Los estándares son orientaciones obligatorias para promover la implementación de políticas de alto nivel.
+
+## Mejores Prácticas
+
+Son reglas específicas a una plataforma, aceptadas a lo largo de la industria por ser el enfoque más efectivo para cierta implementación. Buscan asegurar que las características de los sistemas sean uniformes.
+
+## Guías
+
+Son recomendaciones o sugerencias a considerar.
 
 ## Procedimientos
 

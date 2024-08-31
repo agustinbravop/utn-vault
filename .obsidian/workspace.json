@@ -4,69 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4c5edc995530de5d",
+        "id": "c77d6783f1987b99",
         "type": "tabs",
         "children": [
           {
-            "id": "209938d33c274b25",
+            "id": "c3644be15b87036d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Manejo del Riesgo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40e574b510f11a39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Seguridad de los SI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5003278d1cad0b43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Políticas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dc16dc9f43782eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Recuperación ante el Desastre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a1051c9da07e73a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Análisis del Riesgo 2024-08-30 17.53.36.excalidraw.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "viewState": {
+                  "x": 16490.585517092644,
+                  "y": 990.6111364155049,
+                  "zoom": -0.6666668701171882
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Procedimientos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Políticas.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Políticas.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Políticas.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
               }
             }
           },
@@ -210,23 +166,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6acd81263d33f82",
+  "active": "c3644be15b87036d",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Políticas de Seguridad.md",
-    "4to Nivel/Administración de Sistemas de Información/Seguridad de los SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Ambiente Informático.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Políticas.md",
     "4to Nivel/Administración de Sistemas de Información/Gestión del Riesgo.md",
+    "4to Nivel/Administración de Sistemas de Información/Seguridad de los SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Ataque Informático.md",
+    "4to Nivel/Administración de Sistemas de Información/Análisis del Riesgo.md",
+    "4to Nivel/Administración de Sistemas de Información/Manejo del Riesgo.md",
+    "4to Nivel/Administración de Sistemas de Información/Untitled.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas de Seguridad.md",
     "4to Nivel/Administración de Sistemas de Información/Controles y Contra Medidas.md",
     "4to Nivel/Administración de Sistemas de Información/Amenaza.md",
     "4to Nivel/Administración de Sistemas de Información/Identificación del Riesgo.md",
     "4to Nivel/Administración de Sistemas de Información/Riesgo.md",
-    "4to Nivel/Administración de Sistemas de Información/Manejo del Riesgo.md",
     "4to Nivel/Administración de Sistemas de Información/Recuperación ante el Desastre.md",
-    "4to Nivel/Administración de Sistemas de Información/Análisis del Riesgo.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Análisis del Riesgo 2024-08-30 17.53.36.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Análisis del Riesgo 2024-08-30 17.53.36.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/Management Seguro de SI.md",
     "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
     "4to Nivel/Administración de Sistemas de Información/Inventario de Necesidades de Entrenamiento.md",
@@ -237,12 +197,7 @@
     "1er Nivel/Arquitectura de Computadoras/Microprogramación.md",
     "1er Nivel/Arquitectura de Computadoras/index.md",
     "index.md",
-    "5to Nivel/index.md",
-    "4to Nivel/index.md",
     "5to Nivel",
-    "3er Nivel/index.md",
-    "1er Nivel/index.md",
-    "2do Nivel/index.md",
     "3er Nivel",
     "2do Nivel",
     "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas",
