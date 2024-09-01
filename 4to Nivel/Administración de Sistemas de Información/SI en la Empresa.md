@@ -1,1 +1,0 @@
-Los [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistemas de Información]] contribuyen a los objetivos de negocio.

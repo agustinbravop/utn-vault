@@ -8,7 +8,7 @@ La **planificación estratégica** consiste en crear un **sistema flexible e int
 **Visión**: imagen específica de un **futuro deseado**. Es simple, precisa y retadora. \
 **Valores**: reglas que rigen el comportamiento. Es el **sistema de creencias** de la organización. Representa la [[Cultura Organizacional]] deseada. \
 **Objetivos estratégicos**: expresan **resultados específicos y cuantificables** a lograr en un lapso de tiempo dado para cumplir con la misión y alcanzar la visión. \
-**Estrategia**: es el conjunto de acciones que nos llevan a la visión. Es el **camino a seguir** para alcanzar los objetivos. Puede haber varias estrategias. Neutraliza amenazas, corrige debilidades, aprovecha oportunidades, y explota fortalezas. \
+**Estrategia**: es el conjunto de acciones que nos llevan a la visión. Es el **camino a seguir** para alcanzar los objetivos. Puede haber varias estrategias. Neutraliza amenazas, corrige debilidades, aprovecha oportunidades, y explota fortalezas. [[Estrategia de Negocio]]. \
 **Acciones y tareas**: son el cómo llegar a los objetivos, son cada paso que damos hacia ellos. \
 
 El proceso de planificación estratégica tiene 4 etapas esenciales:
