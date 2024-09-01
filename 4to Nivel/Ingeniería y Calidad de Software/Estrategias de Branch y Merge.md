@@ -15,7 +15,7 @@ Se crea una rama por cada tarea concreta. Estas ramas son las más minimalistas.
 ## Gitflow Workflow
 
 Es una combinación de las otras estrategias y es el estándar actual de la industria. Tiene en cuenta la integración continua. Surge de un blog de 2010 por Vincent Driessen.
-![[Pasted image 20240428011334.png]]
+![[Gitflow.png]]
 Las ramas que define son:
 
 - **Main**: es la rama principal que representa a producción.

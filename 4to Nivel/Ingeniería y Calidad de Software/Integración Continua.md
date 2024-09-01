@@ -4,7 +4,7 @@ Es una **práctica** de desarrollo de software donde los miembros del equipo **i
 
 Se puede extender con [[Despliegue Continuo]] y [[Entrega Continua]]. Ejemplo:
 
-![[esquema-integracion-continua.png]]
+![[Esquema de un Workflow de Integración Continua.png]]
 
 ## Madurez del Equipo
 

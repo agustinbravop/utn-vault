@@ -15,7 +15,7 @@ El mundo actual es VUCA:
 
 Cockburn propone ir directo al **corazón** de la agilidad.
 
-![[Shu-Ha-Ri-Kokoro Curve.png]]
+![[Curva Shu-Ha-Ri-Kokoro.png]]
 
 1. **Shu**: "seguir" un proceso tal cual me lo han dicho **sin cuestionarlo**. Es volverse bueno en un método particular.
 2. **Ha**: "recolectar" **técnicas** y ser experto en al menos una de ellas. Es ir relacionando conceptos para descubrir los principios detrás de los métodos.

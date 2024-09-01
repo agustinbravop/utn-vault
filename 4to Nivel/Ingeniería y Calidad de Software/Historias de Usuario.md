@@ -39,7 +39,7 @@ Además pueden incluir **restricciones** **no funcionales** asociadas al requisi
 ## Alcance
 
 **Tema > Épicas > Historias de Usuario > Tareas**.
-![[Pasted image 20240428170336.png]]
+![[Desagregación de las Historias de Usuario.png]]
 Los temas son aspectos enormes del sistema e inicialmente no es claro que HUs contienen.
 Las tareas son el "cómo hacerlo" y las escribe el equipo de desarrollo con certidumbre.
 

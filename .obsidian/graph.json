@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file: \"*.exalidraw.md\", path:\"4to Nivel/Ingeniería y Calidad de Software\"",
+  "search": "-file: \"*.exalidraw.md\", path: \"4to Nivel/Administración de Sistemas de Información\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 0,
-  "linkStrength": 0,
+  "centerStrength": 0.3004158004158,
+  "repelStrength": 11.1642411642412,
+  "linkStrength": 0.545738045738046,
   "linkDistance": 30,
-  "scale": 0.7069025455590469,
+  "scale": 0.22920131214925174,
   "close": false
 }

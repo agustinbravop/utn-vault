@@ -1,12 +1,12 @@
 La [[Gestión del Riesgo]] asume que la prevención total del [[Riesgo]] es poco práctica o imposible, por ende la organización debe **planificar** cómo enfrentarse a las inevitables rupturas de la [[Seguridad de los SI]] y cómo recuperarse. Esto es la **planificación de contingencias**, que incluye:
 
-- **métodos de trabajo** que permitan sobrevivir al desastre, y 
+- **métodos de trabajo** que permitan sobrevivir al desastre, y
 - **procesos a largo plazo** para recuperarse.
 
 Presenta dos etapas:
 
 1. Incrementar la seguridad, minimizar los **daños** y facilitar el regreso al trabajo. Luego,
-2. Minimizar los **efectos secundarios** del desastre. 
+2. Minimizar los **efectos secundarios** del desastre.
 
 **Tiempo de inhabilitación**: es el tiempo antes de volver a la operatividad parcial o total. \
 **Respaldo**: mantener el funcionamiento mediante los sistemas clave hasta normalizarse. \
@@ -19,7 +19,7 @@ El plan de recuperación debe cubrir todos los aspectos del uso y del management
 
 **Soluciones de respaldo**:
 
-1. **Instalaciones de emergencia**: ofrecen operatividad inmediata (si hay *backups*).
+1. **Instalaciones de emergencia**: ofrecen operatividad inmediata (si hay _backups_).
 2. **Instalaciones intermedias**: son centros de datos vacíos pero disponibles.
 3. **Instalaciones móviles**: dan provisión desde vehículos. Pueden ser rápidamente compartidas.
 

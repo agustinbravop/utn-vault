@@ -15,7 +15,7 @@ El MHU se lee:
 - De **izquierda a derecha**: en secuencia del storytelling del usuario usando la aplicación. Esta es la **columna vertebral** del producto, normalmente no varía mucho.
 - De **arriba a abajo**: en orden del funcionamiento del sistema, teniendo en cuenta dependencias. Es el **esqueleto andante**, que suele ser reorganizado y repriorizado.
 
-![[Pasted image 20240428182334.png]]
+![[Mapa de Historias de Usuario.png]]
 
 ## ¿Cómo se hace un MUP?
 

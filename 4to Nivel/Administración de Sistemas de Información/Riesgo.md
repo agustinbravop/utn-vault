@@ -6,4 +6,5 @@ $$
 \begin{aligned}
 \text{Pérdida esperada} &= \text{Pérdida potencial} \ \cdot \ \text{Frecuencia de pérdida} \\
 \text{Pérdida esperada} &= \text{Pérdida potencial} \ \cdot \ P(\text{agresión}) \cdot P(\text{éxito}) \\
-\end{aligned}$$
+\end{aligned}
+$$

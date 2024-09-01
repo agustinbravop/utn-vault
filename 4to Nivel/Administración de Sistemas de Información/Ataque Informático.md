@@ -11,12 +11,12 @@ Según la naturaleza del ataque, puede ser:
 
 - **Pasivo**: solo **monitoriza** la comunicación para interceptar datos, analizando el tráfico sin alterarlo. Es más difícil de detectar.
 - **Activo**: **modifica** el flujo de datos o crea uno falso.
-	1. **Suplantación de identidad**: el intruso se hace pasar por otra entidad.
-	2. **Reactuación**: mensajes legítimos son capturados y repetidos.
-	3. **Modificación de mensajes**: se altera o retarda o reordena mensajes.
-	4. **Degradación fraudulenta del servicio**: impide el uso o gestión normal de la red.
+  1.  **Suplantación de identidad**: el intruso se hace pasar por otra entidad.
+  2.  **Reactuación**: mensajes legítimos son capturados y repetidos.
+  3.  **Modificación de mensajes**: se altera o retarda o reordena mensajes.
+  4.  **Degradación fraudulenta del servicio**: impide el uso o gestión normal de la red.
 
-Según Robson, la *Audit Comission* reconoce cuatro tipos de **fraude** informático:
+Según Robson, la _Audit Comission_ reconoce cuatro tipos de **fraude** informático:
 
 1. **Fraude de ingresos**: entrada de isntrucciones no autorizadas.
 2. **Fraude de datos**: alteración de datos almacenados.

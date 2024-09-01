@@ -13,7 +13,7 @@ El ancho de cada nivel de la pirámide es la cantidad de HUs permitidas en ese n
 1. **P1**: **máxima prioridad** para historias que sí o sí van en el siguiente sprint (o el actual).
 2. **P2**: tareas que se van a comenzar **ni bien se liberen recursos**.
 3. **P3**: tareas que **puedo esperar** al tercer sprint para hacer.
-   ![[Pasted image 20240428184010.png]]
+   ![[Pirámide de Priorización de Historias de Usuario.png]]
 
 ### KANO
 

@@ -4,105 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "c77d6783f1987b99",
+        "id": "80b1cccd4769ef9f",
         "type": "tabs",
         "children": [
           {
-            "id": "c3644be15b87036d",
+            "id": "a67f5a62338252ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Mantenimiento de RRHH.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc8d8d6407150033",
+            "id": "72e8e03699cd973b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Planificación Estratégica de los SI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "552271fc42a5d2db",
+            "id": "2eca7de31a544f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Planificación Estratégica.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "240f7a2940cfdf6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e757cf5cd67439d",
+            "id": "60420f5fc834db05",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Auditoría del Desarrollo (Piattini) 2024-08-31 18.08.18.excalidraw.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 00.52.07.excalidraw.md"
               }
             }
           },
           {
-            "id": "0ddbb762c9ac2670",
+            "id": "d1741ea8bbe64868",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Controles y Contra Medidas.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 01.06.56.excalidraw.md"
               }
             }
           },
           {
-            "id": "f0ae86a14c9d0fa1",
+            "id": "83a9538856b30080",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "4to Nivel/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae4c8965f93b2243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 00.52.07.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 265.5
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -176,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 01.06.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 01.06.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 01.06.56.excalidraw.md"
               }
             }
           },
@@ -246,53 +218,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "552271fc42a5d2db",
+  "active": "d1741ea8bbe64868",
   "lastOpenFiles": [
-    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
-    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
-    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Lardent.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Auditoría del Desarrollo (Piattini) 2024-08-31 18.08.18.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Auditoría del Desarrollo (Piattini) 2024-08-31 18.08.18.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/Controles y Contra Medidas.md",
-    "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
-    "4to Nivel/index.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Auditoría del Desarrollo de Software.md",
-    "4to Nivel/Administración de Sistemas de Información/Control Interno Informático.md",
-    "4to Nivel/Administración de Sistemas de Información/Ambiente Informático.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 00.52.07.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 01.06.56.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Planificación Estratégica.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 01.06.56.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 00.52.07.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/Estrategia de SI.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Estrategia de SI.png",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Etapas del Proceso de Planificación Estratégica.png",
+    "4to Nivel/Administración de Sistemas de Información/Planificación Estratégica de los SI.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica de los SI 2024-08-31 21.50.05.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica de los SI 2024-08-31 21.50.05.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/Tecnologías de la Información.md",
+    "4to Nivel/Administración de Sistemas de Información/Mantenimiento de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Recursos Organizacionales.md",
     "4to Nivel/Administración de Sistemas de Información/Políticas.md",
-    "4to Nivel/Administración de Sistemas de Información/Gestión del Riesgo.md",
-    "4to Nivel/Administración de Sistemas de Información/Seguridad de los SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Ataque Informático.md",
-    "4to Nivel/Administración de Sistemas de Información/Análisis del Riesgo.md",
-    "4to Nivel/Administración de Sistemas de Información/Manejo del Riesgo.md",
-    "4to Nivel/Administración de Sistemas de Información/Untitled.md",
-    "4to Nivel/Administración de Sistemas de Información/Políticas de Seguridad.md",
-    "4to Nivel/Administración de Sistemas de Información/Amenaza.md",
-    "4to Nivel/Administración de Sistemas de Información/Identificación del Riesgo.md",
-    "4to Nivel/Administración de Sistemas de Información/Riesgo.md",
-    "4to Nivel/Administración de Sistemas de Información/Recuperación ante el Desastre.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Análisis del Riesgo 2024-08-30 17.53.36.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Análisis del Riesgo 2024-08-30 17.53.36.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/Management Seguro de SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Procesos de Control 2024-07-10 23.57.34.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Procesos de Control 2024-07-10 23.56.58.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Procesos de Control 2024-07-10 23.56.58.excalidraw.svg",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Proceso de XP.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Curva Shu-Ha-Ri-Kokoro.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Sistemas de Control de Versiones 2024-06-24 15.20.48.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Ejemplo de un Gitflow.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Efectos de un Rebase en Git.png",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Las 4 P 2024-07-11 00.01.23.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Las 4 P 2024-07-11 00.02.30.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.11.41.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.11.25.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.10.47.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Outsourcing 2024-05-11 23.59.08.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas Batch.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas de Referencia.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Pruebas de Auditoría.md",
     "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
-    "4to Nivel/Administración de Sistemas de Información/Inventario de Necesidades de Entrenamiento.md",
     "5to Nivel",
     "3er Nivel",
     "2do Nivel",
     "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas",
     "1er Nivel/Inglés 1/MOC Inglés 1.canvas",
     "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Encadenamiento de Datos.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Esquema de una Entrada para el Canal Automático.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Canal Automático para ABACUS.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Intercambio de Salida para el Enlace Programado.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Enlace Programado ABACUS.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia por Acceso Directo a Memoria.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia por Robo de Ciclo.png",
-    "1er Nivel/Arquitectura de Computadoras/attachments/Transferencia por Instrucción Forzada.png",
     "1er Nivel/Arquitectura de Computadoras/attachments",
     "1er Nivel/Inglés 1",
     "1er Nivel/Arquitectura de Computadoras",
