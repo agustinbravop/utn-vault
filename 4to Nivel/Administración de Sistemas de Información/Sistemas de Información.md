@@ -6,14 +6,14 @@ Entendemos por **SI**:
 - **apoyando** al menos en parte a la **toma de decisiones** necesaria
 - para **desempeñar las funciones y procesos** de negocio de la empresa de acuerdo con su estrategia.
 
-Los SI no solo satisfacen necesidades de información para los procesos productivos, sino que ayudan al control y a la toma de decisiones.
+Los SI no solo satisfacen necesidades de información para los procesos productivos, sino que ayudan al control y a la toma de decisiones. Tienen un **propósito**, un para qué por sobre el cómo o el qué.
 
 ## Recursos de un SI
 
-Los recursos de un sistema de información son los medios de los que se vale para lograr sus objetivos, y los mecanismos para administrarlos. Se clasifican en tres:
+Los recursos de un sistema de información son los **medios** de los que se vale para lograr sus objetivos, y los mecanismos para administrarlos. Se clasifican en tres:
 
 - **Hardware.**
 - **Software.**
 - **Recursos Humanos.**
 
-En una empresa, parte de sus [[Recursos Organizacionales]] son requeridos por su SI.
+En una empresa, parte de sus [[Recursos Organizacionales]] son requeridos para sus sistemas de información.
