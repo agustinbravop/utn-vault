@@ -6,7 +6,7 @@ Entendemos por **SI**:
 - **apoyando** al menos en parte a la **toma de decisiones** necesaria
 - para **desempeñar las funciones y procesos** de negocio de la empresa de acuerdo con su estrategia.
 
-Los SI no solo satisfacen necesidades de información para los procesos productivos, sino que ayudan al control y a la toma de decisiones. Tienen un **propósito**, un para qué por sobre el cómo o el qué.
+Los SI **soportan operaciones** y **apoyan decisiones**. Los SI no solo satisfacen necesidades de información para los procesos productivos, sino que ayudan al control y a la toma de decisiones. Tienen un **propósito**, un para qué por sobre el cómo o el qué.
 
 ## Recursos de un SI
 

@@ -2,4 +2,12 @@ La estrategia de negocio de la organización es el conjunto de acciones que nos 
 
 Es el **conjunto de acciones** que indica el curso de acción para llegar al objetivo, que luego marcará con qué **prioridad** asignar [[Recursos Organizacionales]] y ejecutar esas acciones. Es un conjunto **integrado** de acciones que apunta a incrementar a largo plazo la **prosperidad** y **fortaleza** de la empresa. 
 
+La estrategia es el *plan de juego* de la administración para:
+
+1. **Atraer** y satisfacer a los clientes.
+2. Establecer una **posición de mercado**.
+3. Conducir operaciones.
+4. **Competir** exitosamente.
+5. Alcanzar objetivos organizacionales.
+
 La estrategia de negocio se formula analizando entradas internas y externas para producir **objetivos**, **[[Políticas]]** y **planes de acción**. Algunos de estos requieren [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistemas de Información]], por lo que se debe elaborar una [[Estrategia de SI]].

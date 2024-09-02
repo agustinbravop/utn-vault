@@ -10,6 +10,8 @@ Hay un sistema de información **básico** que forma parte de la infraestructura
 
 Si los subsistemas de información propios de ciertas actividades primarias se coordinan mediante interrelaciones $\implies$ su conjunto se considera parte del SI básico.
 
+Los sistemas proveen información a los **procesos de negocio** y a las **actividades administrativas**, buscando la **rentabilidad** y el posicionamiento estratégico de la empresa. 
+
 Es importante recordar que los SI solo son una parte de la infraestructura de la empresa, la cual esta conformada por más sistemas, una estructura organizacional, y una [[Cultura Organizacional]].
 
 ![[SI en la Cadena de Valor 2024-09-01 11.21.58.excalidraw.svg]]

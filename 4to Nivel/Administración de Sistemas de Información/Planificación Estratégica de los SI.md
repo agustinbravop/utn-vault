@@ -13,4 +13,14 @@ Hay 4 entradas clave:
 3. **Entorno de SI/TI externo**: uso de la tecnología actual y nuevas tecnologías de vanguardia.
 4. **Entorno de SI/TI interno**: sistemas actuales de la empresa y sus [[Recursos Organizacionales]] de SI/TI disponibles (SW, HW y personal).
 
-Se suele usar un [[Planificación de SI y TI a partir de la Estrategia de Negocio]].
+Los componentes organizacionales clave son:
+
+- **Plan estratégico**: aporta la misión, visión, valores, y objetivos estratégicos.
+- **Estructura organizacional**: nos permite conocer a la empresa y sus áreas y funciones de SI/TI.
+- [[Políticas]] organizacionales (incluyendo las financieras-contables).
+- Procedimientos organizacionales (incluyendo los financieros contables).
+- Estado actual de los SI/TI (los **sistemas existentes**).
+
+Se suele usar un procedimiento para la [[Planificación de SI y TI a partir de la Estrategia de Negocio]]. El alineamiento estratégico indica que solo se tienen los SI que la organización (y la [[Estrategia de Negocio]]) necesita.
+
+La administración estratégica de los SI/TI pone foco en la **eficacia** del SI en la organización y en la **eficiencia** de la infraestructura tecnológica.

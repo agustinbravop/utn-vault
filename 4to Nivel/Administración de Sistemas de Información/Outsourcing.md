@@ -59,7 +59,7 @@ El outsourcing es una **relación contractual** con un tercero a quien se lo deb
 
 Además hay **personal contratado y consultores externos** que están **ligados** a la empresa y son **responsables** a ella. Ellos ocmprenden los problemas de los SI pero no las políticas y objetivos de la empresa. Son ideales para el **corto plazo**. Sino, conviene usar personal interno.
 
-Es fundamental establecer un [[Acuerdo de Nivel de Servicio]] que asegure ciertos parámetros o indicadores del rendimiento.
+Es fundamental establecer [[Acuerdos de Nivel de Servicio]] que aseguren ciertos parámetros o indicadores del rendimiento.
 
 ### Recomendaciones para la Negociación
 
