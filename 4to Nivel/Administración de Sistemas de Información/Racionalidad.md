@@ -4,12 +4,12 @@ La racionalidad de una organización no implica que los individuos no puedan ser
 
 El resultado de la racionalidad es la [[Eficiencia y Eficacia|eficiencia]] y el uso de [[Políticas]].
 
-Se usa para:
+Teniendo en cuenta los [[Recursos Organizacionales]], la racionalidad se usa para:
 
 - **Minimizar uso de recursos:** se reducen los medios requeridos para obtener un fin.
 - **Adecuar recursos:** los fines determinan la forma de comportamiento de un sistema.
 
-La racionalidad se preocupa por el uso medios para lograr fines, no por los fines. La **racionalidad organizacional** está ligada a los medios, métodos y procesos con los que la organización alcanzará determinados resultados. Se fundamenta en el principio de **causa y efecto**, donde una acción o procedimiento **es racional si es coherente con el objetivo** que se pretende lograr.
+La racionalidad se preocupa por el uso de medios para lograr fines, no por los fines en sí. La **racionalidad organizacional** está ligada a los medios, métodos y procesos con los que la organización alcanzará determinados resultados. Se fundamenta en el principio de **causa y efecto**, donde una acción o procedimiento **es racional si es coherente con el objetivo** que se pretende lograr.
 
 ## Aspectos
 
