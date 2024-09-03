@@ -11,23 +11,36 @@
             "id": "1f290dc660c894fa",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+                "viewState": {
+                  "x": 13944.70533875378,
+                  "y": 196.30437945191562,
+                  "zoom": -1.2222223917643236
+                }
+              }
+            }
+          },
+          {
+            "id": "f3f4433155840743",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Administración de los Recursos de SI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Modelos de Explotación de SI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc062a50c4add563",
+            "id": "a71e6fbc72dfcbc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1er Nivel/Sistemas y Procesos de Negocio/index.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Administración de Sistemas de Información/attachments/Estrategias Genéricas de Gestión de SI y TI 2024-09-01 16.49.33.excalidraw.md"
               }
             }
           }
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Sistemas y Procesos de Negocio/index.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Modelos de Explotación de SI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1er Nivel/Sistemas y Procesos de Negocio/index.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Modelos de Explotación de SI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1er Nivel/Sistemas y Procesos de Negocio/index.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Modelos de Explotación de SI.md"
               }
             }
           },
@@ -176,30 +189,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc062a50c4add563",
+  "active": "f3f4433155840743",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "4to Nivel/Administración de Sistemas de Información/Modelos de Explotación de SI.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Modelo Decisional de Explotación de SI.png",
+    "4to Nivel/Administración de Sistemas de Información/Control Interno Informático.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría Externa.md",
+    "4to Nivel/Administración de Sistemas de Información/Planificación Estratégica.md",
+    "4to Nivel/Administración de Sistemas de Información/Políticas de Seguridad.md",
+    "4to Nivel/Administración de Sistemas de Información/Estrategias Genéricas de Gestión de SI y TI.md",
+    "4to Nivel/Administración de Sistemas de Información/Evaluación de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Estrategia de TI.md",
+    "4to Nivel/Administración de Sistemas de Información/Ubicación de los SI.md",
+    "4to Nivel/Administración de Sistemas de Información/SI en la Cadena de Valor.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Cadena de Valor de Porter.png",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de los Recursos de SI.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Estrategias Genéricas de Gestión de SI y TI 2024-09-01 16.49.33.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Gestión del Riesgo.md",
+    "4to Nivel/Administración de Sistemas de Información/Estrategia de Negocio.md",
+    "4to Nivel/Administración de Sistemas de Información/Inversiones de los SI.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/index.md",
     "1er Nivel/Inglés 1/index.md",
     "1er Nivel/Arquitectura de Computadoras/index.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Lista.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/index.md",
     "4to Nivel/Ingeniería y Calidad de Software/index.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Ingeniería de Software.md",
-    "4to Nivel/Administración de Sistemas de Información/index.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de los Recursos de SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Beneficios de los SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Benchmarking.md",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Administración de Sistemas de Información/Planificación Estratégica de los SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Estrategia de SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistemas de Información.md",
-    "4to Nivel/Administración de Sistemas de Información/SI en la Cadena de Valor.md",
-    "4to Nivel/Administración de Sistemas de Información/Untitled.md",
-    "4to Nivel/Administración de Sistemas de Información/Planificación Estratégica.md",
-    "4to Nivel/Administración de Sistemas de Información/Estrategia de Negocio.md",
-    "4to Nivel/Administración de Sistemas de Información/Recursos Organizacionales.md",
-    "4to Nivel/Administración de Sistemas de Información/Organización de los SI.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI Orientados al Exterior.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI Orientada al Usuario.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI para Grupos de Proyectos Funcionales.png",
@@ -207,14 +226,7 @@
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI para Grupos de Proyectos Funcionales2.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI Orientada al Usuario2.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI para Estructuras Externas2.png",
-    "4to Nivel/Administración de Sistemas de Información/Acuerdos de Nivel de Servicio.md",
-    "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
-    "4to Nivel/Administración de Sistemas de Información/Outsourcing.md",
-    "4to Nivel/Administración de Sistemas de Información/Rol de los SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Ubicación de los SI.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Rol de los SI 2024-09-01 21.15.34.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Ficha de Evaluación de la Economía de la Información.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Economía de la Información 2024-09-01 19.53.32.excalidraw.svg",
     "desktop.ini",
     "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",

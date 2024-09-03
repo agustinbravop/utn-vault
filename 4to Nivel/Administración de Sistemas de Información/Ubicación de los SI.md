@@ -15,10 +15,14 @@ También son posibles tres alternativas "especiales", que representan una **supe
 La ubicación de los SI involucra 3 **aspectos**:
 
 1. **Localización**: ubicación física del sistema. Es menos relevante actualmente.
-2. Control: nivel empresarial al cual se toman las decisiones.
-3. Estructura: la responsabilidad de los sistemas puede estar centralizada en la función de SI o transferida al grupo de usuarios.
+2. **Control**: nivel empresarial al cual se toman las decisiones.
+3. **Estructura**: la responsabilidad de los sistemas puede estar centralizada en la función de SI o transferida al grupo de usuarios.
 
-¿Qué mantener centralizado y qué descentralizar? La empresa debe considerar qué componentes de los SI centralizar, cómo, y en qué medida hacerlo.
+¿Qué mantener centralizado y qué descentralizar? La empresa debe considerar qué componentes de los SI centralizar, cómo, y en qué medida hacerlo. Se debe tener en cuenta cuestiones como:
+
+1. La estructura organizativa.
+2. La evolución en la adopción de las [[Tecnologías de la Información]] dentro de la organización.
+3. El grado de conocimiento de la alta dirección sobre las TIs, su potencial y su valor.
 
 ## SI Centralizados
 

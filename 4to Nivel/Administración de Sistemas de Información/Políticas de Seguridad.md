@@ -1,4 +1,4 @@
-Las **políticas** de [[Seguridad de los SI]] definen un conjunto de requisitos sobre un sistema que indican en términos generales lo permitido y prohibido en el área de seguridad durante la operación normal.
+Las **políticas** de [[Seguridad de los SI]] definen un conjunto de requisitos sobre un sistema que indican en términos generales lo permitido y prohibido en el área de seguridad durante la operación normal. Sirven como guía para implementar reglas de seguridad.
 
 Una política de seguridad define el **nivel de seguridad** que se ajusta al valor de lo que se está protegiendo y al gasto e inconveniencias de esa protección. Documentan el resultado de la [[Identificación del Riesgo]] y el [[Análisis del Riesgo]], y de las estrategias que fueron elegidas para el [[Manejo del Riesgo]]. El documento debería cubrir:
 
@@ -14,6 +14,8 @@ Los términos generales de la política de seguridad deben refinarse en indicaci
 1. **Prohibitiva**: todo lo no expresamente permitido está prohibido. Son las más seguras.
 2. **Permisiva**: todo lo no expresamente prohibido está permitido.
 
+Las políticas de seguridad, si son difundidas, sirven como medidas preventivas de seguridad.
+
 Elementos clave en la seguridad de un SI que cualquier política debe contemplar:
 
 1. **Disponibilidad**: que los recursos estén disponibles cuando se necesitan.
@@ -23,7 +25,7 @@ Elementos clave en la seguridad de un SI que cualquier política debe contemplar
 5. **Confidencialidad**: disponible solo para agentes autorizados.
 6. **Posesión**: los propietarios del sistema deben poder controlarlo en todo momento.
 
-Es important determinar **quién** debe tener posibilidad de acceso a la información:
+Es importante determinar **quién** debe tener posibilidad de acceso a la información:
 
 > Podrá acceder aquél que tenga necesidad de hacer o de saber en el cumplimiento de su trabajo.
 

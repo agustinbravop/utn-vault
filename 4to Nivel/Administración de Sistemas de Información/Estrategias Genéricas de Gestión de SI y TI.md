@@ -1,3 +1,5 @@
+La [[Cartera de Aplicaciones]] debe ser implementada mediante una estrategia genérica de gestión de los SI/TI, elegida adecuadamente.
+
 Estas estrategias son **marcos de trabajo generales** que guían:
 
 - las **oportunidades** de [[Tecnologías de la Información]] que son identificadas, 
@@ -6,10 +8,10 @@ Estas estrategias son **marcos de trabajo generales** que guían:
 - el **nivel de impacto** de las TI dentro de la empresa, y 
 - las **tendencias centrales** que las empresas usan para guiar a las TI dentro del negocio.
 
-Ayudan a la gestión de SI/TI apropiada y exitosa a largo plazo de dos maneras:
+Ayudan a la [[Administración de Sistemas de Información]] apropiada y exitosa a largo plazo de dos maneras:
 
 - **Diagnóstico**: de la situación actual.
-- **Formulación**: para identificar un plan de migración a una [[Cartera de Aplicaciones]] futuras. 
+- **Formulación**: para identificar un plan de migración a una cartera de aplicaciones futura. 
 
 Son 6 estrategias:
 
@@ -26,7 +28,9 @@ Estas estrategias se pueden relacionar con los segmentos de la **cartera de apli
 
 ## Planificación Centralizada
 
-Esta estrategia es impulsada por las **necesidades de negocio**. Mejora la **comprensión de requerimientos** y el uso de recursos. La [[[Estrategia de SI]] está totalmente integrada con la [[Estrategia de Negocio]] mediante una unidad centralizada de la alta dirección. Permite realizar **grandes inversiones** pero demanda mucha atención de la alta dirección.
+Esta estrategia es impulsada por las **necesidades de negocio**. Mejora la **comprensión de requerimientos** y el uso de recursos. La [[Estrategia de SI]] está totalmente integrada con la [[Estrategia de Negocio]] mediante una unidad centralizada de la alta dirección. Permite realizar **grandes inversiones** pero demanda mucha atención de la alta dirección.
+
+Está orientada a la demanda de aplicaciones.
 
 ## Hilo Conductor
 
@@ -39,6 +43,8 @@ Los directivos usuarios saben qué es mejor para la empresa, y evalúan y **sati
 ## Monopolio
 
 Esta estrategia propone **un solo proveedor** de SI/TI en toda la organización. Esto facilita identificar y **controlar el gasto** en SI/TI, pero puede **disminuir la innovación**, lo que dificulta responder a necesidades competitivas.
+
+Está orientada a la oferta de tecnología.
 
 ## Recurso Escaso
 

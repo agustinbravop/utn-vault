@@ -18,7 +18,9 @@ flowchart LR;
 1["Dirección\nde SI"] --> 2["Dirección\nde informática"] --> 3["Control interno\ninformático"] --> 4["Auditor\ninformático"]
 ```
 
-El auditor informático revisa controles internos en cada función informática.
+El control interno consiste en el análisis diario de los controles internos de cada función informática, reportando a la dirección de SI/TI. Luego, en algún momento puntual el auditor informático revisa esos controles e informa a la dirección general de la organización.
+
+El alcance de las funciones del control interno es únicamente sobre el área de informática, mientras que la auditoría informática tiene cobertura sobre todo el ambiente informático.
 
 ## Control Interno
 

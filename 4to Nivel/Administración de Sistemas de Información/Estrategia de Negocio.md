@@ -2,6 +2,8 @@ La estrategia de negocio de la organización es el conjunto de acciones que nos 
 
 Es el **conjunto de acciones** que indica el curso de acción para llegar al objetivo, que luego marcará con qué **prioridad** asignar [[Recursos Organizacionales]] y ejecutar esas acciones. Es un conjunto **integrado** de acciones que apunta a incrementar a largo plazo la **prosperidad** y **fortaleza** de la empresa. 
 
+Es un **programa general de acción** que lleva consigo compromisos de énfasis y recursos para poner en práctica una misión básica. Es un **patrón de objetivos** que se han concebido e iniciado de tal manera, con el propósito de darle a la organización **dirección unificada**.
+
 La estrategia es el *plan de juego* de la administración para:
 
 1. **Atraer** y satisfacer a los clientes.

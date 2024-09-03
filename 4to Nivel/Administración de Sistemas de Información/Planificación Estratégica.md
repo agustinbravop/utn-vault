@@ -4,7 +4,7 @@ Planificar consiste en determinar la situación actual para decidir cómo llegar
 
 La **planificación estratégica** consiste en crear un **sistema flexible e integrado** de los objetivos y sus estrategias asociadas que sirva como **punto de referencia**. Sirve para que los jefes y gerentes adopten la innovación como estilo de vida profesional: **el plan involucra y responsabiliza a todo el personal**.
 
-**Misión**: razón de existencia de la organización. Es un **propósito** tan grande que nunca se alcanza. \
+**Misión**: razón de ser de la organización. Es un **propósito** tan grande que nunca se alcanza. Es dinámica y orientada a las necesidades del mercado y de la sociedad. Indica nuestra actividad. \
 **Visión**: imagen específica de un **futuro deseado**. Es simple, precisa y retadora. \
 **Valores**: reglas que rigen el comportamiento. Es el **sistema de creencias** de la organización. Representa la [[Cultura Organizacional]] deseada. \
 **Objetivos estratégicos**: expresan **resultados específicos y cuantificables** a lograr en un lapso de tiempo dado para cumplir con la misión y alcanzar la visión. \

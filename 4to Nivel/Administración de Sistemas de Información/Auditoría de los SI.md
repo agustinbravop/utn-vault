@@ -22,7 +22,7 @@ Los objetos de auditoría informática son aquello que se puede auditar. **Objet
 **Áreas** de la auditoría de SI:
 
 1. Evaluación de la **función informática**: organización y administración del ambiente informático.
-2. Evaluación de los **sistemas y procedimientos**: del desarrollo de sistemas o de sistemas instalados. [[Auditoría del Desarrollo]].
+2. Evaluación de los **sistemas y procedimientos**: del desarrollo de sistemas o de sistemas instalados. Acá se incluye la [[Auditoría del Desarrollo]].
 3. Evaluación del **proceso** de datos, de sistemas y equipos.
 4. Evaluación de la **seguridad**.
 5. Evaluación de los **aspectos legales**.

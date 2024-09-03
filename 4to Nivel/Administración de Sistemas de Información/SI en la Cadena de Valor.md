@@ -4,6 +4,8 @@ La **cadena de valor** es una propuesta de Porter que distingue entre las **acti
 
 La infraestructura de la empresa es una actividad de soporte que involucra a los [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistemas de Información]] $\implies$ las actividades primarias se apoyan en el SI. El SI interacciona con todas las demás actividades de cualquier empresa, ya que todas usan o generan información.
 
+La infraestructura actual de la organización debe evaluarse en el análisis de fortalezas y debilidades durante la [[Planificación de SI y TI - Descripción de la Situación Actual]].
+
 ![[SI en la Cadena de Valor.png]]
 
 Hay un sistema de información **básico** que forma parte de la infraestructura de la empresa e integra toda la información, mientras que hay varios sistemas **circunscritos** a actividades concretas que trabajan con información en un grado de detalle que nadie más en la empresa necesita. Pueden tener interfaces con el SI básico, pero solo las necesarias.
