@@ -1,5 +1,5 @@
 ---
-title: "Materia: Ingeniería y Calidad de Software"
+title: Ingeniería y Calidad de Software
 ---
 
 Área: Desarrollo de Software/Tecnologías Aplicadas.

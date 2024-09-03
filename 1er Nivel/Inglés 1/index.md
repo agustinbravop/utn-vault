@@ -1,5 +1,5 @@
 ---
-title: "Materia: Inglés 1"
+title: Inglés 1
 ---
 
 Asignatura: Inglés 1.

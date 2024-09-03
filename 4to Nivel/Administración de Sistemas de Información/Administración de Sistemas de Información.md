@@ -8,3 +8,9 @@ Sus subsistemas son:
 2. [[Aplicación de SI y TI]].
 3. [[Seguimiento de SI y TI]].
 4. [[Seguridad de los SI]] y [[Auditoría de los SI]].
+
+| Administración                   | Nivel operacional                            |
+| -------------------------------- | -------------------------------------------- |
+| Administración de la información | Gerencia estratégica del área de SI/TI (CIO) |
+| Administración del uso de los SI | Gerencias medias del área de SI/TI           |
+| Administración de la tecnología  | Supervisión del área de SI/TI (CTO)          |

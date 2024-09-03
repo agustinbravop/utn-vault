@@ -1,5 +1,5 @@
 ---
-title: "Materia: Arquitectura de Computadoras"
+title: Arquitectura de Computadoras
 ---
 
 Asignatura: Arquitectura de Computadoras.

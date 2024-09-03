@@ -33,7 +33,7 @@ Generalmente al aumentar la calidad, aumentan los costos. Sin embargo, al aument
 
 ## Beneficios Genéricos
 
-El tipo de beneficio puede ser de eficiencia, efectividad, o avance estratégico. Puede percibirlo el nivel organizacional operativo, táctico, o estratégico.
+El tipo de beneficio puede ser de **eficiencia**, **efectividad**, o **avance estratégico**. Puede percibirlo el nivel organizacional **operativo**, **táctico**, o **estratégico**.
 
 ![[Beneficios Genéricos de los SI.png]]
 

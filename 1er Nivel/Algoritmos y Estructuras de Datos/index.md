@@ -1,5 +1,5 @@
 ---
-title: "Materia: Algoritmos y Estructuras de Datos"
+title: Algoritmos y Estructuras de Datos
 ---
 
 Asignatura: Algoritmos y Estructuras de Datos.

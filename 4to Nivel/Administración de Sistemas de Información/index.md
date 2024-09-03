@@ -1,5 +1,5 @@
 ---
-title: "Materia: Administración de Sistemas de Información"
+title: Administración de Sistemas de Información
 ---
 
 Área: Sistemas de Información/Tecnologías Aplicadas/Integradora.

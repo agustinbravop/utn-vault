@@ -1,9 +1,9 @@
 ---
-title: "Materia: Sistemas y Procesos de Negocio"
+title: Sistemas y Procesos de Negocio
 ---
 
-Asignatura: Sistemas y Organizaciones.
-Ciclo Lectivo: 2021.
+Asignatura: Sistemas y Organizaciones. \
+Ciclo Lectivo: 2021. \
 Cursado: Anual.
 
 Cursado virtual por la pandemia.
