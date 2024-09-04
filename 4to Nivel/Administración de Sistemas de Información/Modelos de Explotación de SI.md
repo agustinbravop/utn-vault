@@ -7,9 +7,15 @@ Determinar una **metodología de explotación** consiste en diseñar el modelo m
 3. Modelo relacional.
 4. Modelo informacional.
 
+Una vez determinada la metodología de explotación, ésta se materializará en:
+
+- Una estructura organizativa.
+- Unas normas de actuación.
+- Unas normas de documentación.
+
 ## Modelo Decisional
 
-Una dimensión del modelo de explotación es la estructura de las decisiones y funciones que deben realizarse en los diversos niveles para que puedan controlarse efectivamente las operaciones de explotación.
+Una dimensión del modelo de explotación es la estructura de las **decisiones y funciones** que deben realizarse en los diversos niveles para que puedan controlarse efectivamente las operaciones de explotación.
 
 Hay 3 niveles:
 
@@ -24,13 +30,13 @@ Hay 3 niveles:
 
 ## Modelo Organizacional
 
-Las decisiones del modelo decisional son realizadas por personas dentro de una organización. El modelo organizacional asigna responsabilidades a los elementos y a la propia estructura de la organización.
+Las decisiones del modelo decisional son realizadas por personas dentro de una organización. El modelo organizacional **asigna responsabilidades** a los elementos y a la propia estructura de la organización.
 
 Existe una gran cantidad de soluciones posibles para este aspecto, según la cantidad de trabajos a realizar y personas disponibles.
 
 ## Modelo Relacional
 
-Este aspecto fija las relaciones del departamento de explotación con el resto de la organización. La prestación de servicios marcan las relaciones con el exterior al área de SI/TI. Se deben establecer normas estrictas que definan claramente las relaciones con:
+Este aspecto fija las relaciones del departamento de explotación con el resto de la organización. La prestación de servicios marcan las **relaciones con el exterior** al área de SI/TI. Se deben establecer normas estrictas que definan claramente las relaciones con:
 
 1. **Usuarios *batch***: cómo se entregan y obtienen datos.
 2. **Usuarios tele-proceso**: cómo se coordinan incidencias y averías.
@@ -42,7 +48,18 @@ Este aspecto fija las relaciones del departamento de explotación con el resto d
 
 Las relaciones del modelo relacional y las decisiones internas del modelo decisional precisan de soportes para la **documentación**. Se distinguen tres grupos de información:
 
-1. Documentación de procedimientos: es la información, para cada aplicación, necesaria para poder explotar sus programas, controlar sus resultados, etc. Suele materializarse como una **carpeta de explotación** que se confecciona al entregar la aplicación a explotación. Contiene:
+1. **Documentación de procedimientos**: es la información, para cada aplicación, necesaria para poder explotar sus programas, controlar sus resultados, etc. Suele materializarse como una **carpeta de explotación** que se confecciona al entregar la aplicación a explotación. Contiene:
 	- Ámbito de aplicación.
 	- Normas de lanzamiento.
-	- 
+	- Normas de explotación.
+	- Normas de archivo.
+2. **Documentación de trabajos**: cada trabajo que deba ser realizado es acompañado de la información necesaria para su **ejecución y control**, desde su solicitud hasta su entrega. Incluye:
+	- Solicitud de trabajo.
+	- Orden de trabajo.
+	- Hojas de control.
+	- Vales de entrega de los resultados obtenidos.
+3. **Documentación de control**: para la gestión de la explotación es necesario conocer periódicamente el **estado** del sistema y las incidencias. Es muy variada. Contiene:
+	- Planificación de trabajos.
+	- Situación de librerías.
+	- Relación de incidencias.
+	- Partes de averías.
