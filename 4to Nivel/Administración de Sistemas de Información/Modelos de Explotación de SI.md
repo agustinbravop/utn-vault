@@ -1,6 +1,6 @@
 La forma de estructurar la organización y funcionamiento de la explotación de los [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistemas de Información]] constituye un **modelo de explotación** que debe responder a los objetivos y enfoques definidos. Este modelo será diferente en cada empresa.
 
-Determinar una **metodología de explotación** consiste en diseñar el modelo más acorde a las necesidades expresadas. Este modelo es complejo, por lo que conviene analizarlo bajo diferentes puntos de vista o **dimensiones** del modelo o modelos específicos. Estos modelos específicos son:
+Puigjaner propone que determinar una **metodología de explotación** consiste en diseñar el modelo más acorde a las necesidades expresadas. Este modelo es complejo, por lo que conviene analizarlo bajo diferentes puntos de vista o **dimensiones** del modelo o modelos específicos. Estos modelos específicos son:
 
 1. Modelo decisional.
 2. Modelo organizacional.
