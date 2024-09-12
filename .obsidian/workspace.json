@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"requeri\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md"
               }
             }
           },
@@ -188,6 +188,13 @@
   },
   "active": "f3f4433155840743",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
+    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación de Paquetes Estándares.md",
+    "4to Nivel/Administración de Sistemas de Información/Recuperación ante el Desastre.md",
+    "4to Nivel/Administración de Sistemas de Información/Predicción de la Capacidad.md",
+    "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
+    "4to Nivel/Administración de Sistemas de Información/Paquetes Estándar.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
     "desktop.ini",
     "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
     "4to Nivel/Administración de Sistemas de Información/Pruebas de Auditoría.md",
@@ -199,7 +206,6 @@
     "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Modelo Decisional de Explotación de SI.png",
     "4to Nivel/Administración de Sistemas de Información/Control Interno Informático.md",
-    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
     "4to Nivel/Administración de Sistemas de Información/Auditoría Externa.md",
     "4to Nivel/Administración de Sistemas de Información/Planificación Estratégica.md",
     "4to Nivel/Administración de Sistemas de Información/Políticas de Seguridad.md",
@@ -212,11 +218,6 @@
     "4to Nivel/Administración de Sistemas de Información/Gestión del Riesgo.md",
     "4to Nivel/Administración de Sistemas de Información/Estrategia de Negocio.md",
     "4to Nivel/Administración de Sistemas de Información/Inversiones de los SI.md",
-    "1er Nivel/Sistemas y Procesos de Negocio/index.md",
-    "1er Nivel/Inglés 1/index.md",
-    "1er Nivel/Arquitectura de Computadoras/index.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Lista.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/index.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI Orientados al Exterior.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI Orientada al Usuario.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI para Grupos de Proyectos Funcionales.png",

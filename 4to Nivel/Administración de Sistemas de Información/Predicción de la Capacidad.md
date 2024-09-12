@@ -38,7 +38,7 @@ Los **factores** a considerar para seleccionar la técnica de predicción cuanti
 
 ### Unidades de Predicción Natural
 
-Una _Natural Forecast Unit_ o **NFU** es una **variable de negocio** cuyo valor está **directamente relacionado a los recursos consumidos** por las aplicaciones. Por ejemplo: aumentar la cantidad de empleados aumenta la cantidad de transacciones mensuales de nómina de salarios. Por ende, una predicción de esa variable de negocio permite estimar la utilización de recursos futura.
+Una _Natural Forecast Unit_ o **NFU** o **UPN** es una **variable de negocio** cuyo valor está **directamente relacionado a los recursos consumidos** por las aplicaciones. Por ejemplo: aumentar la cantidad de empleados aumenta la cantidad de transacciones mensuales de nómina de salarios. Por ende, una predicción de esa variable de negocio permite estimar la utilización de recursos futura.
 
 Los **componentes esenciales** para caracterizar la carga usando NFUs son:
 
