@@ -8,7 +8,7 @@ Las tres **dimensiones** son:
 
 ## Variables
 
-Cada una de estas magnitudes no es medible, sino que se contabiliza mediante una **variable** (que sí es medible) correspondiente a una de las tres magnitudes. La mayoría mide algo del rendimiento del **hardware** o del **sistema operativo**.
+Cada una de estas magnitudes no es medible, sino que se contabiliza mediante una **variable** (que sí es medible) correspondiente a una de las tres magnitudes. La mayoría mide algo del rendimiento del **hardware** o del **sistema operativo**, y deben definirse en términos del sistema informático (no en términos de la aplicación).
 
 ### Variables Externas
 
@@ -32,10 +32,12 @@ Son intrínsecas al sistema, visibles para el responsable del sistema:
 
 ### Variables Relativas al Comportamiento
 
-No están directamente relacionadas con las [[Prestaciones de un SI]], pero sí con el comportamiento:
+Las variables de comportamiento no están directamente relacionadas con las [[Prestaciones de un SI]] de un elemento en particular, sino que surgen del comportamiento. Se aplican al sistema informático en su totalidad. Son:
 
 - **Fiabilidad**: probabilidad de que el sistema trabaje correctamente. **Tiempo medio entre fallos**.
 - **Disponibilidad**: probabilidad de que el SI esté **disponible ahora** y trabajando correctamente.
-- **Seguridad**: probabilidad de que el sistema **funcione sin comprometer** la seguridad.
+- **Seguridad**: probabilidad de que el sistema **funcione sin comprometer** la seguridad y sin perjudicar a otros sistemas con los que interactúa.
 - **Performabilidad**: probabilidad de que las prestaciones del sistema estén por encima de un cierto nivel en un instante dado. Asociado a la **resistencia a fallos**.
 - **Mantenibilidad**: probabilidad de que el sistema averiado pueda volver al estado operacional dentro de un período de tiempo dado. Asociado a su **reparabilidad**.
+
+Suelen ser perceptibles por el usuario. Por ejemplo, si una transacción falla muchas veces, el usuario percibe una baja fiabilidad.

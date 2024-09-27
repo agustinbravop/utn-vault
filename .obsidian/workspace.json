@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"requeri\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md"
+                "file": "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md"
               }
             }
           },
@@ -188,6 +188,9 @@
   },
   "active": "f3f4433155840743",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Prestaciones de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
     "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
     "4to Nivel/Administración de Sistemas de Información/Método de Evaluación de Paquetes Estándares.md",
     "4to Nivel/Administración de Sistemas de Información/Recuperación ante el Desastre.md",
@@ -215,9 +218,6 @@
     "4to Nivel/Administración de Sistemas de Información/Ubicación de los SI.md",
     "4to Nivel/Administración de Sistemas de Información/SI en la Cadena de Valor.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Cadena de Valor de Porter.png",
-    "4to Nivel/Administración de Sistemas de Información/Gestión del Riesgo.md",
-    "4to Nivel/Administración de Sistemas de Información/Estrategia de Negocio.md",
-    "4to Nivel/Administración de Sistemas de Información/Inversiones de los SI.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI Orientados al Exterior.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI Orientada al Usuario.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI para Grupos de Proyectos Funcionales.png",
