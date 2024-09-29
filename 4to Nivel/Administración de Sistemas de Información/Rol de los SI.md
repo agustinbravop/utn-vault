@@ -1,12 +1,12 @@
 En la [[Administración de los Recursos de SI]], algunos le atribuyen a los [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistemas de Información]] una **función estratégica crítica**, otros le atribuyen una **función de apoyo y eficiencia**.
 
-| Rol de los SI                       | Relación                                           | Estructura                                   |
-| ----------------------------------- | -------------------------------------------------- | -------------------------------------------- |
-| Hacerles algo a ellos               | El grupo de SI establece las reglas                | Enfoque "tradicional"                        |
-| Hacer algo para ellos               | Orientación al servicio                            | Guiada por bases de datos                    |
-| Hacer algo con ellos                | Puentes y particiación                             | Grupos de proyectos funcionales              |
-| Ayudarlos a que lo hagan            | Influencia por sobre control                       | Centros de información y apoyo de decisiones |
-| Mantener un depósito de información | Puente entre proveedores de información y usuarios | Enfoque externo                              |
+| Rol de los SI                       | Relación                                                             | Estructura                                   |
+| ----------------------------------- | -------------------------------------------------------------------- | -------------------------------------------- |
+| Hacerles algo a ellos               | El grupo de SI establece las reglas                                  | Enfoque "tradicional"                        |
+| Hacer algo para ellos               | Orientación al servicio                                              | Guiada por bases de datos                    |
+| Hacer algo con ellos                | Puentes y particiación                                               | Grupos de proyectos funcionales              |
+| Ayudarlos a que lo hagan            | Influencia por sobre control                                         | Centros de información y apoyo de decisiones |
+| Mantener un depósito de información | Puente entre proveedores de información y usuarios ([[Outsourcing]]) | Enfoque externo                              |
 
 La estructura se refiere a la [[Organización de los SI]].
 
