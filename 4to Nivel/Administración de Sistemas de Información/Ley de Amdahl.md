@@ -1,4 +1,4 @@
-Esta ley representa el **incremento de prestaciones** obtenido en un sistema como consecuencia de la **mejora** de una o varias de sus **partes**. Nos dice que para mejorar un sistema, conviene optimizar los elementos o recursos que se utilizan durante la **mayor parte** del tiempo de ejecución.
+Esta ley del [[Análisis Operacional]] representa el **incremento de prestaciones** obtenido en un sistema como consecuencia de la **mejora** de una o varias de sus **partes**. Nos dice que para mejorar un sistema, conviene optimizar los elementos o recursos que se utilizan durante la **mayor parte** del tiempo de ejecución.
 
 $$\frac{T_{original}}{T_{mejorado}} = A = \frac{1}{1-f+\frac{f}{k}}$$
 

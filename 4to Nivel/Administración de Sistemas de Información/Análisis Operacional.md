@@ -43,6 +43,12 @@ Sea $V_i = \frac{C_i}{C_o}$ la **razón de visitas** al dispositivo $i$.
 $$X_i = \frac{C_i}{T} = \frac{C_i}{C_o} \frac{C_o}{T} \implies X_i = X_o * V_i$$
 El flujo a través de determinado dispositivo de la red determina el flujo en otros dispositivos.
 
+Si se une esta ley con la ley de la utilización:
+
+$$U_i = X_i * S_i = X_0 * V_i * S_i = X_o * D_i$$
+
+Surge la **demanda de servicio** $D_i = V_i * S_i$ sobre el dispositivo $i$ en todas las visitas que un trabajo realiza al mismo.
+
 ### Ley de Little
 
 Sean $N_i$ el **número de trabajos** y $R_i$ el **tiempo de respuesta**.
