@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f290dc660c894fa",
+            "id": "6bd017850834a574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Sistemas Operativos/index.md",
+                "file": "2do Nivel/Sistemas Operativos/Estrategias para los Interbloqueos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Estrategias para los Interbloqueos"
+            }
+          },
+          {
+            "id": "126aefb63700f9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sistemas Operativos/Hilos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hilos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "definition of do",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 200
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -101,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2do Nivel/Sistemas Operativos/index.md",
+                "file": "2do Nivel/Sistemas Operativos/Hilos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Hilos"
             }
           },
           {
@@ -181,47 +196,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f290dc660c894fa",
+  "active": "126aefb63700f9e2",
   "lastOpenFiles": [
-    "1er Nivel/Algoritmos y Estructuras de Datos/index.md",
-    "2do Nivel/Sistemas Operativos/index.md",
-    "2do Nivel/Sistemas Operativos",
-    "4to Nivel/Administración de Sistemas de Información/Análisis Operacional.md",
-    "4to Nivel/Administración de Sistemas de Información/Ley de Amdahl.md",
-    "4to Nivel/Administración de Sistemas de Información/Modelos de Explotación de SI.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Definition of Done.md",
-    "4to Nivel/Administración de Sistemas de Información/Rol de los SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Organización de los SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Magnitudes de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Prestaciones de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Requerimientos de un SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Requerimiento de Propuestas.md",
-    "4to Nivel/Administración de Sistemas de Información/Método de Evaluación de Paquetes Estándares.md",
-    "4to Nivel/Administración de Sistemas de Información/Recuperación ante el Desastre.md",
-    "4to Nivel/Administración de Sistemas de Información/Predicción de la Capacidad.md",
-    "4to Nivel/Administración de Sistemas de Información/Canal de Obtención de SW.md",
-    "4to Nivel/Administración de Sistemas de Información/Paquetes Estándar.md",
-    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo.md",
-    "desktop.ini",
-    "4to Nivel/Administración de Sistemas de Información/Auditoría de los SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Pruebas de Auditoría.md",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
+    "2do Nivel/Sistemas Operativos/Estrategias para los Interbloqueos.md",
+    "2do Nivel/Sistemas Operativos/Hilos.md",
+    "2do Nivel/Sistemas Operativos/Interbloqueos.md",
+    "2do Nivel/Sistemas Operativos/attachments/Interbloqueos 2024-11-03 18.03.38.excalidraw.md",
+    "2do Nivel/Sistemas Operativos/attachments/Interbloqueos 2024-11-03 18.03.38.excalidraw.svg",
+    "2do Nivel/Sistemas Operativos/Hiperpaginación.md",
+    "2do Nivel/Sistemas Operativos/Memoria Virtual.md",
+    "2do Nivel/Sistemas Operativos/Políticas para la Memoria Virtual.md",
+    "4to Nivel/Administración de Sistemas de Información/Análisis del Riesgo.md",
+    "2do Nivel/Sistemas Operativos/attachments/Memoria Virtual 2024-11-03 17.18.57.excalidraw.md",
+    "2do Nivel/Sistemas Operativos/Asignación por Paginación Simple.md",
+    "2do Nivel/Sistemas Operativos/Asignación por Particiones Variables.md",
+    "2do Nivel/Sistemas Operativos/Llamadas al Sistema.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Análisis del Riesgo 2024-08-30 17.53.36.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Análisis de Cargos.md",
+    "4to Nivel/Administración de Sistemas de Información/Amenaza.md",
+    "4to Nivel/Administración de Sistemas de Información/Ambiente Informático.md",
+    "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Admisión.md",
     "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Estrategias Genéricas de Gestión de SI y TI 2024-09-01 16.49.33.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
     "4to Nivel/Administración de Sistemas de Información/Administración de los Recursos de SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Planificación de la Capacidad.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Modelo Decisional de Explotación de SI.png",
-    "4to Nivel/Administración de Sistemas de Información/Control Interno Informático.md",
-    "4to Nivel/Administración de Sistemas de Información/Auditoría Externa.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Cadena de Valor de Porter.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI Orientados al Exterior.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI Orientada al Usuario.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI para Grupos de Proyectos Funcionales.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI según el Enfoque Tradicional.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI para Grupos de Proyectos Funcionales2.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI Orientada al Usuario2.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Organización de los SI para Estructuras Externas2.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Rol de los SI 2024-09-01 21.15.34.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Acuerdos de Nivel de Servicio.md",
+    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Algoritmo.md",
+    "2do Nivel/Sistemas Operativos/attachments/Memoria Virtual 2024-11-03 17.18.57.excalidraw.svg",
+    "2do Nivel/Sistemas Operativos/attachments/Asignación por Segmentación.png",
+    "2do Nivel/Sistemas Operativos/attachments/Asignación por Paginación Múltiple.png",
+    "2do Nivel/Sistemas Operativos/attachments/Asignación por Paginación Simple.png",
+    "2do Nivel/Sistemas Operativos/attachments/Buddy System.png",
+    "2do Nivel/Sistemas Operativos/attachments/Lista Enlazada.png",
+    "2do Nivel/Sistemas Operativos/attachments/Mapa de Bits - Copy.png",
+    "2do Nivel/Sistemas Operativos/attachments/Mapa de Bits.png",
+    "2do Nivel/Sistemas Operativos/attachments/Asignación por Particiones Variables.png",
+    "2do Nivel/Sistemas Operativos/attachments",
+    "2do Nivel/Sistemas Operativos",
+    "desktop.ini",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
     "5to Nivel",
@@ -234,7 +250,6 @@
     "1er Nivel/Inglés 1",
     "1er Nivel/Arquitectura de Computadoras",
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
-    "1er Nivel/Sistemas y Procesos de Negocio/attachments",
-    "1er Nivel/Sistemas y Procesos de Negocio"
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments"
   ]
 }

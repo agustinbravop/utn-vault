@@ -8,10 +8,10 @@ Cursado: 2do cuatrimestre.
 
 ### Profesores
 
-- Jefa de Cátedra: Mirtha Giovannini.
-- Teoría: Noelia Pinto.
-- Práctica: Nicolás Tortosa.
+- Titular: Ing. Liliana Cuenca Pletsch.
+- Adjunto: Dr. Ing. Sergio Gramajo.
+- JTP: Ing. Jorge Roa.
 
-### Aprobación
+### Aprobación Directa
 
-75% de asistencia a clases y laboratorios (mediante actividades virtuales). Aprobar los 3 parciales teórico-prácticos, el laboratorio de PASCAL y el laboratorio de C. Promedio 6 entre los cuestionarios virtuales. Para promocionar, se puede usar un solo recuperatorio.
+75% de asistencia a clases. Aprobar TPI y  laboratorios. Aprobar dos parciales teórico-prácticos que suelen ser coloquios orales.

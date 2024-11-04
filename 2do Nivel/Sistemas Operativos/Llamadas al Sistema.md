@@ -1,0 +1,1 @@
+Las **llamadas al sistema** invocan servicios (rutinas) que el [[Sistema Operativo]] ofrece. Esa rutina se ejecuta en modo núcleo (protegido), y luego se devuelve el control al programa del usuario.
