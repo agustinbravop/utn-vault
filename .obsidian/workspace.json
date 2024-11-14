@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bd017850834a574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2do Nivel/Sistemas Operativos/Estrategias para los Interbloqueos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estrategias para los Interbloqueos"
-            }
-          },
-          {
             "id": "126aefb63700f9e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Sistemas Operativos/Hilos.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Cartera de Aplicaciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hilos"
-            }
-          },
-          {
-            "id": "92638081991952ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2do Nivel/Sistemas Operativos/Llamadas al Sistema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Llamadas al Sistema"
+              "title": "Cartera de Aplicaciones"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +33,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 60.17156862745098,
+        "dimension": 31.104199066874028,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -81,7 +52,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 39.82843137254902,
+        "dimension": 68.89580093312597,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -89,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reserva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2do Nivel/Sistemas Operativos/Hilos.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Cartera de Aplicaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hilos"
+              "title": "Backlinks for Cartera de Aplicaciones"
             }
           },
           {
@@ -210,11 +181,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "126aefb63700f9e2",
+  "active": "a6acd81263d33f82",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de los Recursos de SI.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
+    "2do Nivel/Sistemas Operativos/Hilos.md",
     "2do Nivel/Sistemas Operativos/attachments/Hilos a Nivel de Kernel.png",
     "2do Nivel/Sistemas Operativos/Llamadas al Sistema.md",
-    "2do Nivel/Sistemas Operativos/Hilos.md",
     "2do Nivel/Sistemas Operativos/attachments/Hilos a Nivel de Usuario.png",
     "2do Nivel/Sistemas Operativos/attachments/Hilos.png",
     "2do Nivel/Sistemas Operativos/Estrategias para los Interbloqueos.md",
@@ -235,19 +211,13 @@
     "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
     "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
     "4to Nivel/Administración de Sistemas de Información/Admisión.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de los Recursos de SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
     "4to Nivel/Administración de Sistemas de Información/Acuerdos de Nivel de Servicio.md",
-    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
     "2do Nivel/Sistemas Operativos/attachments/Memoria Virtual 2024-11-03 17.18.57.excalidraw.svg",
     "2do Nivel/Sistemas Operativos/attachments/Asignación por Segmentación.png",
     "2do Nivel/Sistemas Operativos/attachments/Asignación por Paginación Múltiple.png",
     "2do Nivel/Sistemas Operativos/attachments/Asignación por Paginación Simple.png",
     "2do Nivel/Sistemas Operativos/attachments/Buddy System.png",
     "2do Nivel/Sistemas Operativos/attachments/Lista Enlazada.png",
-    "2do Nivel/Sistemas Operativos/attachments/Mapa de Bits - Copy.png",
     "2do Nivel/Sistemas Operativos/attachments",
     "2do Nivel/Sistemas Operativos",
     "desktop.ini",
