@@ -1,6 +1,6 @@
 Un **archivo** es el conjunto de [[Registro|registros]] **homogéneos** referidos a objetos de la misma naturaleza o del mismo tipo, almacenados en un soporte externo, que presenta entre sí una relación lógica y que pueden ser consultados individualmente de forma iterativa o sistemática.
 
-Un archivo está siempre **almacenado en memoria externa**, pero es **procesado en memoria interna**. La información almacenada es permanente. Aseguran una independencia de los datos respecto de los algoritmos que los utilizan.
+Un archivo está **almacenado en memoria externa**, pero es **procesado en memoria interna**. La información almacenada es permanente. Aseguran una independencia de los datos respecto de los algoritmos que los utilizan.
 
 Todo [[Algoritmo]] intercambia datos con el archivo: la unidad básica de entrada/salida es el registro.
 

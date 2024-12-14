@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Cartera de Aplicaciones.md",
+                "file": "2do Nivel/Sistemas Operativos/Sistema de Archivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cartera de Aplicaciones"
+              "title": "Sistema de Archivos"
+            }
+          },
+          {
+            "id": "1a98c62135daf7b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sistemas Operativos/Redes de Área de Almacenamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redes de Área de Almacenamiento"
+            }
+          },
+          {
+            "id": "d7211855d06b821b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sistemas Operativos/Seguridad del Sistema Operativo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seguridad del Sistema Operativo"
+            }
+          },
+          {
+            "id": "6001f3597cbfb1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sistemas Operativos/Asignación del Sistema de Archivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asignación del Sistema de Archivos"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -33,7 +76,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 31.104199066874024,
+        "dimension": 74.16020671834626,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -52,7 +95,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 68.89580093312597,
+        "dimension": 25.83979328165374,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -60,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reserva",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Cartera de Aplicaciones.md",
+                "file": "2do Nivel/Sistemas Operativos/Seguridad del Sistema Operativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cartera de Aplicaciones"
+              "title": "Backlinks for Seguridad del Sistema Operativo"
             }
           },
           {
@@ -181,43 +224,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6acd81263d33f82",
+  "active": "d7211855d06b821b",
   "lastOpenFiles": [
+    "2do Nivel/Sistemas Operativos/Redes de Área de Almacenamiento.md",
+    "2do Nivel/Sistemas Operativos/Seguridad del Sistema Operativo.md",
+    "2do Nivel/Sistemas Operativos/Entrada-Salida.md",
+    "2do Nivel/Sistemas Operativos/Almacenamiento Conectado a la Red.md",
+    "2do Nivel/Sistemas Operativos/Sistema de Archivos.md",
+    "2do Nivel/Sistemas Operativos/attachments/Storage Area Network.png",
+    "2do Nivel/Sistemas Operativos/Discos de Estado Sólido.md",
+    "2do Nivel/Sistemas Operativos/attachments/Celdas de los Discos de Estado Sólido.png",
+    "2do Nivel/Sistemas Operativos/Discos Magnéticos.md",
+    "2do Nivel/Sistemas Operativos/attachments/Disco Magnético.png",
+    "2do Nivel/Sistemas Operativos/attachments/Cabezales de un Disco Magnético.png",
+    "2do Nivel/Sistemas Operativos/Asignación del Sistema de Archivos.md",
+    "2do Nivel/Sistemas Operativos/attachments/Asignación por Nodos-i.png",
+    "2do Nivel/Sistemas Operativos/attachments/Asignación por Lista Enlazada con Tabla de Memoria.png",
+    "2do Nivel/Sistemas Operativos/attachments/Asignación por Lista Enlazada.png",
+    "2do Nivel/Sistemas Operativos/attachments/Asignación Contigua.png",
+    "2do Nivel/Sistemas Operativos/attachments/Distribución del Sistema de Archivos.png",
+    "2do Nivel/Sistemas Operativos/Administración de Archivos.md",
+    "2do Nivel/Sistemas Operativos/attachments/Bloques de la Unidad de Disco.png",
+    "2do Nivel/Sistemas Operativos/Administración de Memoria.md",
+    "2do Nivel/Sistemas Operativos/Sincronización de Procesos por Software.md",
+    "2do Nivel/Sistemas Operativos/Sincronización de Procesos por Hardware.md",
+    "2do Nivel/Sistemas Operativos/Comunicación entre Procesos.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Archivo.md",
+    "2do Nivel/Sistemas Operativos/Hilos.md",
+    "2do Nivel/Sistemas Operativos/Procesos Concurrentes.md",
+    "2do Nivel/Sistemas Operativos/attachments/Procesos Concurrentes 2024-12-08 15.12.16.excalidraw.md",
+    "2do Nivel/Sistemas Operativos/attachments/Procesos Concurrentes 2024-12-08 15.06.05.excalidraw.md",
+    "2do Nivel/Sistemas Operativos/attachments/Procesos Concurrentes 2024-12-08 14.59.24.excalidraw.md",
+    "2do Nivel/Sistemas Operativos/Proceso.md",
+    "4to Nivel/Administración de Sistemas de Información/Cartera de Aplicaciones.md",
     "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
     "4to Nivel/Administración de Sistemas de Información/Administración de los Recursos de SI.md",
     "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
     "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
     "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
-    "2do Nivel/Sistemas Operativos/Hilos.md",
-    "2do Nivel/Sistemas Operativos/attachments/Hilos a Nivel de Kernel.png",
-    "2do Nivel/Sistemas Operativos/Llamadas al Sistema.md",
-    "2do Nivel/Sistemas Operativos/attachments/Hilos a Nivel de Usuario.png",
-    "2do Nivel/Sistemas Operativos/attachments/Hilos.png",
-    "2do Nivel/Sistemas Operativos/Estrategias para los Interbloqueos.md",
-    "2do Nivel/Sistemas Operativos/Interbloqueos.md",
-    "2do Nivel/Sistemas Operativos/attachments/Interbloqueos 2024-11-03 18.03.38.excalidraw.md",
-    "2do Nivel/Sistemas Operativos/attachments/Interbloqueos 2024-11-03 18.03.38.excalidraw.svg",
-    "2do Nivel/Sistemas Operativos/Hiperpaginación.md",
-    "2do Nivel/Sistemas Operativos/Memoria Virtual.md",
-    "2do Nivel/Sistemas Operativos/Políticas para la Memoria Virtual.md",
-    "4to Nivel/Administración de Sistemas de Información/Análisis del Riesgo.md",
-    "2do Nivel/Sistemas Operativos/attachments/Memoria Virtual 2024-11-03 17.18.57.excalidraw.md",
-    "2do Nivel/Sistemas Operativos/Asignación por Paginación Simple.md",
-    "2do Nivel/Sistemas Operativos/Asignación por Particiones Variables.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Análisis del Riesgo 2024-08-30 17.53.36.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Análisis de Cargos.md",
-    "4to Nivel/Administración de Sistemas de Información/Amenaza.md",
-    "4to Nivel/Administración de Sistemas de Información/Ambiente Informático.md",
-    "4to Nivel/Administración de Sistemas de Información/Alternativas para el Pago de las Adquisiciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Adquisición de HW.md",
-    "4to Nivel/Administración de Sistemas de Información/Admisión.md",
-    "4to Nivel/Administración de Sistemas de Información/Acuerdos de Nivel de Servicio.md",
-    "2do Nivel/Sistemas Operativos/attachments/Memoria Virtual 2024-11-03 17.18.57.excalidraw.svg",
-    "2do Nivel/Sistemas Operativos/attachments/Asignación por Segmentación.png",
-    "2do Nivel/Sistemas Operativos/attachments/Asignación por Paginación Múltiple.png",
-    "2do Nivel/Sistemas Operativos/attachments/Asignación por Paginación Simple.png",
-    "2do Nivel/Sistemas Operativos/attachments/Buddy System.png",
-    "2do Nivel/Sistemas Operativos/attachments/Lista Enlazada.png",
     "2do Nivel/Sistemas Operativos/attachments",
     "2do Nivel/Sistemas Operativos",
     "desktop.ini",
