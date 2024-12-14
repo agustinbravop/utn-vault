@@ -2,6 +2,8 @@
 title: Sistemas y Procesos de Negocio
 ---
 
+![[MOC Sistemas y Organizaciones.png]]
+
 Asignatura: Sistemas y Organizaciones. \
 Ciclo Lectivo: 2021. \
 Cursado: Anual.

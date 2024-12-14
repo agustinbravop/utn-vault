@@ -1,1 +1,1 @@
-Las **llamadas al sistema** o *syscalls* invocan servicios (rutinas) que el [[Sistema Operativo]] ofrece. Esa rutina se ejecuta en modo núcleo (protegido), y luego se devuelve el control al programa del usuario.
+Las **llamadas al sistema** o _syscalls_ invocan servicios (rutinas) que el [[Sistema Operativo]] ofrece. Esa rutina se ejecuta en modo núcleo (protegido), y luego se devuelve el control al programa del usuario.

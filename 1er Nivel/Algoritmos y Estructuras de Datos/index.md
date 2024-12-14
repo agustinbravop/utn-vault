@@ -2,6 +2,8 @@
 title: Algoritmos y Estructuras de Datos
 ---
 
+![[MOC Algoritmos y Estructuras de Datos.png]]
+
 Asignatura: Algoritmos y Estructuras de Datos.
 Ciclo Lectivo: 2021.
 Cursado: Anual.

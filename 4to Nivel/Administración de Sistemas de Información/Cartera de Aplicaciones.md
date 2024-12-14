@@ -28,7 +28,7 @@ Se debe priorizar las aplicaciones que **más contribuyan a alcanzar los objetiv
 
 ## Aplicaciones de Alto Potencial
 
-Estas aplicaciones requieren **investigación y desarrollo** para identificar los beneficios, oportunidades y costos asociados. 
+Estas aplicaciones requieren **investigación y desarrollo** para identificar los beneficios, oportunidades y costos asociados.
 
 Una aplicación de este tipo tendrá un valor pero todavía no se sabe si será estratégico u operativo. Suelen ser una iniciativa propuesta por un individuo entusiasmado.
 
@@ -40,6 +40,6 @@ Se priorizan con una **lógica más compleja** que contempla riesgos, considerac
 
 ## De Apoyo
 
-Estas aplicaciones suelen ser externas a la organización ([[Paquetes Estándar]]) pero necesarias para ejecutar la estrategia. El foco se pone en el **análisis económico** de la inversión. 
+Estas aplicaciones suelen ser externas a la organización ([[Paquetes Estándar]]) pero necesarias para ejecutar la estrategia. El foco se pone en el **análisis económico** de la inversión.
 
 Se **cuantifican los beneficios** para priorizar las aplicaciones con mayor beneficio usando los menores recursos.

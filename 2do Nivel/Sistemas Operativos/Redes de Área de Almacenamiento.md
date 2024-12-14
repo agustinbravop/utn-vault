@@ -6,7 +6,7 @@ Una SAN permite flexibilidad y **escalabilidad** sin perder velocidad o control,
 
 Un **Redundant Array of Independent Disks** es un conjunto de discos que trabajan juntos en un sistema. Para el [[Sistema Operativo]] un RAID es un solo disco. Se clasifican en varios niveles, que se pueden combinar:
 
-0. Distribución de bandas a nivel bloque sin redundancia (*stripping*). Esto mejora la **velocidad**.
+0. Distribución de bandas a nivel bloque sin redundancia (_stripping_). Esto mejora la **velocidad**.
 1. Mirroring ofrece redundancia que mejora la **confiabilidad**.
 2. Código de corrección de errores mediante paridad.
 3. Paridad con entrelazado de bits.

@@ -1,4 +1,4 @@
-En  la [[Administración de los Recursos de SI]], la organización de los [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistemas de Información]] se refiere a la **estructura interna** de los SI.
+En la [[Administración de los Recursos de SI]], la organización de los [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistemas de Información]] se refiere a la **estructura interna** de los SI.
 
 Existen varias estructuras o enfoques que **evolucionaron** a lo largo del tiempo, y todos pueden coexistir dentro de una empresa. Todos tienen ciertas ventajas y desventajas. La elección adecuada debe hacerse teniendo en cuenta la [[Estrategia de SI]].
 
@@ -31,7 +31,7 @@ Se organiza en base a las necesidades de **almacenamiento de datos**. Los datos 
 
 ## Grupos de Proyectos Funcionales
 
-Esta estructura combina a analistas y programadores en grupos de **proyectos empresariales**. Se reconoce el objetivo de los SI dentro del negocio y se estructuran los SI en base a los **mecanismos de demanda** ([[Estrategia de SI]]) por sobre los mecanismos de oferta. 
+Esta estructura combina a analistas y programadores en grupos de **proyectos empresariales**. Se reconoce el objetivo de los SI dentro del negocio y se estructuran los SI en base a los **mecanismos de demanda** ([[Estrategia de SI]]) por sobre los mecanismos de oferta.
 
 Para las operaciones todavía se sigue usando el enfoque tradicional.
 
@@ -45,7 +45,7 @@ Las estructuras orientadas al apoyo para la toma de decisiones están ligadas a 
 
 ## Estructuras Externas
 
-Este enfoque se centra en el ambiente, en torno a líneas de servicio al consumidor para satisfacer la organización del negocio. Los grupos de SI alcanzan **acuerdos de servicio** con la comunidad de usuarios, quienes definen las **obligaciones** de los SI y las percepciones de **valor** del negocio. 
+Este enfoque se centra en el ambiente, en torno a líneas de servicio al consumidor para satisfacer la organización del negocio. Los grupos de SI alcanzan **acuerdos de servicio** con la comunidad de usuarios, quienes definen las **obligaciones** de los SI y las percepciones de **valor** del negocio.
 
 Por otro lado, los SI **son** la empresa, y deben estar enfocados hacia el exterior. El entorno empresarial afectará a los SI y los SI influirán en la naturaleza del negocio. La estructura de los SI debe ser coherente con la estructura del negocio.
 

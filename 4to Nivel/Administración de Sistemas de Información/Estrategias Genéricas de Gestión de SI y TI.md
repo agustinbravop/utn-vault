@@ -2,16 +2,16 @@ La [[Cartera de Aplicaciones]] debe ser implementada mediante una estrategia gen
 
 Estas estrategias son **marcos de trabajo generales** que guían:
 
-- las **oportunidades** de [[Tecnologías de la Información]] que son identificadas, 
-- los **recursos de TI** que son desarrollados, 
-- el **ritmo** al que se adoptan nuevas tecnologías, 
-- el **nivel de impacto** de las TI dentro de la empresa, y 
+- las **oportunidades** de [[Tecnologías de la Información]] que son identificadas,
+- los **recursos de TI** que son desarrollados,
+- el **ritmo** al que se adoptan nuevas tecnologías,
+- el **nivel de impacto** de las TI dentro de la empresa, y
 - las **tendencias centrales** que las empresas usan para guiar a las TI dentro del negocio.
 
 Ayudan a la [[Administración de Sistemas de Información]] apropiada y exitosa a largo plazo de dos maneras:
 
 - **Diagnóstico**: de la situación actual.
-- **Formulación**: para identificar un plan de migración a una cartera de aplicaciones futura. 
+- **Formulación**: para identificar un plan de migración a una cartera de aplicaciones futura.
 
 Son 6 estrategias:
 

@@ -18,8 +18,8 @@ El **BCP** es una estructura de datos que manifiesta la existencia de un proceso
 - La información del estado del CPU.
 - La información de control del proceso (privilegios, propiedad de recursos, etc).
 
-Se utiliza un modelo de 7 estados para los estados de un proceso. Si el proceso está *suspendido*, se encuentra en memoria secundaria (serializado al disco). Si está en *ready*, *running*, o *blocked*, entonces está en memoria principal.
+Se utiliza un modelo de 7 estados para los estados de un proceso. Si el proceso está _suspendido_, se encuentra en memoria secundaria (serializado al disco). Si está en _ready_, _running_, o _blocked_, entonces está en memoria principal.
 
 ![[Modelo de 7 Estados de un Proceso.png]]
 
-Cuando pasa de *running* a *blocked*, sucede un **cambio de contexto** en el cual se debe salvar el estado de la CPU.
+Cuando pasa de _running_ a _blocked_, sucede un **cambio de contexto** en el cual se debe salvar el estado de la CPU.

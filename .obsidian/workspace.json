@@ -50,6 +50,76 @@
             }
           },
           {
+            "id": "cd8fd3764a1b30de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sistemas Operativos/Sistema Operativo de Tiempo Real.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistema Operativo de Tiempo Real"
+            }
+          },
+          {
+            "id": "7f6704647da70118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sistemas Operativos/Sistema Embebido.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistema Embebido"
+            }
+          },
+          {
+            "id": "a92062dba93ca6d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sistemas Operativos/Multiprocesador.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multiprocesador"
+            }
+          },
+          {
+            "id": "835dc8b8e10b466b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Ingeniería y Calidad de Software/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "9adfac00b7bbad21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sistemas Operativos/Multiprocesador.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multiprocesador"
+            }
+          },
+          {
             "id": "6001f3597cbfb1e9",
             "type": "leaf",
             "state": {
@@ -64,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2do Nivel/Sistemas Operativos/Seguridad del Sistema Operativo.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +224,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Seguridad del Sistema Operativo"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -224,44 +294,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7211855d06b821b",
+  "active": "835dc8b8e10b466b",
   "lastOpenFiles": [
-    "2do Nivel/Sistemas Operativos/Redes de Área de Almacenamiento.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/MOC Ingeniería y Calidad del Software.png",
+    "4to Nivel/Administración de Sistemas de Información/index.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/MOC Administración de Sistemas de Información.png",
+    "1er Nivel/Sistemas y Procesos de Negocio/index.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/attachments/MOC Sistemas y Organizaciones.png",
+    "1er Nivel/Inglés 1/index.md",
+    "1er Nivel/Inglés 1/attachments/MOC Inglés 1.png",
+    "1er Nivel/Inglés 1/attachments",
+    "1er Nivel/Arquitectura de Computadoras/index.md",
+    "1er Nivel/Arquitectura de Computadoras/attachments/MOC Arquitectura de Computadoras.png",
+    "2do Nivel/Sistemas Operativos/index.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/index.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/attachments/MOC Algoritmos y Estructuras de Datos.png",
+    "2do Nivel/Sistemas Operativos/attachments/MOC - Sistemas Operativos.png",
+    "2do Nivel/Sistemas Operativos/MOC - Sistemas Operativos.canvas",
+    "2do Nivel/Sistemas Operativos/Sistema Operativo.md",
+    "2do Nivel/Sistemas Operativos/Tiempo Efectivo de Acceso a Memoria.md",
+    "2do Nivel/Sistemas Operativos/Multiprocesador.md",
+    "2do Nivel/Sistemas Operativos/Sistemas de Múltiples Procesadores.md",
+    "2do Nivel/Sistemas Operativos/Multicomputadora.md",
+    "2do Nivel/Sistemas Operativos/Asignación por Paginación Múltiple.md",
+    "2do Nivel/Sistemas Operativos/Administración de Archivos.md",
+    "2do Nivel/Sistemas Operativos/Sistema Distribuido.md",
+    "2do Nivel/Sistemas Operativos/attachments/Topologías de la Red de una Multicomputadora.png",
+    "2do Nivel/Sistemas Operativos/attachments/Multiprocesador NUMA.png",
+    "2do Nivel/Sistemas Operativos/attachments/Multiprocesador UMA con Redes de Conmutación Multietapa.png",
+    "2do Nivel/Sistemas Operativos/attachments/Multiprocesador UMA con Interruptores de Barras Cruzadas.png",
+    "2do Nivel/Sistemas Operativos/Sistema Embebido.md",
+    "2do Nivel/Sistemas Operativos/Sistema Operativo de Tiempo Real.md",
     "2do Nivel/Sistemas Operativos/Seguridad del Sistema Operativo.md",
+    "2do Nivel/Sistemas Operativos/Redes de Área de Almacenamiento.md",
     "2do Nivel/Sistemas Operativos/Entrada-Salida.md",
     "2do Nivel/Sistemas Operativos/Almacenamiento Conectado a la Red.md",
     "2do Nivel/Sistemas Operativos/Sistema de Archivos.md",
-    "2do Nivel/Sistemas Operativos/attachments/Storage Area Network.png",
     "2do Nivel/Sistemas Operativos/Discos de Estado Sólido.md",
-    "2do Nivel/Sistemas Operativos/attachments/Celdas de los Discos de Estado Sólido.png",
     "2do Nivel/Sistemas Operativos/Discos Magnéticos.md",
-    "2do Nivel/Sistemas Operativos/attachments/Disco Magnético.png",
-    "2do Nivel/Sistemas Operativos/attachments/Cabezales de un Disco Magnético.png",
     "2do Nivel/Sistemas Operativos/Asignación del Sistema de Archivos.md",
-    "2do Nivel/Sistemas Operativos/attachments/Asignación por Nodos-i.png",
-    "2do Nivel/Sistemas Operativos/attachments/Asignación por Lista Enlazada con Tabla de Memoria.png",
-    "2do Nivel/Sistemas Operativos/attachments/Asignación por Lista Enlazada.png",
-    "2do Nivel/Sistemas Operativos/attachments/Asignación Contigua.png",
-    "2do Nivel/Sistemas Operativos/attachments/Distribución del Sistema de Archivos.png",
-    "2do Nivel/Sistemas Operativos/Administración de Archivos.md",
-    "2do Nivel/Sistemas Operativos/attachments/Bloques de la Unidad de Disco.png",
     "2do Nivel/Sistemas Operativos/Administración de Memoria.md",
-    "2do Nivel/Sistemas Operativos/Sincronización de Procesos por Software.md",
-    "2do Nivel/Sistemas Operativos/Sincronización de Procesos por Hardware.md",
-    "2do Nivel/Sistemas Operativos/Comunicación entre Procesos.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Archivo.md",
-    "2do Nivel/Sistemas Operativos/Hilos.md",
-    "2do Nivel/Sistemas Operativos/Procesos Concurrentes.md",
-    "2do Nivel/Sistemas Operativos/attachments/Procesos Concurrentes 2024-12-08 15.12.16.excalidraw.md",
-    "2do Nivel/Sistemas Operativos/attachments/Procesos Concurrentes 2024-12-08 15.06.05.excalidraw.md",
-    "2do Nivel/Sistemas Operativos/attachments/Procesos Concurrentes 2024-12-08 14.59.24.excalidraw.md",
-    "2do Nivel/Sistemas Operativos/Proceso.md",
-    "4to Nivel/Administración de Sistemas de Información/Cartera de Aplicaciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Sistemas de Información.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de los Recursos de SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de Recursos Humanos.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
     "2do Nivel/Sistemas Operativos/attachments",
     "2do Nivel/Sistemas Operativos",
     "desktop.ini",
@@ -277,7 +349,6 @@
     "1er Nivel/Arquitectura de Computadoras/attachments",
     "1er Nivel/Inglés 1",
     "1er Nivel/Arquitectura de Computadoras",
-    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
-    "1er Nivel/Sistemas y Procesos de Negocio/attachments"
+    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas"
   ]
 }

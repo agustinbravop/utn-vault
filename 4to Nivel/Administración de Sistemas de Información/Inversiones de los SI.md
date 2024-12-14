@@ -1,4 +1,4 @@
-En el [[Valor de la Información e Inversión en SI]], las inversiones de los [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistemas de Información]] pueden ser dirigidas a causar **impactos** en la organización. 
+En el [[Valor de la Información e Inversión en SI]], las inversiones de los [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistemas de Información]] pueden ser dirigidas a causar **impactos** en la organización.
 
 Según el **grado de apoyo** que los SI brinden al funcionamiento actual o a los planes de expansión de empresa, o según el tipo de **impacto** que ocasionan, las inversiones se clasifican en:
 

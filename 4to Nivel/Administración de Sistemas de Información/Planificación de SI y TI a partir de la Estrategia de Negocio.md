@@ -5,7 +5,7 @@ La [[Planificación Estratégica de los SI]] concluye con un plan de SI/TI que d
 3. La **prioridad** de cada proyecto.
 4. **Mecanismos de evaluación** adecuados.
 5. Para proyectos del primer año, el detalle suficiente (con los recursos necesarios) para incluirlos en el presupuesto del siguiente período.
-6. Una **lista de actividades** de la empresa donde pueda aumentar su eficacia o eficiencia utilizando a las [[Tecnologías de la Información]] como herramienta de soporte. 
+6. Una **lista de actividades** de la empresa donde pueda aumentar su eficacia o eficiencia utilizando a las [[Tecnologías de la Información]] como herramienta de soporte.
 
 Desarrollar este plan es responsabilidad de la dirección junto al área técnica. Se lo elabora desde una **perspectiva de negocio**: su contenido es muy poco técnico. El plan de SI y TI genera la [[Estrategia de SI]] y la [[Estrategia de TI]], que necesitan estar alineadas a la [[Estrategia de Negocio]].
 

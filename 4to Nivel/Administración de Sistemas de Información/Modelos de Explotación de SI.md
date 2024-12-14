@@ -20,11 +20,11 @@ Una dimensión del modelo de explotación es la estructura de las **decisiones y
 Hay 3 niveles:
 
 1. **Planificación**: busca resolver conflictos de capacidad limitada y mantener un uso equilibrado de recursos. A largo plazo, comprende las decisiones de [[Planificación de la Capacidad]]. A corto plazo, comprende la **ordenación en el tiempo** de los trabajos a realizar. Contempla diversos períodos temporales:
-	- Plan mensual.
-	- Plan semanal.
-	- Plan diario.
+   - Plan mensual.
+   - Plan semanal.
+   - Plan diario.
 1. **Lanzamiento**: busca asegurar la existencia de todos los **requisitos necesarios** para ejecutar los trabajos y procurar una **mejor distribución** de ellos. Prepara todos los requisitos necesarios para la ejecución del plan diario y confecciona la orden de explotación de sus trabajos.
-2. **Control**: verifica los resultados obtenidos. Si fuese necesario, realiza un **relanzamiento** según las normas establecidas.
+1. **Control**: verifica los resultados obtenidos. Si fuese necesario, realiza un **relanzamiento** según las normas establecidas.
 
 ![[Modelo Decisional de Explotación de SI.png]]
 
@@ -38,7 +38,7 @@ Existe una gran cantidad de soluciones posibles para este aspecto, según la can
 
 Este aspecto fija las relaciones del departamento de explotación con el resto de la organización. La prestación de servicios marcan las **relaciones con el exterior** al área de SI/TI. Se deben establecer normas estrictas que definan claramente las relaciones con:
 
-1. **Usuarios *batch***: cómo se entregan y obtienen datos.
+1. **Usuarios _batch_**: cómo se entregan y obtienen datos.
 2. **Usuarios tele-proceso**: cómo se coordinan incidencias y averías.
 3. **Usuarios autónomos** (programadores técnicos): cómo se vigila el uso del equipo.
 4. **Desarrollo de aplicaciones**: cómo se entregan programas a explotación o se coordinan incidencias.
@@ -49,17 +49,17 @@ Este aspecto fija las relaciones del departamento de explotación con el resto d
 Las relaciones del modelo relacional y las decisiones internas del modelo decisional precisan de soportes para la **documentación**. Se distinguen tres grupos de información:
 
 1. **Documentación de procedimientos**: es la información, para cada aplicación, necesaria para poder explotar sus programas, controlar sus resultados, etc. Suele materializarse como una **carpeta de explotación** que se confecciona al entregar la aplicación a explotación. Contiene:
-	- Ámbito de aplicación.
-	- Normas de lanzamiento.
-	- Normas de explotación.
-	- Normas de archivo.
+   - Ámbito de aplicación.
+   - Normas de lanzamiento.
+   - Normas de explotación.
+   - Normas de archivo.
 2. **Documentación de trabajos**: cada trabajo que deba ser realizado es acompañado de la información necesaria para su **ejecución y control**, desde su solicitud hasta su entrega. Incluye:
-	- Solicitud de trabajo.
-	- Orden de trabajo.
-	- Hojas de control.
-	- Vales de entrega de los resultados obtenidos.
+   - Solicitud de trabajo.
+   - Orden de trabajo.
+   - Hojas de control.
+   - Vales de entrega de los resultados obtenidos.
 3. **Documentación de control**: para la gestión de la explotación es necesario conocer periódicamente el **estado** del sistema y las incidencias. Es muy variada. Contiene:
-	- Planificación de trabajos.
-	- Situación de librerías.
-	- Relación de incidencias.
-	- Partes de averías.
+   - Planificación de trabajos.
+   - Situación de librerías.
+   - Relación de incidencias.
+   - Partes de averías.

@@ -2,6 +2,8 @@
 title: Administración de Sistemas de Información
 ---
 
+![[MOC Administración de Sistemas de Información.png]]
+
 Área: Sistemas de Información/Tecnologías Aplicadas/Integradora.
 Asignatura: Administración de Sistemas de Información.
 Ciclo Lectivo: 2024.

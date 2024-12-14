@@ -28,20 +28,20 @@ Las políticas son la expresión de acuerdos que **guían los razonamientos, dec
 Se analizan los **factores** que nos juegan a favor y en contra. Hay dos análisis:
 
 1. **Interno**: estudia la organización para identificar:
-	- Fortalezas: ventajas diferenciales que nos puedan dar mejores resultados.
-	- Debilidades: desventajas que nos puedan provocar una menor rentabilidad.
-	- Carencias: recursos faltantes.
+   - Fortalezas: ventajas diferenciales que nos puedan dar mejores resultados.
+   - Debilidades: desventajas que nos puedan provocar una menor rentabilidad.
+   - Carencias: recursos faltantes.
 2. **Externo**: estudia las circunstancias del entorno (sociedad, tecnología, etc) para identificar:
-	- **Oportunidades**: factores positivos a aprovechar.
-	- **Problemas**: impacto negativo a prevenir.
-	- **Amenazas**: los [[Riesgo|riesgos]].
+   - **Oportunidades**: factores positivos a aprovechar.
+   - **Problemas**: impacto negativo a prevenir.
+   - **Amenazas**: los [[Riesgo|riesgos]].
 
 ## Etapa Operativa
 
-Se generan objetivos, se encuentran estrategias para alcanzarlos, y se las organiza en programas de acción que sirvan para definir **responsabilidades y presupuestos**. 
+Se generan objetivos, se encuentran estrategias para alcanzarlos, y se las organiza en programas de acción que sirvan para definir **responsabilidades y presupuestos**.
 
-1. Las **metas** deben ser específicas, importantes, y medibles. 
-2. Las **estrategias** son el arte de alcanzar esas metas teniendo en cuenta lo analizado. 
+1. Las **metas** deben ser específicas, importantes, y medibles.
+2. Las **estrategias** son el arte de alcanzar esas metas teniendo en cuenta lo analizado.
 3. Los **programas de acción** concretan las estrategias en acciones determinadas.
 
 ## Etapa de Acción y Desarrollo

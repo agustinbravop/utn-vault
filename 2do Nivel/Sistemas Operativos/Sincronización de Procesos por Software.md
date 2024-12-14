@@ -42,7 +42,7 @@ Un **semáforo** permite al consumidor y productor ejecutarse de forma concurren
 
 ### Monitores
 
-Es un concepto específico al **lenguaje de programación**. Los compiladores o runtimes no permiten que un proceso entre al monitor si existe otro en él (concepto mutex). El monitor tiene dos variables (*wait* y *signal*) y una cola de procesos en espera.
+Es un concepto específico al **lenguaje de programación**. Los compiladores o runtimes no permiten que un proceso entre al monitor si existe otro en él (concepto mutex). El monitor tiene dos variables (_wait_ y _signal_) y una cola de procesos en espera.
 
 ![[Diagrama de Monitores.png]]
 
@@ -60,5 +60,5 @@ El **direccionamiento** puede ser:
 1. **Directo-simétrico**: se establece una conexión donde ambos procesos se conocen.
 2. **Directo-asimétrico**: una conexión única en la cual solo el emisor conoce al receptor.
 3. **Indirecto**: los mensajes se envían a y son leídos de **colas** o buzones.
-	- **Buzones**: dos procesos se comunican si comparten un buzón del [[Sistema Operativo]].
-	- **Puertos**: para que muchos emisores envíen a un receptor.
+   - **Buzones**: dos procesos se comunican si comparten un buzón del [[Sistema Operativo]].
+   - **Puertos**: para que muchos emisores envíen a un receptor.

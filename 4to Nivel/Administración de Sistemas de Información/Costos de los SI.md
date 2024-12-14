@@ -1,6 +1,6 @@
 En el [[Valor de la Información e Inversión en SI]], los costos de los [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistemas de Información]] están compuestos de dos elemento: **tangibles e intangibles**.
 
-Estimar los costos de los SI es difícil por que se requiere **conocer en detalle de antemano** el proyecto (lo cual no suele ser posible), y por que requieren cierta **base histórica** (no disponible para los proyectos que son los primeros de su tipo). 
+Estimar los costos de los SI es difícil por que se requiere **conocer en detalle de antemano** el proyecto (lo cual no suele ser posible), y por que requieren cierta **base histórica** (no disponible para los proyectos que son los primeros de su tipo).
 
 Sirve usar una **lista de control** que contemple costos de:
 

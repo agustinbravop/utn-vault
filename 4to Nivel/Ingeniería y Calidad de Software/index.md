@@ -2,6 +2,8 @@
 title: Ingeniería y Calidad de Software
 ---
 
+![[MOC Ingeniería y Calidad del Software.png]]
+
 Área: Desarrollo de Software/Tecnologías Aplicadas.
 Asignatura: Ingeniería y Calidad de Software.
 Ciclo Lectivo: 2024.

@@ -1,4 +1,4 @@
-En un [[Sistema Operativo]], el *file system* establece la forma en la que se almacenan los archivos y se administran los espacios de manera eficiente y confiable. Es el componente que establece la **correspondencia** entre archivos y discos.
+En un [[Sistema Operativo]], el _file system_ establece la forma en la que se almacenan los archivos y se administran los espacios de manera eficiente y confiable. Es el componente que establece la **correspondencia** entre archivos y discos.
 
 Suele contener:
 

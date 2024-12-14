@@ -31,4 +31,4 @@ Es más rápida de recorrer y modificar, pero requiere mayor tamaño.
 
 ![[Buddy System.png]]
 
-La memoria se va paginando en **potencias de $2$**, **bajo demanda**. Ante un proceso nuevo, la memoria se divide en dos hasta que no entre en una de las dos partes, y lo aloja en esas dos. Ambas partes del mismo tamaño son *buddies*. Cuando se libera una parte, también se libera su *buddy* (si es que también está libre).
+La memoria se va paginando en **potencias de $2$**, **bajo demanda**. Ante un proceso nuevo, la memoria se divide en dos hasta que no entre en una de las dos partes, y lo aloja en esas dos. Ambas partes del mismo tamaño son _buddies_. Cuando se libera una parte, también se libera su _buddy_ (si es que también está libre).
