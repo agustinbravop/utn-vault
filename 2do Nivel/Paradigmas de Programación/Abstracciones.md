@@ -24,5 +24,5 @@ El [[Paso de Parámetro]] puede ser por copia o por referencia:
 
 Sea el ejemplo `sqr(n: int) = n * n; sqr(p + q)`. El orden de evaluación puede ser:
 
-- **Impaciente (*Eager*)**: se evalúa `p + q` y se enlaza el resultado a `n`. Luego retorna `n * n`.
-- **Perezoso (*Lazy*)**: enlaza `n` a la expresión `p + q`y luego la evalúa cada vez que la necesita dentro del cuerpo, pero evalúa solo en el momento justo que lo necesita. Esto repite muchos cálculos pero sirve para evaluar variables cambiantes y así tratar estructuras infinitas.
+- **Impaciente (_Eager_)**: se evalúa `p + q` y se enlaza el resultado a `n`. Luego retorna `n * n`.
+- **Perezoso (_Lazy_)**: enlaza `n` a la expresión `p + q`y luego la evalúa cada vez que la necesita dentro del cuerpo, pero evalúa solo en el momento justo que lo necesita. Esto repite muchos cálculos pero sirve para evaluar variables cambiantes y así tratar estructuras infinitas.

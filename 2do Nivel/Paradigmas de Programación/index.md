@@ -2,13 +2,15 @@
 title: Paradigmas de Programación
 ---
 
+![[MOC - Paradigmas de Programación.png]]
+
 Asignatura: Paradigmas de Programación. \
 Ciclo Lectivo: 2023. \
 Cursado: 2do cuatrimestre.
 
 En la práctica se utiliza SmallTalk (Pharo) y Haskell.
 
-Libro principal:  Watt, D. *Programming Languages Design Concepts* (2004).
+Libro principal: Watt, D. _Programming Languages Design Concepts_ (2004).
 
 ### Profesores
 

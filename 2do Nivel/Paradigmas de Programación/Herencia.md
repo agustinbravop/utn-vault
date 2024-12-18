@@ -1,6 +1,6 @@
 En el [[Paradigma Orientado a Objetos]], la **herencia** nos permite crear nuevas [[Clases]] que tengan los mismos atributos y métodos que otras clases, y expandirlos o cambiarlos. Esto generará una **jerarquía de clases** entre clases padres y clases hijas. Esta es la principal manera de reutilizar código en POO.
 
-La relación se la debe pensar como *es-un*. Ej: un "Auto *es-un* Vehículo". Puede ser:
+La relación se la debe pensar como _es-un_. Ej: un "Auto _es-un_ Vehículo". Puede ser:
 
 - **Herencia Simple**: la subclase tiene una sola clase padre.
 - **Herencia Múltiple**: la subclase puede tener varias superclases. Esto puede llevar a un conflicto de nombres al tener dos métodos con el mismo identificador. Esta ambigüedad debe poderse resolver de alguna manera.

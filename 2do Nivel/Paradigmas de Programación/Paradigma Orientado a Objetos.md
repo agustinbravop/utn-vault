@@ -1,6 +1,6 @@
 El [[Paradigma de Programación]] orientado a **objetos** establece varios conceptos básicos.
 
-**Objetos**: son entidades que representan cosas o conceptos, sirven para modelar. Un objeto tiene *atributos*, *comportamiento*, e *identidad*. Son **dinámicos**: viven y mueren.
+**Objetos**: son entidades que representan cosas o conceptos, sirven para modelar. Un objeto tiene _atributos_, _comportamiento_, e _identidad_. Son **dinámicos**: viven y mueren.
 
 **[[Clases]]**: son plantillas para crear objetos de cierta manera predeterminada. Las clases son [[Tipos de Dato]]. En la clase se definen los métodos que tendrán los objetos de esta clase.
 

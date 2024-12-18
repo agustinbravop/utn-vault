@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"254fe16eb39bbdd9","x":3040,"y":40,"width":480,"height":920,"type":"group","label":"Conceptos de POO"},
+		{"id":"5d37b18f3df43a15","type":"file","file":"2do Nivel/Paradigmas de Programación/Paradigma Funcional.md","x":3840,"y":-520,"width":400,"height":400,"color":"4"},
+		{"id":"d89e708f6f7dc4c4","type":"file","file":"2do Nivel/Paradigmas de Programación/Haskell.md","x":3600,"y":600,"width":400,"height":400},
+		{"id":"17d2b7556f26dbc7","type":"file","file":"2do Nivel/Paradigmas de Programación/Reducciones Lambda.md","x":4080,"y":600,"width":400,"height":400},
+		{"id":"2da4fec1a345dcb5","type":"file","file":"2do Nivel/Paradigmas de Programación/Clases.md","x":2600,"y":40,"width":400,"height":400},
+		{"id":"b87ae6bbc0785e3b","type":"file","file":"2do Nivel/Paradigmas de Programación/Paradigma Orientado a Objetos.md","x":2840,"y":-520,"width":400,"height":400,"color":"4"},
+		{"id":"be7a4a9bb36846cf","type":"file","file":"2do Nivel/Paradigmas de Programación/Paradigma Lógico.md","x":4840,"y":-520,"width":400,"height":400,"color":"4"},
+		{"id":"d58ab2696886e9eb","type":"file","file":"2do Nivel/Paradigmas de Programación/Prolog.md","x":4840,"y":40,"width":400,"height":400},
+		{"id":"a40ff8aa894f7426","type":"file","file":"2do Nivel/Paradigmas de Programación/Paradigma de Programación.md","x":3840,"y":-1080,"width":400,"height":400},
+		{"id":"d4c84d1b238ec8bf","type":"file","file":"2do Nivel/Paradigmas de Programación/Herencia.md","x":3080,"y":80,"width":400,"height":400},
+		{"id":"e532a169f9f582cc","type":"file","file":"2do Nivel/Paradigmas de Programación/Polimorfismo.md","x":3080,"y":520,"width":400,"height":400},
+		{"id":"f099744c8adebb84","type":"file","file":"2do Nivel/Paradigmas de Programación/Cálculo Lambda.md","x":3840,"y":40,"width":400,"height":400},
+		{"id":"d5ba7388864a3583","type":"file","file":"2do Nivel/Paradigmas de Programación/Tipos de Dato.md","x":1680,"y":-520,"width":400,"height":400},
+		{"id":"95faa43b273b150a","type":"file","file":"2do Nivel/Paradigmas de Programación/Variables.md","x":1680,"y":-40,"width":400,"height":400},
+		{"id":"01c93de6cdf336dd","type":"file","file":"2do Nivel/Paradigmas de Programación/Abstracciones.md","x":1680,"y":440,"width":400,"height":400},
+		{"id":"c8699a6721a081e0","type":"file","file":"2do Nivel/Paradigmas de Programación/Sistemas de Tipos.md","x":2160,"y":-520,"width":400,"height":400},
+		{"id":"0dec6f76a10e8bc4","type":"file","file":"2do Nivel/Paradigmas de Programación/Conceptos Generales de Programación.md","x":1280,"y":-1080,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"b19ee1095e9f7e08","fromNode":"a40ff8aa894f7426","fromSide":"bottom","toNode":"b87ae6bbc0785e3b","toSide":"top"},
+		{"id":"e10b8acc542c717b","fromNode":"a40ff8aa894f7426","fromSide":"bottom","toNode":"5d37b18f3df43a15","toSide":"top"},
+		{"id":"ab6854e73825d684","fromNode":"a40ff8aa894f7426","fromSide":"bottom","toNode":"be7a4a9bb36846cf","toSide":"top"},
+		{"id":"a793ec5f06c3c989","fromNode":"5d37b18f3df43a15","fromSide":"bottom","toNode":"f099744c8adebb84","toSide":"top"},
+		{"id":"5d3949fe6dee8a82","fromNode":"f099744c8adebb84","fromSide":"bottom","toNode":"d89e708f6f7dc4c4","toSide":"top","label":"implementado en"},
+		{"id":"6bd5977a9ef76ab5","fromNode":"f099744c8adebb84","fromSide":"bottom","toNode":"17d2b7556f26dbc7","toSide":"top"},
+		{"id":"962e70a2088e5736","fromNode":"be7a4a9bb36846cf","fromSide":"bottom","toNode":"d58ab2696886e9eb","toSide":"top","label":"implementado en"},
+		{"id":"f935bedc7a978577","fromNode":"b87ae6bbc0785e3b","fromSide":"bottom","toNode":"2da4fec1a345dcb5","toSide":"top"},
+		{"id":"ad6bb72ba06baa2c","fromNode":"b87ae6bbc0785e3b","fromSide":"bottom","toNode":"254fe16eb39bbdd9","toSide":"top"},
+		{"id":"c878df81dd91e799","fromNode":"0dec6f76a10e8bc4","fromSide":"bottom","toNode":"d5ba7388864a3583","toSide":"left"},
+		{"id":"a10d2cb083adf7df","fromNode":"0dec6f76a10e8bc4","fromSide":"bottom","toNode":"95faa43b273b150a","toSide":"left"},
+		{"id":"f6b6459a331a3c9e","fromNode":"0dec6f76a10e8bc4","fromSide":"bottom","toNode":"01c93de6cdf336dd","toSide":"left"},
+		{"id":"81e97e495cc5b2f7","fromNode":"d5ba7388864a3583","fromSide":"right","toNode":"c8699a6721a081e0","toSide":"left"}
+	]
+}

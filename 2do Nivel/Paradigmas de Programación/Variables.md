@@ -16,11 +16,11 @@ Un **enlace** es una asociación fija entre un identificador y un valor.
 
 ## Ámbito
 
-Un **ámbito**, ambiente, entorno, o *namespace*, es un **conjunto de enlaces**. Cada expresión se interpreta en un ámbito particular en el cual todos los identificadores usados deben estar enlazados en ese ámbito.
+Un **ámbito**, ambiente, entorno, o _namespace_, es un **conjunto de enlaces**. Cada expresión se interpreta en un ámbito particular en el cual todos los identificadores usados deben estar enlazados en ese ámbito.
 
 ## Alcance
 
-El alcance de una variable es la porción o bloque del programa sobre el cual la declaración de una variable es efectiva (está definida). Una declaración local de un bloque es *visible* en todos los sub-bloques, a menos que un sub-bloque la redeclare. Esa redefinición *esconde* la previa. Puede ser:
+El alcance de una variable es la porción o bloque del programa sobre el cual la declaración de una variable es efectiva (está definida). Una declaración local de un bloque es _visible_ en todos los sub-bloques, a menos que un sub-bloque la redeclare. Esa redefinición _esconde_ la previa. Puede ser:
 
 **Ocurrencia de Enlace**: es el punto en el que se declara un identificador. Ej: `const n = 7`.\
 **Ocurrencia de Aplicación de un Identificador**: cuando denota el valor al que está enlazado. Ej: en `n * (n + 1)` se usa el valor de `n`.

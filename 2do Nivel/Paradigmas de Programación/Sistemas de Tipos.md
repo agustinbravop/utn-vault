@@ -29,7 +29,7 @@ La sobre carga puede ser:
 
 La conversión de tipos es un [[Conceptos Generales de Programación#Mapeo|mapeo]] entre valores de un tipo a otro. Puede ser por:
 
-- **Casteo**: es una conversión **explícita** solicitada por el programador. `(int) div(5.2, 2.4)`. 
+- **Casteo**: es una conversión **explícita** solicitada por el programador. `(int) div(5.2, 2.4)`.
 - **Coerción**: es una conversión **implícita** inferida por el lenguaje. Suelen ser seguras.
 
 ## Tipos Parametrizados
