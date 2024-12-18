@@ -4,8 +4,8 @@ title: Sistemas Operativos
 
 ![[MOC - Sistemas Operativos.png]]
 
-Asignatura: Sistemas Operativos.
-Ciclo Lectivo: 2023.
+Asignatura: Sistemas Operativos. \
+Ciclo Lectivo: 2023. \
 Cursado: 2do cuatrimestre.
 
 ### Profesores
