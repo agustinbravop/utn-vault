@@ -9,6 +9,6 @@ Materias obligatorias:
 3. Física 2.
 4. Ingeniería y Sociedad.
 5. Inglés 2.
-6. Paradigmas de Programación.
+6. [[2do Nivel/Paradigmas de Programación/index|Paradigmas de Programación]].
 7. Sintaxis y Semántica de los Lenguajes.
-8. Sistemas Operativos.
+8. [[2do Nivel/Sistemas Operativos/index|Sistemas Operativos]].
