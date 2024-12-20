@@ -20,7 +20,7 @@ $$j = \frac{I}{A} \implies I = j A = \int \vec j d \vec A$$
 
 La **velocidad de deriva** $\vec v_d$ es la velocidad a la que se mueve el electrón dentro del conductor. Está relacionada con la corriente macroscópica $I$. La distancia $l = v_d \Delta t$ es la distancia que los electrones viajan en el tiempo $\Delta t$. El volumen $V = Al = A V_d \Delta t$ es el volumen que los electrones atraviesan en el tiempo $\Delta t$. La cantidad de electrones libres por unidad de volumen es $n = \frac{N}{V}$.
 
-La carga total $\Delta Q$ es $\Delta Q = \text{nro cargas N} \times \text{carga por partícula} = (nV)(-e) = -n A v_d \Delta t e$.
+La carga total $\Delta Q$ es $\Delta Q = (\text{nro cargas N}) \times (\text{carga por partícula}) = (nV)(-e) = -n A v_d \Delta t e$.
 
 La corriente $I$ en el alambre es $I = \frac{\Delta Q}{\Delta t} = - n e A v_d$, y la densidad de corriente $\vec j$ en el alambre es $\vec j = \frac{I}{A} = -ne \vec v_d$.
 
@@ -42,4 +42,10 @@ Se deduce que solo hay flujo de corriente eléctrica si la cantidad de carga **v
 
 $\vec F_e$ es generada por el [[Campo Eléctrico]] $\vec E$. $\vec F_r$ es el rozamiento de $q$ al "chocar" con otras cargas. Dado $\vec F_e = q \vec E$ y $\vec F_r = -k \vec v$, entonces $\vec F = \vec F_e - \vec F_r = q\vec E - k \vec v = m \vec a = m \frac{d\vec v}{dt} \implies \frac{q}{m}E = \frac{dv}{dt} + \frac{k}{m}v$.
 
-Sea $\tau$ el tiempo medio de relajación $\tau = \frac{m}{k}$. Si $t$ es muy grande, entonces $v_{lim} = \frac{qE}{k} = \frac{qE}{m} \tau$.
+Sea $\tau$ el *tiempo medio de relajación* $\tau = \frac{m}{k}$. Si $t$ es muy grande, entonces $v_{lim} = \frac{qE}{k} = \frac{qE}{m} \tau$.
+
+Sea $\sigma$ la *conductividad del material* $\sigma = \frac{n q^2 \tau}{m}$. Se define la Ley Microscópica de Ohm:
+
+$$J = nqv = nq \frac{qE}{m} \tau = \left( \frac{n q^2 \tau}{m} \right) E \implies \vec J = \sigma \vec E$$
+
+Si $\sigma = \frac{1}{\rho} \implies \vec J  = \frac{\vec E}{\rho}$, donde $\rho$ es la *resistividad del material*.
