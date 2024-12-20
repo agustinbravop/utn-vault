@@ -24,7 +24,7 @@ La carga total $\Delta Q$ es $\Delta Q = (\text{nro cargas N}) \times (\text{car
 
 La corriente $I$ en el alambre es $I = \frac{\Delta Q}{\Delta t} = - n e A v_d$, y la densidad de corriente $\vec j$ en el alambre es $\vec j = \frac{I}{A} = -ne \vec v_d$.
 
-## Ecuación de Continuidad
+### Ecuación de Continuidad
 
 Relaciona la densidad de corriente $j$ con la densidad de carga $\rho$. Si la densidad de carga en $V$ es $\rho(x, y, z, t)$, entonces $Q = \int_V \rho (x, y,z,t)dV \ \land \ I = \frac{dQ}{dt} = \int_v \frac{\partial \rho(x,y,z,t)}{\partial t} dV$. Dado que $V$ es arbitrario, se elije uno tal que $\frac{\partial \rho}{\partial t} + \vec \nabla \vec J = 0$.
 
@@ -49,3 +49,10 @@ Sea $\sigma$ la *conductividad del material* $\sigma = \frac{n q^2 \tau}{m}$. Se
 $$J = nqv = nq \frac{qE}{m} \tau = \left( \frac{n q^2 \tau}{m} \right) E \implies \vec J = \sigma \vec E$$
 
 Si $\sigma = \frac{1}{\rho} \implies \vec J  = \frac{\vec E}{\rho}$, donde $\rho$ es la *resistividad del material*.
+
+## Corriente Continua y Alterna
+
+La corriente eléctrica puede ser:
+
+1. **Continua**: circula en un único sentido. Puede ser constante o variable. Ej: pilas, baterías.
+2. **Alterna**: cambia periódicamente de sentido. Ej: la que se usa en los hogares y fábricas.
