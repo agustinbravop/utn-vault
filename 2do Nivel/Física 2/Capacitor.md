@@ -1,4 +1,4 @@
-Un **condensador** o **capacitor** es un dispositivo que proporciona un **almacenamiento temporal** de [[Energía Potencial Eléctrica]] y de [[Carga Eléctrica]] para ser utilizada en circuitos.
+Un **condensador** o **capacitor** es un dispositivo que proporciona un **almacenamiento temporal** de [[Energía Potencial Eléctrica]] y de [[Cargas Eléctricas]] para ser utilizada en circuitos.
 
 ![[Capacitor.png]]
 

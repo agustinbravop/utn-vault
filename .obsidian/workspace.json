@@ -64,6 +64,62 @@
             }
           },
           {
+            "id": "c751a15c061da07f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Ondas Electromagnéticas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ondas Electromagnéticas"
+            }
+          },
+          {
+            "id": "ced7738443b8f03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Densidad y Flujo de Energía Electromagnética.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Densidad y Flujo de Energía Electromagnética"
+            }
+          },
+          {
+            "id": "36f2515979561917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Fotometría.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fotometría"
+            }
+          },
+          {
+            "id": "dca27e2a789fb23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Onda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Onda"
+            }
+          },
+          {
             "id": "5e11e28cdf4eb2bf",
             "type": "leaf",
             "state": {
@@ -78,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -90,7 +146,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 59.89650711513584,
+        "dimension": 61.319534282018104,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -109,7 +165,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 40.10349288486417,
+        "dimension": 38.68046571798189,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -117,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "galvan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2do Nivel/Física 2/Corriente Alterna.md",
+                "file": "2do Nivel/Física 2/Fotometría.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +224,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Corriente Alterna"
+              "title": "Backlinks for Fotometría"
             }
           },
           {
@@ -238,8 +294,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ac2eb61a359ee8b",
+  "active": "36f2515979561917",
   "lastOpenFiles": [
+    "2do Nivel/Física 2/Polarización de un Dieléctrico.md",
+    "2do Nivel/Física 2/Materiales Dieléctricos.md",
+    "2do Nivel/Física 2/Fotometría.md",
+    "2do Nivel/Física 2/Densidad y Flujo de Energía Electromagnética.md",
+    "2do Nivel/Física 2/Ondas Electromagnéticas.md",
+    "2do Nivel/Física 2/attachments/Generación de Ondas Electromagnéticas.png",
+    "2do Nivel/Física 2/Ecuaciones de Maxwell.md",
+    "2do Nivel/Física 2/Materiales Magnéticos.md",
+    "2do Nivel/Física 2/Resistencia Eléctrica.md",
+    "2do Nivel/Física 2/Magnetización.md",
+    "2do Nivel/Física 2/Ley de Coulomb.md",
+    "2do Nivel/Física 2/Fuentes de Fuerza Electromotriz.md",
+    "2do Nivel/Física 2/Efecto Hall.md",
+    "2do Nivel/Física 2/Dipolo Eléctrico.md",
+    "2do Nivel/Física 2/Cargas Eléctricas.md",
+    "2do Nivel/Física 2/Campo Magnético.md",
+    "2do Nivel/Física 2/Campo Eléctrico.md",
+    "2do Nivel/Física 2/Imanes.md",
+    "2do Nivel/Física 2/Onda.md",
+    "2do Nivel/Física 2/Corriente Alterna.md",
+    "2do Nivel/Física 2/attachments/Potencia Activa, Reactiva, y Aparente.png",
     "2do Nivel/Física 2/attachments/Corriente Alterna - Circuito RLC.png",
     "2do Nivel/Física 2/attachments/Corriente Alterna - Resistencia y Reactancias.png",
     "2do Nivel/Física 2/attachments/Corriente Alterna - Circuito Inductivo.png",
@@ -249,33 +326,12 @@
     "2do Nivel/Física 2/attachments/Corriente Alterna a lo Largo del Tiempo.png",
     "2do Nivel/Física 2/attachments/Generador de Corriente Alterna-1.png",
     "2do Nivel/Física 2/FEM Inducida.md",
-    "2do Nivel/Física 2/Fuentes de Fuerza Electromotriz.md",
     "2do Nivel/Física 2/Ley de Biot y Savart.md",
     "2do Nivel/Física 2/Ley de Ampere.md",
     "2do Nivel/Física 2/Ley de Faraday y Ley de Lenz.md",
-    "2do Nivel/Física 2/Polarización.md",
-    "2do Nivel/Física 2/Materiales Magnéticos.md",
     "2do Nivel/Física 2/Autoinducción.md",
-    "2do Nivel/Física 2/Corriente Alterna.md",
-    "2do Nivel/Física 2/attachments/Ciclos de Histéresis.png",
-    "2do Nivel/Física 2/attachments/Curva de Histéresis.png",
-    "2do Nivel/Física 2/Magnetización.md",
-    "2do Nivel/Física 2/attachments/Dominios Magnéticos.png",
-    "2do Nivel/Física 2/Campo Magnético.md",
     "2do Nivel/Física 2/Flujo Magnético.md",
     "2do Nivel/Física 2/Flujo Eléctrico.md",
-    "2do Nivel/Física 2/Efecto Hall.md",
-    "2do Nivel/Física 2/Carga Eléctrica.md",
-    "2do Nivel/Física 2/Campo Eléctrico.md",
-    "2do Nivel/Física 2/Imán.md",
-    "2do Nivel/Física 2/Leyes de Kirchhoff.md",
-    "2do Nivel/Física 2/Corriente Eléctrica.md",
-    "2do Nivel/Física 2/Ley de Joule.md",
-    "2do Nivel/Física 2/Ley de Ohm.md",
-    "2do Nivel/Física 2/Ley de Coulomb.md",
-    "2do Nivel/Física 2/index.md",
-    "2do Nivel/Física 2/Energía Potencial Eléctrica.md",
-    "2do Nivel/Física 2/Capacitor.md",
     "2do Nivel/Física 2/attachments",
     "2do Nivel/Física 2",
     "tatus",

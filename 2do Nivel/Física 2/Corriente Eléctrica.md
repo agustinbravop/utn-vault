@@ -1,4 +1,4 @@
-La corriente eléctrica es la [[Carga Eléctrica]] que atraviesa una sección transversal $S$ en el tiempo $t$:
+La corriente eléctrica es la [[Cargas Eléctricas]] que atraviesa una sección transversal $S$ en el tiempo $t$:
 
 $$I = \frac{Q}{t} = \frac{dQ}{dt} \ ; \ [\text{Ampere } A] = \frac{[\text{Coulomb } C]}{[\text{segundo}]}$$
 

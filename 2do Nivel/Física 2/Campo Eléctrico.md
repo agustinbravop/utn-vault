@@ -1,4 +1,4 @@
-El campo eléctrico es el intermediario de la fuerza que aparece entre dos [[Carga Eléctrica|cargas eléctricas]] como producto de la [[Ley de Coulomb]]. Es un **espacio** dotado de propiedades medibles con un valor (vectorial o escalar) definido en cada punto.
+El campo eléctrico es el intermediario de la fuerza que aparece entre dos [[Cargas Eléctricas]] como producto de la [[Ley de Coulomb]]. Es un **espacio** dotado de propiedades medibles con un valor (vectorial o escalar) definido en cada punto.
 
 ## Intensidad del Campo Eléctrico
 

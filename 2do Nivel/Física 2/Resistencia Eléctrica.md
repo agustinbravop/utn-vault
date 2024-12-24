@@ -6,7 +6,7 @@ Los resistores utilizados en circuitos usualmente llevan su valor marcado en su 
 
 ![[Resistencia Eléctrica.png]]
 
-Si $R = \frac{\rho L}{A} \implies \rho = \frac{RA}{L} = [\Omega m]$. La **resistividad** $\rho$ de un material es un valor tabulado (se busca en una tabla). Indica cuánto resiste el material al paso de [[Carga Eléctrica|cargas eléctricas]]. 
+Si $R = \frac{\rho L}{A} \implies \rho = \frac{RA}{L} = [\Omega m]$. La **resistividad** $\rho$ de un material es un valor tabulado (se busca en una tabla). Indica cuánto resiste el material al paso de [[Cargas Eléctricas]]. 
 
 Por lo general, la resistividad varía respecto de la temperatura: $\rho (T) \approx \rho_0 [1 + \alpha (T-T_0)]$, donde $\alpha$ es un *coeficiente térmico de resistividad*.
 

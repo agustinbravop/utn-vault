@@ -2,4 +2,4 @@ Los imanes poseen dos zonas extremas o *polos* en donde la acción magnética es
 
 Las *fuerzas magnéticas* trabajan solo sobre ciertos elementos y a distancia.
 
-Los imanes generan un [[Campo Magnético]], similar a cómo una [[Carga Eléctrica]] genera un [[Campo Eléctrico]].
+Los imanes generan un [[Campo Magnético]], similar a cómo una [[Cargas Eléctricas]] genera un [[Campo Eléctrico]].

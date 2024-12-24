@@ -1,4 +1,4 @@
-Los materiales dieléctricos son prácticamente **aislantes**, debido a que sus electrones (su [[Carga Eléctrica]]) están ligados, por lo que tienen poca libertad de movimiento.
+Los materiales dieléctricos son prácticamente **aislantes**, debido a que sus electrones (su [[Cargas Eléctricas]]) están ligados, por lo que tienen poca libertad de movimiento.
 
 Consideremos un experimento con un [[Capacitor]] conectado a una batería para cargarse. Luego de un tiempo se lo desconecta y se mide la diferencia de [[Potencial Eléctrico]] entre las placas.
 
@@ -25,7 +25,7 @@ Usar un dieléctrico:
 2. Aumenta el límite soportable de tensión.
 3. Da soporte entre las placas para que no se toquen.
 
-También ocurre la [[Polarización]].
+También ocurre la [[Polarización de un Dieléctrico]].
 
 ## Clasificación
 

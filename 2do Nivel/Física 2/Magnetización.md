@@ -1,4 +1,4 @@
-Los átomos tienen un momento dipolar magnético debido a lmovimiento de los electrones. En general se cancelan, pero en presencia de un [[Campo Magnético]] $B$ externo los dipolos microscópicos se alinean a $B$. Dentro de un material [[Polarización|polarizado]], los dipolos magnéticos crean un campo magnético paralelo a los vectores momento dipolar magnético.
+Los átomos tienen un momento dipolar magnético debido a lmovimiento de los electrones. En general se cancelan, pero en presencia de un [[Campo Magnético]] $B$ externo los dipolos microscópicos se alinean a $B$. Dentro de un material [[Polarización de un Dieléctrico|polarizado]], los dipolos magnéticos crean un campo magnético paralelo a los vectores momento dipolar magnético.
 
 ## Vector Magnetización
 
@@ -22,6 +22,6 @@ Sea un solenoide de longitud $L$, con $n$ espiras por unidad de longitud, lleno 
 
 $$\oint \vec B \vec {dl} = \oint (\vec B_0 + \mu_0 \vec M) \vec {dl} = \mu_0 I \ \overset{\text{ por Ampere }}\implies \oint \left(\frac{\vec B}{\mu_0}-\vec M\right)\vec{dl} = I$$
 
-Se define la *intensidad magnética* $\vec H = \frac{\vec B}{\mu_0} - \vec M$ para simplificar el análisis: $\oint \vec H \cdot \vec {dl} = I$. La circulación de la intensidad magnética $H$ es igual a la [[Corriente Eléctrica]] a debida a las [[Carga Eléctrica|cargas]] libres que atraviesan el área definida por el camino de integración.
+Se define la *intensidad magnética* $\vec H = \frac{\vec B}{\mu_0} - \vec M$ para simplificar el análisis: $\oint \vec H \cdot \vec {dl} = I$. La circulación de la intensidad magnética $H$ es igual a la [[Corriente Eléctrica]] a debida a las [[Cargas Eléctricas]] libres que atraviesan el área definida por el camino de integración.
 
 También se definen la *permeabilidad magnética relativa* $\mu_r = \frac{\mu}{\mu_0} = \left( 1 + \frac{M}{H} \right)$ y la *susceptibilidad magnética* $\chi_m = \frac{M}{H}$, que indica el grado de sensibilidad a la magnetización de un material influenciado por un campo magnético.

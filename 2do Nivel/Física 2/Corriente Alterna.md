@@ -23,17 +23,17 @@ Y se produce una corriente eléctrica que también varía con el tiempo de forma
 
 ## Fasores
 
-Un fasor es un vector que gira en sentido antihorario con frecuencia angular $\omega$. Los fasores representan cantidades alternantes. Un **diagrama de fasores** permite analizar el funcionamiento del circuito.
+Un **fasor** es un vector que gira en sentido antihorario con frecuencia angular $\omega$. Los fasores representan cantidades alternantes. Un **diagrama de fasores** permite analizar el funcionamiento del circuito.
 
 ![[Diagrama de Fasores.png]]
 
-## Circuito Resistivo
+### Circuito Resistivo
 
 ![[Corriente Alterna - Circuito Resistivo.png]]
 
 $$V(t) = R i(t) \implies V \cos(\omega t) = R I \cos(\omega t) \implies \text{en fase}$$
 
-## Circuito Capacitivo
+### Circuito Capacitivo
 
 ![[Corriente Alterna - Circuito Capacitivo.png]]
 
@@ -43,7 +43,7 @@ i(t) = \omega CV \cos\left(\omega t + \frac{\pi}{2} \right) \implies \text{desfa
 
 $V_C$ se retrasa a $I$ en $\frac{\pi}{2}$, lo que bloquea frecuencias bajas. El valor máximo es $I = \omega C V \implies V = \frac{I}{\omega C}$ y se define la *reactancia capacitiva* $X_C = \frac{1}{\omega C}$ de manera que $V = I X_C$ ([[Ley de Ohm]]).
 
-## Circuito Inductivo
+### Circuito Inductivo
 
 ![[Corriente Alterna - Circuito Inductivo.png]]
 
@@ -93,10 +93,33 @@ Potencia media de un [[Capacitor]] y una [[Autoinducción|inductancia]]: la mita
 
 Potencia media de un circuito de corriente alterna:
 
-$$\begin{align}p = vi = V \cos(\omega t + \theta) I \cos (\omega t) = \  &V(\cos (\omega t)\cos(\theta) - \sin(\omega t)\sin(\theta))I\cos(\omega t) \implies \\
-&VI\cos(\theta) \cos^2(\omega t) - VI \sin(\theta) \cos (\omega t) \sin(\omega t) \implies \\
-&P_\text{med} = \frac{1}{2}VI\cos\theta \implies \\
-&P_\text{med} = V_\text{rms}I_\text{rms} \cos(\theta)
+$$\begin{align}p = vi = V \cos(\omega t + \theta) I \cos (\omega t) = \  V(\cos (\omega t)\cos(\theta) - \sin(\omega t)\sin(\theta))I\cos(\omega t) &\implies \\
+VI\cos(\theta) \cos^2(\omega t) - VI \sin(\theta) \cos (\omega t) \sin(\omega t) &\implies \\
+P_\text{med} = \frac{1}{2}VI\cos\theta &\implies \\
+P_\text{med} = V_\text{rms}I_\text{rms} \cos(\theta)
 \end{align}$$
 
-Donde $\theta$ es el *factor de potencia* del circuito.
+Donde $\theta$ es el *factor de potencia* del circuito, respetando $\cos\theta=\frac{R}{Z}$.
+
+- Si $\theta = 0° \implies \cos \theta = 1 \implies P_\text{med} = V_\text{rms}I_\text{rms}$. Se cumple que $V_L = V_C$.
+- Si $\theta = 90° \implies \cos \theta = 0 \implies P_\text{med} = 0$. No hay $V_R$.
+
+## Potencia Activa, Reactiva, y Aparente
+
+![[Potencia Activa, Reactiva, y Aparente.png]]
+
+$$\begin{align}
+\begin{rcases}I_a = I\cos\varphi \\ I_r = I\sin\varphi \end{rcases} \ I^2 &= I_a^2 + I_r^2 \\
+P &= V I_a = VI \cos\varphi \ [\text{Watt}] \\
+Q &= VI_r = VI\sin\varphi \ [\text{V A r}] \\
+S=VI=V\sqrt{I_a^2+I_r^2} = \sqrt{P^2+Q^2} \implies S^2&=P^2+Q^2 \ [\text{V A}]
+\end{align}
+$$
+
+1. **Potencia Activa** $P$: es la disipada por resistencias en el circuito. Se vuelve calor o trabajo.
+2. **Potencia Reactiva** $Q$: no es consumida y aparece cuando hay capacitores o bobinas.
+3. **Potencia Aparente** $S$: es la suma vectorial $S^2 = P^2 + Q^2$.
+
+## Resonancia
+
+Al cambiar la frecuencia, cambian $X_L$, $X_C$, $Z$, y $\phi$. La impedancia $Z=\sqrt{R^2+(X_L-X_C)^2}$ es mínima cuando $X_L = X_C \implies \omega L = \frac{1}{\omega C} \implies \omega = \sqrt{\frac{1}{LC}}$. A esta frecuencia $\omega$ la impedancia solo es resistiva. Se dice entonces que el circuito es *resonante* cuando $Z=R$, con el ángulo de fase $\theta = 0°$ y la corriente máxima $i_m = \frac{\varepsilon_m}{R}$.

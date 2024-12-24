@@ -1,4 +1,4 @@
-Las **fuentes de fuerza electromotriz** entregan a las [[Carga Eléctrica|cargas]] la cantidad de energía necesaria para movilizarlas. Esa energía entregada por unidad de carga que recorre el circuito se denomina *fuerza electromotriz* (*fem*).
+Las **fuentes de fuerza electromotriz** entregan a las [[Cargas Eléctricas]] la cantidad de energía necesaria para movilizarlas. Esa energía entregada por unidad de carga que recorre el circuito se denomina *fuerza electromotriz* (*fem*).
 
 ![[Fuentes de Fuerza Electromotriz.png]]
 

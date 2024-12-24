@@ -1,6 +1,6 @@
 ## Ley de Faraday
 
-Las experiencias de Faraday con [[Corriente Eléctrica|corrientes]], imanes, y [[Fuentes de Fuerza Electromotriz#Galvanómetro|galvanómetros]], demostraron experimentalmente que el movimiento relativo entre el circuito y el imán genera corriente eléctrica. Hay un [[Imán]] inductor y un circuito inducido. Al cambiar el sentido del movimiento, cambia el sentido de la corriente. Si cesa el movimiento, cesa la corriente.
+Las experiencias de Faraday con [[Corriente Eléctrica|corrientes]], imanes, y [[Fuentes de Fuerza Electromotriz#Galvanómetro|galvanómetros]], demostraron experimentalmente que el movimiento relativo entre el circuito y el imán genera corriente eléctrica. Hay un [[Imanes]] inductor y un circuito inducido. Al cambiar el sentido del movimiento, cambia el sentido de la corriente. Si cesa el movimiento, cesa la corriente.
 
 ![[Ley de Faraday.png]]
 

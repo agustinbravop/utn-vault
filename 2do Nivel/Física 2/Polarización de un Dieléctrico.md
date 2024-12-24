@@ -25,6 +25,6 @@ $$\oint \vec E d \vec S = \frac{q_l + q_p}{\varepsilon_0} = \frac{q_l}{\varepsil
 
 Se encuentra que el **flujo del vector desplazamiento eléctrico** a través de una superficie cerrada es igual a la carga libre neta encerrada en su interior.
 
-$$\Phi = \oint \vec D d \vec S = \oint \varepsilon \vec E d \vec S = q_{\text{libre}} \implies \oint \vec E d \vec S = \frac{q_{\text{libre}}}{\varepsilon}$$
+$$\Phi = \oint \vec D \cdot \vec {dS} = \oint \varepsilon \vec E \cdot \vec {dS} = q_{\text{libre}} \implies \oint \vec E \cdot \vec {dS} = \frac{q_{\text{libre}}}{\varepsilon}$$
 
 El vector desplazamiento $\vec D$ no tiene un claro significado físico. La única razón para definirlo es que permite calcular campos en presencia de dieléctricos sin tener primero conocimiento de las distribuciones de carga de polarización.

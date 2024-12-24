@@ -1,4 +1,4 @@
-Un [[Imán]] genera un campo magnético. Las líneas de fuerza salen del Norte y se dirigen al Sur. Las líneas de campo son cerradas, de manera que no existen ni fuentes ni sumideros.
+Un [[Imanes]] genera un campo magnético. Las líneas de fuerza salen del Norte y se dirigen al Sur. Las líneas de campo son cerradas, de manera que no existen ni fuentes ni sumideros.
 
 ![[Campo Magnético.png]]
 
@@ -16,7 +16,7 @@ Conversión de Gauss a Tesla: $1 \ G = 10^{-4} \ T$.
 
 ## Movimiento de una Carga
 
-Los campos $\vec E$ y $\vec B$ desvían las trayectorias de las [[Carga Eléctrica|cargas]] en movimiento, pero $\vec F_e$ es paralela al [[Campo Eléctrico]] $\vec E$ y $\vec F_m$ es perpendicular a $\vec v$.
+Los campos $\vec E$ y $\vec B$ desvían las trayectorias de las [[Cargas Eléctricas]] en movimiento, pero $\vec F_e$ es paralela al [[Campo Eléctrico]] $\vec E$ y $\vec F_m$ es perpendicular a $\vec v$.
 
 ![[Movimiento de una Carga.png]]
 

@@ -6,7 +6,7 @@ Para una distribución continua de carga:
 
 $$V(t) = \frac{1}{4 \pi \varepsilon_0} \int \frac{dq}{r}$$
 
-Dado un anillo circular delgado con radio $a$ y una [[Carga Eléctrica]] $Q$ distribuida uniformemente, se determina el potencial eléctrico en e punto $P$ sobre el eje del anillo a una distancia $x$ de su centro:
+Dado un anillo circular delgado con radio $a$ y una [[Cargas Eléctricas]] $Q$ distribuida uniformemente, se determina el potencial eléctrico en e punto $P$ sobre el eje del anillo a una distancia $x$ de su centro:
 
 ![[Potencial Eléctrico en un Anillo Circular Delgado.png]]
 

@@ -50,7 +50,7 @@ Si circula corriente entonces existe un [[Campo Eléctrico]] $\vec E$, y un fluj
 
 ![[FEM Inducida y Campos Eléctricos.png]]
 
-El trabajo para que una [[Carga Eléctrica]] $q$ de una vuelta completa en el conductor es:
+El trabajo para que una [[Cargas Eléctricas]] $q$ de una vuelta completa en el conductor es:
 
 $$W = \Delta U = \Delta V q = \varepsilon q = \oint \vec F_e \vec{dl} = q E \oint \vec{dl} = qE 2 \pi r \implies \cancel \varepsilon = \cancel E 2 \pi r \implies E = \frac{\varepsilon}{2 \pi r}$$
 

@@ -1,4 +1,4 @@
-La ley de coulomb define la fuerza de interacción entre dos [[Carga Eléctrica|cargas eléctricas]]:
+La ley de coulomb define la fuerza de interacción entre dos [[Cargas Eléctricas]]:
 
 $$\vec{F} = k \frac{q_1 q_2}{r^2} \vec{r}$$Donde $k$ es la constante de Coulomb: $k = 8.9875 \times 10^{-9} \ \frac{N m^2}{C^2}$, y $\vec{r}$ es un versor que representa la orientación. La **permitividad del vacío** es $\varepsilon_0 = 8.8542 \times 10^{-12} \ \frac{C^2}{N m^2}$ tal que $k = \frac{1}{4 \pi \varepsilon_0}$.
 

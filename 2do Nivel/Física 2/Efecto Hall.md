@@ -1,4 +1,4 @@
-Cuando un conductor que transporta [[Corriente Eléctrica]] se mantiene fijo en un [[Campo Magnético]], el campo ejerce una fuerza lateral sobre las [[Carga Eléctrica|cargas]] en movimiento dentro del conductor.
+Cuando un conductor que transporta [[Corriente Eléctrica]] se mantiene fijo en un [[Campo Magnético]], el campo ejerce una fuerza lateral sobre las [[Cargas Eléctricas]] en movimiento dentro del conductor.
 
 ![[Efecto Hall.png]]
 

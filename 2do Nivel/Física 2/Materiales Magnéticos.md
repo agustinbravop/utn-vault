@@ -25,7 +25,7 @@ Donde $C$ es la *constante de Curie*, una constante positiva específica para ca
 
 ## Diamagnetismo
 
-La susceptibilidad magnética $\chi_m \lt 0$ es negativa e independiente de la temperatura. Al aplicarle a estos materiales un campo magnético externo, un débil momento magnético en dirección opuesta al campo es inducido. Esto causa una débil repulsión por [[Imán|imanes]].
+La susceptibilidad magnética $\chi_m \lt 0$ es negativa e independiente de la temperatura. Al aplicarle a estos materiales un campo magnético externo, un débil momento magnético en dirección opuesta al campo es inducido. Esto causa una débil repulsión por [[Imanes]].
 
 El diamagnetismo está presente en todas las sustancias, pero la ser tan débiles sus efectos, solo se evidencia en ausencia del paramagnetismo y ferromagnetismo.
 

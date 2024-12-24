@@ -36,7 +36,7 @@ El campo no es uniforme, sino que depende de $\frac{1}{r}$. Si $r \gt \gt a$, en
 
 ![[Forma General de la Ley de Ampere.png]]
 
-Considerando una corriente no estacionaria $I$ (que varía con el tiempo) que carga un [[Capacitor]]. La [[Carga Eléctrica]] $Q$ cambia, pero no existe ninguna corriente de conducción entre las placas. Aplicando la ley de ampere:
+Considerando una corriente no estacionaria $I$ (que varía con el tiempo) que carga un [[Capacitor]]. La [[Cargas Eléctricas]] $Q$ cambia, pero no existe ninguna corriente de conducción entre las placas. Aplicando la ley de ampere:
 
 $$S_1: \oint \vec B \vec{dl} = \mu_0 I \ \land \ S_2: \oint \vec B \vec{dl} = 0 \text{ , pero } \mu_0 I \ne 0 \text{ , entonces?}$$
 
