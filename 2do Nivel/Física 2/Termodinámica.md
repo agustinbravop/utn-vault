@@ -14,8 +14,8 @@ Un [[Sistema]] puede ser:
 
 Una *pared* puede ser:
 
-1. **Rígida**: no se puede mover, es dura.
-2. **Móvil**: se puede mover, a veces no está.
+- **Rígida**: no se puede mover, es dura.
+- **Móvil**: se puede mover, a veces no está.
 
 Según su *permeabilidad*, puede ser:
 
@@ -25,8 +25,8 @@ Según su *permeabilidad*, puede ser:
 
 Según si *modifica* su grado relativo de calentamiento, la pared puede ser:
 
-1. **Adiabática**: no permite modificarlo.
-2. **Diatérmica**: permite interacciones que lo modifiquen.
+- **Adiabática**: no permite modificarlo.
+- **Diatérmica**: permite interacciones que lo modifiquen.
 
 Un sistema es *homogéneo* cuando sus propiedades macroscópicas son uniformes en todos sus puntos. Un sistema es *heterogéneo* cuando está formado por subsistemas homogéneos denominados ***fase***. La superficie que separa dos fases es la *interfase*.
 
@@ -39,5 +39,14 @@ Las **magnitudes macroscópicas**:
 
 Una *variable termodinámica* puede ser:
 
-- Intensiva: no es aditiva.
-- Extensiva: es aditiva. 
+- **Intensiva**: no es aditiva.
+- **Extensiva**: es aditiva. Depende de la cantidad de materia del sistema en cuestión.
+
+El **estado** de un sistema es el conjunto de valores de sus variables termodinámicas. Si las variables no cambian en el tiempo, se dice que el sistema está en **equilibrio termodinámico**.
+
+Los *procesos termodinámicos* son:
+
+1. Isotermos: si $T$ es constante.
+2. Isóbaros: si $p$ es constante.
+3. Isócoros: si $V$ es constante.
+4. Adiabáticos: si $Q=0$.
