@@ -106,6 +106,174 @@
             }
           },
           {
+            "id": "f1767938f71e049d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Flujo Radiante.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flujo Radiante"
+            }
+          },
+          {
+            "id": "d8f0b07e71c78a70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Flujo Radiante.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flujo Radiante"
+            }
+          },
+          {
+            "id": "dcfe716d4562b8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Intensidad Luminosa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intensidad Luminosa"
+            }
+          },
+          {
+            "id": "f87e22004fb10ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Iluminancia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iluminancia"
+            }
+          },
+          {
+            "id": "fc371ffd5e155c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Luminancia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luminancia"
+            }
+          },
+          {
+            "id": "5150ad1bb440a6be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Interferencia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interferencia"
+            }
+          },
+          {
+            "id": "8e031566a3e89557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Experiencia de Young de la Doble Rendija.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Experiencia de Young de la Doble Rendija"
+            }
+          },
+          {
+            "id": "8b6f6f48e5c76e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Interferencia en Películas Delgadas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interferencia en Películas Delgadas"
+            }
+          },
+          {
+            "id": "b8c5221ac27ceb7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Difracción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difracción"
+            }
+          },
+          {
+            "id": "76f8b6fb9ac9ae5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Polarización.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polarización"
+            }
+          },
+          {
+            "id": "f9da4a3aef021303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Termodinámica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Termodinámica"
+            }
+          },
+          {
+            "id": "db120852984c9b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Física 2/Fotometría.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fotometría"
+            }
+          },
+          {
             "id": "dca27e2a789fb23d",
             "type": "leaf",
             "state": {
@@ -134,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -173,7 +341,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"[[Ondas\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2do Nivel/Física 2/Fotometría.md",
+                "file": "2do Nivel/Física 2/Termodinámica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +392,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fotometría"
+              "title": "Backlinks for Termodinámica"
             }
           },
           {
@@ -294,14 +462,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36f2515979561917",
+  "active": "f9da4a3aef021303",
   "lastOpenFiles": [
+    "2do Nivel/Física 2/Polarización.md",
+    "2do Nivel/Física 2/Termodinámica.md",
+    "2do Nivel/Física 2/attachments/Ángulo de Brewster.png",
+    "2do Nivel/Física 2/attachments/Ley de Malus.png",
+    "2do Nivel/Física 2/attachments/Polarización Elíptica.png",
+    "2do Nivel/Física 2/attachments/Polarización Circular en Movimiento.png",
+    "2do Nivel/Física 2/attachments/Polarización Circular.png",
+    "2do Nivel/Física 2/attachments/Polarización Lineal.png",
+    "2do Nivel/Física 2/Difracción.md",
+    "2do Nivel/Física 2/attachments/Difracción.png",
+    "2do Nivel/Física 2/attachments/Difracción (Cálculos).png",
+    "2do Nivel/Física 2/attachments/Difracción.png",
+    "2do Nivel/Física 2/Experiencia de Young de la Doble Rendija.md",
+    "2do Nivel/Física 2/attachments/Redes de Difracción.png",
+    "2do Nivel/Física 2/Interferencia.md",
+    "2do Nivel/Física 2/Interferencia en Películas Delgadas.md",
+    "2do Nivel/Física 2/Luminancia.md",
+    "2do Nivel/Física 2/Iluminancia.md",
+    "2do Nivel/Física 2/Intensidad Luminosa.md",
+    "2do Nivel/Física 2/Flujo Radiante.md",
+    "2do Nivel/Física 2/Rendimiento Luminoso.md",
+    "2do Nivel/Física 2/Fotometría.md",
     "2do Nivel/Física 2/Polarización de un Dieléctrico.md",
     "2do Nivel/Física 2/Materiales Dieléctricos.md",
-    "2do Nivel/Física 2/Fotometría.md",
     "2do Nivel/Física 2/Densidad y Flujo de Energía Electromagnética.md",
     "2do Nivel/Física 2/Ondas Electromagnéticas.md",
-    "2do Nivel/Física 2/attachments/Generación de Ondas Electromagnéticas.png",
     "2do Nivel/Física 2/Ecuaciones de Maxwell.md",
     "2do Nivel/Física 2/Materiales Magnéticos.md",
     "2do Nivel/Física 2/Resistencia Eléctrica.md",
@@ -311,27 +499,6 @@
     "2do Nivel/Física 2/Efecto Hall.md",
     "2do Nivel/Física 2/Dipolo Eléctrico.md",
     "2do Nivel/Física 2/Cargas Eléctricas.md",
-    "2do Nivel/Física 2/Campo Magnético.md",
-    "2do Nivel/Física 2/Campo Eléctrico.md",
-    "2do Nivel/Física 2/Imanes.md",
-    "2do Nivel/Física 2/Onda.md",
-    "2do Nivel/Física 2/Corriente Alterna.md",
-    "2do Nivel/Física 2/attachments/Potencia Activa, Reactiva, y Aparente.png",
-    "2do Nivel/Física 2/attachments/Corriente Alterna - Circuito RLC.png",
-    "2do Nivel/Física 2/attachments/Corriente Alterna - Resistencia y Reactancias.png",
-    "2do Nivel/Física 2/attachments/Corriente Alterna - Circuito Inductivo.png",
-    "2do Nivel/Física 2/attachments/Corriente Alterna - Circuito Capacitivo.png",
-    "2do Nivel/Física 2/attachments/Corriente Alterna - Circuito Resistivo.png",
-    "2do Nivel/Física 2/attachments/Diagrama de Fasores.png",
-    "2do Nivel/Física 2/attachments/Corriente Alterna a lo Largo del Tiempo.png",
-    "2do Nivel/Física 2/attachments/Generador de Corriente Alterna-1.png",
-    "2do Nivel/Física 2/FEM Inducida.md",
-    "2do Nivel/Física 2/Ley de Biot y Savart.md",
-    "2do Nivel/Física 2/Ley de Ampere.md",
-    "2do Nivel/Física 2/Ley de Faraday y Ley de Lenz.md",
-    "2do Nivel/Física 2/Autoinducción.md",
-    "2do Nivel/Física 2/Flujo Magnético.md",
-    "2do Nivel/Física 2/Flujo Eléctrico.md",
     "2do Nivel/Física 2/attachments",
     "2do Nivel/Física 2",
     "tatus",
