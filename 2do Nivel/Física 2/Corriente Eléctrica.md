@@ -28,7 +28,8 @@ La corriente $I$ en el alambre es $I = \frac{\Delta Q}{\Delta t} = - n e A v_d$,
 
 Relaciona la densidad de corriente $j$ con la densidad de carga $\rho$. Si la densidad de carga en $V$ es $\rho(x, y, z, t)$, entonces $Q = \int_V \rho (x, y,z,t)dV \ \land \ I = \frac{dQ}{dt} = \int_v \frac{\partial \rho(x,y,z,t)}{\partial t} dV$. Dado que $V$ es arbitrario, se elije uno tal que $\frac{\partial \rho}{\partial t} + \vec \nabla \vec J = 0$.
 
-$$\begin{align}
+$$
+\begin{align}
 I = \frac{dQ}{dt} = - \oint \vec J d \vec s = - \int_v \vec \nabla \vec J d V = \int_v \frac{\partial \rho}{\partial t} dV \implies \int_v \left(\frac{\partial \rho}{\partial t} + \vec \nabla \vec J \right) dV = 0 \implies \frac{\partial \rho}{\partial t} + \vec \nabla \vec J &= 0 \\
 \vec \nabla \vec J &= - \frac{\partial \rho}{\partial t}
 \end{align}
@@ -42,13 +43,13 @@ Se deduce que solo hay flujo de corriente eléctrica si la cantidad de carga **v
 
 $\vec F_e$ es generada por el [[Campo Eléctrico]] $\vec E$. $\vec F_r$ es el rozamiento de $q$ al "chocar" con otras cargas. Dado $\vec F_e = q \vec E$ y $\vec F_r = -k \vec v$, entonces $\vec F = \vec F_e - \vec F_r = q\vec E - k \vec v = m \vec a = m \frac{d\vec v}{dt} \implies \frac{q}{m}E = \frac{dv}{dt} + \frac{k}{m}v$.
 
-Sea $\tau$ el *tiempo medio de relajación* $\tau = \frac{m}{k}$. Si $t$ es muy grande, entonces $v_{lim} = \frac{qE}{k} = \frac{qE}{m} \tau$.
+Sea $\tau$ el _tiempo medio de relajación_ $\tau = \frac{m}{k}$. Si $t$ es muy grande, entonces $v_{lim} = \frac{qE}{k} = \frac{qE}{m} \tau$.
 
-Sea $\sigma$ la *conductividad del material* $\sigma = \frac{n q^2 \tau}{m}$. Se define la Ley Microscópica de Ohm:
+Sea $\sigma$ la _conductividad del material_ $\sigma = \frac{n q^2 \tau}{m}$. Se define la Ley Microscópica de Ohm:
 
 $$J = nqv = nq \frac{qE}{m} \tau = \left( \frac{n q^2 \tau}{m} \right) E \implies \vec J = \sigma \vec E$$
 
-Si $\sigma = \frac{1}{\rho} \implies \vec J  = \frac{\vec E}{\rho}$, donde $\rho$ es la *resistividad del material*.
+Si $\sigma = \frac{1}{\rho} \implies \vec J  = \frac{\vec E}{\rho}$, donde $\rho$ es la _resistividad del material_.
 
 ## Corriente Continua y Alterna
 

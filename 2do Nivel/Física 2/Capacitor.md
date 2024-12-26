@@ -61,6 +61,7 @@ $$
 \begin{gather}
 C = \frac{\varepsilon_0 A}{d} \ \land \ V = E \times d \implies U = \frac{1}{2}CV^2 = \frac{1}{2} \frac{\varepsilon_0 A}{\cancel{d}} E^2 d^\cancel{2} = \frac{1}{2} \varepsilon_0 E^2 A d \\
 \mu = \frac{U}{\text{Vol}_\text{entre placas}} = \frac{1}{2} \varepsilon_0 E^2
-\end{gather}$$
+\end{gather}
+$$
 
 Se deduce que la energía eléctrica $U$ almacenada por unidad de volumen es proporcional al cuadrado del campo eléctrico $E$ en la región.

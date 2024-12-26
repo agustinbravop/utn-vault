@@ -12,23 +12,23 @@ Un [[Sistema]] puede ser:
 2. **Cerrado**: puede intercambiar energía pero no materia.
 3. **Aislado**: no intercambia ni energía ni materia.
 
-Una *pared* puede ser:
+Una _pared_ puede ser:
 
 - **Rígida**: no se puede mover, es dura.
 - **Móvil**: se puede mover, a veces no está.
 
-Según su *permeabilidad*, puede ser:
+Según su _permeabilidad_, puede ser:
 
 1. **Permeable**: deja pasar todo.
 2. **Semipermeable**: es selectiva, deja pasar ciertas cosas.
 3. **Impermeable**: no deja pasar nada.
 
-Según si *modifica* su grado relativo de calentamiento, la pared puede ser:
+Según si _modifica_ su grado relativo de calentamiento, la pared puede ser:
 
 - **Adiabática**: no permite modificarlo.
 - **Diatérmica**: permite interacciones que lo modifiquen.
 
-Un sistema es *homogéneo* cuando sus propiedades macroscópicas son uniformes en todos sus puntos. Un sistema es *heterogéneo* cuando está formado por subsistemas homogéneos denominados ***fase***. La superficie que separa dos fases es la *interfase*.
+Un sistema es _homogéneo_ cuando sus propiedades macroscópicas son uniformes en todos sus puntos. Un sistema es _heterogéneo_ cuando está formado por subsistemas homogéneos denominados **_fase_**. La superficie que separa dos fases es la _interfase_.
 
 Las **magnitudes macroscópicas**:
 
@@ -37,14 +37,14 @@ Las **magnitudes macroscópicas**:
 3. Son sugeridas por nuestros sentidos.
 4. Se miden directamente.
 
-Una *variable termodinámica* puede ser:
+Una _variable termodinámica_ puede ser:
 
 - **Intensiva**: no es aditiva.
 - **Extensiva**: es aditiva. Depende de la cantidad de materia del sistema en cuestión.
 
 El **estado** de un sistema es el conjunto de valores de sus variables termodinámicas. Si las variables no cambian en el tiempo, se dice que el sistema está en **equilibrio termodinámico**.
 
-Los *procesos termodinámicos* son:
+Los _procesos termodinámicos_ son:
 
 1. Isotermos: si $T$ es constante.
 2. Isóbaros: si $p$ es constante.

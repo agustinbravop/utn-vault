@@ -8,8 +8,8 @@ Se obtiene $R = \frac{L \rho}{A}$, que es la [[Resistencia Eléctrica]] del mate
 
 $$V = RI$$
 
-La ley de Ohm establece que la [[Potencial Eléctrico#Diferencia de Potencial|diferencia de potencial]] $V$ a través de un conductor es igual a la [[Corriente Eléctrica]] $I$ que fluye por él multiplicada por su resistencia $R$. *Tensión es igual a la resistencia por la corriente*.
+La ley de Ohm establece que la [[Potencial Eléctrico#Diferencia de Potencial|diferencia de potencial]] $V$ a través de un conductor es igual a la [[Corriente Eléctrica]] $I$ que fluye por él multiplicada por su resistencia $R$. _Tensión es igual a la resistencia por la corriente_.
 
 ![[Material Óhmico vs No Óhmico.png]]
 
-Para un *material óhmico*, la corriente a través de un trozo de conductor es directamente proporcional a la diferencia de potencial entre extremos. Eso significa que su resistencia es independiente de $V$ o de $I$.
+Para un _material óhmico_, la corriente a través de un trozo de conductor es directamente proporcional a la diferencia de potencial entre extremos. Eso significa que su resistencia es independiente de $V$ o de $I$.

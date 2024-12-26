@@ -1,4 +1,4 @@
->Dos sistemas en equilibrio térmico con un tercero están en equilibrio térmico entre sí.
+> Dos sistemas en equilibrio térmico con un tercero están en equilibrio térmico entre sí.
 
 En la [[Termodinámica]], la **temperatura** es una propiedad de un sistema, una medida de la energía cinética de los átomos de un materia. Dos sistemas están en equilibrio térmico sí y solo sí tienen la misma temperatura.
 
@@ -27,4 +27,4 @@ Antes de 1954, se usaban dos:
 - Punto de fusión normal del agua: o punto de hielo.
 - Punto de ebullición normal del agua: o punto de vapor.
 
-Después de 1954, se utiliza solo uno: *el punto triple del agua*, la temperatura y presión para las cuales puede coexistir en equilibrio agua sólida pura, agua líquida pura, y vapor de agua puro. Se le asigna el valor de $273.16 \ \text K$.
+Después de 1954, se utiliza solo uno: _el punto triple del agua_, la temperatura y presión para las cuales puede coexistir en equilibrio agua sólida pura, agua líquida pura, y vapor de agua puro. Se le asigna el valor de $273.16 \ \text K$.

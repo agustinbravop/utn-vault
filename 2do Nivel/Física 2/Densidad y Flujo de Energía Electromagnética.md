@@ -12,12 +12,14 @@ Pero dado que $\frac{E}{B}=c=\frac{1}{\sqrt{\varepsilon_0\mu_0}}$, podemos expre
 
 La energía transportada por unidad de tiempo y área es:
 
-$$\begin{align}S = \frac{1}{A}\frac{dU}{dt}\frac{u \ d\text{Vol}}{dt} = \frac{1}{\cancel A}\frac{\varepsilon_0 E^2 \cancel A c \cancel{dt}}{\cancel {dt}} \implies S &= \varepsilon_0 c E^2 \\
+$$
+\begin{align}S = \frac{1}{A}\frac{dU}{dt}\frac{u \ d\text{Vol}}{dt} = \frac{1}{\cancel A}\frac{\varepsilon_0 E^2 \cancel A c \cancel{dt}}{\cancel {dt}} \implies S &= \varepsilon_0 c E^2 \\
 \text{pero } c=\frac{1}{\sqrt{\varepsilon_0\mu_0}} \implies S = \cancel \varepsilon_0 c \frac{1}{\sqrt{\cancel \varepsilon_0\mu_0}^2} B^2 = \frac{c B^2}{\mu_0} \implies S &= \frac{EB}{\mu_0} \\
 \vec S &= \frac{1}{\mu_0} (\vec E \times \vec B) \  \left[ \frac{\text W}{\text m^2} \right]
-\end{align}$$
+\end{align}
+$$
 
-Con $S$ a lo largo de $\vec v$, es decir $S \perp E \perp B$. Se denomina a $\vec S$ como el *vector de Poynting*, que indica:
+Con $S$ a lo largo de $\vec v$, es decir $S \perp E \perp B$. Se denomina a $\vec S$ como el _vector de Poynting_, que indica:
 
 1. Dirección en la que se transporta la energía.
 2. Dirección de desplazamiento de la onda.
@@ -32,7 +34,7 @@ Calculemos el valor promedio de $S$:
 
 $$\overline S = \frac{1}{2}\varepsilon_0 c E^2_0 = \frac{1}{2}\frac{c}{\mu_0}B^2_0 \implies \overline S = \frac{E_0 B_0}{2 \mu_0} = \frac{E_\text{rms} B_\text{rms}}{\mu_0}$$
 
-Donde $\overline S$ es la *irradiancia*, la potencia promedio transferida a través del área unitaria.
+Donde $\overline S$ es la _irradiancia_, la potencia promedio transferida a través del área unitaria.
 
 ## Presión de Radiación
 

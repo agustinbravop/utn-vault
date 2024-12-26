@@ -14,7 +14,6 @@ F = \sqrt{(\sum F_x)^2 + (\sum F_y)^2} \\
 \end{gather}
 $$
 
-
 ## Principio de Superposición
 
 > La fuerza total ejercida sobre una carga $q$ por un conjunto $q_1, q_2, ..., q_n$ es igual a la suma vectorial de cada una de las fuerzas ejercidas sobre $q$ por cada carga $q_i$.

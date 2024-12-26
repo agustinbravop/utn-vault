@@ -10,13 +10,15 @@ Sean $N$ espiras de área $A$ rotando con velocidad angular $\omega$ constante e
 
 ![[Cálculo de la FEM Inducida.png]]
 
-$$\begin{align}
+$$
+\begin{align}
 \phi_B = \vec B \cdot \vec A = BA\cos\theta \ \land \ \omega = \frac{d\theta}{dt} \implies \theta = \theta_0 + \omega t \implies \phi_B = BA \cos(\omega t) \\
 \frac{d\phi_B}{dt} = BA \ \omega \sin(\omega t) \implies \varepsilon = -N \frac{d\phi_B}{dt} = N B A \ \omega \sin(\omega t) \\
 \varepsilon_{\text{max}} = NBA \ \omega \implies \varepsilon = \varepsilon_\text{max} \sin(\omega t)
-\end{align}$$
+\end{align}
+$$
 
-Donde $\varepsilon = \varepsilon_\text{max} \sin(\omega t)$ es una *fem alterna*. Los generadores de [[Corriente Alterna]] utilizan este concepto.
+Donde $\varepsilon = \varepsilon_\text{max} \sin(\omega t)$ es una _fem alterna_. Los generadores de [[Corriente Alterna]] utilizan este concepto.
 
 ![[Generador de Corriente Alterna.png]]
 
@@ -26,10 +28,12 @@ Sea una varilla conductora que se desliza, y sea $B$ constante. Al variar el ár
 
 ![[FEM de Movimiento para un Circuito Cerrado.png]]
 
-$$\begin{align}A=Lx &\implies \phi_B = BA = BLx \\
+$$
+\begin{align}A=Lx &\implies \phi_B = BA = BLx \\
 \vec F_B = I \vec L \times \vec B_{\text{in}} &\implies F_B = ILB \\
 \varepsilon = -\frac{d\phi_B}{dt} = -BL\frac{dx}{dt} = -BLv &\implies I = \frac{|\varepsilon|}{R} = \frac{BLv}{R}
-\end{align}$$
+\end{align}
+$$
 
 Aplicando la [[Ley de Ohm]], se obtiene $I = \frac{BLv}{R}$. Esto indica que la corriente $I$ genera un campo magnético $B$.
 
@@ -39,8 +43,10 @@ Sea ahora una varilla que se mueve a velocidad $v$ constante dentro de un campo 
 
 ![[FEM de Movimiento para un Circuito Abierto.png]]
 
-$$\begin{rcases} \vec F_B = q(\vec v \times \vec B) \\ \vec F_E = q \vec E \end{rcases}
-\text{ en equilibrio} \implies \cancel qE = \cancel qvB \implies \Delta V = EL = vBL \implies |\varepsilon| = BLv$$
+$$
+\begin{rcases} \vec F_B = q(\vec v \times \vec B) \\ \vec F_E = q \vec E \end{rcases}
+\text{ en equilibrio} \implies \cancel qE = \cancel qvB \implies \Delta V = EL = vBL \implies |\varepsilon| = BLv
+$$
 
 La fem se induce incluso si no hay corriente.
 

@@ -1,4 +1,4 @@
-La **carga eléctrica** es una propiedad fundamental de la materia. La **electrostática** estudia las cargas eléctricas que están inmóviles. La carga puede ser positiva o negativa. Un objeto no cargado es así porque su carga neta es cero (está *balanceado*).
+La **carga eléctrica** es una propiedad fundamental de la materia. La **electrostática** estudia las cargas eléctricas que están inmóviles. La carga puede ser positiva o negativa. Un objeto no cargado es así porque su carga neta es cero (está _balanceado_).
 
 ![[Carga Eléctrica en un Átomo.png]]
 

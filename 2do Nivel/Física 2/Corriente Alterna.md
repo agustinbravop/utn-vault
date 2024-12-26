@@ -12,7 +12,7 @@ A lo largo del tiempo sucede lo siguiente:
 
 ![[Corriente Alterna a lo Largo del Tiempo.png]]
 
-Donde la *fem alterna* viene dada por $V(t) = V \cos(\omega t) = V \cos(2 \pi ft)$, donde:
+Donde la _fem alterna_ viene dada por $V(t) = V \cos(\omega t) = V \cos(2 \pi ft)$, donde:
 
 1. $V(t)$: fem o voltaje instantáneo.
 2. $V$: valor máximo o amplitud de la fem.
@@ -37,21 +37,25 @@ $$V(t) = R i(t) \implies V \cos(\omega t) = R I \cos(\omega t) \implies \text{en
 
 ![[Corriente Alterna - Circuito Capacitivo.png]]
 
-$$\begin{gather}V(t) = V \cos(\omega t) \ \land \ i = \frac{dQ}{dt} \ \land \ C = \frac{Q}{V} \implies i(t) = \frac{dQ}{dt} = C\frac{dV(t)}{dt} \implies i(t) = - \omega C V \sin(\omega t) \\
+$$
+\begin{gather}V(t) = V \cos(\omega t) \ \land \ i = \frac{dQ}{dt} \ \land \ C = \frac{Q}{V} \implies i(t) = \frac{dQ}{dt} = C\frac{dV(t)}{dt} \implies i(t) = - \omega C V \sin(\omega t) \\
 i(t) = \omega CV \cos\left(\omega t + \frac{\pi}{2} \right) \implies \text{desfasaje en -90°}
-\end{gather}$$
+\end{gather}
+$$
 
-$V_C$ se retrasa a $I$ en $\frac{\pi}{2}$, lo que bloquea frecuencias bajas. El valor máximo es $I = \omega C V \implies V = \frac{I}{\omega C}$ y se define la *reactancia capacitiva* $X_C = \frac{1}{\omega C}$ de manera que $V = I X_C$ ([[Ley de Ohm]]).
+$V_C$ se retrasa a $I$ en $\frac{\pi}{2}$, lo que bloquea frecuencias bajas. El valor máximo es $I = \omega C V \implies V = \frac{I}{\omega C}$ y se define la _reactancia capacitiva_ $X_C = \frac{1}{\omega C}$ de manera que $V = I X_C$ ([[Ley de Ohm]]).
 
 ### Circuito Inductivo
 
 ![[Corriente Alterna - Circuito Inductivo.png]]
 
-$$\begin{gather}V(t) = V \cos (\omega t) \ \land \ V(t) = L \frac{di}{dt} \implies \frac{di}{dt} = \frac{V}{L} \cos(\omega t) \implies i(t) = \frac{V}{\omega L} \sin(\omega t) \\
+$$
+\begin{gather}V(t) = V \cos (\omega t) \ \land \ V(t) = L \frac{di}{dt} \implies \frac{di}{dt} = \frac{V}{L} \cos(\omega t) \implies i(t) = \frac{V}{\omega L} \sin(\omega t) \\
 i(t) = \frac{V}{\omega L} \cos\left(\omega t - \frac{\pi}{2}\right) \implies \text{ desfasaje en 90°}
-\end{gather}$$
+\end{gather}
+$$
 
-$V_L$ se adelanta a $I$ en $\frac{\pi}{2}$, lo que bloquea frecuencias altas. Se define la *reactancia inductiva* $X_L = \omega L$ de manera que $V = I X_L$.
+$V_L$ se adelanta a $I$ en $\frac{\pi}{2}$, lo que bloquea frecuencias altas. Se define la _reactancia inductiva_ $X_L = \omega L$ de manera que $V = I X_L$.
 
 ## Impedancia
 
@@ -61,13 +65,16 @@ Conforme $\omega$ aumenta: $R$ se mantiene constante, $X_C$ baja, y $X_L$ sube.
 
 Sea un circuito RLC en serie, con $V = V_R + V_C + V_L$, queremos determinar la intensidad $I$ y la diferencia de fase $\phi$:
 
-$$\begin{gather}V = \sqrt{V^2_R + (V_L - V_C)^2} = \sqrt{(IR)^2 + (IX_L - IX_C)^2} = I \sqrt{R^2 + (X_L - X_C)^2} = IZ \implies V = IZ \\
+$$
+\begin{gather}V = \sqrt{V^2_R + (V_L - V_C)^2} = \sqrt{(IR)^2 + (IX_L - IX_C)^2} = I \sqrt{R^2 + (X_L - X_C)^2} = IZ \implies V = IZ \\
 Z = \sqrt{R^2 + (X_L - X_C)^ 2} = \sqrt{R^2+\left(\omega L - \frac{1}{\omega C}\right)^2}
-\end{gather}$$
+\end{gather}
+$$
 
-Donde $Z$ es la *impedancia* del circuito, y se mide en ohms ($\Omega$). Entonces:
+Donde $Z$ es la _impedancia_ del circuito, y se mide en ohms ($\Omega$). Entonces:
 
-$$\begin{align}I &= \frac{V}{Z} \\
+$$
+\begin{align}I &= \frac{V}{Z} \\
 \tan(\phi) &= \frac{V_L - V_C}{R} = \frac{X_L - X_C}{R}
 \end{align}
 $$
@@ -76,14 +83,16 @@ Se observa que $\phi$ no depende de $V$.
 
 ## Valores Eficaces
 
-$$\begin{align}i = I_0 \cos(\omega t) \implies i^2 = I_0^2 \cos^2 (\omega t) = I_0^2 \frac{1}{2} &(1 + \cos(2 \omega t)) = \frac{1}{2}I_0^2 + \cancel {\frac{1}{2}I^2 \cos(2 \omega t)} \implies i^2 = \frac{1}{2}I_0^2 \\
+$$
+\begin{align}i = I_0 \cos(\omega t) \implies i^2 = I_0^2 \cos^2 (\omega t) = I_0^2 \frac{1}{2} &(1 + \cos(2 \omega t)) = \frac{1}{2}I_0^2 + \cancel {\frac{1}{2}I^2 \cos(2 \omega t)} \implies i^2 = \frac{1}{2}I_0^2 \\
 \sqrt i^2 = I_{\text{rms}} &= \frac{I_0}{\sqrt{2}} = 0.707 I_0 \\
 V_{\text{rms}} &= \frac{V_0}{\sqrt 2} = 0.707 V_0
-\end{align}$$
+\end{align}
+$$
 
-Donde $I_\text{rms}$ es el *valor eficaz* de la corriente alterna: es el valor que tendría que tener una corriente continua para producir la misma potencia.
+Donde $I_\text{rms}$ es el _valor eficaz_ de la corriente alterna: es el valor que tendría que tener una corriente continua para producir la misma potencia.
 
-En un circuito RLC, solo se disipa potencia en la $R$. Por la *fem alterna*: 
+En un circuito RLC, solo se disipa potencia en la $R$. Por la _fem alterna_:
 
 $$P(t) = \frac{V_0 \cos(\omega t))^2}{R} = vi$$
 
@@ -93,13 +102,15 @@ Potencia media de un [[Capacitor]] y una [[Autoinducción|inductancia]]: la mita
 
 Potencia media de un circuito de corriente alterna:
 
-$$\begin{align}p = vi = V \cos(\omega t + \theta) I \cos (\omega t) = \  V(\cos (\omega t)\cos(\theta) - \sin(\omega t)\sin(\theta))I\cos(\omega t) &\implies \\
+$$
+\begin{align}p = vi = V \cos(\omega t + \theta) I \cos (\omega t) = \  V(\cos (\omega t)\cos(\theta) - \sin(\omega t)\sin(\theta))I\cos(\omega t) &\implies \\
 VI\cos(\theta) \cos^2(\omega t) - VI \sin(\theta) \cos (\omega t) \sin(\omega t) &\implies \\
 P_\text{med} = \frac{1}{2}VI\cos\theta &\implies \\
 P_\text{med} = V_\text{rms}I_\text{rms} \cos(\theta)
-\end{align}$$
+\end{align}
+$$
 
-Donde $\theta$ es el *factor de potencia* del circuito, respetando $\cos\theta=\frac{R}{Z}$.
+Donde $\theta$ es el _factor de potencia_ del circuito, respetando $\cos\theta=\frac{R}{Z}$.
 
 - Si $\theta = 0° \implies \cos \theta = 1 \implies P_\text{med} = V_\text{rms}I_\text{rms}$. Se cumple que $V_L = V_C$.
 - Si $\theta = 90° \implies \cos \theta = 0 \implies P_\text{med} = 0$. No hay $V_R$.
@@ -108,7 +119,8 @@ Donde $\theta$ es el *factor de potencia* del circuito, respetando $\cos\theta=\
 
 ![[Potencia Activa, Reactiva, y Aparente.png]]
 
-$$\begin{align}
+$$
+\begin{align}
 \begin{rcases}I_a = I\cos\varphi \\ I_r = I\sin\varphi \end{rcases} \ I^2 &= I_a^2 + I_r^2 \\
 P &= V I_a = VI \cos\varphi \ [\text{Watt}] \\
 Q &= VI_r = VI\sin\varphi \ [\text{V A r}] \\
@@ -122,4 +134,4 @@ $$
 
 ## Resonancia
 
-Al cambiar la frecuencia, cambian $X_L$, $X_C$, $Z$, y $\phi$. La impedancia $Z=\sqrt{R^2+(X_L-X_C)^2}$ es mínima cuando $X_L = X_C \implies \omega L = \frac{1}{\omega C} \implies \omega = \sqrt{\frac{1}{LC}}$. A esta frecuencia $\omega$ la impedancia solo es resistiva. Se dice entonces que el circuito es *resonante* cuando $Z=R$, con el ángulo de fase $\theta = 0°$ y la corriente máxima $i_m = \frac{\varepsilon_m}{R}$.
+Al cambiar la frecuencia, cambian $X_L$, $X_C$, $Z$, y $\phi$. La impedancia $Z=\sqrt{R^2+(X_L-X_C)^2}$ es mínima cuando $X_L = X_C \implies \omega L = \frac{1}{\omega C} \implies \omega = \sqrt{\frac{1}{LC}}$. A esta frecuencia $\omega$ la impedancia solo es resistiva. Se dice entonces que el circuito es _resonante_ cuando $Z=R$, con el ángulo de fase $\theta = 0°$ y la corriente máxima $i_m = \frac{\varepsilon_m}{R}$.

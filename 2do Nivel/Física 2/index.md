@@ -1,6 +1,9 @@
 ---
 title: Física 2
 ---
+
+![[MOC Física 2.png]]
+
 Asignatura: Física 2. \
 Ciclo Lectivo: 2022. \
 Cursado: 1er cuatrimestre.

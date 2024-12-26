@@ -1,8 +1,8 @@
-Las **fuentes de fuerza electromotriz** entregan a las [[Cargas Eléctricas]] la cantidad de energía necesaria para movilizarlas. Esa energía entregada por unidad de carga que recorre el circuito se denomina *fuerza electromotriz* (*fem*).
+Las **fuentes de fuerza electromotriz** entregan a las [[Cargas Eléctricas]] la cantidad de energía necesaria para movilizarlas. Esa energía entregada por unidad de carga que recorre el circuito se denomina _fuerza electromotriz_ (_fem_).
 
 ![[Fuentes de Fuerza Electromotriz.png]]
 
-El borne negativo es el *cátodo* y el borne positivo es el *ánodo*. Se cumple que $V_a \lt V_b$.
+El borne negativo es el _cátodo_ y el borne positivo es el _ánodo_. Se cumple que $V_a \lt V_b$.
 
 ## Dispositivos
 

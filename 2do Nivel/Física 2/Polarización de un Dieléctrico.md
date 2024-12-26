@@ -4,9 +4,9 @@ Al insertar un [[Materiales Dieléctricos|dieléctrico]] entre las placas de un 
 
 ## Vector Polarización
 
-El **vector polarización** es el momento dipolar por unidad de volumen: $\vec P = \frac{\vec p}{V}$, y tiene la misma dirección y sentido que $\vec E$. El campo eléctrico induce una densidad superficial de polarización $\sigma_p$. 
+El **vector polarización** es el momento dipolar por unidad de volumen: $\vec P = \frac{\vec p}{V}$, y tiene la misma dirección y sentido que $\vec E$. El campo eléctrico induce una densidad superficial de polarización $\sigma_p$.
 
-Un dieléctrico sometido a un campo se comporta como un [[Dipolo Eléctrico]] con carga $Q p = \pm \sigma_p A$, por ende $p = \sigma _p A L$, siendo $A$ el área de la placa y $L$ la separación entre las placas. 
+Un dieléctrico sometido a un campo se comporta como un [[Dipolo Eléctrico]] con carga $Q p = \pm \sigma_p A$, por ende $p = \sigma _p A L$, siendo $A$ el área de la placa y $L$ la separación entre las placas.
 
 El módulo del vector está dado por $|\vec P| = \frac{p}{V} = \frac{p}{AL} = \frac{\sigma_p AL}{AL} = |\sigma_p| \implies PA = - Q_p$, donde $PA$ representa el flujo del vector polarización a través de $A$. Aplicando Gauss, para una superficie cerrada que contenga la carga de polarización $-Qp$, se tiene $\oint \vec P \cdot d \vec S = - Q_p$. El flujo del vector polarización a través de una superficie cerrada es el opuesto de la carga de polarización superficial.
 

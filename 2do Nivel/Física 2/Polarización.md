@@ -1,6 +1,6 @@
 La **polarización** es un fenómeno característico de las [[Ondas Electromagnéticas]] debido a su naturaleza ondulatoria. Describe un estado particular de vibración del [[Campo Eléctrico]] $E$ y del [[Campo Magnético]] $B$ de la onda. En el caso de la luz no es visible directamente: se necesitan dispositivos especiales para su observación.
 
-La luz natural normalmente no es polarizada. Se la puede polarizar mediante diferentes procesos físicos como la reflexión, dispersión, refracción, y birrefringencia. 
+La luz natural normalmente no es polarizada. Se la puede polarizar mediante diferentes procesos físicos como la reflexión, dispersión, refracción, y birrefringencia.
 
 Según la dirección de propagación de la onda, la polarización puede ser:
 
@@ -10,17 +10,19 @@ Según la dirección de propagación de la onda, la polarización puede ser:
 
 ## Polarización Lineal
 
-Se define la dirección de polarización de una OEM como la *dirección de vibración* del campo eléctrico $E$.
+Se define la dirección de polarización de una OEM como la _dirección de vibración_ del campo eléctrico $E$.
 
 ![[Polarización Lineal.png]]
 
-$$\begin{align}
+$$
+\begin{align}
 &\begin{cases} \vec E_x(z, t) = \vec i E_{0_x} \sin(kz - \omega t) \\
 \vec E_y(z, t) = \vec j E_{0_y} \sin(kz - \omega t) \\
 \end{cases} \\
 \tan \theta &= \frac{E_{0_y}}{E_{0_x}} \\
 \vec E(z, t) &= (\vec i E_{0_x} + \vec j E_{0_y})\sin(kz-\omega t)
-\end{align}$$
+\end{align}
+$$
 
 Siendo $\theta$ el ángulo en el que vibra el campo eléctrico neto.
 

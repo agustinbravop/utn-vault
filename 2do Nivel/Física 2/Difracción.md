@@ -1,4 +1,4 @@
-La **difracción** es el fenómeno que se produce cuando las [[Onda|ondas]] alcanzan un obstáculo o apertura (de dimensión comparable a su propia longitud de onda).
+La **difracción** es el fenómeno que se produce cuando las [[Ondas]] alcanzan un obstáculo o apertura (de dimensión comparable a su propia longitud de onda).
 
 ![[Difracción.png]]
 
@@ -6,11 +6,11 @@ El **principio de Huygens** dice que todo punto de un frente de onda dado se tom
 
 ![[Difracción de Fresnel y de Fraunhofer.png]]
 
-Los rayos se consideran paralelos para simplificar los cálculos. 
+Los rayos se consideran paralelos para simplificar los cálculos.
 
 ![[Difracción (Cálculos).png]]
 
-Sea $\delta = r_2 - r_1 = \frac{a}{2}\sin\theta$ de manera que la luz en $P$ se cancela ([[Interferencia]] destructiva) cuando $\delta = \frac{a}{2}\sin\theta = \frac{\lambda}{2}$. Si dividimos la pantalla en cuartos, sextos, etc, surge $\sin\theta = \pm 2 \frac{\lambda}{a} \ ; \ \pm 3 \frac{\lambda}{a} \ ; \ \dots$. Se establece la **condición de franja oscura**: 
+Sea $\delta = r_2 - r_1 = \frac{a}{2}\sin\theta$ de manera que la luz en $P$ se cancela ([[Interferencia]] destructiva) cuando $\delta = \frac{a}{2}\sin\theta = \frac{\lambda}{2}$. Si dividimos la pantalla en cuartos, sextos, etc, surge $\sin\theta = \pm 2 \frac{\lambda}{a} \ ; \ \pm 3 \frac{\lambda}{a} \ ; \ \dots$. Se establece la **condición de franja oscura**:
 
 $$\sin\theta = m \frac{\lambda}{a} \ , \text{ para } \ m = \pm 1, \pm 2, \dots$$
 

@@ -1,13 +1,6 @@
-Una **onda** es la propagación de una perturbación de alguna propiedad del espacio, lo cual implica un transporte de nergía (la *radiación* de la onda) sin transporte de materia. Una onda puede ser:
-
-- **Transversal**: partículas oscilan perpendicularmente a la dirección de propagación.
-- **Longitudinal**: partículas oscilan paralelamente a la dirección de propagación.
-
-Una onda es **mecánica** si la energía y movimiento se transportan mediante la perturbación del medio, por las propiedades elásticas del medio. El otro tipo de onda son las **ondas electromagnéticas**.
-
 ![[Generación de Ondas Electromagnéticas.png]]
 
-Se consideran **ondas planas** por tener el [[Campo Eléctrico]] $\vec E$ perpendicular al [[Campo Magnético]] $\vec B$. Una onda plana tiene las siguientes propiedades:
+Las [[Ondas|ondas]] electromagnéticas se consideran **ondas planas** por tener el [[Campo Eléctrico]] $\vec E$ perpendicular al [[Campo Magnético]] $\vec B$. Una onda plana tiene las siguientes propiedades:
 
 1. Viaja en una región libre del espacio, sin [[Cargas Eléctricas]] ni [[Corriente Eléctrica]].
 2. Tiene un frente de onda plano.

@@ -2,7 +2,7 @@ Rendimiento luminoso es la magnitud definida como la razón entre el flujo lumin
 
 $$\eta = \frac{\phi_\text{lum}}{\phi_\text{rad-total}}$$
 
-La *curva de sensibilidad espectral relativa del ojo humano* o *curva de visibilidad* $V(\lambda)$ expresa cuantitativamente cómo, a iguales flujos de energía con diferentes longitudes de onda, la intensidad de la luz percibida por el ojo humano es diferente. Por ende, su respuesta espectral no es plana, sino curva.
+La _curva de sensibilidad espectral relativa del ojo humano_ o _curva de visibilidad_ $V(\lambda)$ expresa cuantitativamente cómo, a iguales flujos de energía con diferentes longitudes de onda, la intensidad de la luz percibida por el ojo humano es diferente. Por ende, su respuesta espectral no es plana, sino curva.
 
 ![[Rendimiento Luminoso.png]]
 

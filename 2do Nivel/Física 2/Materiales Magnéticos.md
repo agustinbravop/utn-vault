@@ -6,10 +6,12 @@ De acuerdo con sus propiedades, los **materiales magnéticos** se clasifican en:
 
 Las sustancias pueden clasificarse en términos de su permeabilidad magnética $\mu$ al compararla con la permeabilidad del espacio libre $\mu_0$.
 
-$$\mu = \mu_0 (1+\chi_m) \begin{cases} 
+$$
+\mu = \mu_0 (1+\chi_m) \begin{cases}
 \mu \gt \mu_0 \ \text{ sustancia paramagnética } \\
 \mu \lt \mu_0 \ \text{ sustancia diamagnética }
-\end{cases}$$
+\end{cases}
+$$
 
 Debido a que $\chi_m$ es muy pequeño para sustancias paramagnéticas y diamagnéticas, en estas sustancias se observa que $\mu \approx \mu_0$. En sustancias ferromagnéticas, $\mu$ suele ser cientos de veces más grande que $\mu_0$.
 
@@ -19,7 +21,7 @@ $0 \lt \chi_m \le 1$: la susceptibilidad es pequeña, como resultado de la prese
 
 $$M = C \frac{B_0}{T}$$
 
-Donde $C$ es la *constante de Curie*, una constante positiva específica para cada material, y $T$ depende de la temperatura. Por debajo de la *temperatura de Curie* $T_c$, los momentos magnéticos están alineados y la sustancia se vuelve ferromagnética.
+Donde $C$ es la _constante de Curie_, una constante positiva específica para cada material, y $T$ depende de la temperatura. Por debajo de la _temperatura de Curie_ $T_c$, los momentos magnéticos están alineados y la sustancia se vuelve ferromagnética.
 
 ![[Magnetización en Función de la Temperatura Absoluta.png]]
 
@@ -31,7 +33,7 @@ El diamagnetismo está presente en todas las sustancias, pero la ser tan débile
 
 ## Ferromagnetismo
 
-La susceptibilidad $\chi_m \gt 0$ es grande. Existen interacciones entre los *spins* de los electrones. En ausencia de campo magnético existen dominios magnéticos con magnetización no nula. Estos dominios se comportan como pequeños imanes orientados al azar.
+La susceptibilidad $\chi_m \gt 0$ es grande. Existen interacciones entre los _spins_ de los electrones. En ausencia de campo magnético existen dominios magnéticos con magnetización no nula. Estos dominios se comportan como pequeños imanes orientados al azar.
 
 ![[Dominios Magnéticos.png]]
 

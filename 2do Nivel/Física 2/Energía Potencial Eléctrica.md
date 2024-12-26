@@ -12,4 +12,4 @@ Debido a que se trata de una fuerza conservativa, cualquier camino curvilíneo g
 
 $$\Delta U = U_b - U_a = -W_{a \rightarrow b} = - \int_a^b \vec F d \vec l = \frac{q q_0}{4 \pi \varepsilon_0} \left( \frac{1}{r_b} - \frac{1}{r_a} \right)$$
 
-Es conveniente definir la **energía potencial en un punto** como $U(r) = \frac{q q_0}{4 \pi \varepsilon_0} \frac{1}{r} = - \int_{\infty}^{r} \vec F d \vec l$  para $R_a = \infty; U_a = 0; U_b = 0; r_b = r$.
+Es conveniente definir la **energía potencial en un punto** como $U(r) = \frac{q q_0}{4 \pi \varepsilon_0} \frac{1}{r} = - \int_{\infty}^{r} \vec F d \vec l$ para $R_a = \infty; U_a = 0; U_b = 0; r_b = r$.

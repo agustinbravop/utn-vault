@@ -4,7 +4,7 @@ Un [[Imanes]] genera un campo magnético. Las líneas de fuerza salen del Norte 
 
 ## Intensidad del Campo Magnético
 
-La intensidad del campo magnético es el valor que toma el campo magnético en cada punto del espacio.  Se define como $\vec B$, con dirección y sentido iguales a las líneas de fuerza.
+La intensidad del campo magnético es el valor que toma el campo magnético en cada punto del espacio. Se define como $\vec B$, con dirección y sentido iguales a las líneas de fuerza.
 
 ![[Intensidad del Campo Magnético.png]]
 
@@ -39,7 +39,7 @@ El vector velocidad puede descomponerse en una componente $v_{\parallel} = v \co
 
 $$r = \frac{mv_\perp}{qB} = \frac{mv}{qB} \sin(\theta) \ ; \ \Delta x = v_{\parallel} t = v \cos(\theta) t$$
 
-Donde $\Delta x$ es el *paso*.
+Donde $\Delta x$ es el _paso_.
 
 ## Selector de Velocidades
 
@@ -55,7 +55,7 @@ Las cargas con $v = \frac{E}{B}$ no se desvía, y pasarán por $S_2$. Esto no de
 
 ## Fuerza sobre un Conductor con Corriente
 
-Se coloca un alambre recto en el campo magnético entre los polos opuestos de un imán de cerradura. Al fluir una corriente en el alambre, se ejerce una fuerza sobre el alambre. 
+Se coloca un alambre recto en el campo magnético entre los polos opuestos de un imán de cerradura. Al fluir una corriente en el alambre, se ejerce una fuerza sobre el alambre.
 
 ![[Fuerza sobre un Conductor con Corriente.png]]
 
@@ -79,7 +79,7 @@ Ahora, si la espiga tiene un punto de apoyo:
 
 $$\tau_\text{max} = F_2 \frac{b}{2} + F_4 \frac{b}{2} = IaBb \implies \tau_\text{max} = IBA$$
 
-Donde $\tau_\text{max}$ es el *momento de fuerza*. Ahora, si la espiga forma un ángulo $\theta$ con $\vec B$:
+Donde $\tau_\text{max}$ es el _momento de fuerza_. Ahora, si la espiga forma un ángulo $\theta$ con $\vec B$:
 
 ![[Espiga forma un Ángulo con B.png]]
 
@@ -87,4 +87,4 @@ Se tiene $-F_2 = F_4$, y se cancelan por estar en la misma recta de acción.
 
 $$\tau = F_1 \frac{a}{2} \sin(\theta) + F_3 \frac{a}{2} \sin\theta = I b B a \sin (\theta) = I A B \sin (\theta) \implies \vec \tau = I \vec A \times \vec B$$
 
-Sea $\vec\mu = I \vec A$ el *momento dipolar magnético*, entonces queda $\vec\tau = \vec\mu \times \vec B \ ; \ |\vec \tau| = \mu B \sin (\theta)$.
+Sea $\vec\mu = I \vec A$ el _momento dipolar magnético_, entonces queda $\vec\tau = \vec\mu \times \vec B \ ; \ |\vec \tau| = \mu B \sin (\theta)$.

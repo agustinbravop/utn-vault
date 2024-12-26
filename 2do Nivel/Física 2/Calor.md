@@ -20,13 +20,15 @@ La **calorimetría** es la medición del calor. Sea un recipiente con una cantid
 
 ![[Calorimetría.png]]
 
-$$\begin{align}Q_\text{absorbido} &= - Q _\text{cedido} \\
+$$
+\begin{align}Q_\text{absorbido} &= - Q _\text{cedido} \\
 Q_s &= - c_s m_s (t_e - t_s) \\
 Q_a &= c_\text{agua} M (t_e-t_0) + [c_\text{termómetro} m_\text{termometro} + c_\text{recipiente} m] (t_e - t_0) \\
 C_s &= \frac{(M c_\text{agua} + k)(t_e - t_0)}{m_s (t_s - t_e)}
-\end{align}$$
+\end{align}
+$$
 
-En un *cambio de fase* la energía entregada a la sustancia se usa para cambiar su estructura interna, **sin cambio en su temperatura**. La cantidad de energía necesaria depende de su masa.
+En un _cambio de fase_ la energía entregada a la sustancia se usa para cambiar su estructura interna, **sin cambio en su temperatura**. La cantidad de energía necesaria depende de su masa.
 
 El **calor latente** $L$ depende de la sustancia y del cambio de fase:
 

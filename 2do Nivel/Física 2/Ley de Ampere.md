@@ -1,4 +1,4 @@
-> El *Ampere* es la intensidad de corriente que circulando por dos conductores rectilíneos de longitud infinita, sección circular y paralelos, separados entre sí un metro en el vacío, producirá una fuerza magnética entre ellos de $2 \times 10^{-7} \ N$ por cada metro de longitud de cada uno de los dos hilos.
+> El _Ampere_ es la intensidad de corriente que circulando por dos conductores rectilíneos de longitud infinita, sección circular y paralelos, separados entre sí un metro en el vacío, producirá una fuerza magnética entre ellos de $2 \times 10^{-7} \ N$ por cada metro de longitud de cada uno de los dos hilos.
 
 Las líneas de campo de un alambre largo y recto por el que circula [[Corriente Eléctrica]] son circunferencias que enlazan el alambre conductor. La **Ley de Ampere** relaciona el [[Campo Magnético]] que rodea al conductor con la corriente enlazada:
 
@@ -18,7 +18,8 @@ $$
 \begin{align}
 \oint \vec B \vec{dl} = \oint_a^b \vec B \vec{dl} + \cancel{\oint_b^c \vec B \vec{dl}} + \cancel{\oint_c^d \vec B \vec{dl}} + \cancel{\oint_d^a \vec B \vec{dl}} = Bd = \mu_0 N I \\
 B = \mu_0 \frac{NI}{d} \ \land \ n = \frac{N}{d} \implies B = \mu_0 n I
-\end{align}$$
+\end{align}
+$$
 
 Donde $N$ es el número de espiras que abarca la trayectoria, y $n$ es el número de espiras por unidad de longitud.
 
@@ -26,7 +27,7 @@ Donde $N$ es el número de espiras que abarca la trayectoria, y $n$ es el númer
 
 ![[Campo Magnético Adentro de un Toroide.png]]
 
-Sea un *toroide* de radio $r$ y $N$ espiras de radio $a$, por el que circula una corriente $I$.
+Sea un _toroide_ de radio $r$ y $N$ espiras de radio $a$, por el que circula una corriente $I$.
 
 $$\oint \vec B \cdot \vec {ds} = \mu_0 N I = B2 \pi r \implies B = \frac{\mu_0NI}{2\pi r}$$
 
@@ -40,7 +41,7 @@ Considerando una corriente no estacionaria $I$ (que varía con el tiempo) que ca
 
 $$S_1: \oint \vec B \vec{dl} = \mu_0 I \ \land \ S_2: \oint \vec B \vec{dl} = 0 \text{ , pero } \mu_0 I \ne 0 \text{ , entonces?}$$
 
-La ley de Ampere no prevé la existencia de discontinuidades en el circuito. Maxwell resuelve esta situación postulando la existencia de una corriente ficticia llamada *corriente de desplazamiento* $I_d$:
+La ley de Ampere no prevé la existencia de discontinuidades en el circuito. Maxwell resuelve esta situación postulando la existencia de una corriente ficticia llamada _corriente de desplazamiento_ $I_d$:
 
 $$I_d = \varepsilon_0 \frac{d\phi_E}{dt} \text{, siendo } \phi_E = \int\vec E \cdot \vec {dA}$$
 

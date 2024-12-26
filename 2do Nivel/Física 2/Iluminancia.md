@@ -1,4 +1,4 @@
-La **iluminancia** $E$ es el [[Flujo Radiante#Flujo Luminoso|flujo luminoso]] $\phi_\text{lum}$ recibido por una superficie. 
+La **iluminancia** $E$ es el [[Flujo Radiante#Flujo Luminoso|flujo luminoso]] $\phi_\text{lum}$ recibido por una superficie.
 
 $$E = \frac{\phi_\text{lum}}{S} \ ; \ [\text{Lux}] = \left[\frac{\text{lumen lm}}{ \text m^2} \right]$$
 
