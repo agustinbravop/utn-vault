@@ -1,4 +1,4 @@
-La **termodinámica** es una ciencia fenomenológica. Estudia las transformaciones e intercambios de energía que tienen lugar en la materia.
+La **termodinámica** es una ciencia fenomenológica. Estudia las transformaciones e intercambios de energía que tienen lugar en la materia, particularmente las transformaciones de trabajo en [[Calor]] y de calor en trabajo.
 
 **Sistema**: es cierta cantidad de materia en un espacio limitado por su pared.
 
