@@ -7,7 +7,7 @@ Se puede analizar a una [[Organización]] como un [[Sistema]] **abierto**. Prese
 3. **Deben ser enfocadas como un sistema**: se la debe abordar como un subsistema funcionalmente diferenciado de un sistema social mayor (la **sociedad**).
 4. **Son sistemas sociales con partes independientes e interrelacionadas**: están continuamente sometidas a un **cambio dinámico**, imbuida por los valores de su ambiente. Sus miembros pueden afectar a la **estructura social y cultural**.
 5. **Interdependencia de las partes**: frente a la **división del trabajo**, la partes deben ser coordinadas a través de medios de integración y control ([[Globalismo]]). Esta dependencia no es necesariamente jerárquica.
-6. [[Homeostasia]]: la organización alcanza un _estado firme_ al tener:
+6. [[Homeostasis]]: la organización alcanza un _estado firme_ al tener:
    - **Unidireccionalidad**: se alcanzan los mismos resultados a pesar de los cambios.
    - **Progreso**: mantiene un grado de progreso con respecto al fin tolerable.
 7. [[Límite del Sistema]]: la frontera que demarca lo dentro y lo fuera de la organización.

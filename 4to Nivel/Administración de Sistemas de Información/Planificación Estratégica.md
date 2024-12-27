@@ -34,7 +34,7 @@ Se analizan los **factores** que nos juegan a favor y en contra. Hay dos anális
 2. **Externo**: estudia las circunstancias del entorno (sociedad, tecnología, etc) para identificar:
    - **Oportunidades**: factores positivos a aprovechar.
    - **Problemas**: impacto negativo a prevenir.
-   - **Amenazas**: los [[Riesgo|riesgos]].
+   - **Amenazas**: los [[4to Nivel/Administración de Sistemas de Información/Riesgo|riesgos]].
 
 ## Etapa Operativa
 

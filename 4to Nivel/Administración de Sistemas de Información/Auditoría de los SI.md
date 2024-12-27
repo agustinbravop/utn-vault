@@ -35,7 +35,7 @@ El riesgo en la auditoría es la posibilidad de que la información obtenida ten
 2. **De control**: errores debidos a deficiencias en el control interno. Se podrían haber evitado.
 3. **De detección**: errores debidos a una deficiente planificación o ejecución de la auditoría.
 
-Todo [[Riesgo]] se termina materializando en costos (o por gestionarlo o por el impacto). El auditor debe **prevenir** los riesgos de detección y debe hacer recomendaciones para que la empresa pueda **reducir** los riesgos de control.
+Todo [[4to Nivel/Administración de Sistemas de Información/Riesgo]] se termina materializando en costos (o por gestionarlo o por el impacto). El auditor debe **prevenir** los riesgos de detección y debe hacer recomendaciones para que la empresa pueda **reducir** los riesgos de control.
 
 ## Objetivos de la Auditoría
 

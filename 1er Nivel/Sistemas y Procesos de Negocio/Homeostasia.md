@@ -1,1 +1,0 @@
-La **homeostasia** es el **equilibrio dinámico** entre las partes del [[Sistema]], y se lo obtiene mediante la autoregulación y retroalimentación. Puede ser evaluada a través de sus errores o desvíos, y su capacidad de **mantener vivo** al sistema.

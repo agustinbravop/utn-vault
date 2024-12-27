@@ -1,4 +1,4 @@
-La [[Gestión del Riesgo]] asume que la prevención total del [[Riesgo]] es poco práctica o imposible, por ende la organización debe **planificar** cómo enfrentarse a las inevitables rupturas de la [[Seguridad de los SI]] y cómo recuperarse. Esto es la **planificación de contingencias**, que incluye:
+La [[Gestión del Riesgo]] asume que la prevención total del [[4to Nivel/Administración de Sistemas de Información/Riesgo]] es poco práctica o imposible, por ende la organización debe **planificar** cómo enfrentarse a las inevitables rupturas de la [[Seguridad de los SI]] y cómo recuperarse. Esto es la **planificación de contingencias**, que incluye:
 
 - **métodos de trabajo** que permitan sobrevivir al desastre, y
 - **procesos a largo plazo** para recuperarse.

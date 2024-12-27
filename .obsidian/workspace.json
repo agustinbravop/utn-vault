@@ -27,12 +27,180 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Física 2/index.md",
+                "file": "2do Nivel/Análisis de Sistemas de Información/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
+            }
+          },
+          {
+            "id": "3b8e7754b7cfd952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Conocimiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conocimiento"
+            }
+          },
+          {
+            "id": "150d570508439cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Evolución de los Sistemas de Información en las Organizaciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evolución de los Sistemas de Información en las Organizaciones"
+            }
+          },
+          {
+            "id": "4d576b7633315264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Analista de Sistemas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analista de Sistemas"
+            }
+          },
+          {
+            "id": "b142eb5cc90528f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Procesos de Desarrollo de SI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Procesos de Desarrollo de SI"
+            }
+          },
+          {
+            "id": "43da8625792a64fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Proyecto de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto de Software"
+            }
+          },
+          {
+            "id": "f497c608c30b46b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Proyecto de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto de Software"
+            }
+          },
+          {
+            "id": "a5f45f09d219e4fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Proyecto de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto de Software"
+            }
+          },
+          {
+            "id": "931206bca714bb47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Alcance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alcance"
+            }
+          },
+          {
+            "id": "f84ea39097725a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Proyecto de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto de Software"
+            }
+          },
+          {
+            "id": "7b2b64da3d80ac63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Proyecto de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto de Software"
+            }
+          },
+          {
+            "id": "1acd62a85b31d780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Metodología.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metodología"
+            }
+          },
+          {
+            "id": "2e42f1befee70493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Entrevista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entrevista"
             }
           },
           {
@@ -50,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -130,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2do Nivel/Física 2/index.md",
+                "file": "2do Nivel/Análisis de Sistemas de Información/Entrevista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +308,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Entrevista"
             }
           },
           {
@@ -149,12 +317,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2do Nivel/Física 2/index.md",
+                "file": "2do Nivel/Análisis de Sistemas de Información/Entrevista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Entrevista"
             }
           },
           {
@@ -210,45 +378,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12cf40dbbc8e4c09",
+  "active": "2e42f1befee70493",
   "lastOpenFiles": [
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Estructuras de Entrevista.png",
+    "2do Nivel/Análisis de Sistemas de Información/Ingeniería de Requisitos.md",
+    "2do Nivel/Análisis de Sistemas de Información/Entrevista.md",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/El Problema de los Requerimientos.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/El Problema de los Requerimientos.png",
+    "2do Nivel/Análisis de Sistemas de Información/Analista de Sistemas.md",
+    "2do Nivel/Análisis de Sistemas de Información/Metodología.md",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Índice de Fallos (por Efectos Laterales).png",
+    "2do Nivel/Análisis de Sistemas de Información/Riesgo.md",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Riesgo.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Elementos de una Metodología.png",
+    "2do Nivel/Análisis de Sistemas de Información/Proyecto de Software.md",
+    "2do Nivel/Análisis de Sistemas de Información/Software.md",
+    "2do Nivel/Análisis de Sistemas de Información/Viabilidad de un Proyecto.md",
+    "2do Nivel/Análisis de Sistemas de Información/Ciclo de Vida del Software.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Homeostasis.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Organizaciones como Sistemas Abiertos.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Sistema.md",
+    "2do Nivel/Análisis de Sistemas de Información/Alcance.md",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Triángulo de Hierro.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Líneas de Comunicaciones.png",
+    "2do Nivel/Análisis de Sistemas de Información/Resolución de Problemas.md",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Diagrama Causa-Efecto de Ishikawa.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Causas Raíz.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments",
+    "2do Nivel/Análisis de Sistemas de Información/Procesos de Desarrollo de SI.md",
+    "2do Nivel/Análisis de Sistemas de Información/Evolución de los Sistemas de Información en las Organizaciones.md",
+    "2do Nivel/Análisis de Sistemas de Información/Conocimiento.md",
+    "2do Nivel/Análisis de Sistemas de Información/index.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Información.md",
+    "2do Nivel/Física 2/index.md",
+    "2do Nivel/index.md",
+    "2do Nivel/Análisis de Sistemas de Información",
     "2do Nivel/Física 2/attachments/MOC Física 2.png",
     "2do Nivel/Física 2/MOC Física 2.canvas",
     "2do Nivel/Física 2/Ondas.md",
     "2do Nivel/Física 2/Interferencia.md",
     "2do Nivel/Física 2/Difracción.md",
     "2do Nivel/Física 2/Ondas Electromagnéticas.md",
-    "2do Nivel/Física 2/Termodinámica.md",
-    "2do Nivel/Física 2/Resistencia Eléctrica.md",
-    "2do Nivel/Física 2/Autoinducción.md",
-    "2do Nivel/Física 2/Dilatación.md",
-    "2do Nivel/Física 2/attachments/Dilatación Volumétrica.png",
-    "2do Nivel/Física 2/attachments/Dilatación Lineal.png",
-    "2do Nivel/Física 2/attachments/Dilatación Lineal.png",
-    "2do Nivel/Física 2/Calor.md",
-    "2do Nivel/Física 2/attachments/Calorimetría.png",
-    "2do Nivel/Física 2/Principio Cero de la Termodinámica.md",
-    "2do Nivel/Física 2/Gases Ideales.md",
-    "2do Nivel/Física 2/attachments/Principio Cero de la Termodinámica.png",
-    "2do Nivel/Física 2/Polarización.md",
-    "2do Nivel/Física 2/attachments/Ángulo de Brewster.png",
-    "2do Nivel/Física 2/attachments/Ley de Malus.png",
-    "2do Nivel/Física 2/attachments/Polarización Elíptica.png",
-    "2do Nivel/Física 2/attachments/Polarización Circular en Movimiento.png",
-    "2do Nivel/Física 2/attachments/Polarización Circular.png",
-    "2do Nivel/Física 2/Experiencia de Young de la Doble Rendija.md",
-    "2do Nivel/Física 2/Interferencia en Películas Delgadas.md",
-    "2do Nivel/Física 2/Luminancia.md",
-    "2do Nivel/Física 2/Iluminancia.md",
-    "2do Nivel/Física 2/Intensidad Luminosa.md",
-    "2do Nivel/Física 2/Flujo Radiante.md",
-    "2do Nivel/Física 2/Rendimiento Luminoso.md",
-    "2do Nivel/Física 2/Fotometría.md",
-    "2do Nivel/Física 2/Polarización de un Dieléctrico.md",
-    "2do Nivel/Física 2/Materiales Dieléctricos.md",
-    "2do Nivel/Física 2/Densidad y Flujo de Energía Electromagnética.md",
-    "2do Nivel/Física 2/Ecuaciones de Maxwell.md",
-    "2do Nivel/Física 2/Materiales Magnéticos.md",
     "2do Nivel/Física 2/attachments",
     "2do Nivel/Física 2",
     "tatus",
@@ -259,11 +429,9 @@
     "2do Nivel/Sistemas Operativos/MOC - Sistemas Operativos.canvas",
     "2do Nivel/Sistemas Operativos/attachments",
     "2do Nivel/Sistemas Operativos",
-    "desktop.ini",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
-    "5to Nivel",
     "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas",
     "1er Nivel/Inglés 1/MOC Inglés 1.canvas",
     "1er Nivel/Algoritmos y Estructuras de Datos/MOC Algoritmos y Estructuras de Datos.canvas",

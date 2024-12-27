@@ -5,7 +5,7 @@ Características:
 1. **Propósito**: es el objetivo que el sisstema trata de alcanzar.
 2. [[Globalismo]].
 3. [[Entropía]].
-4. [[Homeostasia]].
+4. [[Homeostasis]].
 
 ## Componentes Básicos
 

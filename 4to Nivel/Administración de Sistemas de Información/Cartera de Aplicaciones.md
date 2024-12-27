@@ -22,7 +22,7 @@ $$\frac{\text{beneficios a lograr (ajustados por riesgo)}}{\text{recursos limita
 
 ## Aplicaciones Estratégicas
 
-Estas aplicaciones son orientadas al **negocio**, claramente relacionadas con los **factores de éxito críticos** derivados de los objetivos empresariales. El [[Riesgo]] principal es perder una **oportunidad de negocio**.
+Estas aplicaciones son orientadas al **negocio**, claramente relacionadas con los **factores de éxito críticos** derivados de los objetivos empresariales. El [[4to Nivel/Administración de Sistemas de Información/Riesgo]] principal es perder una **oportunidad de negocio**.
 
 Se debe priorizar las aplicaciones que **más contribuyan a alcanzar los objetivos** de la empresa usando menos recursos. Para evaluar esto se puede expresar cada proyecto en términos de los factores de éxitos críticos a los que conduce.
 

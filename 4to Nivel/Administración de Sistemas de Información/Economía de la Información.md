@@ -12,14 +12,14 @@ Factores del dominio empresarial que afectan a la justificación comercial:
 2. Ventaja competitiva.
 3. Apoyo a la información de management.
 4. Reacción competitiva.
-5. [[Riesgo]] del proyecto u organizacional.
+5. [[4to Nivel/Administración de Sistemas de Información/Riesgo]] del proyecto u organizacional.
 
 Factores del dominio tecnológico que afectan a la viabilidad técnica:
 
 1. Arquitectura estratégica de los SI.
 2. Incertidumbre de decisión.
 3. Incertidumbre técnica.
-4. [[Riesgo]] de infraestructura.
+4. [[4to Nivel/Administración de Sistemas de Información/Riesgo]] de infraestructura.
 
 Los factores positivos aumentan el atractivo de un posible proyecto y los negativos lo disminuyen. La justificación comercial tiende a tener factores positivos por el **potencial** de las aplicaciones, mientras que la viabilidad técnica suele tener factores negativos por las **limitaciones** de la realidad.
 
