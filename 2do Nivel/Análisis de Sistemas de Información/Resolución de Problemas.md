@@ -1,6 +1,5 @@
 En una [[Organización]] hay un **problema** cuando la realidad es distinta a lo planeado, lo cual genera un *desvío*. Cuando el problema se trata de una necesidad de información, busca cerrar esa brecha o *gap* mediante un [[Proyecto de Software]].
 
-
 Proceso de resolución de problemas:
 
 1. Determinar el problema y sus **circunstancias** (contexto).
@@ -12,6 +11,8 @@ Proceso de resolución de problemas:
 7. Evaluar los **resultados** de forma *formativa* (evaluar el proceso para decidir si pivotar o no) y *sumativa* (evaluar el producto ya finalizado).
 
 $$\text{Problema} \ne \text{Causas} \ne \text{Síntomas} \ne \text{Propuesta de Solución}$$
+
+## Causas
 
 ![[Causas Raíz.png]]
 
