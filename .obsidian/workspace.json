@@ -48,9 +48,121 @@
               "icon": "lucide-file",
               "title": "Caso de Uso del Negocio"
             }
+          },
+          {
+            "id": "0f044bf4c1568a34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Modelado del Dominio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelado del Dominio"
+            }
+          },
+          {
+            "id": "6e59283c60052103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Caso de Uso del Sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caso de Uso del Sistema"
+            }
+          },
+          {
+            "id": "8aeca8d70bbc0382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Diagrama de Casos de Uso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diagrama de Casos de Uso"
+            }
+          },
+          {
+            "id": "40cd67d33be80802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Proceso Unificado de Desarrollo de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proceso Unificado de Desarrollo de Software"
+            }
+          },
+          {
+            "id": "71c05e13a44aee30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Flujo de Análisis en el PU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flujo de Análisis en el PU"
+            }
+          },
+          {
+            "id": "ecede5e6dca8f945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Captura de Requisitos en el PU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Captura de Requisitos en el PU"
+            }
+          },
+          {
+            "id": "300024492ac91b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Flujos de Trabajo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flujos de Trabajo"
+            }
+          },
+          {
+            "id": "ee5223d47dfd862c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Análisis de Sistemas de Información/Modelado del Dominio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelado del Dominio"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -130,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Caso de Uso del Negocio.md",
+                "file": "2do Nivel/Análisis de Sistemas de Información/Flujo de Análisis en el PU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Caso de Uso del Negocio"
+              "title": "Backlinks for Flujo de Análisis en el PU"
             }
           },
           {
@@ -149,12 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Caso de Uso del Negocio.md",
+                "file": "2do Nivel/Análisis de Sistemas de Información/Flujo de Análisis en el PU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Caso de Uso del Negocio"
+              "title": "Outgoing links from Flujo de Análisis en el PU"
             }
           },
           {
@@ -192,7 +304,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,13 +323,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f4bd49b712a0a75",
+  "active": "71c05e13a44aee30",
   "lastOpenFiles": [
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Actores.png",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Caso de Uso del Negocio.png",
-    "2do Nivel/Análisis de Sistemas de Información/Modelado del Negocio.md",
+    "2do Nivel/Análisis de Sistemas de Información/Proceso Unificado de Desarrollo de Software.md",
+    "2do Nivel/Análisis de Sistemas de Información/Flujo de Análisis en el PU.md",
+    "2do Nivel/Análisis de Sistemas de Información/Captura de Requisitos en el PU.md",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Captura de Requisitos en el PU.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Disciplinas del Proceso Unificado.png",
+    "2do Nivel/Análisis de Sistemas de Información/Metodología.md",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Ciclo de Vida del Software en el Proceso Unificado.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/4+1 Vistas de Kruchten.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Desarrollo Incremental e Iterativo.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Proceso de Desarrollo de Software.png",
+    "2do Nivel/Análisis de Sistemas de Información/Flujos de Trabajo.md",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Modelo en V.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Modelo Incremental.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Modelo en Espiral.png",
+    "2do Nivel/Análisis de Sistemas de Información/attachments/Prototipos.png",
+    "2do Nivel/Análisis de Sistemas de Información/Principios de la Orientación a Objetos.md",
+    "2do Nivel/Análisis de Sistemas de Información/Modelado del Dominio.md",
+    "2do Nivel/Análisis de Sistemas de Información/Diagrama de Casos de Uso.md",
+    "2do Nivel/Análisis de Sistemas de Información/Caso de Uso del Sistema.md",
     "2do Nivel/Análisis de Sistemas de Información/Caso de Uso del Negocio.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Diagrama de Actividad.png",
+    "1er Nivel/Sistemas y Procesos de Negocio/Sistema de Caja Negra.md",
+    "2do Nivel/Análisis de Sistemas de Información/Modelado del Negocio.md",
     "2do Nivel/Análisis de Sistemas de Información/Negocio Detrás del Sistema.md",
     "2do Nivel/Análisis de Sistemas de Información/Modelado de los Sistemas.md",
     "2do Nivel/Análisis de Sistemas de Información/Gestión de Requisitos.md",
@@ -224,30 +354,13 @@
     "2do Nivel/Análisis de Sistemas de Información/Herramientas Gráficas para Documentar.md",
     "2do Nivel/Análisis de Sistemas de Información/Evolución de los SI en las Organizaciones.md",
     "2do Nivel/Análisis de Sistemas de Información/Especificación de Requisitos de Software.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Modelado de los Sistemas.png",
     "2do Nivel/Análisis de Sistemas de Información/Riesgo.md",
     "2do Nivel/Análisis de Sistemas de Información/Resolución de Problemas.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Especificación de Requisitos de Software.png",
     "2do Nivel/Análisis de Sistemas de Información/Documento de Requerimientos del Usuario.md",
     "4to Nivel/Ingeniería y Calidad de Software/Calidad.md",
-    "2do Nivel/Análisis de Sistemas de Información/Metodología.md",
     "2do Nivel/Análisis de Sistemas de Información/Requisitos de Software.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Gestión de Cambios en los Requisitos.png",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Linea Base de Requerimientos.png",
     "2do Nivel/Análisis de Sistemas de Información/Ingeniería de Requisitos.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Análisis y Negociación de Requisitos.png",
     "2do Nivel/Análisis de Sistemas de Información/Educción de Requisitos.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Ingeniería de Requisitos.png",
-    "2do Nivel/Análisis de Sistemas de Información/Requerimientos.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Requerimientos.png",
-    "2do Nivel/Análisis de Sistemas de Información/Catarata de Errores de Mizuno.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Catarata de Errores de Mizuno.png",
-    "2do Nivel/Análisis de Sistemas de Información/Prototipos.md",
-    "2do Nivel/Análisis de Sistemas de Información/Observación.md",
-    "2do Nivel/Análisis de Sistemas de Información/Cuestionario.md",
-    "2do Nivel/Física 2/Termodinámica.md",
-    "2do Nivel/Análisis de Sistemas de Información/Entrevista.md",
-    "2do Nivel/Análisis de Sistemas de Información/Analista de Sistemas.md",
     "2do Nivel/Análisis de Sistemas de Información/attachments",
     "2do Nivel/Análisis de Sistemas de Información",
     "2do Nivel/Física 2/MOC Física 2.canvas",

@@ -16,3 +16,15 @@ Las metodologías y prácticas ayudan a repetir y predecir el proceso. La ingeni
 
 - En pequeños sistemas, métodos informales o *ad-hoc* pueden ser suficientes.
 - En grades sistemas, resulta necesario utilizar métodos formalizados.
+
+## Calidad
+
+La IEEE define la calidad como "todos los aspectos de un producto o servicio que se relacionan con las necesidades explícitas e implícitas del usuario". La calidad es subjetiva y depende del grado de satisfacción del cliente o usuario. Hay calidad:
+
+- **Del Proceso**: un buen proceso asegura calidad interna del producto. Existen certificados.
+- **Del Producto**: puede ser:
+	1. **Interna**: el software es fácil de mantener y expandir.
+	2. **Externa**: el software cumple con los requisitos.
+	3. **En Uso**: es la satisfacción del usuario, cuando el software ya está implementado.
+
+Una metodología suele buscar asegurar la calidad del proceso.
