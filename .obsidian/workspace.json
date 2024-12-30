@@ -4,165 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0e6835d8390842",
+        "id": "bc305f54b3dbf9de",
         "type": "tabs",
         "children": [
           {
-            "id": "064883f86d52b98d",
+            "id": "fb867380bf4bd4ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Modelado de los Sistemas.md",
+                "file": "2do Nivel/Análisis de Sistemas de Información/Metodología.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelado de los Sistemas"
+              "title": "Metodología"
             }
           },
           {
-            "id": "831c4c1ebe7fa53e",
+            "id": "e76381692916df6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Modelado del Negocio.md",
+                "file": "2do Nivel/Análisis de Sistemas de Información/Metodologías Ágiles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelado del Negocio"
+              "title": "Metodologías Ágiles"
             }
           },
           {
-            "id": "3f4bd49b712a0a75",
+            "id": "a904c56130dd1f7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Caso de Uso del Negocio.md",
+                "file": "2do Nivel/Análisis de Sistemas de Información/eXtreme Programing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caso de Uso del Negocio"
+              "title": "eXtreme Programing"
             }
           },
           {
-            "id": "0f044bf4c1568a34",
+            "id": "1fbede4e6d987daf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Modelado del Dominio.md",
+                "file": "2do Nivel/Análisis de Sistemas de Información/Scrum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelado del Dominio"
-            }
-          },
-          {
-            "id": "6e59283c60052103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Caso de Uso del Sistema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caso de Uso del Sistema"
-            }
-          },
-          {
-            "id": "8aeca8d70bbc0382",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Diagrama de Casos de Uso.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diagrama de Casos de Uso"
-            }
-          },
-          {
-            "id": "40cd67d33be80802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Proceso Unificado de Desarrollo de Software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proceso Unificado de Desarrollo de Software"
-            }
-          },
-          {
-            "id": "71c05e13a44aee30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Flujo de Análisis en el PU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flujo de Análisis en el PU"
-            }
-          },
-          {
-            "id": "ecede5e6dca8f945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Captura de Requisitos en el PU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Captura de Requisitos en el PU"
-            }
-          },
-          {
-            "id": "300024492ac91b28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Flujos de Trabajo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flujos de Trabajo"
-            }
-          },
-          {
-            "id": "ee5223d47dfd862c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Modelado del Dominio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelado del Dominio"
+              "title": "Scrum"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -261,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Flujo de Análisis en el PU.md",
+                "file": "2do Nivel/Análisis de Sistemas de Información/Scrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Flujo de Análisis en el PU"
+              "title": "Outgoing links from Scrum"
             }
           },
           {
@@ -323,15 +225,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71c05e13a44aee30",
+  "active": "1fbede4e6d987daf",
   "lastOpenFiles": [
+    "2do Nivel/Análisis de Sistemas de Información/eXtreme Programing.md",
+    "2do Nivel/Análisis de Sistemas de Información/Scrum.md",
+    "2do Nivel/Análisis de Sistemas de Información/Metodologías Ágiles.md",
+    "2do Nivel/Análisis de Sistemas de Información/Metodología.md",
+    "2do Nivel/Análisis de Sistemas de Información/Flujo de Análisis en el PU.md",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Flujo de Análisis en el PU.png",
     "2do Nivel/Análisis de Sistemas de Información/Proceso Unificado de Desarrollo de Software.md",
-    "2do Nivel/Análisis de Sistemas de Información/Flujo de Análisis en el PU.md",
     "2do Nivel/Análisis de Sistemas de Información/Captura de Requisitos en el PU.md",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Captura de Requisitos en el PU.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Disciplinas del Proceso Unificado.png",
-    "2do Nivel/Análisis de Sistemas de Información/Metodología.md",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Ciclo de Vida del Software en el Proceso Unificado.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments/4+1 Vistas de Kruchten.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Desarrollo Incremental e Iterativo.png",
@@ -340,7 +245,6 @@
     "2do Nivel/Análisis de Sistemas de Información/attachments/Modelo en V.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Modelo Incremental.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Modelo en Espiral.png",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Prototipos.png",
     "2do Nivel/Análisis de Sistemas de Información/Principios de la Orientación a Objetos.md",
     "2do Nivel/Análisis de Sistemas de Información/Modelado del Dominio.md",
     "2do Nivel/Análisis de Sistemas de Información/Diagrama de Casos de Uso.md",
@@ -359,8 +263,6 @@
     "2do Nivel/Análisis de Sistemas de Información/Resolución de Problemas.md",
     "2do Nivel/Análisis de Sistemas de Información/Documento de Requerimientos del Usuario.md",
     "4to Nivel/Ingeniería y Calidad de Software/Calidad.md",
-    "2do Nivel/Análisis de Sistemas de Información/Requisitos de Software.md",
-    "2do Nivel/Análisis de Sistemas de Información/Ingeniería de Requisitos.md",
     "2do Nivel/Análisis de Sistemas de Información/attachments",
     "2do Nivel/Análisis de Sistemas de Información",
     "2do Nivel/Física 2/MOC Física 2.canvas",

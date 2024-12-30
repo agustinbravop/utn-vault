@@ -1,4 +1,4 @@
-La **_planning poker_** es una sesión de [[Estimación]] para asignar los [[Punto Historia]] a cada [[Historias de Usuario]]. En [[Scrum]] se puede realizar en cada _planning meeting_.
+La **_planning poker_** es una sesión de [[Estimación]] para asignar los [[Punto Historia]] a cada [[Historias de Usuario]]. En [[4to Nivel/Ingeniería y Calidad de Software/Scrum]] se puede realizar en cada _planning meeting_.
 
 **Todo el equipo** debe entender todas las HUs. Una vez entendidas, comienza la **técnica**:
 

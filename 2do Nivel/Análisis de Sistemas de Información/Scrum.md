@@ -1,0 +1,1 @@
+Scrum es un *marco de trabajo*
