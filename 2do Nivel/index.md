@@ -4,7 +4,7 @@ title: 2do Nivel
 
 Materias obligatorias:
 
-1. Análisis de Sistemas de Información (integradora).
+1. [[2do Nivel/Análisis de Sistemas de Información/index|Análisis de Sistemas de Información]] (integradora).
 2. Análisis Matemático 2.
 3. [[2do Nivel/Física 2/index|Física 2]].
 4. Ingeniería y Sociedad.

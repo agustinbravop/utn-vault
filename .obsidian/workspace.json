@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/index.md",
+                "file": "3er Nivel/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 29.107373868046572,
+        "dimension": 29.10737386804657,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/index.md",
+                "file": "3er Nivel/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,8 +238,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e76381692916df6d",
+  "active": "a5a650c066f2c957",
   "lastOpenFiles": [
+    "3er Nivel/Untitled",
+    "1er Nivel/index.md",
+    "2do Nivel/index.md",
+    "3er Nivel/index.md",
+    "2do Nivel/Análisis de Sistemas de Información/index.md",
     "2do Nivel/Análisis de Sistemas de Información/attachments/MOC Análisis de Sistemas de Información.png",
     "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",
     "2do Nivel/Análisis de Sistemas de Información/Modelado del Negocio.md",
@@ -265,10 +270,6 @@
     "4to Nivel/Administración de Sistemas de Información/Análisis del Riesgo.md",
     "4to Nivel/Ingeniería y Calidad de Software/Velocidad.md",
     "4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Scrum.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Punto Historia.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Producto Mínimo Viable.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Product Backlog.md",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Scrum.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Burndown Chart.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Product Backlog.png",
@@ -276,7 +277,6 @@
     "2do Nivel/Análisis de Sistemas de Información/attachments/Flujo de Análisis en el PU.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Captura de Requisitos en el PU.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments/Disciplinas del Proceso Unificado.png",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Ciclo de Vida del Software en el Proceso Unificado.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments",
     "2do Nivel/Análisis de Sistemas de Información",
     "2do Nivel/Física 2/MOC Física 2.canvas",
