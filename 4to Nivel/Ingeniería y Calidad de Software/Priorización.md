@@ -1,4 +1,4 @@
-El [[Product Backlog]] se prioriza según el **valor al negocio** de las [[Historias de Usuario]]. Se tienen en cuenta tres variables:
+El [[Product Backlog]] se prioriza según el **valor al negocio** de las [[4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario|Historias de Usuario]]. Se tienen en cuenta tres variables:
 
 - **Costo**
 - **Beneficio**

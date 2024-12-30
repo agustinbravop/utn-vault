@@ -1,8 +1,8 @@
->Caminar sobre las aguas y desarrollar software a partir de la [[Especificación de Requisitos de Software]] es fácil, si ambas están congeladas.
+> Caminar sobre las aguas y desarrollar software a partir de la [[Especificación de Requisitos de Software]] es fácil, si ambas están congeladas.
 
-Los [[Requisitos de Software]] cambian a través del tiempo: son **volátiles**.
+Los [[Requisitos de Software]] cambian a través del tiempo: son **volátiles**. Por esto, como parte de la [[Ingeniería de Requisitos]], es importante gestionar su cambio.
 
-**Línea base**: es una imagen en el tiempo que representa los requisitos acordados para el release actual (define un *milestone* a cumplir). Es una declaración del estado de los requisitos en cierto momento.
+**Línea base**: es una imagen en el tiempo que representa los requisitos acordados para el release actual (define un _milestone_ a cumplir). Es una declaración del estado de los requisitos en cierto momento.
 
 ![[Linea Base de Requerimientos.png]]
 

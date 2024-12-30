@@ -11,7 +11,7 @@ flowchart LR;
 
 El caso de uso debe describir de forma clara el comportamiento externo observable del software. No se deben mencionar interfaces del sistema o situaciones externas al alcance del sistema. Se debe identificar claramente al actor y usar la voz activa en forma de acción-reacción. El caso de uso responde de forma completa al objetivo de un actor, y tiene sentido para el actor.
 
-Un diagrama de CU no debe mostrar más de 15 casos, sino que debería particionarse en varios *paquetes*. Es conveniente agrupar las funcionalidades en módulos por actor. Hay que comprobar que los CU incluyan toda la funcionalidad del sistema.
+Un diagrama de CU no debe mostrar más de 15 casos, sino que debería particionarse en varios _paquetes_. Es conveniente agrupar las funcionalidades en módulos por actor. Hay que comprobar que los CU incluyan toda la funcionalidad del sistema.
 
 ## Tipos de Caso de Uso
 

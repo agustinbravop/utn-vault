@@ -43,7 +43,7 @@ Scrum define una serie de roles para gestionar las **personas** **responsables**
 
 ## Necesidades
 
-Las necesidades son un conjunto de ítems ([[Historias de Usuario]] que cumplan el método _INVEST_) ordenados por prioridad según el PO y organizados en el [[Product Backlog]], el cual está en constante movimiento. Cuando llegan nuevas HUs cambian las prioridades existentes. El SM puede ayudar al PO a organizar el backlog.
+Las necesidades son un conjunto de ítems ([[4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario|Historias de Usuario]] que cumplan el método _INVEST_) ordenados por prioridad según el PO y organizados en el [[Product Backlog]], el cual está en constante movimiento. Cuando llegan nuevas HUs cambian las prioridades existentes. El SM puede ayudar al PO a organizar el backlog.
 
 ## Ceremonias
 

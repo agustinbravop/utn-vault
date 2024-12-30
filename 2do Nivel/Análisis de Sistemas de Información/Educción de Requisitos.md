@@ -1,4 +1,4 @@
-Como [[Analista de Sistemas|analistas]], nosotros no tomamos pedidos, sino que *potenciamos* con conocimiento técnico las ideas del cliente. En la [[Ingeniería de Requisitos]], la educción o **elicitación** es un proceso de definición y descubrimiento de requisitos junto al cliente. Debemos ver cuál es la variable más importante (calidad, tiempo, seguridad, etc). 
+Como [[Analista de Sistemas|analistas]], nosotros no tomamos pedidos, sino que _potenciamos_ con conocimiento técnico las ideas del cliente. En la [[Ingeniería de Requisitos]], la educción o **elicitación** es un proceso de definición y descubrimiento de requisitos junto al cliente. Debemos ver cuál es la variable más importante (calidad, tiempo, seguridad, etc).
 
 Se busca comprender:
 
@@ -30,11 +30,11 @@ Existen muchas técnicas para encontrar hechos. Estas pueden ser colaborativas o
 
 1. [[Entrevista]].
 2. **Revisión de Registros**: indagar sobre documentos, los cuales pueden ser:
-	- **Cuantitativos**: informes, formularios con un propósito específico.
-	- **Cualitativos**: manuales, reglamentos, memos, procedimientos.
+   - **Cuantitativos**: informes, formularios con un propósito específico.
+   - **Cualitativos**: manuales, reglamentos, memos, procedimientos.
 3. **Reunión**: un grupo de personas puede profundizar mejor que de manera individual, gracias al efecto sinérgico. Si bien enfrenta a los interesados con contradicciones y conflictos entre ellos, suele preponderar la opinión de los que tienen mayor autoridad en la organización.
-	- ***Brainstorming***: reuniones para generar ideas en un ambiente libre de juicios. Se enuncia el problema y se buscan muchas ideas que luego se revisan, descartan, y priorizan.
-	- ***Joint Application Design***: reuniones multidisciplinarias para discutir ideas, no personas.
+   - **_Brainstorming_**: reuniones para generar ideas en un ambiente libre de juicios. Se enuncia el problema y se buscan muchas ideas que luego se revisan, descartan, y priorizan.
+   - **_Joint Application Design_**: reuniones multidisciplinarias para discutir ideas, no personas.
 4. [[Cuestionario]].
 5. [[Observación]].
 6. **Simulación**: es una técnica dinámica y consiste en hacer circular un documento para ver por qué pasos y procesos es sometido. Luego, se contrasta con la información revelada por métodos estáticos.

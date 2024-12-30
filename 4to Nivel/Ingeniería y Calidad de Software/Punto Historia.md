@@ -1,4 +1,4 @@
-Los **_story points_** o puntos historia son una herramienta que hacen a la [[Estimación]] parte de las [[Historias de Usuario]]. Es el **esfuerzo ideal** medido en jornadas. Considera:
+Los **_story points_** o puntos historia son una herramienta que hacen a la [[Estimación]] parte de las [[4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario|Historias de Usuario]]. Es el **esfuerzo ideal** medido en jornadas. Considera:
 
 - La **_complejidad_** de la tarea, que es **subjetiva** al equipo.
 - La cantidad de **esfuerzo necesario** para lograr completarla.

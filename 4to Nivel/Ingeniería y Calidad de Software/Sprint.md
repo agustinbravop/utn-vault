@@ -11,7 +11,7 @@ Cada sprint tiene asociado un **_sprint backlog_**, que es una fracción del [[P
 
 > ¿Cuanto tarda una idea en volverse software?
 
-- Según [[4to Nivel/Ingeniería y Calidad de Software/Scrum]]: entre 1 y 4 semanas.
+- Según [[4to Nivel/Ingeniería y Calidad de Software/Scrum|Scrum]]: entre 1 y 4 semanas.
 - Según [[XP]]: no más de 4 semanas.
 
 La duración se debe adecuar al equipo y al cliente. Depende de:

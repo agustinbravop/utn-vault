@@ -1,4 +1,4 @@
->Una imagen dice más que mil palabras.
+> Una imagen dice más que mil palabras.
 
 **Tarea**: conjunto de actividades que hace una persona en bloque. \
 **Agente**: cualquier elemento que intercambia información con el sistema. Puede ser interno o externo. \

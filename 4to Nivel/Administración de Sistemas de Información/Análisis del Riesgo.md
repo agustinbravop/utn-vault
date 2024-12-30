@@ -1,4 +1,4 @@
-La segunda etapa de la [[Gestión del Riesgo]] consiste en analizar el **impacto potencial** para determinar la pérdida esperada (el costo del [[4to Nivel/Administración de Sistemas de Información/Riesgo]]).
+La segunda etapa de la [[Gestión del Riesgo]] consiste en analizar el **impacto potencial** para determinar la pérdida esperada (el costo del [[4to Nivel/Administración de Sistemas de Información/Riesgo|Riesgo]]).
 
 La **vulnerabilidad** de un área en particular depende de:
 

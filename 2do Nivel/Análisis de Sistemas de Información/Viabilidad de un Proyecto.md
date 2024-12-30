@@ -24,7 +24,7 @@ Pressman agrega otros 3 tipos de viabilidad:
 
 Estos 6 aspectos de la viabilidad son fundamentales y todos deben ser viables. Si un aspecto no es viable, entonces el sistema es inviable/infactible.
 
-La viabilidad no es un compromiso o aceptación de la *propuesta de sistema*. Es útil para desechar los proyectos que no son factibles o relevantes a la organización. Se debe aclarar de manera formal los objetivos del proyecto ([[Alcance]]).
+La viabilidad no es un compromiso o aceptación de la _propuesta de sistema_. Es útil para desechar los proyectos que no son factibles o relevantes a la organización. Se debe aclarar de manera formal los objetivos del proyecto ([[Alcance]]).
 
 ## Estudio de Viabilidad
 

@@ -2,11 +2,11 @@ Buscamos entender a la organización, su estructura, y sus actores. El **modelad
 
 Como la primera parte del [[Modelado de los Sistemas]], el modelado del negocio identifica y representa:
 
-1. *Objetivos* de la organización.
-2. *Procesos* y sus *actividades*.
-3. *Reglas de negocio* que regulan su funcionamiento.
-4. *Objetos* (datos o documentos).
-5. *Actores* (personas) que tienen un *flujo de trabajo*.
+1. _Objetivos_ de la organización.
+2. _Procesos_ y sus _actividades_.
+3. _Reglas de negocio_ que regulan su funcionamiento.
+4. _Objetos_ (datos o documentos).
+5. _Actores_ (personas) que tienen un _flujo de trabajo_.
 
 Podemos modelar el negocio orientado al valor/cliente, o a la actividad/rol.
 
@@ -18,10 +18,10 @@ En una organización, existen **procesos**:
 
 La filosofía de una organización se plasma en su SI. En particular:
 
-- La *visión* describe una expectativa ideal a largo plazo si todo fuera bien.
-- La *misión* describe la razón de ser de la organización.
-- Los *objetivos* establecen resultados a lograr. Se subdividen en *metas* a alcanzar, lo que permite medir el progreso. Para lograr esos objetivos se deben poner en marcha procesos de negocio.
-- Para cada *acción* de esos procesos, se deben asignar responsables, recursos, etc.
+- La _visión_ describe una expectativa ideal a largo plazo si todo fuera bien.
+- La _misión_ describe la razón de ser de la organización.
+- Los _objetivos_ establecen resultados a lograr. Se subdividen en _metas_ a alcanzar, lo que permite medir el progreso. Para lograr esos objetivos se deben poner en marcha procesos de negocio.
+- Para cada _acción_ de esos procesos, se deben asignar responsables, recursos, etc.
 
 ```mermaid
 flowchart LR;

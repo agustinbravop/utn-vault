@@ -1,4 +1,4 @@
-XP es una de las [[Metodologías Ágiles]]. Fue creada por Kent Beck en 1999 y diseñada para entornos dinámicos con equipos pequeños (de menos de 10 personas). Está *orientada a la codificación*, es decir que se centra en cómo construir software.
+XP es una de las [[Metodologías Ágiles]]. Fue creada por Kent Beck en 1999 y diseñada para entornos dinámicos con equipos pequeños (de menos de 10 personas). Está _orientada a la codificación_, es decir que se centra en cómo construir software.
 
 Los objetivos de XP son potenciar el **trabajo en equipo** y la **satisfacción del cliente**.
 
@@ -26,19 +26,9 @@ Roles informales:
 5. Tester.
 6. Tracker.
 
-Las **historias de usuario** (HU) son pedacitos de funcionalidad que establecen los [[Requerimientos]] del cliente. Es la alternativa a la [[Captura de Requisitos en el PU]] que XP propone. Se escriben con cierto formato:
+En XP se **planifica por entrega**: se priorizan las [[2do Nivel/Análisis de Sistemas de Información/Historias de Usuario|Historias de Usuario]] que el cliente elige. La línea base es un conjunto de HUs, y se debe estimar el esfuerzo de implementarlas. A cada programador se le asignan HUs a implementar.
 
-```
-Como [rol]
-Quiero [actividad]
-Para [valor para el negocio]
-```
-
-Se les suele agregar un ID, un título, y criterios de aceptación.
-
-En XP se **planifica por entrega**: se priorizan las HU que el cliente elige. La línea base es un conjunto de HUs, y se debe estimar el esfuerzo de implementarlas. A cada programador se le asignan HUs a implementar.
-
-Para programar se puede usar *pair programming*: donde dos programadores, un conductor y un navegante, cooperan para implementar una funcionalidad en conjunto. Esto aumenta la calidad y reduce la complejidad del código, además de compartir el [[Conocimiento]] entre el equipo (reduciendo así la documentación necesaria).
+Para programar se puede usar _pair programming_: donde dos programadores, un conductor y un navegante, cooperan para implementar una funcionalidad en conjunto. Esto aumenta la calidad y reduce la complejidad del código, además de compartir el [[Conocimiento]] entre el equipo (reduciendo así la documentación necesaria).
 
 12 prácticas agrupadas en 4 categorías:
 

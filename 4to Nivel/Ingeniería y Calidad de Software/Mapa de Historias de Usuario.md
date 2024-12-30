@@ -1,4 +1,4 @@
-Es una **herramienta** para **organizar** el [[Product Backlog]] y es una aproximación a la organización y priorización de [[Historias de Usuario]]. Ayuda al **descubrimiento** de nuevas HUs.
+Es una **herramienta** para **organizar** el [[Product Backlog]] y es una aproximación a la organización y priorización de [[4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario|Historias de Usuario]]. Ayuda al **descubrimiento** de nuevas HUs.
 
 La idea es que **todo el equipo** y el cliente intervengan y discutan para generar un **entendimiento compartido** del producto que vamos a construir.
 

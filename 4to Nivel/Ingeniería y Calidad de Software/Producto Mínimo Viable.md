@@ -1,1 +1,1 @@
-Es el **conjunto de funcionalidades mínimas por las cuales el cliente nos va a pagar al ser entregado**. Se equipara con la **primera release** del software, siempre compuesta por al menos todas las [[Historias de Usuario]] priorizadas como obligatorias.
+Es el **conjunto de funcionalidades mínimas por las cuales el cliente nos va a pagar al ser entregado**. Se equipara con la **primera release** del software, siempre compuesta por al menos todas las [[4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario|Historias de Usuario]] priorizadas como obligatorias.

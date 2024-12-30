@@ -1,4 +1,4 @@
-Los **prototipos** son *demos*, versiones reducidas, o conjuntos de pantallas estáticas de la aplicación final. Sirve como técnica en la [[Educción de Requisitos]] para evaluar el impacto del sistema en los usuarios. Ej: mockups, versiones beta, etc.
+Los **prototipos** son _demos_, versiones reducidas, o conjuntos de pantallas estáticas de la aplicación final. Sirve como técnica en la [[Educción de Requisitos]] para evaluar el impacto del sistema en los usuarios. Ej: mockups, versiones beta, etc.
 
 1. Trabajar en módulos administrables.
 2. Crear el prototipo con rapidez, sin calidad ni robustez.

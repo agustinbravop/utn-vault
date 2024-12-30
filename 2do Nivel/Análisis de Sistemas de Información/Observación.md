@@ -2,10 +2,10 @@ Se puede aprender sobre el usuario haciendo una inmersión en el ambiente real d
 
 La observación puede ser:
 
-- **Intrusiva**: se interactúa con el observado. Esto puede generar el *efecto Hawthorne*. Si los sujetos conocen nuestra presencia, suelen cambiar su conducta y pueden ocultar cosas.
+- **Intrusiva**: se interactúa con el observado. Esto puede generar el _efecto Hawthorne_. Si los sujetos conocen nuestra presencia, suelen cambiar su conducta y pueden ocultar cosas.
 - **No intrusiva**: se observa el funcionamiento del sistema sin que ls usuarios lo sepan.
 
-Grado de *participación* del observador:
+Grado de _participación_ del observador:
 
 1. **Nada**: solo vemos videos.
 2. **Pasiva**: presentes pero sin interacción.
@@ -13,7 +13,7 @@ Grado de *participación* del observador:
 4. **Activa**: nos mezclamos pero no del todo.
 5. **Completa**: somos un participante más.
 
-Grado de *explicitación* del observador:
+Grado de _explicitación_ del observador:
 
 1. Observación encubierta.
 2. Observación parcial/conocida.

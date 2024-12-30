@@ -8,7 +8,7 @@ Ventajas:
 
 Conviene:
 
-1. Desarrollar un *plan global de entrevistas*, que define a qué puestos de entrevistará, en qué secuencia *top-down*, con qué objetivos generales, y el período y cantidad de entrevistas.
+1. Desarrollar un _plan global de entrevistas_, que define a qué puestos de entrevistará, en qué secuencia _top-down_, con qué objetivos generales, y el período y cantidad de entrevistas.
 2. Planear cada entrevista de manera previa.
 3. Usar el estilo correcto de entrevista, y conocer la terminología del deominio.
 4. Ser buen oyente, buscar hechos y opiniones desde la curiosidad, evitar las interrupciones.

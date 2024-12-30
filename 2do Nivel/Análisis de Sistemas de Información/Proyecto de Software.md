@@ -12,8 +12,8 @@ Considerando a un [[Resolución de Problemas|problema]] como una pregunta, darle
 
 Todo proyecto:
 
-1. Implica un **principio** y un **fin**. 
-2. Utiliza **recursos** finitos y *actividades únicas no repetitivas*.
+1. Implica un **principio** y un **fin**.
+2. Utiliza **recursos** finitos y _actividades únicas no repetitivas_.
 3. Tiene un **objetivo**.
 4. Requiere un jefe de proyecto.
 5. Debe **medirse** y **planificarse**.
@@ -22,7 +22,7 @@ Todo proyecto:
 8. Tiene **riesgos**.
 9. Crea un producto, servicio, o **resultado**.
 
-Los proyectos son *temporales y únicos*, mientras que las operaciones realizan sus mismos procesos de forma continua.
+Los proyectos son _temporales y únicos_, mientras que las operaciones realizan sus mismos procesos de forma continua.
 
 Se inicia un proyecto para aprovechar una oportunidad o resolver un problema real, presunto, o previsto. Se termina dicho proyecto al alcanzar los objetivos, al desaparecer la necesidad, o al ser cancelado (por ejemplo si se sabe que no logrará alcanzar sus objetivos).
 

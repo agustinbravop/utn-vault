@@ -21,13 +21,13 @@ Los documentos de requisitos deben ser:
 
 ## Calidad
 
-La **calidad del software** no puede reducirse a un solo número y el concepto de calidad es específico al proyecto. Se especifica de antemano. Luego, el desarrollo se debe encargar de cumplir con la calidad preestablecida. 
+La **calidad del software** no puede reducirse a un solo número y el concepto de calidad es específico al proyecto. Se especifica de antemano. Luego, el desarrollo se debe encargar de cumplir con la calidad preestablecida.
 
 Una ERS perfecta es imposible y su calidad es difícil de cuantificar.
 
 ### FURPS
 
-El modelo *FURPS* de Hewlett-Packard en 1987 propone 5 características de la calidad:
+El modelo _FURPS_ de Hewlett-Packard en 1987 propone 5 características de la calidad:
 
 1. **Functionality**: requerimientos específicos del software, representan código a escribir.
 2. **Usability**: facilidad de uso del software. Estética, documentación, interfaz consistente, etc.
@@ -35,7 +35,7 @@ El modelo *FURPS* de Hewlett-Packard en 1987 propone 5 características de la ca
 4. **Performance**: tiempo de respuesta, velocidad, consumo de recursos, etc.
 5. **Supportability**: mantenibilidad, flexibilidad, compatibilidad, requisitos de instalación.
 
-IBM luego inventa *FURPS+*, agregando **restricciones**:
+IBM luego inventa _FURPS+_, agregando **restricciones**:
 
 - De diseño.
 - De implementación.

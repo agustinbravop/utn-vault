@@ -3,7 +3,7 @@ Para la [[Auditoría del Desarrollo]], Piattini y Del Peso proponen auditar todo
 1. Auditoría de la organización y gestión del área de desarrollo.
 2. Auditoría de proyectos de desarrollo de sistemas de información.
 
-Se basa en la metodología ISACA: _Information Systems Audit and Control Association_, basada en la evaluación del [[4to Nivel/Administración de Sistemas de Información/Riesgo]]. Propone evaluar los riesgos a partir de riesgos potenciales a los que está sometida una actividad definiendo **objetivos de control** que **minimicen los riesgos**. Los objetivos de control son los objetivos a cumplir en el control de procesos.
+Se basa en la metodología ISACA: _Information Systems Audit and Control Association_, basada en la evaluación del [[4to Nivel/Administración de Sistemas de Información/Riesgo|Riesgo]]. Propone evaluar los riesgos a partir de riesgos potenciales a los que está sometida una actividad definiendo **objetivos de control** que **minimicen los riesgos**. Los objetivos de control son los objetivos a cumplir en el control de procesos.
 
 ```mermaid
 flowchart LR;

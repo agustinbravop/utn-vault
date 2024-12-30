@@ -1,4 +1,4 @@
-La *ingeniería de sistemas* estudia y desarrolla los [[Sistema|sistemas]] socio-técnicos para solucionar problemas. Dentro de ella, la *ingeniería de software* comprende la producción del software, gestionando su desarrollo y mantenimiento. Dentro de ella, el **análisis de sistemas** consiste en un analista que evalúa de manera sistemática el funcionamiento del sistema para mejorar los procesos.
+La _ingeniería de sistemas_ estudia y desarrolla los [[Sistema|sistemas]] socio-técnicos para solucionar problemas. Dentro de ella, la _ingeniería de software_ comprende la producción del software, gestionando su desarrollo y mantenimiento. Dentro de ella, el **análisis de sistemas** consiste en un analista que evalúa de manera sistemática el funcionamiento del sistema para mejorar los procesos.
 
 Los **roles** del analista son:
 

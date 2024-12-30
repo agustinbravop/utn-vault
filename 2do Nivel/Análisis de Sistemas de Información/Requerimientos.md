@@ -1,6 +1,6 @@
 Los **requerimientos** son todas las necesidades de usuario y de negocio y deseos pedidos por el cliente y los involucrados en el [[Proyecto de Software]]. Sirven para generar los [[Requisitos de Software]].
 
-La toma de requerimientos en la [[Ingeniería de Requisitos]] es la etapa más crítica del proyecto de software. Buscamos tener una idea general de la solución y del proyecto para gestionar la *expectation gap*: la diferencia entre lo que nosotros desarrollamos y lo que el cliente espera.
+La toma de requerimientos en la [[Ingeniería de Requisitos]] es la etapa más crítica del proyecto de software. Buscamos tener una idea general de la solución y del proyecto para gestionar la _expectation gap_: la diferencia entre lo que nosotros desarrollamos y lo que el cliente espera.
 
 ![[Expectation Gap.png]]
 

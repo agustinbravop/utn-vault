@@ -7,6 +7,6 @@ Hay 4 tipos de **cambio organizacional**:
 3. **Reingeniería**: agiliza procesos de negocio en términos de velocidad, servicio, y calidad. Esto es un rediseño radical.
 4. **Cambio de Paradigma**: cambia por completo el enfoque y los procesos de negocio.
 
->El software no se fabrica, se *desarrolla*.
+> El software no se fabrica, se _desarrolla_.
 
 El **desarrollo de software** se basa en la resolución de problemas que surgen de necesidades empresariales u oportunidades de mejora. Estas necesidades se buscan satisfacer mediante un [[Proyecto de Software]].

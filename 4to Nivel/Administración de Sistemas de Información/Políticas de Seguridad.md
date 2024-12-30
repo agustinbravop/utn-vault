@@ -7,7 +7,7 @@ Una política de seguridad define el **nivel de seguridad** que se ajusta al val
 3. **Acceso** de la información.
 4. **Recuperación** de la información.
 
-El principal objetivo al definir la política de seguridad (y al seleccionar los [[Controles y Contra Medidas]]) es crear una situación **equilibrada** entre los costos del [[4to Nivel/Administración de Sistemas de Información/Riesgo]] y los costos de control.
+El principal objetivo al definir la política de seguridad (y al seleccionar los [[Controles y Contra Medidas]]) es crear una situación **equilibrada** entre los costos del [[Manejo del Riesgo]] y los costos de control.
 
 Los términos generales de la política de seguridad deben refinarse en indicaciones precisas de qué es lo permitido y lo denegado: las **políticas de aplicación específicas**. Hay de dos tipos:
 

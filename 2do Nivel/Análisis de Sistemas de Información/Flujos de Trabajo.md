@@ -39,18 +39,18 @@ Los prototipos pueden ser:
 
 ## Modelo Incremental
 
-Cada secuencia produce un *incremento* del software, y con cada incremento se entrega un producto totalmente operacional, a diferencia del prototipado evolutivo que simula algunas funcionalidades.
+Cada secuencia produce un _incremento_ del software, y con cada incremento se entrega un producto totalmente operacional, a diferencia del prototipado evolutivo que simula algunas funcionalidades.
 
 ![[Modelo Incremental.png]]
 
 ## Modelo Iterativo
 
-Cada *iteración* refina las mismas funcionalidades que la iteración anterior, pero con mayor detalle y mejor desempeño. Las primeras iteraciones son bosquejos del sistema, y la última es el producto completamente terminado.
+Cada _iteración_ refina las mismas funcionalidades que la iteración anterior, pero con mayor detalle y mejor desempeño. Las primeras iteraciones son bosquejos del sistema, y la última es el producto completamente terminado.
 
 Complementa muy bien al modelo incremental.
 
 ## Modelo en Espiral
 
-Es un antecedente del [[Proceso Unificado de Desarrollo de Software]], que adopta los principios del modelo incremental y del modelo iterativo para proponer un *modelo iterativo-incremental*.
+Es un antecedente del [[Proceso Unificado de Desarrollo de Software]], que adopta los principios del modelo incremental y del modelo iterativo para proponer un _modelo iterativo-incremental_.
 
 ![[Modelo en Espiral.png]]

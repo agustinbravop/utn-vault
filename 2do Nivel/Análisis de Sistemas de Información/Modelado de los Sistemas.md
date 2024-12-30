@@ -1,12 +1,12 @@
-Un **modelo** es una representación o *proyección facilitada* de la realidad. Es una *descripción analógica* (similar pero no alternativa).
+Un **modelo** es una representación o _proyección facilitada_ de la realidad. Es una _descripción analógica_ (similar pero no alternativa).
 
-El **modelado** es una acción de *proceso intelectual* por el cual un sujeto representa cierta características de un objeto a través de un modelo (una abstracción mental). Conocer es el acto en el que aprendemos características del objeto. No se puede modelar sin conocer, por esto es primero necesario el trabajo del [[Analista de Sistemas]] en la [[Ingeniería de Requisitos]].
+El **modelado** es una acción de _proceso intelectual_ por el cual un sujeto representa cierta características de un objeto a través de un modelo (una abstracción mental). Conocer es el acto en el que aprendemos características del objeto. No se puede modelar sin conocer, por esto es primero necesario el trabajo del [[Analista de Sistemas]] en la [[Ingeniería de Requisitos]].
 
 En el modelado se usan 3 conceptos:
 
 1. **Abstracción**: nos centramos en ciertos aspectos, y dejamos otros de lado.
-2. **Conceptualización**: formamos un *concepto*, un conjunto de propiedades, que describe las propiedades comunes de un grupo de objetos. Tiene nombre, propósito, y miembros.
-3. **Simbolización**: proceso mediante el cual *simbolizamos* el concepto para poder comunicarlo.
+2. **Conceptualización**: formamos un _concepto_, un conjunto de propiedades, que describe las propiedades comunes de un grupo de objetos. Tiene nombre, propósito, y miembros.
+3. **Simbolización**: proceso mediante el cual _simbolizamos_ el concepto para poder comunicarlo.
 
 El modelado facilita:
 
@@ -15,7 +15,7 @@ El modelado facilita:
 - Aproximarnos gradualmente al producto.
 - Visualizar el producto.
 
-El modelado depende de la complejidad y del uso que se le dará al modelo. Un modelo se realiza con un *propósito determinado* y con un *público específico*. 
+El modelado depende de la complejidad y del uso que se le dará al modelo. Un modelo se realiza con un _propósito determinado_ y con un _público específico_.
 
 Al analista de sistemas, modelar le sirve para:
 
@@ -31,7 +31,7 @@ Las **herramientas** de modelado de sistemas deben ofrecer:
 - Transparencia.
 - Visualización sencilla (fácil de entender).
 
-Los modelos del **sistema existente** (actual) sirven como una *representación* durante la ingeniería de requisitos para entender sus funcionalidades, debilidades, y fortalezas. Luego, los modelos del **sistema nuevo** son una *construcción* que sirve para explicar los requisitos.
+Los modelos del **sistema existente** (actual) sirven como una _representación_ durante la ingeniería de requisitos para entender sus funcionalidades, debilidades, y fortalezas. Luego, los modelos del **sistema nuevo** son una _construcción_ que sirve para explicar los requisitos.
 
 Los modelos sirven a lo largo de todo el [[Ciclo de Vida del Software]]:
 
@@ -45,15 +45,15 @@ En el modelado de software, se analiza y diseña el software antes de codificarl
 
 Un modelo puede ser de:
 
-1. **Alto nivel**: es temprano, se lo muestra a stakeholders para explorar conceptualmente el problema. Nos centramos en el *qué* y no en el *cómo*.
+1. **Alto nivel**: es temprano, se lo muestra a stakeholders para explorar conceptualmente el problema. Nos centramos en el _qué_ y no en el _cómo_.
 2. **Medio nivel**: sirven para entender distintos módulos de la solución.
 3. **Bajo nivel**: código fuente.
 
 Hay modelos o herramientas específicas:
 
 - Para el análisis estructurado: DFD, EP, DER, DD, DTE.
-- Para el análisis orientado a objetos: diagramas de actividad, caso de uso, secuencia, clase, estado, etc. Se engloban en el *Unified Modeling Language* (UML), que ofrece 4 **perspectivas** del sistema:
-	1. **Externa**: se modela el entorno o contexto del sistema.
-	2. **Interacción**: se modelan las interacciones entre componentes o con el entorno.
-	3. **Estructural**: se modela la organización, estructuras de datos, etc.
-	4. **Comportamiento**: se modela cómo responde el sistema (dinámico) ante ciertos eventos.
+- Para el análisis orientado a objetos: diagramas de actividad, caso de uso, secuencia, clase, estado, etc. Se engloban en el _Unified Modeling Language_ (UML), que ofrece 4 **perspectivas** del sistema:
+  1.  **Externa**: se modela el entorno o contexto del sistema.
+  2.  **Interacción**: se modelan las interacciones entre componentes o con el entorno.
+  3.  **Estructural**: se modela la organización, estructuras de datos, etc.
+  4.  **Comportamiento**: se modela cómo responde el sistema (dinámico) ante ciertos eventos.

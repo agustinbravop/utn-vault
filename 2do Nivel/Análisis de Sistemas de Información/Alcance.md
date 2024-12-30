@@ -1,7 +1,7 @@
-El **alcance** es todo el trabajo que se debe realizar para cumplir los criterios de aceptación de un [[Proyecto de Software]]. Determina los *límites* del proyecto. Se tiene el:
+El **alcance** es todo el trabajo que se debe realizar para cumplir los criterios de aceptación de un [[Proyecto de Software]]. Determina los _límites_ del proyecto. Se tiene el:
 
 1. **Alcance del Proyecto**: define las etapas y el trabajo a realizar.
-2. **Alcance del Producto**: define las características y funciones que tendrá. Los requerimientos identificados serán *necesidades*, mientras que los no identificados serán *expectativas*.
+2. **Alcance del Producto**: define las características y funciones que tendrá. Los requerimientos identificados serán _necesidades_, mientras que los no identificados serán _expectativas_.
 
 ## Técnicas
 

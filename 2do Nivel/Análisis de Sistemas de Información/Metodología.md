@@ -1,6 +1,6 @@
-En un [[Proyecto de Software]], la **metodología** define *quién* debe hacer *qué*, *cuándo*, y *cómo* debe hacerlo. No existe una metodología de software universal: el proceso debe ser **configurable** a cada proyecto.
+En un [[Proyecto de Software]], la **metodología** define _quién_ debe hacer _qué_, _cuándo_, y _cómo_ debe hacerlo. No existe una metodología de software universal: el proceso debe ser **configurable** a cada proyecto.
 
-Las metodologías se pueden agrupar en *estructuradas* y *orientadas a objetos*.
+Las metodologías se pueden agrupar en _estructuradas_ y _orientadas a objetos_.
 
 ![[Elementos de una Metodología.png]]
 
@@ -14,7 +14,7 @@ El software es muy caro de desarrollar $\implies$ se debe optimizar su desarroll
 
 Las metodologías y prácticas ayudan a repetir y predecir el proceso. La ingeniería de software debe considerar la **escala** del sistema a desarrollar:
 
-- En pequeños sistemas, métodos informales o *ad-hoc* pueden ser suficientes.
+- En pequeños sistemas, métodos informales o _ad-hoc_ pueden ser suficientes.
 - En grades sistemas, resulta necesario utilizar métodos formalizados.
 
 ## Calidad
@@ -23,8 +23,8 @@ La IEEE define la calidad como "todos los aspectos de un producto o servicio que
 
 - **Del Proceso**: un buen proceso asegura calidad interna del producto. Existen certificados.
 - **Del Producto**: puede ser:
-	1. **Interna**: el software es fácil de mantener y expandir.
-	2. **Externa**: el software cumple con los requisitos.
-	3. **En Uso**: es la satisfacción del usuario, cuando el software ya está implementado.
+  1.  **Interna**: el software es fácil de mantener y expandir.
+  2.  **Externa**: el software cumple con los requisitos.
+  3.  **En Uso**: es la satisfacción del usuario, cuando el software ya está implementado.
 
 Una metodología suele buscar asegurar la calidad del proceso.

@@ -1,8 +1,8 @@
-El modelado del dominio se realiza como parte del [[Modelado de los Sistemas]] luego de haber realizado el [[Modelado del Negocio]]. Consiste en un conjunto de *diagramas de clase* (de UML) que muestran *conceptos* del dominio del problema, y sus *atributos* y *relaciones* importantes.
+El modelado del dominio se realiza como parte del [[Modelado de los Sistemas]] luego de haber realizado el [[Modelado del Negocio]]. Consiste en un conjunto de _diagramas de clase_ (de UML) que muestran _conceptos_ del dominio del problema, y sus _atributos_ y _relaciones_ importantes.
 
 ![[Modelado del Dominio.png]]
 
-Cada **concepto** es un objeto o *clase* del dominio, con relaciones con otras clases. Se establece un **vocabulario** a respetar para pensar formalmente sobre el problema.
+Cada **concepto** es un objeto o _clase_ del dominio, con relaciones con otras clases. Se establece un **vocabulario** a respetar para pensar formalmente sobre el problema.
 
 Se requieren varias iteraciones para obtener un buen modelo del dominio, pero es, junto a la [[Especificación de Requisitos de Software]], el documento más importante para la etapa de diseño del [[Ciclo de Vida del Software]].
 

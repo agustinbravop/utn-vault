@@ -1,4 +1,4 @@
-La tercer etapa de la [[Gestión del Riesgo]] consiste en aplicar **controles** y **contra medidas** apropiadas para el [[4to Nivel/Administración de Sistemas de Información/Riesgo]] de acuerdo al tiempo, dinero y otras limitaciones.
+La tercer etapa de la [[Gestión del Riesgo]] consiste en aplicar **controles** y **contra medidas** apropiadas para el [[4to Nivel/Administración de Sistemas de Información/Riesgo|Riesgo]] de acuerdo al tiempo, dinero y otras limitaciones.
 
 Se busca identificar el mejor método de manejo del riesgo, un management de fallas potenciales que sea efectivo en cuanto a costo. Hay 4 **estratégicas** básicas:
 
