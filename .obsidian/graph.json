@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file: \"*.exalidraw.md\", path: \"4to Nivel/Administración de Sistemas de Información\"",
+  "search": "-file: \"*.exalidraw.md\", -file: \"*.exalidraw\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,37 +8,37 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"4to Nivel/Administración de Sistemas de Información\"  ",
+      "query": "path:\"4to Nivel\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"1er Nivel/Algoritmos y Estructuras de Datos\"  ",
+      "query": "path:\"1er Nivel\"  ",
       "color": {
         "a": 1,
         "rgb": 15714683
       }
     },
     {
-      "query": "path:\"4to Nivel/Ingeniería y Calidad de Software\" ",
+      "query": "path:\"2do Nivel\" ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.3004158004158,
-  "repelStrength": 11.1642411642412,
-  "linkStrength": 0.545738045738046,
-  "linkDistance": 30,
-  "scale": 0.22920131214925174,
-  "close": false
+  "repelStrength": 11.9022869022869,
+  "linkStrength": 1,
+  "linkDistance": 118,
+  "scale": 0.07431470243658038,
+  "close": true
 }
