@@ -5,3 +5,4 @@ Conceptos básicos:
 - [[Población]].
 - [[Intervalos de Clase]].
 - [[Medidas de Posición]].
+- [[Medidas de Dispersión]].

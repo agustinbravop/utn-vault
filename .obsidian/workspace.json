@@ -50,6 +50,62 @@
             }
           },
           {
+            "id": "416a3af1306022a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Probabilidad y Estadística/Medidas de Dispersión.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Medidas de Dispersión"
+            }
+          },
+          {
+            "id": "4e88ea40321958f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Probabilidad y Estadística/Ajustamiento Lineal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ajustamiento Lineal"
+            }
+          },
+          {
+            "id": "1afcc436955a1893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Probabilidad y Estadística/Correlación Lineal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Correlación Lineal"
+            }
+          },
+          {
+            "id": "648a38694078f7c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Probabilidad y Estadística/Teoría de la Probabilidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teoría de la Probabilidad"
+            }
+          },
+          {
             "id": "91bfb95ef258dd60",
             "type": "leaf",
             "state": {
@@ -78,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Probabilidad y Estadística/Medidas de Posición.md",
+                "file": "3er Nivel/Probabilidad y Estadística/Teoría de la Probabilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +224,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Medidas de Posición"
+              "title": "Backlinks for Teoría de la Probabilidad"
             }
           },
           {
@@ -238,22 +294,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6838e592f5834226",
+  "active": "648a38694078f7c3",
   "lastOpenFiles": [
     "3er Nivel/Probabilidad y Estadística/Población.md",
-    "3er Nivel/Probabilidad y Estadística/Intervalos de Clase.md",
-    "3er Nivel/Probabilidad y Estadística/Estadística.md",
+    "3er Nivel/Probabilidad y Estadística/Medidas de Dispersión.md",
     "3er Nivel/Probabilidad y Estadística/Medidas de Posición.md",
-    "3er Nivel/Probabilidad y Estadística/Untitled.md",
+    "3er Nivel/Probabilidad y Estadística/Método de los Mínimos Cuadrados.md",
+    "3er Nivel/Probabilidad y Estadística/Correlación Lineal.md",
+    "3er Nivel/Probabilidad y Estadística/Teoría de la Probabilidad.md",
+    "3er Nivel/Probabilidad y Estadística/Variable Estandarizada.md",
+    "3er Nivel/Probabilidad y Estadística/Teoría de la Estadística.md",
+    "3er Nivel/Probabilidad y Estadística/attachments/Desviaciones en la Correlación Lineal.png",
+    "3er Nivel/Probabilidad y Estadística/attachments/Correlación Lineal.png",
+    "3er Nivel/Probabilidad y Estadística/Ajustamiento Lineal.md",
+    "3er Nivel/Probabilidad y Estadística/attachments/Caso Inverso del Método de los Mínimos Cuadrados.png",
+    "3er Nivel/Probabilidad y Estadística/attachments/Método de los Mínimos Cuadrados.png",
+    "3er Nivel/Probabilidad y Estadística/attachments/Diagrama de Dispersión.png",
+    "3er Nivel/Probabilidad y Estadística/attachments/Asimetría.png",
+    "3er Nivel/Probabilidad y Estadística/attachments/Gráfico de Caja.png",
+    "3er Nivel/Probabilidad y Estadística/Intervalos de Clase.md",
     "3er Nivel/Probabilidad y Estadística/attachments/Ojiva.png",
     "3er Nivel/Probabilidad y Estadística/attachments/Histograma.png",
     "3er Nivel/Probabilidad y Estadística/attachments/Intervalos de Clase.png",
-    "3er Nivel/Probabilidad y Estadística/attachments/Población.png",
     "3er Nivel/Probabilidad y Estadística/index.md",
     "2do Nivel/Análisis de Sistemas de Información/Herramientas Gráficas para Documentar.md",
-    "3er Nivel/Probabilidad y Estadística/attachments/Excali.png",
     "3er Nivel/Probabilidad y Estadística/attachments/index 2024-12-30 21.18.54.excalidraw.md",
-    "3er Nivel/Probabilidad y Estadística/attachments/index 2024-12-30 21.18.54.excalidraw.svg",
     "3er Nivel/Probabilidad y Estadística/attachments",
     "2do Nivel/Sistemas Operativos/Hiperpaginación.md",
     "2do Nivel/Sistemas Operativos/index.md",
@@ -263,23 +328,14 @@
     "3er Nivel/Untitled",
     "1er Nivel/index.md",
     "2do Nivel/Análisis de Sistemas de Información/index.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/MOC Análisis de Sistemas de Información.png",
     "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",
     "2do Nivel/Análisis de Sistemas de Información/Modelado del Negocio.md",
     "2do Nivel/Análisis de Sistemas de Información/Modelado de los Sistemas.md",
     "2do Nivel/Análisis de Sistemas de Información/Alcance.md",
     "2do Nivel/Análisis de Sistemas de Información/Metodologías Ágiles.md",
     "2do Nivel/Análisis de Sistemas de Información/Cultura Lean.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Kanban.png",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Lean Startup.png",
     "2do Nivel/Análisis de Sistemas de Información/Historias de Usuario.md",
     "2do Nivel/Análisis de Sistemas de Información/Scrum.md",
-    "4to Nivel/Administración de Sistemas de Información/Riesgo.md",
-    "4to Nivel/Administración de Sistemas de Información/Valor de la Información e Inversión en SI.md",
-    "4to Nivel/Administración de Sistemas de Información/Recuperación ante el Desastre.md",
-    "4to Nivel/Administración de Sistemas de Información/Políticas de Seguridad.md",
-    "4to Nivel/Administración de Sistemas de Información/Planificación Estratégica.md",
-    "2do Nivel/Análisis de Sistemas de Información/attachments/Scrum.png",
     "2do Nivel/Análisis de Sistemas de Información/attachments",
     "2do Nivel/Análisis de Sistemas de Información",
     "2do Nivel/Física 2/MOC Física 2.canvas",
