@@ -18,4 +18,4 @@ Ahora, sea una muestra aleatoria $X_1, X_2, \dots, X_n$ con variancia $\sigma^2$
 
 $$\chi^2_v = \frac{\sum_{i=1}^n (X_i - \overline X)^2}{\sigma^2} = \frac{n S^2_X}{\sigma^2} = \frac{(n-1)S^2_c}{\sigma^2}$$
 
-Donde $S^2_c = \frac{n}{n-1} S^2_x$ es la v
+Donde $S^2_c = \frac{n}{n-1} S^2_x$ es la *varianza corregida* $S_c^2 \sim \chi_v^2$ con $v = n -1$ (un grado de libertad menos).
