@@ -1,4 +1,4 @@
-En [[Teoría de la Estadística]], las **medidas de dispersión** complementan a las [[Medidas de Posición]], indicando el alejamiento de los valores de la variable respecto de algún valor de referencia. Amplían la información referida al conjunto de datos bajo estudio.
+En [[Estadística]], las **medidas de dispersión** complementan a las [[Medidas de Posición]], indicando el alejamiento de los valores de la variable respecto de algún valor de referencia. Amplían la información referida al conjunto de datos bajo estudio.
 
 **Rango**: el rango $R$ es la diferencia entre los valores extremos del conjunto de datos ordenados, de manera que $R = x_M - x_m$. Sirve para agrupar los datos.
 

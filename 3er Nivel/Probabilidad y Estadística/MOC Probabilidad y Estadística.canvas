@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"9969a8c13e5fd834","x":-516,"y":-397,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Ajustamiento Lineal.md"},
+		{"id":"e8aecc6683dbeb74","x":-71,"y":-397,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Cálculo del Tamaño de la Muestra.md"},
+		{"id":"ff5ca6fca7a5feea","x":374,"y":-397,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Correlación Lineal.md"},
+		{"id":"4e1575eb4a0182b3","x":819,"y":-397,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Definición Axiomática de la Probabilidad.md"},
+		{"id":"6cd0d5fa23d8d23b","x":-516,"y":48,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Distribución t de Student.md"},
+		{"id":"69e72b146ff5e1cd","x":-71,"y":48,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Distribuciones de Probabilidad de Variable Continua.md"},
+		{"id":"b79e19ff6a7ded5a","x":374,"y":48,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Distribuciones de Probabilidad de Variable Discreta.md"},
+		{"id":"475a5738c22c33c3","x":819,"y":48,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Estadística.md"},
+		{"id":"3016d63fe5e00450","x":374,"y":493,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Población.md"},
+		{"id":"ddf3830b65b02ce5","x":819,"y":493,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Probabilidad Ttotal.md"},
+		{"id":"dafaaf1777315ed5","x":-516,"y":493,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Método de los Mínimos Cuadrados.md"},
+		{"id":"2190c37e8b0a162d","x":1264,"y":-397,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Definición Frecuencial Estadística de la Probabilidad.md"},
+		{"id":"64527a57e119ae8e","x":1709,"y":-397,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Distribución Binomial.md"},
+		{"id":"0066f0effe683f2e","x":1264,"y":48,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Estimación por Intervalos de Confianza.md"},
+		{"id":"3da9202f6bb23388","x":1709,"y":48,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Estimación Puntual.md"},
+		{"id":"03aaa1cdffcef5a8","x":1264,"y":493,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Teorema Central del Límite.md"},
+		{"id":"1f1470bf803937d0","x":1709,"y":493,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Teorema de Bayes.md"},
+		{"id":"bcd9e129c33ba6b2","x":2154,"y":-397,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Distribución Chi-Cuadrado.md"},
+		{"id":"e06d6f35d6452234","x":2599,"y":-397,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Distribución de Poisson.md"},
+		{"id":"971142dd6713da19","x":2599,"y":48,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Intervalos de Clase.md"},
+		{"id":"181ae53874c0cda3","x":2154,"y":493,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Teoría de la Decisión Estadística.md"},
+		{"id":"315120971ef4b41c","x":2599,"y":493,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Teoría de la Estimación Estadística.md"},
+		{"id":"44d4193de42842bd","x":3044,"y":-397,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Distribución Hipergeométrica.md"},
+		{"id":"5a5b7316c07ca32f","x":3044,"y":48,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Medidas de Dispersión.md"},
+		{"id":"815730c8fb8cbc0d","x":3044,"y":493,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Teoría de la Probabilidad.md"},
+		{"id":"de110be24992d1af","x":3489,"y":-397,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Distribución Normal.md"},
+		{"id":"e9cd386b89699323","x":3489,"y":48,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Medidas de Posición.md"},
+		{"id":"6851affb872d7ab4","x":3489,"y":493,"width":400,"height":400,"type":"file","file":"3er Nivel/Probabilidad y Estadística/Teoría de las Muestras.md"}
+	],
+	"edges":[]
+}

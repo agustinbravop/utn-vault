@@ -1,4 +1,4 @@
-En [[Teoría de la Estadística]], las **medidas de posición** son valores representativos del conjunto de datos.
+En [[Estadística]], las **medidas de posición** son valores representativos del conjunto de datos.
 
 La fórmula empírica de Karl Pearson $\overline x - M_o = 3 (\overline x - M_e)$ relaciona las 3 medidas de posición más usadas.
 
