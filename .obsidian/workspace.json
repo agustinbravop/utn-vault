@@ -13,15 +13,114 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3er Nivel/Probabilidad y Estadística/index.md",
+                "file": "3er Nivel/Bases de Datos/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "fb5cf3815593a97c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Bases de Datos/Bases de Datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bases de Datos"
+            }
+          },
+          {
+            "id": "59259c5721049a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Bases de Datos/Bases de Datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bases de Datos"
+            }
+          },
+          {
+            "id": "699eeb9785d37aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Bases de Datos/Arquitectura de un SGBD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitectura de un SGBD"
+            }
+          },
+          {
+            "id": "abe140b91c81993e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Bases de Datos/Arquitectura de un SGBD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitectura de un SGBD"
+            }
+          },
+          {
+            "id": "225c53f9ef1e604e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Bases de Datos/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "c08ab9c61b3a8e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Bases de Datos/Modelo Entidad-Relación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelo Entidad-Relación"
+            }
+          },
+          {
+            "id": "a7afa760b363dd0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Bases de Datos/Arquitectura de un SGBD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitectura de un SGBD"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -101,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Probabilidad y Estadística/index.md",
+                "file": "3er Nivel/Bases de Datos/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,46 +280,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5a650c066f2c957",
+  "active": "225c53f9ef1e604e",
   "lastOpenFiles": [
-    "3er Nivel/Untitled",
-    "3er Nivel/Probabilidad y Estadística/attachments/MOC Probabilidad y Estadística.png",
+    "3er Nivel/Bases de Datos/attachments/MOC Bases de Datos.png",
+    "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas",
+    "3er Nivel/Bases de Datos/Modelado de Datos.md",
+    "3er Nivel/Bases de Datos/SQL.md",
+    "3er Nivel/Bases de Datos/attachments/Transacciones en SQL.png",
+    "3er Nivel/Bases de Datos/attachments/SQL 2025-01-03 17.19.39.excalidraw.md",
+    "3er Nivel/Bases de Datos/attachments/SQL 2025-01-03 17.19.39.excalidraw.svg",
+    "3er Nivel/Bases de Datos/Arquitectura de un SGBD.md",
+    "3er Nivel/Bases de Datos/Bases de Datos.md",
+    "3er Nivel/Bases de Datos/index.md",
+    "3er Nivel/Bases de Datos/Modelo Entidad-Relación.md",
+    "3er Nivel/Bases de Datos/Modelo Relacional.md",
+    "3er Nivel/Bases de Datos/Sistema de Gestión de Bases de Datos.md",
+    "3er Nivel/Bases de Datos/attachments/Ejemplar de una Relación en el Modelo Relacional.png",
+    "3er Nivel/Bases de Datos/attachments/Símbolos del Modelo Entidad-Relación.png",
+    "3er Nivel/Bases de Datos/attachments/Agregación en el Modelo Entidad-Relación.png",
+    "3er Nivel/Bases de Datos/attachments/Jerarquías de Clases en el Modelo Entidad-Relación.png",
+    "3er Nivel/Bases de Datos/Untitled.md",
+    "3er Nivel/Bases de Datos/attachments/Entidades Débiles en el Modelo Entidad-Relación.png",
+    "3er Nivel/Bases de Datos/attachments/Ejemplar de Restricciones del Modelo Entidad-Relación.png",
+    "3er Nivel/Bases de Datos/attachments/Restricciones en el Modelo Entidad-Relación.png",
+    "3er Nivel/Bases de Datos/attachments/Conjunto de Relaciones con Restricciones.png",
+    "3er Nivel/Bases de Datos/attachments",
+    "3er Nivel/Probabilidad y Estadística/index.md",
+    "3er Nivel/index.md",
+    "3er Nivel/Bases de Datos",
     "3er Nivel/Probabilidad y Estadística/Intervalos de Clase.md",
     "3er Nivel/Probabilidad y Estadística/MOC Probabilidad y Estadística.canvas",
     "desktop.ini",
     "3er Nivel/Probabilidad y Estadística/Teoría de la Decisión Estadística.md",
-    "3er Nivel/Probabilidad y Estadística/attachments/Teoría de la Decisión Estadística (Criterio Objetivo).png",
     "3er Nivel/Probabilidad y Estadística/Cálculo del Tamaño de la Muestra.md",
     "3er Nivel/Probabilidad y Estadística/Teoría de las Muestras.md",
     "3er Nivel/Probabilidad y Estadística/Estimación por Intervalos de Confianza.md",
     "3er Nivel/Probabilidad y Estadística/Estimación Puntual.md",
-    "3er Nivel/Probabilidad y Estadística/attachments/Intervalos de Confianza para Muestras Pequeñas.png",
-    "3er Nivel/Probabilidad y Estadística/attachments/Pasted image 20250102185740.png",
-    "3er Nivel/Probabilidad y Estadística/attachments/Pasted image 20250102185258.png",
-    "3er Nivel/Probabilidad y Estadística/attachments/Intervalo de Confianza para Muestras Grandes.png",
     "3er Nivel/Probabilidad y Estadística/Teoría de la Estimación Estadística.md",
     "3er Nivel/Probabilidad y Estadística/Teorema Central del Límite.md",
-    "3er Nivel/Probabilidad y Estadística/attachments/Teorema Central del Límite.png",
     "3er Nivel/Probabilidad y Estadística/Estadística.md",
     "3er Nivel/Probabilidad y Estadística/Distribución t de Student.md",
-    "3er Nivel/Probabilidad y Estadística/attachments/Distribución t de Student.png",
     "3er Nivel/Probabilidad y Estadística/Distribuciones de Probabilidad de Variable Continua.md",
     "3er Nivel/Probabilidad y Estadística/Distribución Chi-Cuadrado.md",
-    "3er Nivel/Probabilidad y Estadística/attachments/Densidad de Probabilidad de la Distribución Chi-Cuadrado.png",
-    "3er Nivel/Probabilidad y Estadística/attachments/Distribución Chi-Cuadrado.png",
     "3er Nivel/Probabilidad y Estadística/Distribución Normal.md",
-    "3er Nivel/Probabilidad y Estadística/Distribución Hipergeométrica.md",
-    "Distribución Chi-Cuadrado.md",
-    "3er Nivel/Probabilidad y Estadística/Distribuciones de Probabilidad de Variable Discreta.md",
-    "3er Nivel/Probabilidad y Estadística/Distribución de Poisson.md",
-    "3er Nivel/Probabilidad y Estadística/Distribución Binomial.md",
-    "3er Nivel/Probabilidad y Estadística/Definición Axiomática de la Probabilidad.md",
-    "3er Nivel/Probabilidad y Estadística/Definición Frecuencial Estadística de la Probabilidad.md",
-    "3er Nivel/Probabilidad y Estadística/Teoría de la Probabilidad.md",
-    "3er Nivel/Probabilidad y Estadística/Otras Definiciones de Probabilidad.md",
-    "3er Nivel/Probabilidad y Estadística/Probabilidad Total.md",
-    "3er Nivel/Probabilidad y Estadística/Teorema de Bayes.md",
-    "3er Nivel/Probabilidad y Estadística/Población.md",
     "3er Nivel/Probabilidad y Estadística/attachments",
     "3er Nivel/Probabilidad y Estadística",
     "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",
@@ -231,12 +333,10 @@
     "2do Nivel/Física 2",
     "tatus",
     "2do Nivel/Paradigmas de Programación/MOC - Paradigmas de Programación.canvas",
-    "2do Nivel/Paradigmas de Programación/attachments",
     "2do Nivel/Sistemas Operativos/MOC - Sistemas Operativos.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
-    "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas",
-    "1er Nivel/Inglés 1/MOC Inglés 1.canvas"
+    "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas"
   ]
 }

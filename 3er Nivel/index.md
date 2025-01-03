@@ -10,7 +10,7 @@ Materias obligatorias:
 4. Desarrollo de Software.
 5. Diseño de Sistemas de Información (integradora).
 6. Economía.
-7. Probabilidad y Estadística.
+7. [[3er Nivel/Probabilidad y Estadística/index|Probabilidad y Estadística]].
 
 Materias electivas (un mínimo de 4 horas cátedra semanales):
 

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"3e23952faac0bdfb","x":440,"y":-960,"width":400,"height":400,"type":"file","file":"3er Nivel/Bases de Datos/Sistema de Gestión de Bases de Datos.md"},
+		{"id":"5312e15fa9e51f48","x":960,"y":-960,"width":400,"height":400,"type":"file","file":"3er Nivel/Bases de Datos/Arquitectura de un SGBD.md"},
+		{"id":"026444cc2e9f3132","x":-80,"y":-960,"width":400,"height":400,"type":"file","file":"3er Nivel/Bases de Datos/Bases de Datos.md"},
+		{"id":"41ad8f15f1be8476","x":1480,"y":-960,"width":400,"height":400,"type":"file","file":"3er Nivel/Bases de Datos/Modelado de Datos.md"},
+		{"id":"5fc48eee9f03a747","x":1240,"y":-440,"width":400,"height":400,"color":"4","type":"file","file":"3er Nivel/Bases de Datos/Modelo Entidad-Relación.md"},
+		{"id":"1377d42f192c6299","x":1720,"y":-440,"width":400,"height":400,"color":"4","type":"file","file":"3er Nivel/Bases de Datos/Modelo Relacional.md"},
+		{"id":"a8ddfa0c62037988","x":1720,"y":80,"width":400,"height":400,"type":"file","file":"3er Nivel/Bases de Datos/SQL.md"}
+	],
+	"edges":[
+		{"id":"23304fa96eaf46c6","fromNode":"026444cc2e9f3132","fromSide":"right","toNode":"3e23952faac0bdfb","toSide":"left"},
+		{"id":"9c226ccb17d3fa3e","fromNode":"3e23952faac0bdfb","fromSide":"right","toNode":"5312e15fa9e51f48","toSide":"left"},
+		{"id":"5f2bf06f4397027d","fromNode":"5312e15fa9e51f48","fromSide":"right","toNode":"41ad8f15f1be8476","toSide":"left"},
+		{"id":"80fd63a3a0d8bbe3","fromNode":"41ad8f15f1be8476","fromSide":"bottom","toNode":"5fc48eee9f03a747","toSide":"top"},
+		{"id":"1e7b5e39622afc7c","fromNode":"41ad8f15f1be8476","fromSide":"bottom","toNode":"1377d42f192c6299","toSide":"top"},
+		{"id":"76e1d59998851d2c","fromNode":"1377d42f192c6299","fromSide":"bottom","toNode":"a8ddfa0c62037988","toSide":"top"}
+	]
+}
