@@ -10,7 +10,7 @@ En la práctica no se calculan las probabilidades, sino que se utiliza una tabla
 
 $$z = \frac{x-\mu_x}{\sigma_x} \text{ tal que } f(z) = \frac{1}{\sqrt{2\pi}} e^{-\frac{z^2}{2}}$$
 
-Los valores en esta tabla se pueden buscar de manera *directa* o de manera *inversa*.
+Los valores en esta tabla se pueden buscar de manera _directa_ o de manera _inversa_.
 
 Se calcula la esperanza $E(z) = \overline z = E_z = \mu_z$:
 
@@ -18,4 +18,4 @@ $$E(z) = E\left( \frac{x-\mu_x}{\sigma_x}\right) = \frac{1}{\sigma_x} \underbrac
 
 Ahora, la varianza $V(z)$:
 
-$$V(z) = E((z-E(z))^2) = E(z)^2 = E \left[\frac{(x-\mu_x)^2}{\sigma^2_x}\right] = \frac{1}{\sigma_x^2} E\left[ (x-E(x))^2 \right] = \frac{\cancel{\sigma_x^2}}{\cancel {\sigma_x^2}} \implies V(z) = 1$$ 
+$$V(z) = E((z-E(z))^2) = E(z)^2 = E \left[\frac{(x-\mu_x)^2}{\sigma^2_x}\right] = \frac{1}{\sigma_x^2} E\left[ (x-E(x))^2 \right] = \frac{\cancel{\sigma_x^2}}{\cancel {\sigma_x^2}} \implies V(z) = 1$$

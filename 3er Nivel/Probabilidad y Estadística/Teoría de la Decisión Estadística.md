@@ -6,9 +6,9 @@ En esta teoría no se sabe el valor de un parámetro, pero en lugar de estimarlo
 
 - **Hipótesis nula** ($H_0$): se supone un valor determinado y luego se busca rechazarlo.
 - **Hipótesis alternativa** ($H_1$): cualquier hipótesis diferente a la nula. Puede adoptar una de 3 formas:
-	1. $\mu \gt \mu_0$: prueba *unilateral a la derecha*.
-	2. $\mu \lt \mu_0$: prueba *unilateral a la izquierda*.
-	3. $\mu \ne \mu_0$: prueba *bilateral*.
+  1.  $\mu \gt \mu_0$: prueba _unilateral a la derecha_.
+  2.  $\mu \lt \mu_0$: prueba _unilateral a la izquierda_.
+  3.  $\mu \ne \mu_0$: prueba _bilateral_.
 
 ## Pasos Operativos
 
@@ -25,7 +25,7 @@ En esta teoría no se sabe el valor de un parámetro, pero en lugar de estimarlo
 
 $$\text{Para la media: } z=\frac{\overline x - \mu_0}{\frac{S_x}{\sqrt n}} \ , \ t = \frac{\overline x - \mu_0}{\frac{S_x}{\sqrt {n-1}}}. \text{ Para la varianza: } z=\frac{S_x - \sigma_x}{\frac{\sigma_x}{\sqrt {2n}}} \ , \ \chi^2_1 = \frac{nS^2_x}{\sigma^2_x}$$
 
-5. **Criterio objetivo**: se determina objetivamente un *valor límite*, usando una probabilidad cercana a cero (dada por el *nivel de significación* $\alpha$). Luego, se encuentra en la tabla correspondiente el *valor crítico* de la variable ($z_c$ o $t_c$), tal que $P(z_c) = 1 - \alpha$. Este valor crítico divide a las zonas de rechazo y no rechazo.
+5. **Criterio objetivo**: se determina objetivamente un _valor límite_, usando una probabilidad cercana a cero (dada por el _nivel de significación_ $\alpha$). Luego, se encuentra en la tabla correspondiente el _valor crítico_ de la variable ($z_c$ o $t_c$), tal que $P(z_c) = 1 - \alpha$. Este valor crítico divide a las zonas de rechazo y no rechazo.
 
 ![[Teoría de la Decisión Estadística (Criterio Objetivo).png]]
 
@@ -33,8 +33,8 @@ $$\text{Para la media: } z=\frac{\overline x - \mu_0}{\frac{S_x}{\sqrt n}} \ , \
 
 ### Análisis del nivel de significación
 
-Estos resultados obtenidos siempre tienen el riesgo del **error**. 
+Estos resultados obtenidos siempre tienen el riesgo del **error**.
 
-Un *error de tipo I* ($e_I$) es un **falso negativo** que surge cuando se rechaza una hipótesis nula verdadera. El nivel de significancia $\alpha$ es exactamente la probabilidad de cometer este error. 
+Un _error de tipo I_ ($e_I$) es un **falso negativo** que surge cuando se rechaza una hipótesis nula verdadera. El nivel de significancia $\alpha$ es exactamente la probabilidad de cometer este error.
 
-Un *error de tipo II* ($e_{II}$) es un **falso positivo** ocurre cuando se acepta como verdadera una hipótesis falsa. Su probabilidad de cometerse es $\beta$ y no es anticipable.
+Un _error de tipo II_ ($e_{II}$) es un **falso positivo** ocurre cuando se acepta como verdadera una hipótesis falsa. Su probabilidad de cometerse es $\beta$ y no es anticipable.

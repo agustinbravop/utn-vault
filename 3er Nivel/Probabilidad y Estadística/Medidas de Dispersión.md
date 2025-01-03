@@ -22,8 +22,8 @@ En [[Estadística]], las **medidas de dispersión** complementan a las [[Medidas
 2. La varianza de una constante es cero: $S_x^2 = \frac{1}{n} \sum(a - \overline a)^2 = \frac{1}{n} \sum (a - a)^2 = 0$.
 3. La varianza es una medida mínima si se la copara con otra medida que no se calcule con la media aritmética.
 4. a) Sea $d_i = x_i \pm A \implies S^2_d = S^2_x$ tal que la varianza se mantiene igual.
-4. b) Sea $d_i = c \cdot x_i \implies S_d^2 = c^2 S_x^2$ tal que la varianza se multiplica por el cuadrado de la constante.
-5. Sea $d_i =  x_i + y_i \implies S^2_d = S_x^2 + S_y^2 + 2 S_{xy} = V(x) + V(y) + 2 \cdot  \text{Cov} (x, y)$, donde la *covarianza* es $\text{Cov}(x,y) = \frac{1}{n} \sum (x_i - \overline x) (y_i - \overline y) = \frac{\sum x_i \cdot y_i}{n} - \overline x \cdot \overline y$.
+5. b) Sea $d_i = c \cdot x_i \implies S_d^2 = c^2 S_x^2$ tal que la varianza se multiplica por el cuadrado de la constante.
+6. Sea $d_i =  x_i + y_i \implies S^2_d = S_x^2 + S_y^2 + 2 S_{xy} = V(x) + V(y) + 2 \cdot  \text{Cov} (x, y)$, donde la _covarianza_ es $\text{Cov}(x,y) = \frac{1}{n} \sum (x_i - \overline x) (y_i - \overline y) = \frac{\sum x_i \cdot y_i}{n} - \overline x \cdot \overline y$.
 
 ## Variable Estandarizada
 

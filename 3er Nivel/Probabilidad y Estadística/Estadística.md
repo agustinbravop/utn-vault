@@ -1,4 +1,4 @@
-La **estadística** comprende la *recolección*, *ordenamiento*, *presentación*, y *resumen* de datos para un *análisis* posterior, sacar *conclusiones*, y basar en ellas *decisiones*. 
+La **estadística** comprende la _recolección_, _ordenamiento_, _presentación_, y _resumen_ de datos para un _análisis_ posterior, sacar _conclusiones_, y basar en ellas _decisiones_.
 
 Conceptos básicos:
 

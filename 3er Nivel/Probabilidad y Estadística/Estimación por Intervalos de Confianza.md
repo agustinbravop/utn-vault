@@ -1,8 +1,8 @@
-En la [[Teoría de la Estimación Estadística]], la **estimación por intervalos** es un procedimiento que permite, a partir de un [[Estimación Puntual|estimador puntual]], obtener dos valores que limitan un *intervalo de confianza*, dentro del cual se encuentra el parámetro a estimar con una cierta probabilidad conocida, denominada *nivel de confianza*.
+En la [[Teoría de la Estimación Estadística]], la **estimación por intervalos** es un procedimiento que permite, a partir de un [[Estimación Puntual|estimador puntual]], obtener dos valores que limitan un _intervalo de confianza_, dentro del cual se encuentra el parámetro a estimar con una cierta probabilidad conocida, denominada _nivel de confianza_.
 
 $$P(l\le\theta\le u) = NC = 1-\alpha$$
 
-Donde $NC$ es el nivel de confianza, y $\alpha$ es el *nivel de significación*. Sin $NC = 0.95 \implies$ en 95 de cada 100 muestras el parámetro estará dentro del intervalo. Los niveles de confianza más comunes para utilizar son 0.99, 0.95, y 0.90.
+Donde $NC$ es el nivel de confianza, y $\alpha$ es el _nivel de significación_. Sin $NC = 0.95 \implies$ en 95 de cada 100 muestras el parámetro estará dentro del intervalo. Los niveles de confianza más comunes para utilizar son 0.99, 0.95, y 0.90.
 
 ## Para Muestras Grandes
 

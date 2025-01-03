@@ -1,4 +1,4 @@
-Entre dos variables $x_i$ e $y_i$ existe una *dependencia estadística* cuando se presupone que entre ambas hay algún tipo de relación y a determinados valores de la variable $x_i$ le corresponden indeterminados e indefinidos valores de la variable $y_i$.
+Entre dos variables $x_i$ e $y_i$ existe una _dependencia estadística_ cuando se presupone que entre ambas hay algún tipo de relación y a determinados valores de la variable $x_i$ le corresponden indeterminados e indefinidos valores de la variable $y_i$.
 
 ![[Diagrama de Dispersión.png]]
 

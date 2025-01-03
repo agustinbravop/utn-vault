@@ -12,7 +12,8 @@ $$E(x) = \sum_{x=0}^\infty x \ p(x) = \sum_{x=1}^\infty x \frac{e^{-\lambda}\lam
 
 ## Varianza
 
-$$\begin{align}
+$$
+\begin{align}
 V(x) &= \sum_{x=0}^\infty x^2 p(x) - E(x)^2 = \sum_{x=0}^\infty x^2 \frac{e^{-\lambda}\lambda^x}{x!} - \lambda^2 \\
 \text{reemplazando $x^2$ por $x(x-1)+x$:} \ V(x) &= \sum_{x=0}^\infty [x(x-1)+x] \frac{e^{-\lambda}\lambda^{x}}{x!} - \lambda^2 \\
 &= 0 + 0 + \sum_{x=2}^\infty x(x-1)\frac{e^{-\lambda}\lambda^x}{x!}+\lambda-\lambda^2 \\
@@ -20,4 +21,5 @@ V(x) &= \sum_{x=0}^\infty x^2 p(x) - E(x)^2 = \sum_{x=0}^\infty x^2 \frac{e^{-\l
 &= \lambda^2 \underbrace{\cancel{\sum_{x=0}^\infty\frac{e^{-\lambda}\lambda^x}{x!}}}_\text{=1 (cond de cierre)} + \lambda - \lambda^2 \\
 &= \cancel{\lambda^2} + \lambda - \cancel{\lambda^2} \\
 V(x) &= \lambda
-\end{align}$$
+\end{align}
+$$

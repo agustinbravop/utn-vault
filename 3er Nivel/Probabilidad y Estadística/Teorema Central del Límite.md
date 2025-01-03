@@ -1,6 +1,6 @@
 El **teorema central del límite** es uno de los enunciados más importantes de la [[Teoría de la Probabilidad]].
 
->Sea $X_1, X_2, \dots, X_n$ una secuencia de variables aleatorias independientes distribuidas idénticamente, cada una con media $\mu_X$ y varianza $\sigma^2_X$. La suma de esa secuencia $S_n = \sum X_i = X_1 + X_2 + \dots + X_n$ es una nueva variable aleatoria con una [[Distribución Normal]] aproximada $S_n \sim N(n\mu_X, n \sigma^2_X)$ para un $n$ suficientemente grande.
+> Sea $X_1, X_2, \dots, X_n$ una secuencia de variables aleatorias independientes distribuidas idénticamente, cada una con media $\mu_X$ y varianza $\sigma^2_X$. La suma de esa secuencia $S_n = \sum X_i = X_1 + X_2 + \dots + X_n$ es una nueva variable aleatoria con una [[Distribución Normal]] aproximada $S_n \sim N(n\mu_X, n \sigma^2_X)$ para un $n$ suficientemente grande.
 
 Si se estandariza $S_n$ de la siguiente manera:
 
@@ -30,10 +30,12 @@ $$\overline X \sim N\left(\mu_\overline X, \frac{\sigma^2_X}{n}\frac{N-n}{n-1}\r
 
 ## Distribución de Muestreo del Desvío Estándar
 
-$$\begin{rcases}
+$$
+\begin{rcases}
 E(S_X) = \mu_{S_X} = \sigma_X \\
 V(S_X) = \sigma^2_{S_X} = \frac{\sigma^2_X}{2n}
-\end{rcases} \implies S_X \sim N\left(\sigma_X, \frac{\sigma^2_X}{2n}\right) \ \ \ \text{si } n \rightarrow\infty$$
+\end{rcases} \implies S_X \sim N\left(\sigma_X, \frac{\sigma^2_X}{2n}\right) \ \ \ \text{si } n \rightarrow\infty
+$$
 
 ## Resumen
 

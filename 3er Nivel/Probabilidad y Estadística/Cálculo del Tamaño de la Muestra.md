@@ -18,6 +18,6 @@ Es un caso similar al anterior pero con algunos factores de corrección.
 
 $$d = \overline X - \mu_x \implies \frac{d}{\sigma_\overline X} = \frac{d}{\frac{\sigma_x}{\sqrt n}\frac{\sqrt{N-n}}{\sqrt {N-1}}} = z_I \implies n = \frac{z^2_I \sigma_x^2 N}{d^2(N-1)+z_I^2\ \sigma_x^2}$$
 
-Se puede validar que $\lim_{N\rightarrow\infty} n= \frac{z_I \sigma^2_x}{d^2}$, por ende se obtiene la ecuación del caso con reposición. 
+Se puede validar que $\lim_{N\rightarrow\infty} n= \frac{z_I \sigma^2_x}{d^2}$, por ende se obtiene la ecuación del caso con reposición.
 
 Nota: el valor de $n$ siempre se redondea hacia arriba.
