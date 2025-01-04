@@ -81,14 +81,10 @@
             "id": "225c53f9ef1e604e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Auditoría del Desarrollo Según Piattini"
+              "title": "New tab"
             }
           },
           {
@@ -132,7 +128,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 29.36610608020699,
+        "dimension": 69.558599695586,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -151,7 +147,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 70.63389391979301,
+        "dimension": 30.441400304414,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -159,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/[$][^\\s][^$]*á[^$]*[^\\s][$]/",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -200,7 +196,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Auditoría del Desarrollo Según Piattini"
+              "title": "Backlinks"
             }
           },
           {
@@ -219,12 +214,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3er Nivel/Probabilidad y Estadística/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links"
             }
           },
           {
@@ -266,7 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,8 +274,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "225c53f9ef1e604e",
+  "active": "a5a650c066f2c957",
   "lastOpenFiles": [
+    "3er Nivel/Bases de Datos/SQL.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
     "3er Nivel/Probabilidad y Estadística/Teoría de la Decisión Estadística.md",
     "3er Nivel/Probabilidad y Estadística/Teorema Central del Límite.md",
     "4to Nivel/Administración de Sistemas de Información/Selección de RRHH.md",
@@ -306,8 +302,6 @@
     "4to Nivel/Administración de Sistemas de Información/Riesgo.md",
     "2do Nivel/Análisis de Sistemas de Información/Resolución de Problemas.md",
     "4to Nivel/Administración de Sistemas de Información/Rendimiento de un SI.md",
-    "2do Nivel/Paradigmas de Programación/Reducciones Lambda.md",
-    "2do Nivel/Análisis de Sistemas de Información/Principios de la Orientación a Objetos.md",
     "3er Nivel/Bases de Datos/attachments/MOC Bases de Datos.png",
     "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas",
     "3er Nivel/Bases de Datos/attachments/Transacciones en SQL.png",
