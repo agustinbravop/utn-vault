@@ -42,7 +42,7 @@ En Argentina hay 3 principios:
 Existe **inequidad** cuando la persona siente que se le paga menos o más de lo que corresponde, lo que genera un sentimiento de **injusticia e insatisfacción**. Genera tensión entre empleado y empleador.
 
 $$
-\frac{Mis \ recompensas}{Mis \ contribuciones} = \frac{Recompensas \ de \ los \ demás}{Contribuciones \ de \ los \ demás}
+\frac{\text{Mis recompensas}}{\text{Mis contribuciones}} = \frac{\text{Recompensas de los demás}}{\text{Contribuciones de los demás}}
 $$
 
 Para reducir el desequilibrio se debe modificar alguna variable de la ecuación.

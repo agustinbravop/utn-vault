@@ -16,9 +16,9 @@ La selección **compara** entre:
 
 Al comparar esas dos variables puede darse que:
 
-- $Requisitos > Perfil$: el candidato no reúne las condiciones ideales y es **rechazado**.
-- $Requisitos = Perfil$: el candidato tiene las condiciones ideales y es **aceptado**.
-- $Requisitos < Perfil$: el candidato está **superdotado** para el cargo.
+- $\text{Requisitos} > \text{Perfil}$: el candidato no reúne las condiciones ideales y es **rechazado**.
+- $\text{Requisitos} = \text{Perfil}$: el candidato tiene las condiciones ideales y es **aceptado**.
+- $\text{Requisitos} < \text{Perfil}$: el candidato está **superdotado** para el cargo.
 
 Esta comparación no necesita ser perfecta, sino que se centra en una **franja de aceptación** con cierta flexibilidad, similar a tener límites de tolerancia en un control de calidad. Es una **función de staff**.
 
@@ -83,7 +83,7 @@ Son instrumentos para **evaluar con objetividad las habilidades y conocimientos*
 Se aplican a las personas para apreciar su desarrollo mental, aptitudes, habilidades, conocimientos, etc. Son una **medida estandarizada del comportamiento** de las personas para compararlas con patrones estadísticos.
 
 Hacen énfasis en las **aptitudes individuales**, las cuales con innatas a las personas y son una habilidad latente o potencial que puede ser desarrollada mediante el entrenamiento.
-$$Capacidad = Aptitud + Entrenamiento$$
+$$\text{Capacidad} = \text{Aptitud} + \text{Entrenamiento}$$
 
 ### Pruebas de Personalidad
 

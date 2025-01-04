@@ -3,7 +3,7 @@ La **compra de servicios de SI** implica un **proceso de selección** que involu
 1. Seleccionar los **criterios** para hacer la elección.
 2. Asignar a cada criterio un valor de **importancia**.
 3. Dar un **puntaje** a las **alternativas de adquisición** según su satisfacción de cada criterio.
-4. Calcular la **calificación** de cada propuesta. ($calificación = \sum puntaje * importancia$).
+4. Calcular la **calificación** de cada propuesta. ($\text{calificación} = \sum \text{puntaje} * \text{importancia}$).
 5. Seleccionar la alternativa con **mayor calificación**.
 
 La lista de criterios define el conjunto de [[Requerimientos de un SI]] que debe tener la propuesta. El proceso de priorización establece la jerarquía. Implica determinar el [[Canal de Obtención de SW]] adecuado.

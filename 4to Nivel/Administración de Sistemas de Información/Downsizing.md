@@ -7,6 +7,7 @@ Lo que motiva el downsizing es el aumento del valor percibido de **entornos más
 El downsizing puede ser un proceso **gradual**, no es necesaria una decisión drástica. Promete el potencial **ahorro de costos** en la [[Adquisición de HW]] y el incremento en el **control del usuario**. Esto se vuelve más importante conforme aumenta la escala de la plataforma de HW.
 
 Presenta una serie de "costos ocultos" que surgen de subestimar el costo operativo y de migración, pero de todas formas hay un rendimiento muy bueno.
-$CostoDelDownsizing = CostoOperativoReal + CostoDeMigración$.
+
+$$\text{Costo del Downsizing} = \text{Costo Operativo Real} + \text{Costo de Migración}$$
 
 La ventaja primordial es la ganancia comercial: nos da **velocidad para hacer cambios futuros**.

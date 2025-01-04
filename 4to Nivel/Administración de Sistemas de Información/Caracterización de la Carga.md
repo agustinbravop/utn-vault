@@ -55,12 +55,12 @@ El **modelo de carga** $W'$ resultante representa perfectamente a la carga $W$ s
 ### Representatividad a Nivel Físico
 
 Se basa en los **consumos** absolutos o unitarios de los **recursos** de hardware y software. Útil para evaluar la eficiencia de la **sintonización** de un sistema o determinar su **capacidad residual**. Los parámetros (mediciones de variables) son recopilados por rutinas de _logging_ del SO, fácilmente obtenibles.
-$$W' \equiv  W \iff \mbox{solicita los mismos recursos físicos en las mismas proporciones.}$$
+$$W' \equiv  W \iff \text{solicita los mismos recursos físicos en las mismas proporciones.}$$
 
 ### Representatividad a Nivel Virtual
 
 Se consideran los **recursos lógicos** desde el punto de vista del **programador**. Tiene que ver con la **configuración** del sistema. Aparecen variables del sistema operativo. Los parámetros son difíciles de obtener y requieren instrumentos especiales.
-$$W' \equiv  W \iff \mbox{solicita los mismos recursos físicos con la misma frecuencia.} $$
+$$W' \equiv  W \iff \text{solicita los mismos recursos físicos con la misma frecuencia.} $$
 
 ### Representatividad a Nivel Funcional
 

@@ -52,7 +52,7 @@ Una para cada facilidad de SW o elemento de HW en la lista de requerimientos. Se
 
 - **Valor Ponderado**: es el resultado de multiplicar el peso de una subcaracterística por el peso de su característica asociada. Si no tiene subcaracterísticas, el resultado es el cuadrado de su peso.
 - **Calificación**: nota asignada a cada (sub)característica.
-- **Calificación Ponderada**: $CalificaciónPonderada = Calificación * ValorPonderado$.
+- **Calificación Ponderada**: $\text{Calificación Ponderada} = \text{Calificación} \times \text{Valor Ponderado}$.
 
 ## 6. Planilla de Resultados
 

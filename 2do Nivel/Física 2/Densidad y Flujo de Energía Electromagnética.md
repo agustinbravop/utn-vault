@@ -14,7 +14,7 @@ La energía transportada por unidad de tiempo y área es:
 
 $$
 \begin{align}S = \frac{1}{A}\frac{dU}{dt}\frac{u \ d\text{Vol}}{dt} = \frac{1}{\cancel A}\frac{\varepsilon_0 E^2 \cancel A c \cancel{dt}}{\cancel {dt}} \implies S &= \varepsilon_0 c E^2 \\
-\text{pero } c=\frac{1}{\sqrt{\varepsilon_0\mu_0}} \implies S = \cancel \varepsilon_0 c \frac{1}{\sqrt{\cancel \varepsilon_0\mu_0}^2} B^2 = \frac{c B^2}{\mu_0} \implies S &= \frac{EB}{\mu_0} \\
+\text{pero: } c=\frac{1}{\sqrt{\varepsilon_0\mu_0}} \implies S = \cancel \varepsilon_0 c \frac{1}{\sqrt{\cancel \varepsilon_0\mu_0}^2} B^2 = \frac{c B^2}{\mu_0} \implies S &= \frac{EB}{\mu_0} \\
 \vec S &= \frac{1}{\mu_0} (\vec E \times \vec B) \  \left[ \frac{\text W}{\text m^2} \right]
 \end{align}
 $$

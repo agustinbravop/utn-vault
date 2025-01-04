@@ -1,5 +1,5 @@
 El **_benchmarking_** es el proceso de **comparar** sistemas obteniendo medidas.
-$$Benchmarking \ne Medición$$
+$$\text{Benchmarking} \ne \text{Medición}$$
 
 Es un método frecuente de comparar SIs frente a una **carga característica** de una instalación concreta. Es la [[Evaluación de las Prestaciones]] sobre un **prototipo**, y las variantes de este método sirven para **evaluar la potencia relativa** de un sistema a lo largo de su ciclo de vida (compararse con versiones anteriores de sí mismo), **contrastar monitores** y **validar modelos**. Las dificultades son:
 

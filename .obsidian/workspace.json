@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3er Nivel/Bases de Datos/index.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Auditoría del Desarrollo Según Piattini"
             }
           },
           {
@@ -132,7 +132,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 70.89262613195343,
+        "dimension": 29.36610608020699,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -151,7 +151,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 29.10737386804657,
+        "dimension": 70.63389391979301,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -159,9 +159,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "/[$][^\\s][^$]*á[^$]*[^\\s][$]/",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 315.5
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Bases de Datos/index.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Auditoría del Desarrollo Según Piattini"
             }
           },
           {
@@ -282,47 +282,47 @@
   },
   "active": "225c53f9ef1e604e",
   "lastOpenFiles": [
+    "3er Nivel/Probabilidad y Estadística/Teoría de la Decisión Estadística.md",
+    "3er Nivel/Probabilidad y Estadística/Teorema Central del Límite.md",
+    "4to Nivel/Administración de Sistemas de Información/Selección de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/Seguimiento de SI y TI.md",
+    "2do Nivel/Paradigmas de Programación/Paradigma Lógico.md",
+    "2do Nivel/Física 2/Materiales Magnéticos.md",
+    "2do Nivel/Física 2/FEM Inducida.md",
+    "2do Nivel/Física 2/Intensidad Luminosa.md",
+    "2do Nivel/Física 2/Efecto Hall.md",
+    "3er Nivel/Probabilidad y Estadística/Distribuciones de Probabilidad de Variable Discreta.md",
+    "2do Nivel/Física 2/Dilatación.md",
+    "2do Nivel/Física 2/Difracción.md",
+    "2do Nivel/Física 2/Densidad y Flujo de Energía Electromagnética.md",
+    "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Árbol Binario.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Proceso de Control.md",
+    "2do Nivel/Física 2/Experiencia de Young de la Doble Rendija.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas Transaccionales.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas Interactivos.md",
+    "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
+    "4to Nivel/Administración de Sistemas de Información/Riesgo.md",
+    "2do Nivel/Análisis de Sistemas de Información/Resolución de Problemas.md",
+    "4to Nivel/Administración de Sistemas de Información/Rendimiento de un SI.md",
+    "2do Nivel/Paradigmas de Programación/Reducciones Lambda.md",
+    "2do Nivel/Análisis de Sistemas de Información/Principios de la Orientación a Objetos.md",
     "3er Nivel/Bases de Datos/attachments/MOC Bases de Datos.png",
     "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas",
-    "3er Nivel/Bases de Datos/Modelado de Datos.md",
-    "3er Nivel/Bases de Datos/SQL.md",
     "3er Nivel/Bases de Datos/attachments/Transacciones en SQL.png",
-    "3er Nivel/Bases de Datos/attachments/SQL 2025-01-03 17.19.39.excalidraw.md",
     "3er Nivel/Bases de Datos/attachments/SQL 2025-01-03 17.19.39.excalidraw.svg",
-    "3er Nivel/Bases de Datos/Arquitectura de un SGBD.md",
-    "3er Nivel/Bases de Datos/Bases de Datos.md",
-    "3er Nivel/Bases de Datos/index.md",
-    "3er Nivel/Bases de Datos/Modelo Entidad-Relación.md",
-    "3er Nivel/Bases de Datos/Modelo Relacional.md",
-    "3er Nivel/Bases de Datos/Sistema de Gestión de Bases de Datos.md",
     "3er Nivel/Bases de Datos/attachments/Ejemplar de una Relación en el Modelo Relacional.png",
     "3er Nivel/Bases de Datos/attachments/Símbolos del Modelo Entidad-Relación.png",
     "3er Nivel/Bases de Datos/attachments/Agregación en el Modelo Entidad-Relación.png",
     "3er Nivel/Bases de Datos/attachments/Jerarquías de Clases en el Modelo Entidad-Relación.png",
-    "3er Nivel/Bases de Datos/Untitled.md",
     "3er Nivel/Bases de Datos/attachments/Entidades Débiles en el Modelo Entidad-Relación.png",
     "3er Nivel/Bases de Datos/attachments/Ejemplar de Restricciones del Modelo Entidad-Relación.png",
     "3er Nivel/Bases de Datos/attachments/Restricciones en el Modelo Entidad-Relación.png",
-    "3er Nivel/Bases de Datos/attachments/Conjunto de Relaciones con Restricciones.png",
     "3er Nivel/Bases de Datos/attachments",
-    "3er Nivel/Probabilidad y Estadística/index.md",
-    "3er Nivel/index.md",
     "3er Nivel/Bases de Datos",
-    "3er Nivel/Probabilidad y Estadística/Intervalos de Clase.md",
     "3er Nivel/Probabilidad y Estadística/MOC Probabilidad y Estadística.canvas",
     "desktop.ini",
-    "3er Nivel/Probabilidad y Estadística/Teoría de la Decisión Estadística.md",
-    "3er Nivel/Probabilidad y Estadística/Cálculo del Tamaño de la Muestra.md",
-    "3er Nivel/Probabilidad y Estadística/Teoría de las Muestras.md",
-    "3er Nivel/Probabilidad y Estadística/Estimación por Intervalos de Confianza.md",
-    "3er Nivel/Probabilidad y Estadística/Estimación Puntual.md",
-    "3er Nivel/Probabilidad y Estadística/Teoría de la Estimación Estadística.md",
-    "3er Nivel/Probabilidad y Estadística/Teorema Central del Límite.md",
-    "3er Nivel/Probabilidad y Estadística/Estadística.md",
-    "3er Nivel/Probabilidad y Estadística/Distribución t de Student.md",
-    "3er Nivel/Probabilidad y Estadística/Distribuciones de Probabilidad de Variable Continua.md",
-    "3er Nivel/Probabilidad y Estadística/Distribución Chi-Cuadrado.md",
-    "3er Nivel/Probabilidad y Estadística/Distribución Normal.md",
     "3er Nivel/Probabilidad y Estadística/attachments",
     "3er Nivel/Probabilidad y Estadística",
     "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",

@@ -11,5 +11,5 @@ Incluye la [[Evaluación de las Prestaciones]].
 Puigjaner centra su análisis en el hardware y el sistema operativo.
 
 $$
-Sistema \ informático = HW + SO
+\text{Sistema informático} = \text{HW} + \text{SO}
 $$

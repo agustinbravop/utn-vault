@@ -7,4 +7,4 @@ Los sistemas transaccionales son [[Sistemas de Referencia]] en los cuales los us
 Es definido por el flujo de transacciones que le llega:
 
 - **Tiempo de respuesta**: es la suma de: - Tiempo de **reacción**: desde la petición hasta que comienza su ejecución. - Tiempo de **ejecución**: desde la ejecución hasta su finalización. - Tiempo de **retorno**: desde la finalización hasta que se le responde al usuario.
-  $$TiempoDeRespuesta = Reacción+Ejecución+Retorno$$
+  $$\text{Tiempo de Respuesta} = \text{Reacción} + \text{Ejecución} + \text{Retorno}$$

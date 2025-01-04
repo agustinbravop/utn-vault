@@ -53,9 +53,9 @@ Se sigue el desempeño para medirlo. Se puede realizar mediante:
 
 Toda actividad experimenta alguna **variación**, por lo que se debe determinar la **tolerancia**: los límites dentro de los cuales esa variación es normal o deseable. La comparación puede ser:
 
-- $Metas > Desempeño$
-- $Metas = Desempeño$ (dentro de la tolerancia)
-- $Metas < Desempeño$
+- $\text{Metas} > \text{Desempeño}$.
+- $\text{Metas} = \text{Desempeño}$ (dentro de la tolerancia).
+- $\text{Metas} < \text{Desempeño}$.
 
 Si el desvío es **significativo** $\implies$ **investigar causas**.
 

@@ -4,7 +4,7 @@ Los riesgos representan un costo en forma de pérdida esperada. Si bien se hace 
 
 $$
 \begin{aligned}
-\text{Pérdida esperada} &= \text{Pérdida potencial} \ \cdot \ \text{Frecuencia de pérdida} \\
-\text{Pérdida esperada} &= \text{Pérdida potencial} \ \cdot \ P(\text{agresión}) \cdot P(\text{éxito}) \\
+\text{Pérdida esperada} &= \text{Pérdida potencial} \ \times \ \text{Frecuencia de pérdida} \\
+\text{Pérdida esperada} &= \text{Pérdida potencial} \ \times \ P(\text{agresión}) \times P(\text{éxito}) \\
 \end{aligned}
 $$

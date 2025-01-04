@@ -8,7 +8,7 @@ En estos sistemas juega un papel el tiempo que el usuario usa para pensar su pr�
 
 - **Número de** **usuarios conectados**: simultáneamente.
 - **Tiempo de reflexión** de los usuarios: tiempo entre peticiones de un usuario.
-- **Tiempo de respuesta**: de la petición. $TiempoDeRespuesta = Reacción +Ejecución+Retorno$.
+- **Tiempo de respuesta**: de la petición. $\text{Tiempo de Respuesta} = \text{Reacción} + \text{Ejecución} + \text{Retorno}$.
 - **Productividad**: peticiones por unidad de tiempo.
 
 Estas cuatro variables están relacionadas y conocer tres de ellas permite determinar la cuarta.
