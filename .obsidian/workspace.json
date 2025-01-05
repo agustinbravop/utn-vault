@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Asignación.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Señales de Gobierno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asignación"
+              "title": "Señales de Gobierno"
             }
           },
           {
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Algoritmos y Estructuras de Datos/Asignación.md",
+                "file": "1er Nivel/Arquitectura de Computadoras/Señales de Gobierno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Asignación"
+              "title": "Backlinks for Señales de Gobierno"
             }
           },
           {
@@ -281,6 +281,7 @@
   },
   "active": "225c53f9ef1e604e",
   "lastOpenFiles": [
+    "1er Nivel/Algoritmos y Estructuras de Datos/Asignación.md",
     "3er Nivel/Bases de Datos/index.md",
     "3er Nivel/Bases de Datos/SQL.md",
     "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
@@ -306,7 +307,6 @@
     "4to Nivel/Administración de Sistemas de Información/Sistemas Interactivos.md",
     "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
     "4to Nivel/Administración de Sistemas de Información/Riesgo.md",
-    "2do Nivel/Análisis de Sistemas de Información/Resolución de Problemas.md",
     "3er Nivel/Bases de Datos/attachments/MOC Bases de Datos.png",
     "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas",
     "3er Nivel/Bases de Datos/attachments/Transacciones en SQL.png",
