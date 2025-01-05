@@ -4,123 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "eedc57188094740b",
+        "id": "5abf5017b01fbbc6",
         "type": "tabs",
         "children": [
           {
-            "id": "5ce47b1a1b1e50f4",
+            "id": "bd9661851e94575f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "3er Nivel/Bases de Datos/index.md",
-                "mode": "source",
-                "source": false
+                "file": "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
+                "viewState": {
+                  "x": 2280,
+                  "y": 80,
+                  "zoom": -1.905591635411922
+                }
               },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "fb5cf3815593a97c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Bases de Datos/Bases de Datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bases de Datos"
-            }
-          },
-          {
-            "id": "59259c5721049a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Bases de Datos/Bases de Datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bases de Datos"
-            }
-          },
-          {
-            "id": "699eeb9785d37aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Bases de Datos/Arquitectura de un SGBD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitectura de un SGBD"
-            }
-          },
-          {
-            "id": "abe140b91c81993e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Bases de Datos/Arquitectura de un SGBD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitectura de un SGBD"
-            }
-          },
-          {
-            "id": "225c53f9ef1e604e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Señales de Gobierno.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Señales de Gobierno"
-            }
-          },
-          {
-            "id": "c08ab9c61b3a8e9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Bases de Datos/Modelo Entidad-Relación.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelo Entidad-Relación"
-            }
-          },
-          {
-            "id": "a7afa760b363dd0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Bases de Datos/Arquitectura de un SGBD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitectura de un SGBD"
+              "icon": "lucide-layout-dashboard",
+              "title": "MOC Desarrollo de Software"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 249.5
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -200,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1er Nivel/Arquitectura de Computadoras/Señales de Gobierno.md",
+                "file": "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Señales de Gobierno"
+              "title": "Backlinks for MOC Desarrollo de Software"
             }
           },
           {
@@ -265,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,10 +183,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "225c53f9ef1e604e",
+  "active": "bd9661851e94575f",
   "lastOpenFiles": [
-    "1er Nivel/Algoritmos y Estructuras de Datos/Asignación.md",
+    "3er Nivel/Desarrollo de Software/index.md",
+    "3er Nivel/Desarrollo de Software/attachments/MOC Desarrollo de Software.png",
+    "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
+    "3er Nivel/Desarrollo de Software/OAuth 2.0.md",
+    "3er Nivel/Desarrollo de Software/Testing.md",
+    "3er Nivel/Desarrollo de Software/attachments/OAuth 2.0.png",
+    "3er Nivel/Desarrollo de Software/Seguridad en la Web.md",
+    "3er Nivel/Desarrollo de Software/Aplicaciones de Cliente.md",
+    "3er Nivel/Desarrollo de Software/attachments/Aplicaciones de Cliente.png",
+    "3er Nivel/Desarrollo de Software/SOLID.md",
+    "3er Nivel/Desarrollo de Software/RESTful API.md",
+    "3er Nivel/Desarrollo de Software/attachments/RESTful API 2025-01-05 20.01.11.excalidraw.md",
+    "3er Nivel/Desarrollo de Software/attachments/RESTful API 2025-01-05 20.01.11.excalidraw.svg",
+    "3er Nivel/Desarrollo de Software/Data Access Layer.md",
+    "3er Nivel/Desarrollo de Software/attachments/Data Access Layer.png",
+    "3er Nivel/Desarrollo de Software/Web Services.md",
+    "3er Nivel/Desarrollo de Software/Desarrollo de Software.md",
+    "3er Nivel/Desarrollo de Software/attachments/Pasted image 20250105194122.png",
+    "3er Nivel/Desarrollo de Software/attachments",
+    "3er Nivel/Desarrollo de Software/Sistema de Control de Versiones.md",
+    "3er Nivel/Probabilidad y Estadística/index.md",
+    "3er Nivel/index.md",
+    "3er Nivel/Desarrollo de Software",
     "3er Nivel/Bases de Datos/index.md",
+    "3er Nivel/Bases de Datos.md",
+    "1er Nivel/Arquitectura de Computadoras/Señales de Gobierno.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Asignación.md",
     "3er Nivel/Bases de Datos/SQL.md",
     "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
     "3er Nivel/Probabilidad y Estadística/Teoría de la Decisión Estadística.md",
@@ -290,34 +219,11 @@
     "4to Nivel/Administración de Sistemas de Información/Selección de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Seguimiento de SI y TI.md",
     "2do Nivel/Paradigmas de Programación/Paradigma Lógico.md",
-    "2do Nivel/Física 2/Materiales Magnéticos.md",
-    "2do Nivel/Física 2/FEM Inducida.md",
-    "2do Nivel/Física 2/Intensidad Luminosa.md",
-    "2do Nivel/Física 2/Efecto Hall.md",
-    "3er Nivel/Probabilidad y Estadística/Distribuciones de Probabilidad de Variable Discreta.md",
-    "2do Nivel/Física 2/Dilatación.md",
-    "2do Nivel/Física 2/Difracción.md",
-    "2do Nivel/Física 2/Densidad y Flujo de Energía Electromagnética.md",
-    "4to Nivel/Administración de Sistemas de Información/Caracterización de la Carga.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Árbol Binario.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de las Compensaciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Proceso de Control.md",
-    "2do Nivel/Física 2/Experiencia de Young de la Doble Rendija.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistemas Transaccionales.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistemas Interactivos.md",
-    "4to Nivel/Administración de Sistemas de Información/Selección de SW y HW.md",
-    "4to Nivel/Administración de Sistemas de Información/Riesgo.md",
     "3er Nivel/Bases de Datos/attachments/MOC Bases de Datos.png",
     "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas",
     "3er Nivel/Bases de Datos/attachments/Transacciones en SQL.png",
     "3er Nivel/Bases de Datos/attachments/SQL 2025-01-03 17.19.39.excalidraw.svg",
     "3er Nivel/Bases de Datos/attachments/Ejemplar de una Relación en el Modelo Relacional.png",
-    "3er Nivel/Bases de Datos/attachments/Símbolos del Modelo Entidad-Relación.png",
-    "3er Nivel/Bases de Datos/attachments/Agregación en el Modelo Entidad-Relación.png",
-    "3er Nivel/Bases de Datos/attachments/Jerarquías de Clases en el Modelo Entidad-Relación.png",
-    "3er Nivel/Bases de Datos/attachments/Entidades Débiles en el Modelo Entidad-Relación.png",
-    "3er Nivel/Bases de Datos/attachments/Ejemplar de Restricciones del Modelo Entidad-Relación.png",
-    "3er Nivel/Bases de Datos/attachments/Restricciones en el Modelo Entidad-Relación.png",
     "3er Nivel/Bases de Datos/attachments",
     "3er Nivel/Bases de Datos",
     "3er Nivel/Probabilidad y Estadística/MOC Probabilidad y Estadística.canvas",
@@ -329,13 +235,10 @@
     "2do Nivel/Análisis de Sistemas de Información",
     "2do Nivel/Física 2/MOC Física 2.canvas",
     "2do Nivel/Física 2/attachments",
-    "2do Nivel/Física 2",
-    "tatus",
     "2do Nivel/Paradigmas de Programación/MOC - Paradigmas de Programación.canvas",
     "2do Nivel/Sistemas Operativos/MOC - Sistemas Operativos.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
-    "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas",
-    "1er Nivel/Sistemas y Procesos de Negocio/MOC Sistemas y Organizaciones.canvas"
+    "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas"
   ]
 }

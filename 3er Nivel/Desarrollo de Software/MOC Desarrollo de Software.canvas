@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"8b4110bc1f1d851b","x":640,"y":-80,"width":400,"height":400,"type":"file","file":"3er Nivel/Desarrollo de Software/Sistema de Control de Versiones.md"},
+		{"id":"1a518cf8c5f8877b","type":"file","file":"3er Nivel/Desarrollo de Software/Data Access Layer.md","x":1120,"y":-80,"width":400,"height":400},
+		{"id":"55f8e304d36df606","x":1600,"y":-80,"width":400,"height":400,"type":"file","file":"3er Nivel/Desarrollo de Software/Web Services.md"},
+		{"id":"28f604f9f3abe5ca","x":1600,"y":400,"width":400,"height":400,"type":"file","file":"3er Nivel/Desarrollo de Software/RESTful API.md"},
+		{"id":"4b15c5c26e134714","x":2080,"y":-80,"width":400,"height":400,"type":"file","file":"3er Nivel/Desarrollo de Software/SOLID.md"},
+		{"id":"0e22081f794c92df","type":"file","file":"3er Nivel/Desarrollo de Software/Aplicaciones de Cliente.md","x":2560,"y":-80,"width":400,"height":400},
+		{"id":"05ac94181ed25832","x":3040,"y":-80,"width":400,"height":400,"type":"file","file":"3er Nivel/Desarrollo de Software/Seguridad en la Web.md"},
+		{"id":"09a3f8d7329afc61","x":3520,"y":-80,"width":400,"height":400,"type":"file","file":"3er Nivel/Desarrollo de Software/Testing.md"},
+		{"id":"a6c0e153239f2f8d","x":3040,"y":400,"width":400,"height":400,"type":"file","file":"3er Nivel/Desarrollo de Software/OAuth 2.0.md"},
+		{"id":"b6015f9593d8df55","type":"file","file":"3er Nivel/Desarrollo de Software/Desarrollo de Software.md","x":2080,"y":-640,"width":400,"height":400,"color":"4"}
+	],
+	"edges":[
+		{"id":"01768939b68a63b8","fromNode":"b6015f9593d8df55","fromSide":"bottom","toNode":"8b4110bc1f1d851b","toSide":"top"},
+		{"id":"e9f5c9b64983b131","fromNode":"b6015f9593d8df55","fromSide":"bottom","toNode":"1a518cf8c5f8877b","toSide":"top"},
+		{"id":"1e51cceac6de31fe","fromNode":"b6015f9593d8df55","fromSide":"bottom","toNode":"55f8e304d36df606","toSide":"top"},
+		{"id":"b467f4c34b868c91","fromNode":"b6015f9593d8df55","fromSide":"bottom","toNode":"4b15c5c26e134714","toSide":"top"},
+		{"id":"4468307be435911f","fromNode":"b6015f9593d8df55","fromSide":"bottom","toNode":"0e22081f794c92df","toSide":"top"},
+		{"id":"065a87c08f28b156","fromNode":"55f8e304d36df606","fromSide":"bottom","toNode":"28f604f9f3abe5ca","toSide":"top"},
+		{"id":"e03a94b558f25cbe","fromNode":"b6015f9593d8df55","fromSide":"bottom","toNode":"05ac94181ed25832","toSide":"top"},
+		{"id":"cebd7c7452836794","fromNode":"b6015f9593d8df55","fromSide":"bottom","toNode":"09a3f8d7329afc61","toSide":"top"},
+		{"id":"0e0129916c256f2c","fromNode":"05ac94181ed25832","fromSide":"bottom","toNode":"a6c0e153239f2f8d","toSide":"top"}
+	]
+}

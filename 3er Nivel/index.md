@@ -5,7 +5,7 @@ title: 3er Nivel
 Materias obligatorias:
 
 1. Análisis Numérico.
-2. Bases de Datos.
+2. [[3er Nivel/Bases de Datos/index|Bases de Datos]].
 3. Comunicación de Datos.
 4. Desarrollo de Software.
 5. Diseño de Sistemas de Información (integradora).
