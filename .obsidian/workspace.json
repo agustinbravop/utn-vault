@@ -11,17 +11,14 @@
             "id": "bd9661851e94575f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
-                "viewState": {
-                  "x": 2280,
-                  "y": 80,
-                  "zoom": -1.905591635411922
-                }
+                "file": "3er Nivel/Comunicación de Datos/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "MOC Desarrollo de Software"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
+                "file": "3er Nivel/Comunicación de Datos/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MOC Desarrollo de Software"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -185,9 +182,13 @@
   },
   "active": "bd9661851e94575f",
   "lastOpenFiles": [
+    "3er Nivel/Probabilidad y Estadística/index.md",
+    "3er Nivel/index.md",
+    "3er Nivel/Comunicación de Datos/index.md",
+    "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
+    "3er Nivel/Comunicación de Datos",
     "3er Nivel/Desarrollo de Software/index.md",
     "3er Nivel/Desarrollo de Software/attachments/MOC Desarrollo de Software.png",
-    "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
     "3er Nivel/Desarrollo de Software/OAuth 2.0.md",
     "3er Nivel/Desarrollo de Software/Testing.md",
     "3er Nivel/Desarrollo de Software/attachments/OAuth 2.0.png",
@@ -205,8 +206,6 @@
     "3er Nivel/Desarrollo de Software/attachments/Pasted image 20250105194122.png",
     "3er Nivel/Desarrollo de Software/attachments",
     "3er Nivel/Desarrollo de Software/Sistema de Control de Versiones.md",
-    "3er Nivel/Probabilidad y Estadística/index.md",
-    "3er Nivel/index.md",
     "3er Nivel/Desarrollo de Software",
     "3er Nivel/Bases de Datos/index.md",
     "3er Nivel/Bases de Datos.md",
@@ -218,7 +217,6 @@
     "3er Nivel/Probabilidad y Estadística/Teorema Central del Límite.md",
     "4to Nivel/Administración de Sistemas de Información/Selección de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/Seguimiento de SI y TI.md",
-    "2do Nivel/Paradigmas de Programación/Paradigma Lógico.md",
     "3er Nivel/Bases de Datos/attachments/MOC Bases de Datos.png",
     "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas",
     "3er Nivel/Bases de Datos/attachments/Transacciones en SQL.png",
@@ -234,7 +232,6 @@
     "2do Nivel/Análisis de Sistemas de Información/attachments",
     "2do Nivel/Análisis de Sistemas de Información",
     "2do Nivel/Física 2/MOC Física 2.canvas",
-    "2do Nivel/Física 2/attachments",
     "2do Nivel/Paradigmas de Programación/MOC - Paradigmas de Programación.canvas",
     "2do Nivel/Sistemas Operativos/MOC - Sistemas Operativos.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
