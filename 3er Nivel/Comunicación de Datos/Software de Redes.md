@@ -26,5 +26,3 @@ El modelo solo dice lo que cada capa debería hacer, no cómo hacerlo. No es una
 TCP/IP es el modelo de referencia de Arpanet e Internet. Ofrece protocolos específicos para utilizar, pero mezcla entre sus capas algunas de las responsabilidades que el modelo OSI organiza de manera más clara.
 
 ![[Modelo TCP-IP.png]]
-
-## Estab

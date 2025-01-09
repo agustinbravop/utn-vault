@@ -34,9 +34,163 @@
               "icon": "lucide-file",
               "title": "Software de Redes"
             }
+          },
+          {
+            "id": "44f6eb0efa0face9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Estandarización en Comunicaciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estandarización en Comunicaciones"
+            }
+          },
+          {
+            "id": "f3c4f733a0755d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Teoría de la Codificación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teoría de la Codificación"
+            }
+          },
+          {
+            "id": "e734a4bff416d2cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Frecuencia de Nyquist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frecuencia de Nyquist"
+            }
+          },
+          {
+            "id": "46037cd07cc0ede8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Detección de Errores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Detección de Errores"
+            }
+          },
+          {
+            "id": "99ff4700e1dc6006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Distancia de Hamming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distancia de Hamming"
+            }
+          },
+          {
+            "id": "9ca8814ec449ea4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Códigos Perfectos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Códigos Perfectos"
+            }
+          },
+          {
+            "id": "316fdc966062f9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Códigos Lineales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Códigos Lineales"
+            }
+          },
+          {
+            "id": "cc88d9beef898aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Señales y Espectros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Señales y Espectros"
+            }
+          },
+          {
+            "id": "c88816e7fe70b35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Señales y Espectros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Señales y Espectros"
+            }
+          },
+          {
+            "id": "dbe85e094ad370fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Transmisión de Señales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transmisión de Señales"
+            }
+          },
+          {
+            "id": "288d45eefbab66c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Distancia de Hamming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distancia de Hamming"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -116,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Comunicación de Datos/Software de Redes.md",
+                "file": "3er Nivel/Comunicación de Datos/Transmisión de Señales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +280,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Software de Redes"
+              "title": "Backlinks for Transmisión de Señales"
             }
           },
           {
@@ -195,14 +349,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b49f3884fc73cb7f",
+  "active": "dbe85e094ad370fa",
   "lastOpenFiles": [
+    "3er Nivel/Comunicación de Datos/Señales y Espectros.md",
+    "3er Nivel/Comunicación de Datos/Transmisión de Señales.md",
+    "3er Nivel/Comunicación de Datos/Análisis de Fourier.md",
+    "3er Nivel/Comunicación de Datos/attachments/Señales y Espectros.png",
+    "3er Nivel/Comunicación de Datos/Códigos Lineales.md",
+    "3er Nivel/Comunicación de Datos/Códigos Perfectos.md",
+    "3er Nivel/Comunicación de Datos/Distancia de Hamming.md",
+    "3er Nivel/Comunicación de Datos/Códigos.md",
+    "3er Nivel/Comunicación de Datos/attachments/BSC.png",
+    "3er Nivel/Comunicación de Datos/Detección de Errores.md",
+    "3er Nivel/Comunicación de Datos/Frecuencia de Nyquist.md",
+    "3er Nivel/Comunicación de Datos/Teoría de la Codificación.md",
+    "3er Nivel/Comunicación de Datos/Estandarización en Comunicaciones.md",
+    "3er Nivel/Comunicación de Datos/Software de Redes.md",
     "3er Nivel/Comunicación de Datos/attachments/Modelo TCP-IP.png",
     "3er Nivel/Comunicación de Datos/attachments/Modelo OSI.png",
     "3er Nivel/Comunicación de Datos/attachments/Software de Redes.png",
     "3er Nivel/Comunicación de Datos/Comunicación de Datos.md",
     "3er Nivel/Comunicación de Datos/attachments/Modelo de Comunicación de Datos.png",
-    "3er Nivel/Comunicación de Datos/Software de Redes.md",
     "3er Nivel/Comunicación de Datos/attachments/Comunicación de Datos.png",
     "3er Nivel/Comunicación de Datos/attachments",
     "3er Nivel/Comunicación de Datos/index.md",
@@ -221,23 +388,10 @@
     "3er Nivel/Desarrollo de Software/SOLID.md",
     "3er Nivel/Desarrollo de Software/RESTful API.md",
     "3er Nivel/Desarrollo de Software/attachments/RESTful API 2025-01-05 20.01.11.excalidraw.md",
-    "3er Nivel/Desarrollo de Software/attachments/RESTful API 2025-01-05 20.01.11.excalidraw.svg",
     "3er Nivel/Desarrollo de Software/Data Access Layer.md",
-    "3er Nivel/Desarrollo de Software/attachments/Data Access Layer.png",
     "3er Nivel/Desarrollo de Software/Web Services.md",
-    "3er Nivel/Desarrollo de Software/Desarrollo de Software.md",
-    "3er Nivel/Desarrollo de Software/attachments/Pasted image 20250105194122.png",
     "3er Nivel/Desarrollo de Software/attachments",
-    "3er Nivel/Desarrollo de Software/Sistema de Control de Versiones.md",
     "3er Nivel/Desarrollo de Software",
-    "3er Nivel/Bases de Datos/index.md",
-    "3er Nivel/Bases de Datos.md",
-    "1er Nivel/Arquitectura de Computadoras/Señales de Gobierno.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Asignación.md",
-    "3er Nivel/Bases de Datos/SQL.md",
-    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
-    "3er Nivel/Probabilidad y Estadística/Teoría de la Decisión Estadística.md",
-    "3er Nivel/Probabilidad y Estadística/Teorema Central del Límite.md",
     "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas",
     "3er Nivel/Bases de Datos/attachments",
     "3er Nivel/Bases de Datos",
