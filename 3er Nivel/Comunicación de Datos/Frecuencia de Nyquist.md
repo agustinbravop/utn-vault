@@ -6,6 +6,6 @@ Es posible superar ese máximo usando transmisión multinivel, mandando mensajes
 
 **Límite de Nyquist**: $BPS=2\Delta F H$ es la máxima velocidad binaria alcanzable en canales sin ruido.
 
-Luego, Shannon considera los canales ruidosos y su relación entre la cantidad máxima de niveles y la *razón señal a ruido* del canal, estableciendo el **límite de Shannon**.
+Luego, Shannon considera los canales [[Ruido|ruidosos]] y su relación entre la cantidad máxima de niveles y la *razón señal a ruido* del canal, estableciendo el **límite de Shannon**.
 
 $$m_\text{max} = \left( 1 + \frac{S}{N}\right)^{\frac{1}{2}} \implies BPS = 2\Delta F \log_2 m_\text{max} \implies BPS = \Delta F \log_2 \left(1+\frac{S}{N}\right)$$

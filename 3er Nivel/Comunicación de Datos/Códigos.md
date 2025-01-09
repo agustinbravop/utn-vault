@@ -10,7 +10,7 @@ Sea una *función de codificación* $F$ con una aplicación biyectiva (por ende 
 
 $P(a_j \ \text{recibido} | a_i \ \text{enviado})$ es la probabilidad de enviar un símbolo y recibir otro. En la práctica, el canal perfecto no existe, y las probabilidades de transición sí existen.
 
-Se considera que el ruido se distribuye **aleatoriamente** y que el canal es *sin memoria*, por ende una transmisión con error no afecta a las siguientes transmisiones. Para detectar errores, se necesita añadir *redundancia* de manera que se pueda validar que las palabras recibidas son erróneas. Sea la *tasa de información* $R = \frac{1}{n}\log_q m$ para la **relación dato-redundancia**.
+Se considera que el [[Ruido]] se distribuye **aleatoriamente** y que el canal es *sin memoria*, por ende una transmisión con error no afecta a las siguientes transmisiones. Para detectar errores, se necesita añadir *redundancia* de manera que se pueda validar que las palabras recibidas son erróneas. Sea la *tasa de información* $R = \frac{1}{n}\log_q m$ para la **relación dato-redundancia**.
 
 Ej: el código $C = \set {000000, 010101,1 101010, 111111}$ presenta una repetición por tres. Si nos llega una palabra que no es del código, la aproximamos a la que [[Distancia de Hamming|dista]] 1 del código, suponiendo que solo hay un error. Aplicando la tasa de información: $R = \frac{1}{6} \log_2 4 = \frac{1}{3}$ se demuestra que solo un tercio del mensaje es información.
 
