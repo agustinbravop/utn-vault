@@ -22,6 +22,76 @@
             }
           },
           {
+            "id": "767376e7498c9fd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Multiplexación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multiplexación"
+            }
+          },
+          {
+            "id": "fb9ab3686a9efe90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Medios de Transmisión.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Medios de Transmisión"
+            }
+          },
+          {
+            "id": "3436c5fabe09ea9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Conmutación de Circuitos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conmutación de Circuitos"
+            }
+          },
+          {
+            "id": "fbde7a86c955544e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Conmutación de Paquetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conmutación de Paquetes"
+            }
+          },
+          {
+            "id": "6d6f79ca8e7ca72a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Estrategia de Encaminamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estrategia de Encaminamiento"
+            }
+          },
+          {
             "id": "6c2741bb7a3ca926",
             "type": "leaf",
             "state": {
@@ -47,7 +117,8 @@
               "title": "Capacidad del Canal"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -127,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Comunicación de Datos/Codificación de Datos.md",
+                "file": "3er Nivel/Comunicación de Datos/Estrategia de Encaminamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Codificación de Datos"
+              "title": "Backlinks for Estrategia de Encaminamiento"
             }
           },
           {
@@ -206,16 +277,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0a928c82b378290",
+  "active": "6d6f79ca8e7ca72a",
   "lastOpenFiles": [
+    "3er Nivel/Comunicación de Datos/Conmutación de Paquetes.md",
+    "3er Nivel/Comunicación de Datos/Estrategia de Encaminamiento.md",
+    "3er Nivel/Comunicación de Datos/attachments/Conmutación de Paquetes.png",
+    "3er Nivel/Comunicación de Datos/Conmutación de Circuitos.md",
+    "3er Nivel/Comunicación de Datos/Untitled.md",
+    "3er Nivel/Comunicación de Datos/attachments/Pasted image 20250109184358.png",
+    "3er Nivel/Comunicación de Datos/aaaaaaaaEancaminamiento de Circuitos.md",
+    "3er Nivel/Comunicación de Datos/attachments/Conmutación de Circuitos.png",
+    "3er Nivel/Comunicación de Datos/Medios de Transmisión.md",
+    "3er Nivel/Comunicación de Datos/attachments/Medios de Transmisión Guiados.png",
+    "3er Nivel/Comunicación de Datos/Multiplexación.md",
+    "3er Nivel/Comunicación de Datos/attachments/Multiplexación por División en el Tiempo Síncrona.png",
+    "3er Nivel/Comunicación de Datos/attachments/Multiplexación.png",
+    "3er Nivel/Comunicación de Datos/attachments/Multiplexación por División en Frecuencias.png",
+    "3er Nivel/Comunicación de Datos/Codificación de Datos.md",
+    "3er Nivel/Comunicación de Datos/attachments/Modulación en Amplitud.png",
     "3er Nivel/Comunicación de Datos/attachments/Modulación de Señales Analógicas.png",
     "3er Nivel/Comunicación de Datos/attachments/Formatos de Codificación con Señal Digital.png",
-    "3er Nivel/Comunicación de Datos/attachments/Intervalo Significativo.png",
     "3er Nivel/Comunicación de Datos/Transmisión de Señales.md",
-    "3er Nivel/Comunicación de Datos/Codificación de Datos.md",
     "3er Nivel/Comunicación de Datos/attachments/Codificación de Datos 2025-01-08 22.08.10.excalidraw.md",
     "3er Nivel/Comunicación de Datos/Capacidad del Canal.md",
-    "3er Nivel/Comunicación de Datos/attachments/Codificación de Datos 2025-01-08 22.08.10.excalidraw.svg",
     "3er Nivel/Comunicación de Datos/Transmisión de Datos.md",
     "3er Nivel/Comunicación de Datos/Potencia Efectiva.md",
     "3er Nivel/Comunicación de Datos/Frecuencia de Nyquist.md",
@@ -225,28 +309,15 @@
     "3er Nivel/Comunicación de Datos/Análisis de Fourier.md",
     "3er Nivel/Comunicación de Datos/Ruido.md",
     "3er Nivel/Comunicación de Datos/Señales y Espectros.md",
-    "3er Nivel/Comunicación de Datos/attachments/Señales y Espectros.png",
     "3er Nivel/Comunicación de Datos/Códigos Lineales.md",
     "3er Nivel/Comunicación de Datos/Distancia de Hamming.md",
-    "3er Nivel/Comunicación de Datos/attachments/BSC.png",
     "3er Nivel/Comunicación de Datos/Detección de Errores.md",
     "3er Nivel/Comunicación de Datos/Teoría de la Codificación.md",
     "3er Nivel/Comunicación de Datos/Estandarización en Comunicaciones.md",
     "3er Nivel/Comunicación de Datos/Software de Redes.md",
-    "3er Nivel/Comunicación de Datos/attachments/Modelo TCP-IP.png",
-    "3er Nivel/Comunicación de Datos/attachments/Modelo OSI.png",
-    "3er Nivel/Comunicación de Datos/attachments/Software de Redes.png",
-    "3er Nivel/Comunicación de Datos/Comunicación de Datos.md",
-    "3er Nivel/Comunicación de Datos/attachments/Modelo de Comunicación de Datos.png",
-    "3er Nivel/Comunicación de Datos/attachments/Comunicación de Datos.png",
     "3er Nivel/Comunicación de Datos/attachments",
-    "3er Nivel/Comunicación de Datos/index.md",
-    "3er Nivel/Probabilidad y Estadística/index.md",
-    "3er Nivel/index.md",
     "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
     "3er Nivel/Comunicación de Datos",
-    "3er Nivel/Desarrollo de Software/index.md",
-    "3er Nivel/Desarrollo de Software/OAuth 2.0.md",
     "3er Nivel/Desarrollo de Software/attachments",
     "3er Nivel/Desarrollo de Software",
     "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas",
