@@ -2,7 +2,7 @@ En la [[Transmisión de Datos]], si se dispone de dos dispositivos enlazados pun
 
 ![[Multiplexación.png]]
 
-El *multiplexor* combina los datos de las líneas de entrada y los transmite. Luego, el *demultiplexor* acepta esa cadena, separa los datos conforme a cada canal correspondiente, y los distribuye a la salida.
+El _multiplexor_ combina los datos de las líneas de entrada y los transmite. Luego, el _demultiplexor_ acepta esa cadena, separa los datos conforme a cada canal correspondiente, y los distribuye a la salida.
 
 La importancia de la multiplexación es que abarata costos de líneas de larga distancia, y el servicio es más costo-eficiente conforme aumenta la razón de datos.
 
@@ -12,7 +12,7 @@ La **Multiplexación por División en Frecuencias** requiere que el [[Señales y
 
 ![[Multiplexación por División en Frecuencias.png]]
 
-Cada señal se modula con una *frecuencia portadora* distinta, de manera que usa una porción particular del ancho de banda total, la cual se denomina *canal*. Para evitar interferencias, los canales se separan por una *banda de seguridad* que se mantiene sin usar.
+Cada señal se modula con una _frecuencia portadora_ distinta, de manera que usa una porción particular del ancho de banda total, la cual se denomina _canal_. Para evitar interferencias, los canales se separan por una _banda de seguridad_ que se mantiene sin usar.
 
 La señal de ingreso se modula para ser desplazada a su banda de frecuencia apropiada. La señal transmitida es analógica.
 
@@ -22,7 +22,7 @@ La **Multiplexación por División en el Tiempo Síncrona** requiere que la raz�
 
 ![[Multiplexación por División en el Tiempo Síncrona.png]]
 
-Se multiplexan una serie de señales digitales en el mismo medio. Los datos de entrada se almacenan temporalmente en un buffer. Estos datos se organizan en tramas, cada trama conn un ciclo de subdivisiones. Una o más subdivisiones se dedican a una sola fuente, y una secuencia de trama en trama se denomina *canal*. Esas subdivisiones tienen la misma longitud que el buffer, que generalmente es 1 bit.
+Se multiplexan una serie de señales digitales en el mismo medio. Los datos de entrada se almacenan temporalmente en un buffer. Estos datos se organizan en tramas, cada trama conn un ciclo de subdivisiones. Una o más subdivisiones se dedican a una sola fuente, y una secuencia de trama en trama se denomina _canal_. Esas subdivisiones tienen la misma longitud que el buffer, que generalmente es 1 bit.
 
 Esto se vuelve ineficiente cuando una fuente no manda datos por mucho tiempo, porque desaprovecha el ancho de banda al dejar tramas vacías.
 

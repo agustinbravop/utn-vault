@@ -2,16 +2,16 @@ El **software de redes** para la [[Comunicación de Datos]] está muy estructura
 
 ![[Software de Redes.png]]
 
-Cada **capa** de la red se construye a partir de la capa inferior. Los *pares* (capas del mismo nivel) se comunican mediante *protocolos*, que son un idioma común entre ellos. Estos protocolos tienen una sintaxis, semántica, y temporización. Cada uno determina una PDU (Protocol Data Unit).
+Cada **capa** de la red se construye a partir de la capa inferior. Los _pares_ (capas del mismo nivel) se comunican mediante _protocolos_, que son un idioma común entre ellos. Estos protocolos tienen una sintaxis, semántica, y temporización. Cada uno determina una PDU (Protocol Data Unit).
 
 Un **servicio** que una capa ofrece puede estar:
 
 - **Orientado a la conexión**: garantiza la secuencia de llegada de los mensajes. Ej: TCP.
 - **NO orientado a la conexión**: cada mensaje "llega cuando llega". Ej: UDP.
 
-Las *primitivas* de servicios son operaciones básicas que ordenan que el servicio ejecute una acción o informe el estado de algún par. Ejemplos para un socket: `LISTEN`, `CONNECT`, `RECIEVE`, `SEND`, `DISCONNECT`.
+Las _primitivas_ de servicios son operaciones básicas que ordenan que el servicio ejecute una acción o informe el estado de algún par. Ejemplos para un socket: `LISTEN`, `CONNECT`, `RECIEVE`, `SEND`, `DISCONNECT`.
 
-El servicio define las operaciones que la capa puede realizar, y el protocolo indica cómo implementar un servicio, definiendo un *formato*.
+El servicio define las operaciones que la capa puede realizar, y el protocolo indica cómo implementar un servicio, definiendo un _formato_.
 
 ## Modelo OSI
 

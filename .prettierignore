@@ -1,6 +1,9 @@
+# Carpetas a nivel root
 .git
 .obsidian
 .trash
 Excalidraw
-*.excalidraw
-*.excalidraw.md
+
+## Archivos excalidraw
+**/*.excalidraw
+**/*.excalidraw.md

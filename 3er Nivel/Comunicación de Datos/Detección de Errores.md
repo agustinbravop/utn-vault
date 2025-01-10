@@ -5,7 +5,7 @@ Todo sistema de transmisión tiene **ruido** que debe ser corregido. Dentro del 
 
 Algunas definiciones:
 
-1. $P_b$: probabilidad de que un bit recibido sea erróneo (*bit error rate*).
+1. $P_b$: probabilidad de que un bit recibido sea erróneo (_bit error rate_).
 2. $P_1$: probabilidad de que una trama llegue sin errores.
 3. $P_2$: probabilidad de tener un error no detectado (si se usa un algoritmo de detección).
 4. $P_3$: probabilidad de tener errores detectados y ningún error sin detectar.

@@ -34,8 +34,8 @@ Las tareas principales a resolver son:
 
 Según la **tecnología de transmisión**, la red puede ser:
 
-- **De Difusión**: para hacer *broadcasting*.
-- **Punto a Punto**: para hacer *unicasting*.
+- **De Difusión**: para hacer _broadcasting_.
+- **Punto a Punto**: para hacer _unicasting_.
 
 Según la **escala** de la red:
 

@@ -4,121 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c74cbd0ea4b4cc0f",
+        "id": "58a71e184e03daa7",
         "type": "tabs",
         "children": [
           {
-            "id": "f0a928c82b378290",
+            "id": "e6848fbca5331d6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3er Nivel/Comunicación de Datos/Codificación de Datos.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Codificación de Datos"
-            }
-          },
-          {
-            "id": "767376e7498c9fd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Comunicación de Datos/Multiplexación.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiplexación"
-            }
-          },
-          {
-            "id": "fb9ab3686a9efe90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Comunicación de Datos/Medios de Transmisión.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Medios de Transmisión"
-            }
-          },
-          {
-            "id": "3436c5fabe09ea9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Comunicación de Datos/Conmutación de Circuitos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conmutación de Circuitos"
-            }
-          },
-          {
-            "id": "fbde7a86c955544e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Comunicación de Datos/Conmutación de Paquetes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conmutación de Paquetes"
-            }
-          },
-          {
-            "id": "6d6f79ca8e7ca72a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Comunicación de Datos/Estrategia de Encaminamiento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estrategia de Encaminamiento"
-            }
-          },
-          {
-            "id": "6c2741bb7a3ca926",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "3er Nivel/Comunicación de Datos/attachments/Codificación de Datos 2025-01-08 22.08.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Codificación de Datos 2025-01-08 22.08.10.excalidraw"
-            }
-          },
-          {
-            "id": "abdad3056acba069",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Comunicación de Datos/Capacidad del Canal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Capacidad del Canal"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +33,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 57.43855109961189,
+        "dimension": 74.1267787839586,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -149,7 +52,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 42.56144890038811,
+        "dimension": 25.873221216041397,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -198,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Comunicación de Datos/Estrategia de Encaminamiento.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Estrategia de Encaminamiento"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -217,11 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -255,8 +159,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -274,47 +178,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d6f79ca8e7ca72a",
+  "active": "e6848fbca5331d6a",
   "lastOpenFiles": [
-    "3er Nivel/Comunicación de Datos/Conmutación de Paquetes.md",
-    "3er Nivel/Comunicación de Datos/Estrategia de Encaminamiento.md",
-    "3er Nivel/Comunicación de Datos/attachments/Conmutación de Paquetes.png",
-    "3er Nivel/Comunicación de Datos/Conmutación de Circuitos.md",
-    "3er Nivel/Comunicación de Datos/Untitled.md",
-    "3er Nivel/Comunicación de Datos/attachments/Pasted image 20250109184358.png",
-    "3er Nivel/Comunicación de Datos/aaaaaaaaEancaminamiento de Circuitos.md",
-    "3er Nivel/Comunicación de Datos/attachments/Conmutación de Circuitos.png",
-    "3er Nivel/Comunicación de Datos/Medios de Transmisión.md",
-    "3er Nivel/Comunicación de Datos/attachments/Medios de Transmisión Guiados.png",
-    "3er Nivel/Comunicación de Datos/Multiplexación.md",
-    "3er Nivel/Comunicación de Datos/attachments/Multiplexación por División en el Tiempo Síncrona.png",
-    "3er Nivel/Comunicación de Datos/attachments/Multiplexación.png",
-    "3er Nivel/Comunicación de Datos/attachments/Multiplexación por División en Frecuencias.png",
-    "3er Nivel/Comunicación de Datos/Codificación de Datos.md",
-    "3er Nivel/Comunicación de Datos/attachments/Modulación en Amplitud.png",
-    "3er Nivel/Comunicación de Datos/attachments/Modulación de Señales Analógicas.png",
-    "3er Nivel/Comunicación de Datos/attachments/Formatos de Codificación con Señal Digital.png",
-    "3er Nivel/Comunicación de Datos/Transmisión de Señales.md",
-    "3er Nivel/Comunicación de Datos/attachments/Codificación de Datos 2025-01-08 22.08.10.excalidraw.md",
-    "3er Nivel/Comunicación de Datos/Capacidad del Canal.md",
-    "3er Nivel/Comunicación de Datos/Transmisión de Datos.md",
-    "3er Nivel/Comunicación de Datos/Potencia Efectiva.md",
-    "3er Nivel/Comunicación de Datos/Frecuencia de Nyquist.md",
-    "1er Nivel/Arquitectura de Computadoras/Códigos Redundantes.md",
-    "3er Nivel/Comunicación de Datos/Códigos Perfectos.md",
-    "3er Nivel/Comunicación de Datos/Códigos.md",
-    "3er Nivel/Comunicación de Datos/Análisis de Fourier.md",
-    "3er Nivel/Comunicación de Datos/Ruido.md",
-    "3er Nivel/Comunicación de Datos/Señales y Espectros.md",
-    "3er Nivel/Comunicación de Datos/Códigos Lineales.md",
-    "3er Nivel/Comunicación de Datos/Distancia de Hamming.md",
-    "3er Nivel/Comunicación de Datos/Detección de Errores.md",
-    "3er Nivel/Comunicación de Datos/Teoría de la Codificación.md",
-    "3er Nivel/Comunicación de Datos/Estandarización en Comunicaciones.md",
-    "3er Nivel/Comunicación de Datos/Software de Redes.md",
+    "5to Nivel/index.md",
+    "index.md",
+    "4to Nivel/index.md",
+    "3er Nivel/index.md",
+    "2do Nivel/index.md",
+    "1er Nivel/index.md",
+    "Excalidraw/Template.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Procesos de Control 2024-07-10 23.56.58.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Procesos de Control 2024-07-10 23.57.34.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Las 4 P 2024-07-11 00.02.30.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Las 4 P 2024-07-11 00.01.23.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
+    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Socialización Organizacional 2024-05-04 21.36.06.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Socialización Organizacional 2024-05-04 21.36.06.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Tabla de evaluación entre alternativas de obtención.png",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Sistema de Roles 2024-05-05 00.01.09.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/SI en la Cadena de Valor 2024-09-01 11.21.58.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Selección de SW y HW 2024-05-10 11.34.14.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Selección de SW y HW 2024-05-10 11.34.14.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Rotación de Personal 2024-07-11 00.00.52.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Rol de los SI 2024-09-01 21.15.34.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.52.00.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.41.59.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.52.00.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.41.59.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 01.06.56.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 00.52.07.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Plan de Carrera 2024-07-01 16.09.27.excalidraw.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Mercados Laboral y de RRHH 2024-07-10 23.59.59.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Paquete Estándar 2024-05-10 12.10.50.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Compensaciones 2024-07-02 00.00.43.excalidraw.svg",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Ciclo del Entrenamiento.png",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Cartera de Aplicaciones 2024-09-01 17.04.05.excalidraw.svg",
+    "3er Nivel/Comunicación de Datos/MOC Comunicación de Datos.canvas",
     "3er Nivel/Comunicación de Datos/attachments",
     "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
     "3er Nivel/Comunicación de Datos",
@@ -333,7 +239,6 @@
     "2do Nivel/Paradigmas de Programación/MOC - Paradigmas de Programación.canvas",
     "2do Nivel/Sistemas Operativos/MOC - Sistemas Operativos.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas",
-    "4to Nivel/Administración de Sistemas de Información/MOC Planificación Estratégica.canvas"
+    "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas"
   ]
 }

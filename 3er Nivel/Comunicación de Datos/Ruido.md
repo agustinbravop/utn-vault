@@ -1,8 +1,8 @@
 En la [[Transmisión de Señales]], el **ruido** es una energía electromagnética perceptible y no deseada que perturbe la [[Señales y Espectros|señal]]. Puede ser:
 
 - **NO correlacionado**: son independientes de la señal y existen en su ausencia. Puede ser:
-	- **Interno**: interferencia electromagnética generada dentro del circuito, y medible por diferencia de [[Potencia Efectiva|ganancias]]. Ej: ruido térmico, de disparo.
-	- **Externo**: ruidos producidos fuera del circuito. Ej: ruido atmosférico, cósmico, industrial.
+  - **Interno**: interferencia electromagnética generada dentro del circuito, y medible por diferencia de [[Potencia Efectiva|ganancias]]. Ej: ruido térmico, de disparo.
+  - **Externo**: ruidos producidos fuera del circuito. Ej: ruido atmosférico, cósmico, industrial.
 - **Correlacionado**: aparecen al transmitir la señal y cesan cuando la señal cesa. Están ligados a la existencia de la señal, así que son internos.
 
 **Relación Señal-a-Ruido**:

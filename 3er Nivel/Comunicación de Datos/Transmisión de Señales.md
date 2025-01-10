@@ -6,7 +6,7 @@ $$\Delta W = \Delta Q \Delta V \implies -\frac{\Delta W}{\Delta t} = \frac{\Delt
 
 La corriente continua surge de una fuente mecánicamente estática. La [[Corriente Alterna]] surge de una fuente en movimiento cíclico, por lo que tiene frecuencia.
 
-La propagación electromagnética se usa cuando la línea de transmisión es intangible o no es conductiva, debido a que las [[Ondas Electromagnéticas]] se propagan sin soporte conductivo. 
+La propagación electromagnética se usa cuando la línea de transmisión es intangible o no es conductiva, debido a que las [[Ondas Electromagnéticas]] se propagan sin soporte conductivo.
 
 Tenemos:
 
@@ -17,7 +17,7 @@ Dadas las [[Señales y Espectros]], sabemos que el **espectro electromagnético*
 
 La propagación electromagnética (PEM) se puede trabajar con conceptos geométricos si se la considera un haz rectilíneo que va desde el emisor hacia el receptor.
 
-Normalmente, la propagación es *no directiva* y el medio es *homogéneo*, de manera que los haces recorren caminos iguales en tiempos iguales con un frente de onda esférico. Ese **frente de onda** o casquete se propaga a la velocidad de la luz, y se considera plano si es pequeño y alejado de la fuente.
+Normalmente, la propagación es _no directiva_ y el medio es _homogéneo_, de manera que los haces recorren caminos iguales en tiempos iguales con un frente de onda esférico. Ese **frente de onda** o casquete se propaga a la velocidad de la luz, y se considera plano si es pequeño y alejado de la fuente.
 
 Debido a que la luz se desplaza más lento en medios que no son el vacío, se usan los siguientes índices:
 

@@ -18,5 +18,5 @@ La tendencia actual es ir hacia la **transmisión digital con señalización dig
 Existen **perturbaciones** que degradan la señal analógica y alteran la digital. Se dan por distintas causas:
 
 1. **Atenuación**: la [[Potencia Efectiva]] de la señal decae con la distancia, pero necesitamos que sea detectable. La atenuación crece a mayor frecuencia (la cual permite mayor distancia).
-2. **Distorsión de retardo**: se da en medios guiados ya que la velocidad de propagación de la señal varía con la frecuencia. Se soluciona con la *ecualización*.
+2. **Distorsión de retardo**: se da en medios guiados ya que la velocidad de propagación de la señal varía con la frecuencia. Se soluciona con la _ecualización_.
 3. **Ruidos**: son señales no deseadas que se insertan entre el emisor y el receptor. Existe ruido térmico, de intermodulación, de diafonía, e impulsivo.

@@ -1,6 +1,6 @@
-Una fuente realiza una [[Transmisión de Señales]] a cierta **potencia**. La *densidad de potencia* es $P_i= \frac{P_r}{4\pi R^2}$, donde $P_r$ es la potencia de emisión o radiación de la fuente, y $R$ es el radio de la esfera (la distancia desde la fuente). La densidad de potencia va disminuyendo a medida que el frente de onda se aleja, pero la $P_r$ es siempre igual. 
+Una fuente realiza una [[Transmisión de Señales]] a cierta **potencia**. La _densidad de potencia_ es $P_i= \frac{P_r}{4\pi R^2}$, donde $P_r$ es la potencia de emisión o radiación de la fuente, y $R$ es el radio de la esfera (la distancia desde la fuente). La densidad de potencia va disminuyendo a medida que el frente de onda se aleja, pero la $P_r$ es siempre igual.
 
-La *potencia efectiva* es la potencia con la que el frente de onda impacta en el objetivo.
+La _potencia efectiva_ es la potencia con la que el frente de onda impacta en el objetivo.
 
 Fenómenos físicos que afectan a la potencia:
 
@@ -14,9 +14,9 @@ Fenómenos físicos que afectan a la potencia:
 
 La **interferencia** de [[Ondas]] es la superposición de trenes de onda en la misma banda del [[Señales y Espectros|espectro]], que resulta en una degradación de los trenes de onda originales.
 
-Esto puede darse entre ondas 100% distintas, análogas (con las mismas propiedades), y divergentes (de la misma fuente). Generalmente se da una cancelación parcial, lo que *degrada* la señal.
+Esto puede darse entre ondas 100% distintas, análogas (con las mismas propiedades), y divergentes (de la misma fuente). Generalmente se da una cancelación parcial, lo que _degrada_ la señal.
 
-Los *filtros* suprimen ondas de ciertas frecuencias, lo que puede ayudar a eliminar el [[Ruido]]. Nos permiten eliminar armónicas indeseadas. Los medios pueden actuar como filtros naturales. Los filtros típicos son:
+Los _filtros_ suprimen ondas de ciertas frecuencias, lo que puede ayudar a eliminar el [[Ruido]]. Nos permiten eliminar armónicas indeseadas. Los medios pueden actuar como filtros naturales. Los filtros típicos son:
 
 1. **Pasa-altos**: suprimen hasta cierta frecuencia máxima.
 2. **Pasa-bajos**: suprimen desde cierta frecuencia mínima.
