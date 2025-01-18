@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58a71e184e03daa7",
+        "id": "544bede4a2e59437",
         "type": "tabs",
         "children": [
           {
-            "id": "e6848fbca5331d6a",
+            "id": "2a3f5da77e697782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "3er Nivel/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "3er Nivel/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,12 +120,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links"
             }
           },
           {
@@ -182,10 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6848fbca5331d6a",
+  "active": "2a3f5da77e697782",
   "lastOpenFiles": [
-    "5to Nivel/index.md",
     "index.md",
+    "4to Nivel/Administración de Sistemas de Información/attachments/Mercados Laboral y de RRHH 2024-07-11 00.00.19.excalidraw.md",
+    "README.md",
+    "5to Nivel/index.md",
     "4to Nivel/index.md",
     "3er Nivel/index.md",
     "2do Nivel/index.md",
@@ -213,8 +214,6 @@
     "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.41.59.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 01.06.56.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 00.52.07.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Plan de Carrera 2024-07-01 16.09.27.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Mercados Laboral y de RRHH 2024-07-10 23.59.59.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/attachments/Paquete Estándar 2024-05-10 12.10.50.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/attachments/Compensaciones 2024-07-02 00.00.43.excalidraw.svg",

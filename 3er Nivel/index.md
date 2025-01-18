@@ -18,6 +18,4 @@ Materias electivas (un mínimo de 4 horas cátedra semanales):
 2. Gestión de Datos (3 hs).
 3. Planificación (3 hs).
 
-Materia opcional (no electiva), útil solamente para obtener el título intermedio de Analista Desarrollador Universitario en Sistemas de Información:
-
-1. Seminario Integrador.
+Seminario Integrador es una materia opcional (no electiva), útil solamente para obtener el título intermedio de Analista Desarrollador Universitario en Sistemas de Información.

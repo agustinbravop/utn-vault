@@ -10,7 +10,11 @@ Cada artículo sintetiza un concepto. Para estudiar una materia, se recomienda p
 - Hacer un **acercamiento inicial** al contenido de una asignatura.
 - **Repasar aspectos claves** de los temas que entran en un examen.
 
-Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al plan 2023. La estructura de carpetas de esta wiki sigue el plan de estudios 2023, y la información de mis apuntes corresponde al año en el que cursé cada materia. Las materias que no cursé, no tienen apuntes.
+Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al plan 2023. La estructura de carpetas de esta wiki sigue el plan de estudios 2023, y la información de mis apuntes corresponde al año en el que cursé cada materia. 
+
+No hay apuntes de las siguientes materias debido a que las aprobé por equivalencia: Álgebra y Geometría Analítica, Análisis Matemático 1, Física 1, Ingeniería y Sociedad, Química, Sistemas de Representación.
+
+No hay apuntes de las siguientes materias debido a que perdí las hojas: Matemática Discreta, Análisis Matemático 2, Inglés 2, Economía, Planificación (Electiva).
 
 ## Materias Obligatorias
 
@@ -67,13 +71,15 @@ Materias obligatorias del [[5to Nivel/index|5to Nivel]]:
 
 ## Materias Electivas
 
+Nota: no hay apuntes de las materias electivas que no cursé. 
+
 Materias electivas del 3er nivel (un mínimo de 4 horas cátedra semanales):
 
 1. Complejidad y Técnicas de Diseño de Algoritmos (3 hs).
 2. Gestión de Datos (3 hs).
 3. Planificación (3 hs).
 
-Nota: la materia "Seminario Integrador" del tercer nivel no es electiva sino opcional, útil solamente para obtener el título intermedio de Analista Desarrollador Universitario en Sistemas de Información.
+Nota: la materia "Seminario Integrador" del tercer nivel no es una electiva. Es una materia opcional, útil solamente para obtener el título intermedio de Analista Desarrollador Universitario en Sistemas de Información.
 
 Materias electivas del 4to nivel (un mínimo de 6 horas cátedra semanales):
 
