@@ -13,15 +13,152 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3er Nivel/index.md",
+                "file": "3er Nivel/Análisis Numérico/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "ceff39306e694d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Análisis Numérico/Números Complejos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Números Complejos"
+            }
+          },
+          {
+            "id": "153fb1c28628bc52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Análisis Numérico/Transformada de Laplace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformada de Laplace"
+            }
+          },
+          {
+            "id": "e91cb2f008153e15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Análisis Numérico/Función de Transferencia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Función de Transferencia"
+            }
+          },
+          {
+            "id": "bb08c4bfbfca5cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Análisis Numérico/Estabilidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estabilidad"
+            }
+          },
+          {
+            "id": "f8a53573b962b43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Análisis Numérico/Criterio de Estabilidad de Routh-Hurwitz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Criterio de Estabilidad de Routh-Hurwitz"
+            }
+          },
+          {
+            "id": "77bde062012cb4c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Análisis Numérico/Respuesta al Impulso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Respuesta al Impulso"
+            }
+          },
+          {
+            "id": "e2d05050bad96e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Análisis Numérico/Serie de Fourier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serie de Fourier"
+            }
+          },
+          {
+            "id": "6f1fd8bd4c77ea92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Análisis Numérico/Transformada de Fourier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformada de Fourier"
+            }
+          },
+          {
+            "id": "e31702eef0421504",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "3er Nivel/Análisis Numérico/attachments/Función de Transferencia 2025-01-22 16.35.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Función de Transferencia 2025-01-22 16.35.43.excalidraw"
+            }
+          },
+          {
+            "id": "dfe9c6741b5b1b27",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "3er Nivel/Análisis Numérico/attachments/index 2025-01-22 15.40.35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "index 2025-01-22 15.40.35.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -101,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/index.md",
+                "file": "3er Nivel/Análisis Numérico/Transformada de Fourier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Transformada de Fourier"
             }
           },
           {
@@ -170,7 +307,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,17 +314,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a3f5da77e697782",
+  "active": "6f1fd8bd4c77ea92",
   "lastOpenFiles": [
+    "3er Nivel/Análisis Numérico/Serie de Fourier.md",
+    "3er Nivel/Análisis Numérico/Transformada de Fourier.md",
+    "3er Nivel/Análisis Numérico/Respuesta al Impulso.md",
+    "3er Nivel/Análisis Numérico/Criterio de Estabilidad de Routh-Hurwitz.md",
+    "3er Nivel/Análisis Numérico/Estabilidad.md",
+    "3er Nivel/Análisis Numérico/attachments/Estabilidad.png",
+    "3er Nivel/Análisis Numérico/Función de Transferencia.md",
+    "3er Nivel/Análisis Numérico/index.md",
+    "3er Nivel/Análisis Numérico/attachments/Función de Transferencia 2025-01-22 16.35.43.excalidraw.md",
+    "3er Nivel/Análisis Numérico/attachments/Función de Transferencia 2025-01-22 16.35.43.excalidraw.svg",
+    "3er Nivel/Análisis Numérico/Transformada de Laplace.md",
+    "3er Nivel/Análisis Numérico/Números Complejos.md",
+    "3er Nivel/Análisis Numérico/attachments/index 2025-01-22 15.40.35.excalidraw.md",
+    "3er Nivel/Análisis Numérico/attachments/index 2025-01-22 15.40.35.excalidraw.svg",
+    "3er Nivel/Análisis Numérico/attachments",
+    "3er Nivel/Probabilidad y Estadística/index.md",
+    "3er Nivel/index.md",
+    "3er Nivel/Análisis Numérico",
     "index.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Mercados Laboral y de RRHH 2024-07-11 00.00.19.excalidraw.md",
     "README.md",
     "5to Nivel/index.md",
     "4to Nivel/index.md",
-    "3er Nivel/index.md",
     "2do Nivel/index.md",
     "1er Nivel/index.md",
     "Excalidraw/Template.excalidraw.md",
@@ -197,28 +351,13 @@
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Las 4 P 2024-07-11 00.02.30.excalidraw.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Las 4 P 2024-07-11 00.01.23.excalidraw.md",
     "4to Nivel/Ingeniería y Calidad de Software/attachments/Estrategias de Prueba 2024-06-21 03.26.28.excalidraw.md",
-    "4to Nivel/Ingeniería y Calidad de Software/attachments/Control de la Configuración 2024-04-28 00.12.11.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Socialización Organizacional 2024-05-04 21.36.06.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/Actividad SQA - Desarrollo y Mantenimiento de RRHH.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Socialización Organizacional 2024-05-04 21.36.06.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/attachments/Tabla de evaluación entre alternativas de obtención.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Sistema de Roles 2024-05-05 00.01.09.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/SI en la Cadena de Valor 2024-09-01 11.21.58.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Selección de SW y HW 2024-05-10 11.34.14.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Selección de SW y HW 2024-05-10 11.34.14.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Rotación de Personal 2024-07-11 00.00.52.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Rol de los SI 2024-09-01 21.15.34.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.52.00.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.41.59.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.52.00.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.41.59.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Proceso de Provisión de SW y HW 2024-05-11 12.24.45.excalidraw.md",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Planificación Estratégica 2024-09-01 01.06.56.excalidraw.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Mercados Laboral y de RRHH 2024-07-10 23.59.59.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/attachments/Paquete Estándar 2024-05-10 12.10.50.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Compensaciones 2024-07-02 00.00.43.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Ciclo del Entrenamiento.png",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Cartera de Aplicaciones 2024-09-01 17.04.05.excalidraw.svg",
     "3er Nivel/Comunicación de Datos/MOC Comunicación de Datos.canvas",
     "3er Nivel/Comunicación de Datos/attachments",
     "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
@@ -231,9 +370,7 @@
     "3er Nivel/Probabilidad y Estadística/MOC Probabilidad y Estadística.canvas",
     "desktop.ini",
     "3er Nivel/Probabilidad y Estadística/attachments",
-    "3er Nivel/Probabilidad y Estadística",
     "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",
-    "2do Nivel/Análisis de Sistemas de Información/attachments",
     "2do Nivel/Física 2/MOC Física 2.canvas",
     "2do Nivel/Paradigmas de Programación/MOC - Paradigmas de Programación.canvas",
     "2do Nivel/Sistemas Operativos/MOC - Sistemas Operativos.canvas",
