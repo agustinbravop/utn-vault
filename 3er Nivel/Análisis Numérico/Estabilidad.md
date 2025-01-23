@@ -1,6 +1,6 @@
-Un sistema es **estable** si responde en forma limitada a una excitación limitada. 
+Un sistema es **estable** si responde en forma limitada a una excitación limitada. Se analizan los polos de la [[Función de Transferencia]] $F(s)$, suponiendo que son [[Números Complejos]]:
 
-- Si todos los polos de la [[Función de Transferencia]] $F(s)$ están en la mitad izquierda del plano $s$ (de manera que su parte real es negativa), entonces es un sistema *estable*.
+- Si todos los polos están en la mitad izquierda del plano $s$ (de manera que su parte real es negativa), entonces es un sistema *estable*.
 - Si se tiene un polo en el eje imaginario, el sistema es *marginalmente estable*.
 - Si se tiene un polo en la mitad derecha, el sistema es *inestable*.
 

@@ -16,3 +16,5 @@ Y(s) &= \frac{B(s)}{A(s)} X(s)
 Donde $\frac{B(s)}{A(s)}$ es la función de transferencia del sistema. $A(s) = 0$ es la *ecuación característica* del sistema, y su orden es el *orden* del sistema. Sus raíces son los *polos* de la función de transferencia. Las raíces de $B(s)=0$ son los *ceros* de la función de transferencia.
 
 $$F(s) = \frac{B(s)}{A(s)} = k \frac{(s-z_1)(s-z_2)\dots(s-z_m)}{(s-p_1)(s-p_2)\dots(s-p_n)}$$
+
+Es común trabajar con [[Números Complejos]].
