@@ -1,8 +1,8 @@
 Un sistema es **estable** si responde en forma limitada a una excitación limitada. Se analizan los polos de la [[Función de Transferencia]] $F(s)$, suponiendo que son [[Números Complejos]]:
 
-- Si todos los polos están en la mitad izquierda del plano $s$ (de manera que su parte real es negativa), entonces es un sistema *estable*.
-- Si se tiene un polo en el eje imaginario, el sistema es *marginalmente estable*.
-- Si se tiene un polo en la mitad derecha, el sistema es *inestable*.
+- Si todos los polos están en la mitad izquierda del plano $s$ (de manera que su parte real es negativa), entonces es un sistema _estable_.
+- Si se tiene un polo en el eje imaginario, el sistema es _marginalmente estable_.
+- Si se tiene un polo en la mitad derecha, el sistema es _inestable_.
 
 ![[Estabilidad.png]]
 
@@ -22,13 +22,15 @@ Se asocia al sistema una función escalar $V(||x||)$ que analiza cómo el sistem
 
 Sea $x'=Ax$ con $x(t_0)=x_0$ y $V(x)=x^TMx$ siendo $M$ una matriz $n \times n$ real y simétrica.
 
-$$\begin{align} V'(x(t)) &= (x')^TMx + x^TMx'\\
+$$
+\begin{align} V'(x(t)) &= (x')^TMx + x^TMx'\\
 V'&=x^TA^TMx+x^TMAx\\
 V'&=x^T(A^TM+MA)x
-\end{align}$$
+\end{align}
+$$
 
-El requerimiento de que $V(x)$ sea definida positiva es equivalente a que la matriz $M$ sea definida positiva, y que $V'$ sea definida negativa equivale a $P = A^TM+MA \lt 0$. Entonces, se define la *ecuación de Lyapunov* como $A^TM+MA=-P$, donde normalmente se hace $P = I$.
+El requerimiento de que $V(x)$ sea definida positiva es equivalente a que la matriz $M$ sea definida positiva, y que $V'$ sea definida negativa equivale a $P = A^TM+MA \lt 0$. Entonces, se define la _ecuación de Lyapunov_ como $A^TM+MA=-P$, donde normalmente se hace $P = I$.
 
-La estabilidad asintótica del sistema lineal se asegura si, siendo $P$ una matriz simétrica definida negativa, se puede encontrar una matriz simétrica definida positiva $M$. 
+La estabilidad asintótica del sistema lineal se asegura si, siendo $P$ una matriz simétrica definida negativa, se puede encontrar una matriz simétrica definida positiva $M$.
 
 Una matriz cuadrada es definida positiva si $\forall \ x \ne 0 \rightarrow x^TMx\gt0$, por lo que todos sus autovalores propios deben ser positivos.

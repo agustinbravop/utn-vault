@@ -1,10 +1,10 @@
 En los [[Sistemas Dinámicos]], dada una solución $x(t)=x_0 \ \land \ y(t)=y_0 \ \ \forall \ t \in \Bbb R$, se define un solo punto $(x_0, y_0)$ que verifica $F(x_0,y_0) = G(x_0,y_0)=0$. Si bien analizaremos los puntos críticos $(0,0)$, el análisis es generalizable a todo el plano.
 
-El punto crítico $(0,0)$ es *estable* ([[Estabilidad]]) si $\forall \ R \gt 0 \ \exists \ r \gt 0, r \le R$ tal que toda trayectoria dentro del círculo $x^2+y^2 = r^2$ en $t=t_0$ permanece dentro de $x^2+y^2=R^2 \ \forall \ t \gt t_0$. Es estable si toda trayectoria cercana al punto permanece cerca luego de un tiempo tendiendo al infinito.
+El punto crítico $(0,0)$ es _estable_ ([[Estabilidad]]) si $\forall \ R \gt 0 \ \exists \ r \gt 0, r \le R$ tal que toda trayectoria dentro del círculo $x^2+y^2 = r^2$ en $t=t_0$ permanece dentro de $x^2+y^2=R^2 \ \forall \ t \gt t_0$. Es estable si toda trayectoria cercana al punto permanece cerca luego de un tiempo tendiendo al infinito.
 
-El punto crítico $(0,0)$ es *asintóticamente estable* si es estable y además $\exists \ r_0 \gt 0$ tal que toda trayectoria dentro de $x^2+y^2=r_0^2$ en $t=t_0$ definida como $C\equiv(x(t),y(t))$ verifica que $x(t)\rightarrow 0 \ \land \ y(t) \rightarrow 0$ cuando $t \rightarrow + \infty$. Es asintóticamente estable si toda trayectoria cercana se aproxima al punto luego de un tiempo tendiendo al infinito.
+El punto crítico $(0,0)$ es _asintóticamente estable_ si es estable y además $\exists \ r_0 \gt 0$ tal que toda trayectoria dentro de $x^2+y^2=r_0^2$ en $t=t_0$ definida como $C\equiv(x(t),y(t))$ verifica que $x(t)\rightarrow 0 \ \land \ y(t) \rightarrow 0$ cuando $t \rightarrow + \infty$. Es asintóticamente estable si toda trayectoria cercana se aproxima al punto luego de un tiempo tendiendo al infinito.
 
-Se dice que el punto crítico $(0,0)$ es *inestable* cuando NO es estable.
+Se dice que el punto crítico $(0,0)$ es _inestable_ cuando NO es estable.
 
 ![[Punto Crítico.png]]
 

@@ -6,6 +6,6 @@ Sea $X'=\varphi(X)$ con $\varphi=(\varphi_1,\dots,\varphi_n):\Omega \subseteq \B
 
 ## Plano de Fase
 
-Sea $\begin{cases}\frac{dx}{dt}=F(x,y) \\ \frac{dy}{dt} = G(x,y)\end{cases}$ un sistema autónomo plano donde cada solución es un par de funciones $x(t)$ e $y(t)$ que definen una *curva* en el plano $xy$.
+Sea $\begin{cases}\frac{dx}{dt}=F(x,y) \\ \frac{dy}{dt} = G(x,y)\end{cases}$ un sistema autónomo plano donde cada solución es un par de funciones $x(t)$ e $y(t)$ que definen una _curva_ en el plano $xy$.
 
-En cada punto $(x,y)$ de la curva u órbita, el vector $(F(x,y),G(x,y))$ es un vector tangente a dicha órbita, y el conjunto de esos vectores es el *campo de direcciones* del sistema.
+En cada punto $(x,y)$ de la curva u órbita, el vector $(F(x,y),G(x,y))$ es un vector tangente a dicha órbita, y el conjunto de esos vectores es el _campo de direcciones_ del sistema.

@@ -8,7 +8,7 @@ Los siguientes métodos numéricos requieren que todas las EDOs sean de primer o
 
 ## Método de Euler
 
-Sea $y'=f(x,y)$, $y(x_0)=y_0$, y $h\ne 0$, es posible obtener aproximaciones de la solución en los puntos $x_1$, $x_2$, $\dots$, $x_n$, donde $x_i=x_{i-1}+h$, $h=\frac{b-a}{n}$, $i=1,2,\dots,n$, mediante el método *recurrente* de Euler:
+Sea $y'=f(x,y)$, $y(x_0)=y_0$, y $h\ne 0$, es posible obtener aproximaciones de la solución en los puntos $x_1$, $x_2$, $\dots$, $x_n$, donde $x_i=x_{i-1}+h$, $h=\frac{b-a}{n}$, $i=1,2,\dots,n$, mediante el método _recurrente_ de Euler:
 
 $$y_i=y_{i-1}+hf(x_{i-1},y_{i-1})$$
 
@@ -30,10 +30,12 @@ Donde se observa que el valor de $z_i$ se obtiene mediante el método de Euler o
 
 Los métodos de Runge-Kutta son una familia de métodos desarrollados por 2 alemanes en 1900. El método de cuarto orden ofrece un muy buen rendimiento:
 
-$$\begin{align}y_i&=y_{i-1}+\frac{1}{6}(p_i+2q_i+2r_i+s_i) \\
+$$
+\begin{align}y_i&=y_{i-1}+\frac{1}{6}(p_i+2q_i+2r_i+s_i) \\
 \text{Donde: } \ \\
 p_i&=f\left(x_{i-1}, y_{i-1}\right)h \\
 q_i&=f\left(x_{i-1} + \frac{h}{2}, y_{i-1} + \frac{p_i}{2}\right)h \\
 r_i&=f\left(x_{i-1} + \frac{h}{2}, y_{i-1} + \frac{q_i}{2}\right)h \\
 s_i&=f\left(x_{i-1} + h, y_{i-1} + r_i\right)h \\
-\end{align}$$
+\end{align}
+$$

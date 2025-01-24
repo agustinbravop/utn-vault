@@ -1,4 +1,4 @@
-La **transformada de Fourier** permite pasar una señal en el dominio del tiempo al dominio de la frecuencia y viceversa (es *reversible*), para así obtener información que no es evidente en el dominio temporal. Aprovechan el concepto de la [[Serie de Fourier]].
+La **transformada de Fourier** permite pasar una señal en el dominio del tiempo al dominio de la frecuencia y viceversa (es _reversible_), para así obtener información que no es evidente en el dominio temporal. Aprovechan el concepto de la [[Serie de Fourier]].
 
 $$\mathcal{F}(f(t)) = F(\omega) = \int_{-\infty}^\infty f(t) \cdot e^{-j\omega t} dt$$
 

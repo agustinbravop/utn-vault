@@ -1,6 +1,6 @@
 Los métodos de **derivación numérica** permiten aproximar la derivada de una función en un punto teniendo solo un conjunto de datos experimentales.
 
-Si se tiene el valor real, se puede calcular el *error* de la aproximación de la siguiente manera:
+Si se tiene el valor real, se puede calcular el _error_ de la aproximación de la siguiente manera:
 
 $$E_\text{absoluto} = |V_\text{real} - V_\text{aprox}| \ , \ E_\text{relativo} = \left| \frac{V_r - V_a}{V_r} \right| \ , \ E_\% = |E_r \cdot 100\%$$
 
@@ -24,13 +24,17 @@ $$f'(x_0)=\frac{-f(x_2)+4f(x_1)-3f(x_0)}{2h} \ , \ f''(x_0)=\frac{-f(x_3)+4f(x_2
 
 Primera diferencia:
 
-$$\begin{align}f'(x_0)&=\frac{f(x_0)-f(x_{-1})}{h} \\
-f''(x_0)&=\frac{f(x_0)-2f(x_{-1})+f(x_{-2})}{h^2}\end{align}$$
+$$
+\begin{align}f'(x_0)&=\frac{f(x_0)-f(x_{-1})}{h} \\
+f''(x_0)&=\frac{f(x_0)-2f(x_{-1})+f(x_{-2})}{h^2}\end{align}
+$$
 
 Segunda diferencia:
 
-$$\begin{align}f'(x_0) &=\frac{3f(x_0)-4f(x_{-1})+f(x_{-2})}{2h} \\
-f''(x_0)&=\frac{2f(x_0)-5f(x_{-1})+4f(x_{-2})-f(x_{-3})}{h^2}\end{align}$$
+$$
+\begin{align}f'(x_0) &=\frac{3f(x_0)-4f(x_{-1})+f(x_{-2})}{2h} \\
+f''(x_0)&=\frac{2f(x_0)-5f(x_{-1})+4f(x_{-2})-f(x_{-3})}{h^2}\end{align}
+$$
 
 ### Diferencias Finitas Centrales
 
@@ -40,5 +44,7 @@ $$\begin{align}f'(x_0)&=\frac{f(x_1)-f(x_{-1})}{2h} \\ f''(x_0)&=\frac{f(x_0)-2f
 
 Segunda diferencia:
 
-$$\begin{align}f'(x_0)&=\frac{-f(x_2)+8f(x_1)-8f(x_{-1})+f(x_{-2})}{12h} \\
-f''(x_0)&=\frac{-f(x_2)+16f(x_1)-30f(x_0)+16f(x_{-1})-f(x_{-2})}{12h^2}\end{align}$$
+$$
+\begin{align}f'(x_0)&=\frac{-f(x_2)+8f(x_1)-8f(x_{-1})+f(x_{-2})}{12h} \\
+f''(x_0)&=\frac{-f(x_2)+16f(x_1)-30f(x_0)+16f(x_{-1})-f(x_{-2})}{12h^2}\end{align}
+$$

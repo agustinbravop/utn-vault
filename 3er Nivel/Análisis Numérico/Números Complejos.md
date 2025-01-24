@@ -12,7 +12,7 @@ Con su parte real $\text {Re}(z) = a$ y su parte imaginaria $\text{Im}(z)=b$. Se
 4. **Módulo**: si $z=a+bi \implies |z| = \sqrt {a^2 + b^2}$.
 5. **División**: $\frac{z_1}{z_2} = \frac{a_1+b_1 i}{a_2+b_2i} \frac{a_2-b_2i}{a_2-b_2i} = \frac{(a_1a_2+b_1b_2)+(b_1a_2-a_1b_2)i}{a_2^2+b_2^2}$.
 6. **Argumento**: si $z=(a;b) \implies \theta = \arctan \frac{b}{a}$.
-7. **Raíces**: $\sqrt[n]{z} = z^{\frac{1}{n}} = |z^{\frac{1}{n}}| \cdot\text{cis}(\frac{\theta+2k\pi}{n})$,  con $o\le k \lt n$.
+7. **Raíces**: $\sqrt[n]{z} = z^{\frac{1}{n}} = |z^{\frac{1}{n}}| \cdot\text{cis}(\frac{\theta+2k\pi}{n})$, con $o\le k \lt n$.
 8. **Potencias**: $z^n = |z|^n \cdot \text{cis}(n\theta)$.
 
 Otras formas de definir un número complejo:

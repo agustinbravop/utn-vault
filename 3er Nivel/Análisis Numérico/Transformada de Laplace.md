@@ -24,7 +24,7 @@ $$\int_s^\infty F(u) du=L\left[\frac{f(t)}{t}\right]$$
 
 ## Producto de Transformadas
 
-Sean $f$ y $g$ funciones continuas por partes en $[0, +\infty)$ para las cuales existen sus transformadas de Laplace $F$ y $G$. Se verifica que $L[f * g] = F(s) \cdot G(s)$, aplicando el *producto de convolución* de $f$ y $g$:
+Sean $f$ y $g$ funciones continuas por partes en $[0, +\infty)$ para las cuales existen sus transformadas de Laplace $F$ y $G$. Se verifica que $L[f * g] = F(s) \cdot G(s)$, aplicando el _producto de convolución_ de $f$ y $g$:
 
 $$f * g = \int_0^t f(\tau) g (t-\tau)d\tau$$
 
@@ -42,4 +42,4 @@ Cumple ciertas propiedades:
 4. **Propiedad del cambio de escala**: $L^{-1}[f(ks)] = \frac{1}{k} F\left(\frac{t}{k}\right)$.
 5. $L^{-1}[f^(n)(s)] = (-1)^n t^n F(t)$.
 6. $L^{-1}[\int f(u)du] = \frac{F(t)}{t}$.
-7. $L^{-1}[s f(s)] = F'(t) + F(0) \cdot \delta (t)$, donde $\delta(t)$ es el *impulso unitario* o *función delta de Dirac*.
+7. $L^{-1}[s f(s)] = F'(t) + F(0) \cdot \delta (t)$, donde $\delta(t)$ es el _impulso unitario_ o _función delta de Dirac_.
