@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"6f5f6bb72afa67c0","x":1420,"y":-940,"width":440,"height":1880,"type":"group","label":"Métodos Numéricos"},
+		{"id":"28e86f527d03a4ad","type":"file","file":"3er Nivel/Análisis Numérico/Transformada de Laplace.md","x":-840,"y":-920,"width":400,"height":400},
+		{"id":"1de1d5e35f202957","type":"file","file":"3er Nivel/Análisis Numérico/Números Complejos.md","x":-1360,"y":-920,"width":400,"height":400},
+		{"id":"754a74a0757c2b72","type":"file","file":"3er Nivel/Análisis Numérico/Función de Transferencia.md","x":-320,"y":-920,"width":400,"height":400,"color":"4"},
+		{"id":"9746e6edb2d3aa39","type":"file","file":"3er Nivel/Análisis Numérico/Respuesta al Impulso.md","x":-560,"y":40,"width":400,"height":400},
+		{"id":"b0e70610f8eb7dc9","type":"file","file":"3er Nivel/Análisis Numérico/Criterio de Estabilidad de Routh-Hurwitz.md","x":-80,"y":40,"width":400,"height":400},
+		{"id":"8da222915451ee02","type":"file","file":"3er Nivel/Análisis Numérico/Estabilidad.md","x":-320,"y":-440,"width":400,"height":400},
+		{"id":"b00e979f79f37358","type":"file","file":"3er Nivel/Análisis Numérico/Serie de Fourier.md","x":400,"y":-920,"width":400,"height":400},
+		{"id":"c174ce04fa7417a0","type":"file","file":"3er Nivel/Análisis Numérico/Transformada de Fourier.md","x":400,"y":-440,"width":400,"height":400},
+		{"id":"d9c6205e4240e83e","type":"file","file":"3er Nivel/Análisis Numérico/Sistemas de Ecuaciones Diferenciales Lineales.md","x":920,"y":-920,"width":400,"height":400},
+		{"id":"9e3e2ae071e7a204","type":"file","file":"3er Nivel/Análisis Numérico/Punto Crítico.md","x":920,"y":40,"width":400,"height":400},
+		{"id":"12527ab874eadc93","type":"file","file":"3er Nivel/Análisis Numérico/Interpolación Polinomial.md","x":1440,"y":-920,"width":400,"height":400},
+		{"id":"891d9f4e48fafaa0","type":"file","file":"3er Nivel/Análisis Numérico/Sistemas Dinámicos.md","x":920,"y":-440,"width":400,"height":400,"color":"4"},
+		{"id":"678c5380d65971d1","type":"file","file":"3er Nivel/Análisis Numérico/Derivación Numérica.md","x":1440,"y":-440,"width":400,"height":400},
+		{"id":"a10de52fb55c3cd4","type":"file","file":"3er Nivel/Análisis Numérico/Integración Numérica.md","x":1440,"y":40,"width":400,"height":400},
+		{"id":"c64395198f6c982e","type":"file","file":"3er Nivel/Análisis Numérico/Solución Numérica de Ecuaciones Diferenciales Ordinarias.md","x":1440,"y":520,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"7b9e273f103930da","fromNode":"28e86f527d03a4ad","fromSide":"right","toNode":"754a74a0757c2b72","toSide":"left"},
+		{"id":"58658fa5bddafef2","fromNode":"754a74a0757c2b72","fromSide":"bottom","toNode":"8da222915451ee02","toSide":"top"},
+		{"id":"c55107ecbdb84a41","fromNode":"8da222915451ee02","fromSide":"bottom","toNode":"9746e6edb2d3aa39","toSide":"top"},
+		{"id":"6c860953456bf7e9","fromNode":"8da222915451ee02","fromSide":"bottom","toNode":"b0e70610f8eb7dc9","toSide":"top"},
+		{"id":"86bc8b488cbf1ea0","fromNode":"b00e979f79f37358","fromSide":"bottom","toNode":"c174ce04fa7417a0","toSide":"top"},
+		{"id":"3ec6bc8efb4fa426","fromNode":"d9c6205e4240e83e","fromSide":"bottom","toNode":"891d9f4e48fafaa0","toSide":"top"},
+		{"id":"3f27b36b4766b6a9","fromNode":"891d9f4e48fafaa0","fromSide":"bottom","toNode":"9e3e2ae071e7a204","toSide":"top"},
+		{"id":"790c66403d76eda5","fromNode":"8da222915451ee02","fromSide":"right","toNode":"9e3e2ae071e7a204","toSide":"left"}
+	]
+}

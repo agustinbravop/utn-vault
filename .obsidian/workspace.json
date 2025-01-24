@@ -204,6 +204,23 @@
             }
           },
           {
+            "id": "6583646159d5ce9c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2do Nivel/Sistemas Operativos/MOC Sistemas Operativos.canvas",
+                "viewState": {
+                  "x": -400,
+                  "y": 760,
+                  "zoom": -2.755255959588761
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "MOC Sistemas Operativos"
+            }
+          },
+          {
             "id": "e31702eef0421504",
             "type": "leaf",
             "state": {
@@ -228,7 +245,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -308,7 +325,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Análisis Numérico/Integración Numérica.md",
+                "file": "2do Nivel/Sistemas Operativos/MOC Sistemas Operativos.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,7 +335,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Integración Numérica"
+              "title": "Backlinks for MOC Sistemas Operativos"
             }
           },
           {
@@ -388,10 +405,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47e9c78ca3b2e5a8",
+  "active": "a5a650c066f2c957",
   "lastOpenFiles": [
-    "3er Nivel/Análisis Numérico/Derivación Numérica.md",
+    "2do Nivel/Paradigmas de Programación/MOC Paradigmas de Programación.canvas",
+    "2do Nivel/Paradigmas de Programación/index.md",
+    "3er Nivel/Análisis Numérico/index.md",
+    "index.md",
+    "3er Nivel/index.md",
+    "3er Nivel/Análisis Numérico/attachments/MOC Análisis Numérico.png",
+    "3er Nivel/Análisis Numérico/MOC Análisis Numérico.canvas",
+    "3er Nivel/Análisis Numérico/Solución Numérica de Ecuaciones Diferenciales Ordinarias.md",
     "3er Nivel/Análisis Numérico/Integración Numérica.md",
+    "3er Nivel/Análisis Numérico/Derivación Numérica.md",
     "3er Nivel/Análisis Numérico/Interpolación Polinomial.md",
     "3er Nivel/Análisis Numérico/Estabilidad.md",
     "3er Nivel/Análisis Numérico/Sistemas Dinámicos.md",
@@ -408,26 +433,19 @@
     "3er Nivel/Análisis Numérico/Respuesta al Impulso.md",
     "3er Nivel/Análisis Numérico/Criterio de Estabilidad de Routh-Hurwitz.md",
     "3er Nivel/Análisis Numérico/attachments/Estabilidad.png",
-    "3er Nivel/Análisis Numérico/index.md",
     "3er Nivel/Análisis Numérico/attachments/Función de Transferencia 2025-01-22 16.35.43.excalidraw.md",
     "3er Nivel/Análisis Numérico/attachments/Función de Transferencia 2025-01-22 16.35.43.excalidraw.svg",
     "3er Nivel/Análisis Numérico/attachments/index 2025-01-22 15.40.35.excalidraw.md",
     "3er Nivel/Análisis Numérico/attachments/index 2025-01-22 15.40.35.excalidraw.svg",
     "3er Nivel/Análisis Numérico/attachments",
     "3er Nivel/Probabilidad y Estadística/index.md",
-    "3er Nivel/index.md",
     "3er Nivel/Análisis Numérico",
-    "index.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Mercados Laboral y de RRHH 2024-07-11 00.00.19.excalidraw.md",
     "README.md",
     "5to Nivel/index.md",
-    "4to Nivel/index.md",
-    "2do Nivel/index.md",
-    "1er Nivel/index.md",
     "4to Nivel/Administración de Sistemas de Información/attachments/Socialización Organizacional 2024-05-04 21.36.06.excalidraw.svg",
     "4to Nivel/Administración de Sistemas de Información/attachments/Tabla de evaluación entre alternativas de obtención.png",
     "4to Nivel/Administración de Sistemas de Información/attachments/Selección de SW y HW 2024-05-10 11.34.14.excalidraw.svg",
-    "4to Nivel/Administración de Sistemas de Información/attachments/Provisión de SI y TI 2024-05-09 12.52.00.excalidraw.svg",
     "3er Nivel/Comunicación de Datos/MOC Comunicación de Datos.canvas",
     "3er Nivel/Comunicación de Datos/attachments",
     "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
@@ -442,9 +460,7 @@
     "3er Nivel/Probabilidad y Estadística/attachments",
     "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",
     "2do Nivel/Física 2/MOC Física 2.canvas",
-    "2do Nivel/Paradigmas de Programación/MOC - Paradigmas de Programación.canvas",
-    "2do Nivel/Sistemas Operativos/MOC - Sistemas Operativos.canvas",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "1er Nivel/Arquitectura de Computadoras/MOC Arquitectura de Computadoras.canvas"
+    "2do Nivel/Sistemas Operativos/MOC Sistemas Operativos.canvas",
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
   ]
 }

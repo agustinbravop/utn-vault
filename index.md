@@ -42,7 +42,7 @@ Materias obligatorias del [[2do Nivel/index|2do Nivel]]:
 
 Materias obligatorias del [[3er Nivel/index|3er Nivel]]:
 
-1. Análisis Numérico.
+1. [[3er Nivel/Análisis Numérico/index|Análisis Numérico]].
 2. [[3er Nivel/Bases de Datos/index|Bases de Datos]].
 3. [[3er Nivel/Comunicación de Datos/index|Comunicación de Datos]].
 4. [[3er Nivel/Desarrollo de Software/index|Desarrollo de Software]].
