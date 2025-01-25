@@ -1,4 +1,8 @@
-Un **diagrama de casos de uso** muestras las relaciones entre los actores y los [[Caso de Uso del Sistema]] (o [[Caso de Uso del Negocio]]). Se lo diagrama desde el punto de vista del usuario y tiene un alto nivel de abstracción.
+Un **diagrama de casos de uso** muestras las relaciones entre los actores y los [[Caso de Uso del Sistema]] (o [[Caso de Uso del Negocio]]). Modela a actores y sus casos de uso. Se lo diagrama desde el punto de vista del usuario y tiene un alto nivel de abstracción.
+
+Un *actor* es una persona o sistema que asume un rol al *interactuar* con el sistema.
+
+Un *caso de uso* es una secuencia de transacciones realizadas por el sistema para brindar valor a un actor del sistema.
 
 ![[Relaciones en un Diagrama de Casos de Uso.png]]
 

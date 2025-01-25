@@ -53,4 +53,4 @@ Complementa muy bien al modelo incremental.
 
 Es un antecedente del [[Proceso Unificado de Desarrollo de Software]], que adopta los principios del modelo incremental y del modelo iterativo para proponer un _modelo iterativo-incremental_.
 
-![[Modelo en Espiral.png]]
+![[2do Nivel/Análisis de Sistemas de Información/attachments/Modelo en Espiral.png]]

@@ -2,7 +2,7 @@
 title: Paradigmas de Programación
 ---
 
-![[MOC - Paradigmas de Programación.png]]
+![[MOC Paradigmas de Programación.png]]
 
 Asignatura: Paradigmas de Programación. \
 Ciclo Lectivo: 2023. \
