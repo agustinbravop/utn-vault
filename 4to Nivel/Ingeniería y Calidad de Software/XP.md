@@ -2,7 +2,7 @@ En la [[Agilidad]], **_eXtreme Programming_** es un modo de desarrollar software
 
 Es inmediato, concreto y con **feedback continuo** mediante ciclos cortos. Responde a las necesidades de negocio dinámicas para **reducir el costo de los cambios**. Foco en las **pruebas automatizadas** para controlar el avance del trabajo. Foco en la comunicación oral, pruebas y código fuente para la estructura y significado del problema y la solución.
 
-![[Proceso de XP.png]]
+![[4to Nivel/Ingeniería y Calidad de Software/attachments/Proceso de XP.png]]
 
 ## 5 Valores
 

@@ -4,235 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "544bede4a2e59437",
+        "id": "069e923ff711428a",
         "type": "tabs",
         "children": [
           {
-            "id": "47e9c78ca3b2e5a8",
+            "id": "7b0890445e048189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/index.md",
+                "file": "3er Nivel/Diseño de Sistemas de Información/Flujos de Trabajo del Unified Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Flujos de Trabajo del Unified Process"
             }
           },
           {
-            "id": "6721264fa1b2a322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Diseño de Entradas y Salidas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diseño de Entradas y Salidas"
-            }
-          },
-          {
-            "id": "e00e61c09b0ae294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Interfaces Gráficas de Usuario.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interfaces Gráficas de Usuario"
-            }
-          },
-          {
-            "id": "4d240caabbaafa25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Usabilidad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Usabilidad"
-            }
-          },
-          {
-            "id": "30fc514477079b31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Diseño de Interfaces Web.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diseño de Interfaces Web"
-            }
-          },
-          {
-            "id": "7c5fc0c2f9839a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Experiencia de Usuario.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Experiencia de Usuario"
-            }
-          },
-          {
-            "id": "e1e717a8b0949595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Metodologías de Desarrollo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metodologías de Desarrollo"
-            }
-          },
-          {
-            "id": "fce5b4dacea48530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Métodos Orientados a Objetos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Métodos Orientados a Objetos"
-            }
-          },
-          {
-            "id": "7810b6053761b778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/UML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UML"
-            }
-          },
-          {
-            "id": "adb9c48084c0f2e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/UML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UML"
-            }
-          },
-          {
-            "id": "294b4be017bd0130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/UML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UML"
-            }
-          },
-          {
-            "id": "de0b3db79c782e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/UML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UML"
-            }
-          },
-          {
-            "id": "5ee10ad86641c18b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/UML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UML"
-            }
-          },
-          {
-            "id": "3e5b260cd3ccf1f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/UML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UML"
-            }
-          },
-          {
-            "id": "b7ef8890bdad800c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Principios SOLID.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Principios SOLID"
-            }
-          },
-          {
-            "id": "76f6b79362ea6792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Metodologías de Desarrollo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metodologías de Desarrollo"
-            }
-          },
-          {
-            "id": "b94ee4279165a0a5",
+            "id": "3fef31089dd14140",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -246,61 +36,133 @@
             }
           },
           {
-            "id": "cc43812171abb8c2",
+            "id": "bd499b3ced234f78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Métodos Orientados a Objetos.md",
+                "file": "3er Nivel/Diseño de Sistemas de Información/Unified Software Development Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Métodos Orientados a Objetos"
+              "title": "Unified Software Development Process"
             }
           },
           {
-            "id": "475ee2769d7ba0a0",
+            "id": "2bd8f7380b722568",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Análisis de Sistemas de Información/Modelado de los Sistemas.md",
+                "file": "3er Nivel/Diseño de Sistemas de Información/Rational Unified Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelado de los Sistemas"
+              "title": "Rational Unified Process"
             }
           },
           {
-            "id": "7347f5ea1504dede",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/attachments/UML 2025-01-24 19.54.00.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "UML 2025-01-24 19.54.00.excalidraw"
-            }
-          },
-          {
-            "id": "52e8e2b28f66e7a7",
+            "id": "015c320154c42c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Paradigmas de Programación/Abstracciones.md",
+                "file": "3er Nivel/Diseño de Sistemas de Información/Frameworks Ágiles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstracciones"
+              "title": "Frameworks Ágiles"
+            }
+          },
+          {
+            "id": "afdb8c55d0c6caf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Diseño de Sistemas de Información/Patrones de Diseño.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patrones de Diseño"
+            }
+          },
+          {
+            "id": "86d16ffb5c327478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Diseño de Sistemas de Información/Patrones de Diseño.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patrones de Diseño"
+            }
+          },
+          {
+            "id": "34ba150fbb522dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Diseño de Sistemas de Información/Patrones de Diseño.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patrones de Diseño"
+            }
+          },
+          {
+            "id": "d844e1811b929663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Diseño de Sistemas de Información/Patrones de Diseño.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patrones de Diseño"
+            }
+          },
+          {
+            "id": "fcd0c58be9be74af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Diseño de Sistemas de Información/Patrón de Diseño Strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patrón de Diseño Strategy"
+            }
+          },
+          {
+            "id": "94dd07056d7376fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Diseño de Sistemas de Información/Frameworks y Librerías.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frameworks y Librerías"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -312,7 +174,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 74.1267787839586,
+        "dimension": 77.67857142857143,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -331,7 +193,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 25.873221216041397,
+        "dimension": 22.321428571428573,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -339,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "colaboración",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -380,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Diseño de Sistemas de Información/Unified Software Development Process.md",
+                "file": "3er Nivel/Diseño de Sistemas de Información/Frameworks y Librerías.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unified Software Development Process"
+              "title": "Backlinks for Frameworks y Librerías"
             }
           },
           {
@@ -460,44 +322,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b94ee4279165a0a5",
+  "active": "94dd07056d7376fa",
   "lastOpenFiles": [
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Unified Software Development Process.png",
-    "3er Nivel/Diseño de Sistemas de Información/Metodologías de Desarrollo.md",
+    "3er Nivel/Diseño de Sistemas de Información/dotNET Core.md",
+    "3er Nivel/Diseño de Sistemas de Información/Frameworks y Librerías.md",
+    "3er Nivel/Diseño de Sistemas de Información/Acoplamiento.md",
+    "3er Nivel/Diseño de Sistemas de Información/Diseño Estructurado.md",
+    "3er Nivel/Diseño de Sistemas de Información/Cohesión.md",
+    "3er Nivel/Diseño de Sistemas de Información/Untitled.md",
+    "3er Nivel/Diseño de Sistemas de Información/attachments/Cohesión.png",
+    "3er Nivel/Diseño de Sistemas de Información/attachments/Pasted image 20250127200828.png",
+    "3er Nivel/Diseño de Sistemas de Información/attachments/Acoplamiento y Cohesión.png",
+    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama de Flujo del Diseño Estructurado.png",
+    "3er Nivel/Diseño de Sistemas de Información/attachments/Estructuras Desbalanceadas en el Diseño Estructurado.png",
+    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama Estruturado del Diseño Estructurado.png",
+    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama de Estructura del Diseño Estructurado.png",
+    "3er Nivel/Diseño de Sistemas de Información/attachments/Regla de Miller.png",
+    "3er Nivel/Diseño de Sistemas de Información/attachments/Pasted image 20250127192726.png",
+    "3er Nivel/Diseño de Sistemas de Información/attachments/Pasted image 20250127192424.png",
+    "3er Nivel/Diseño de Sistemas de Información/Patrón de Diseño Strategy.md",
+    "3er Nivel/Diseño de Sistemas de Información/Patrones de Diseño.md",
+    "3er Nivel/Diseño de Sistemas de Información/Patrón de Diseño Singleton.md",
+    "3er Nivel/Diseño de Sistemas de Información/Patrón de Diseño Factory Method.md",
+    "3er Nivel/Diseño de Sistemas de Información/Patrón de Diseño Adapter.md",
+    "3er Nivel/Diseño de Sistemas de Información/Patrón de Diseño Observer.md",
+    "3er Nivel/Diseño de Sistemas de Información/Patrón de Diseño Composite.md",
+    "3er Nivel/Diseño de Sistemas de Información/Frameworks Ágiles.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Manifiesto Ágil.md",
+    "3er Nivel/Diseño de Sistemas de Información/Rational Unified Process.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Agilidad.md",
     "3er Nivel/Diseño de Sistemas de Información/Unified Software Development Process.md",
-    "2do Nivel/Análisis de Sistemas de Información/Proceso Unificado de Desarrollo de Software.md",
-    "3er Nivel/Diseño de Sistemas de Información/Métodos Orientados a Objetos.md",
-    "3er Nivel/Diseño de Sistemas de Información/Patrones GRASP.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Patrones GRASP 2025-01-25 19.02.47.excalidraw.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Patrones GRASP 2025-01-25 19.02.47.excalidraw.svg",
-    "3er Nivel/Diseño de Sistemas de Información/Principios SOLID.md",
-    "3er Nivel/Diseño de Sistemas de Información/UML.md",
-    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Paquetes.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama de Gestión del Modelo 2.png",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama de Gestión del Modelo.png",
-    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Despliegue.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama de Despliegue.png",
-    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Actividad.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama de Actividad 2.png",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama de Actividad.png",
-    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Máquina de Estado.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama de Máquina de Estado.png",
+    "3er Nivel/Diseño de Sistemas de Información/Flujos de Trabajo del Unified Process.md",
     "3er Nivel/Diseño de Sistemas de Información/Diagrama de Colaboración.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama de Colaboración.png",
-    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Estructura Compuesta.md",
-    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Componentes.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Diagrama de Componentes.png",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Pasted image 20250124210005.png",
-    "2do Nivel/Análisis de Sistemas de Información/Diagrama de Casos de Uso.md",
-    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Comunicación.md",
-    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Secuencia.md",
+    "3er Nivel/Diseño de Sistemas de Información/UML.md",
+    "3er Nivel/Diseño de Sistemas de Información/Métodos Orientados a Objetos.md",
     "3er Nivel/Diseño de Sistemas de Información/Diagrama de Clases.md",
-    "2do Nivel/Análisis de Sistemas de Información/Modelado de los Sistemas.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/UML 2025-01-24 19.54.00.excalidraw.md",
-    "3er Nivel/Diseño de Sistemas de Información/Interfaces Gráficas de Usuario.md",
-    "2do Nivel/Paradigmas de Programación/Abstracciones.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/Métodos Orientados a Objetos 2025-01-24 19.41.03.excalidraw.md",
-    "3er Nivel/Diseño de Sistemas de Información/index.md",
+    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Estructura Compuesta.md",
+    "2do Nivel/Análisis de Sistemas de Información/Flujos de Trabajo.md",
+    "3er Nivel/Diseño de Sistemas de Información/Metodologías de Desarrollo.md",
     "3er Nivel/Diseño de Sistemas de Información/attachments",
     "3er Nivel/Diseño de Sistemas de Información/desktop.ini",
     "3er Nivel/Diseño de Sistemas de Información",

@@ -13,6 +13,8 @@ Tiene 3 **aspectos** fundamentales:
 
 Un proceso iterativo e incremental reduce riesgos atacando los riesgos más importantes primero. Muestra resultados a corto plazo y es más realista. Aún así, el UP es bastante tradicional: si no fuera iterativo e incremental, sería muy similar al modelo en cascada.
 
+![[Modelos del UP.png]]
+
 ## Ciclo de Vida
 
 La vida del sistema se divide en *ciclos*. Al final de cada ciclo, se hace una *product release* en la que entrega una nueva versión del sistema.
@@ -24,9 +26,11 @@ Cada ciclo se compone de 4 *fases* que terminan en un *hito* (o *milestone*) al 
 3. **Construcción**: desarrollar el producto. Hito: capacidad operativa inicial (versión beta). Artefactos: software, manual de usuario.
 4. **Transición**: puesta en producción de la versión beta y correcciones. Hito: lanzamiento del producto. Artefactos: los mismos que en la fase de construcción.
 
+![[Iteraciones del UP.png]]
+
 Cada fase se subdivide en *iteraciones*, controladas con selección y planificación. Cada iteración tiene sus flujos de trabajo principales, y termina en un *incremento* o release interna.
 
-Un *flujo de trabajo* es una secuencia de actividades que produce artefactos. Un *artefacto* es una pieza de información producida. Los [[Flujos de Trabajo de UP]] son:
+Un *flujo de trabajo* es una secuencia de actividades que produce artefactos. Un *artefacto* es una pieza de información producida. Los [[Flujos de Trabajo del Unified Process]] son:
 
 1. Requerimientos.
 2. Análisis.
@@ -34,7 +38,7 @@ Un *flujo de trabajo* es una secuencia de actividades que produce artefactos. Un
 4. Implementación.
 5. Testing.
 
-![[Unified Software Development Process.png]]
+![[Flujos de Trabajo del UP.png]]
 
 Se puede ver cómo todos los flujos de trabajo están en todas las fases, pero con distintos niveles de protagonismo dependiendo de la fase.
 
