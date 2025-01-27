@@ -16,9 +16,9 @@ En UML, se clasifican las vistas en 4 **áreas**:
 	- **Casos de Uso**: captura los requerimientos funcionales del sistema, y describe cómo usar el sistema desde el exterior. [[Diagrama de Casos de Uso]].
 2. **Comportamiento Dinámico**: funcionamiento del sistema a través del tiempo. Vistas:
 	- **Interacción**: muestra el intercambio de mensajes entre objetos (colaboraciones) para lograr un objetivo dado. [[Diagrama de Secuencia]] y [[Diagrama de Comunicación]].
-	- **Máquina de Estados**: [[Diagrama de Máquina de Estado]].
-	- **Actividades**: [[Diagrama de Actividad]].
+	- **Máquina de Estados**: se modelan objetos con comportamiento estado-dependiente, representando el ciclo de vida de cada clase. [[Diagrama de Máquina de Estado]].
+	- **Actividades**: variante de la máquina de estados para modelar flujos de trabajo. Es similar a un diagrama de flujo o *flowchart*. [[Diagrama de Actividad]].
 3. **Física**: recursos computacionales del sistema y los artefactos desplegados en ellos. Vistas:
-	- **Despliegue**: [[Diagrama de Despliegue]].
+	- **Despliegue**: surge en UML 2.0, reemplazando las vistas físicas de UML 1.x. [[Diagrama de Despliegue]].
 4. **Gestión del Modelo**: ayuda a organizar el resto de modelos con paquetes. Vistas:
-	- **Gestión del Modelo**: [[Diagrama de Gestión del Modelo]].
+	- **Gestión del Modelo**: divide al sistema en unidades más pequeñas para facilitar su gestión. [[Diagrama de Paquetes]].

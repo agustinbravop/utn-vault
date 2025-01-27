@@ -45,4 +45,4 @@ A veces NO es necesario modelar el negocio, por ejemplo cuando:
 
 Definido en UML, el diagrama de actividad relaciona una **secuencia de actividades** con **actores** e **información**.
 
-![[Diagrama de Actividad.png]]
+![[2do Nivel/Análisis de Sistemas de Información/attachments/Diagrama de Actividad.png]]

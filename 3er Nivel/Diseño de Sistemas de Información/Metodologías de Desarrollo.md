@@ -6,13 +6,15 @@ Un **método** es un proceso sistemático o técnica que nos da el cómo (*how-t
 
 Una **metodología** es un conjunto de métodos empleados por una disciplina.
 
-Un **proceso de desarrollo de software** estructura todo paso involucrado en tomar requisitos y crear software a partir de ellos. Indica actividades productos, roles, condiciones, etc. Impone procedimientos, consistencia, y estructura. Permite capturar y transferir experiencias (aprendizaje).
+Un **proceso de desarrollo de software** o **framework de procesos** estructura todo paso involucrado en tomar requisitos y crear software a partir de ellos. Indica actividades productos, roles, condiciones, etc. Impone procedimientos, consistencia, y estructura. Permite capturar y transferir experiencias (aprendizaje).
 
 $$\text{Modelo de Proceso de SW} = \text{Ciclo de Vida del SW} = \text{Paradigma de Procesos}$$
 
 Un **modelo de proceso** prescribe un *flujo de trabajo* de alto nivel, con una secuencia en el tiempo. Permiten adaptación o extensión, y definen actividades sin detallarlas demasiado.
 
-En general, cada proyecto aplica el modelo que le sirve de mejor manera. Veremos algunos ejemplos de modelos.
+Se puede decir que un proceso es la *instancia* de un framework de procesos.
+
+En general, cada proyecto aplica el modelo que le sirve de mejor manera. Si bien luego hacemos foco en el [[Unified Software Development Process]], ahora veremos otros ejemplos de modelos.
 
 ## Modelo en Cascada
 
