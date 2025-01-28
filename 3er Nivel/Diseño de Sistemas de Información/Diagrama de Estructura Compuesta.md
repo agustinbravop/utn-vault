@@ -4,8 +4,8 @@ Un **clasificador estructurado** (CE) es un clasificador con estructura interna 
 
 ![[Diagrama de Estructura Compuesta.png]]
 
-Un *rol* es el papel que un clasificador juega dentro del contexto del CE. Tiene un nombre, tipo, y multiplicidad propio al CE.
+Un _rol_ es el papel que un clasificador juega dentro del contexto del CE. Tiene un nombre, tipo, y multiplicidad propio al CE.
 
-Los *conectores* son relaciones contextuales entre dos roles. Comparten un contexto en tiempo de ejecución. Un conector es más específico que una asociación porque restringe a una asociación a permanecer dentro del contexto del CE.
+Los _conectores_ son relaciones contextuales entre dos roles. Comparten un contexto en tiempo de ejecución. Un conector es más específico que una asociación porque restringe a una asociación a permanecer dentro del contexto del CE.
 
-Las *partes* de un CE son los roles que el CE posee a través de la composición, por lo que solo pertenecen al CE.
+Las _partes_ de un CE son los roles que el CE posee a través de la composición, por lo que solo pertenecen al CE.

@@ -1,4 +1,4 @@
-Los reportes impresos son [[Diseño de Entradas y Salidas|salidas]] con información constante (logos) y variable (datos). Sus *atributos* pueden ser:
+Los reportes impresos son [[Diseño de Entradas y Salidas|salidas]] con información constante (logos) y variable (datos). Sus _atributos_ pueden ser:
 
 - **Funcionales**: sirven un propósito para el usuario.
 - **Estéticos**: dan formato a la salida.
@@ -18,13 +18,15 @@ Pasos para preparar un formato impreso:
 
 ## Diagramas de Warnier
 
-Los **diagramas de Warnier** nos permiten *jerarquizar* la información variable de reportes impresos. Las hojas del árbol son la información, y el resto de nodos son tablas, estructuras, listas, etc. La información constante, como logos o formatos, no van en las hojas del árbol.
+Los **diagramas de Warnier** nos permiten _jerarquizar_ la información variable de reportes impresos. Las hojas del árbol son la información, y el resto de nodos son tablas, estructuras, listas, etc. La información constante, como logos o formatos, no van en las hojas del árbol.
 
-$$\text{Resumen} \begin{cases} 
+$$
+\text{Resumen} \begin{cases}
 \begin{matrix}\text{Cabecera} \\ \text{(1 vez)}\end{matrix} \begin{cases} \begin{matrix}\text{Titulo} \\ \text{(1 vez)}\end{matrix} \begin{cases}\text{Mes} \\ \text{Año} \end{cases}\end{cases} \\ \\
 \begin{matrix}\text{Cuerpo} \\ \text{(1 vez)}\end{matrix} \begin{cases} \begin{matrix}\text{Página} \\ \text{(n veces)}\end{matrix} \begin{cases}\begin{matrix}\text{Cuerpo} \\ \text{(1 vez)}\end{matrix} \begin{cases}\begin{matrix}\text{Filas} \\ \text{(m veces)}\end{matrix}\end{cases} \begin{cases}\begin{matrix}\text{Fecha}\\ \text{Precio unitario} \\ \text{Cantidad}\end{matrix}\end{cases} \\\\ \begin{matrix}\text{Pie} \\ \text{(1 vez)}\end{matrix} \begin{cases}\begin{matrix}\text{Página actual} \\ \text{Total de páginas}\end{matrix}\end{cases} \end{cases}\end{cases} \\ \\
 \begin{matrix} \text{Pie} \\ \text{(1 vez)}\end{matrix} \begin{cases}\text{Total}\end{cases} \\
-\end{cases}$$
+\end{cases}
+$$
 
 Se indica en la estructura cuántas veces se repite cada nodo. Las hojas siempre son datos variables, y solo se indican una vez.
 

@@ -1,4 +1,4 @@
-En la vista de gestión del modelo de [[UML]], un **diagrama de paquetes** muestra las *dependencias* de nuestros paquetes, reflejando la arquitectura de alto nivel del sistema. Cada *paquete* es una unidad de organización del modelo.
+En la vista de gestión del modelo de [[UML]], un **diagrama de paquetes** muestra las _dependencias_ de nuestros paquetes, reflejando la arquitectura de alto nivel del sistema. Cada _paquete_ es una unidad de organización del modelo.
 
 ![[Diagrama de Gestión del Modelo.png]]
 
@@ -9,5 +9,5 @@ En la vista de gestión del modelo de [[UML]], un **diagrama de paquetes** muest
 
 Una dependencia puede ser:
 
-- **De acceso**: no modifica el *namespace* del cliente, sino que solamente concede permiso para hacer referencias. Ej: `Productos::Producto.get()`.
+- **De acceso**: no modifica el _namespace_ del cliente, sino que solamente concede permiso para hacer referencias. Ej: `Productos::Producto.get()`.
 - **De importación**: agrega nombres al namespace del cliente. Ej: `Precio.get()`.

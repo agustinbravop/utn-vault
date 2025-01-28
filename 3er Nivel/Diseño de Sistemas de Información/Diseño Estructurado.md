@@ -2,7 +2,7 @@ El **diseño estructurado**, propuesto por Yourdon y Constantine en 1978, es una
 
 El diseño estructurado surge como consecuencia de la programación estructurada, y está orientado a las funciones y datos. Se centra en buscar la mejor solución dentro de las limitaciones dadas.
 
->El diseño estructurado es el proceso de decidir qué componentes interconectados de qué manera solucionarán un problema bien especificado.
+> El diseño estructurado es el proceso de decidir qué componentes interconectados de qué manera solucionarán un problema bien especificado.
 
 El objetivo es **crear software de mayor calidad a menor costo**, lo cual significa alcanzar la:
 
@@ -33,18 +33,20 @@ Conviene usar módulos con entradas y salidas definidas, "sin mirar adentro".
 
 Sea $M(P)$ la medida del tamaño de un problema y $C(P)$ el costo de programar una solución. Sea $Q$ un problema distinto a $P$:
 
-$$\begin{align}
+$$
+\begin{align}
 \text{Si } M(P) \gt M(Q) &\implies C(P) \gt C(Q) \\
 &\implies M(P+Q) \gt M(P) + M(Q) \\
 &\implies C(P+Q) \gt C(P)+C(Q) \\
 &\implies C(P) \gt C\left(\frac{1}{2} P\right) + C\left(\frac{1}{2} P\right)
-\end{align}$$
+\end{align}
+$$
 
 Se deduce el Teorema Fundamental de la Ingeniería de Software: **es más barato resolver un problema por partes**.
 
 ### Regla de Miller
 
->Las personas mantienen en su cabeza $7 \pm 2$ conceptos a la vez.
+> Las personas mantienen en su cabeza $7 \pm 2$ conceptos a la vez.
 
 ![[Regla de Miller.png]]
 
@@ -58,32 +60,32 @@ La **complejidad de las interfaces** (las firmas de las funciones) está dada po
 
 ## Estructura del Programa
 
-Un *módulo* es una secuencia de sentencias lexicográficamente continua, limitada por elementos de frontera, con un identificador agregado. Por ejemplo: una función o un método.
+Un _módulo_ es una secuencia de sentencias lexicográficamente continua, limitada por elementos de frontera, con un identificador agregado. Por ejemplo: una función o un método.
 
-Las *conexiones* a un módulo pueden ser:
+Las _conexiones_ a un módulo pueden ser:
 
 - **Normales**: a través de una interfaz definida formalmente. Ej: `call <fn>`.
 - **Patológicas**: van directo a un elemento interno del módulo invocado. Esto es muy difícil que suceda en la actualidad, pero era común durante la transición de la programación imperativa no estructurada a la programación estructurada. Ej: `goto <tag>`.
 
 ### Morfología
 
-Un *diagrama de estructura* muestra la **jerarquía de control** del software:
+Un _diagrama de estructura_ muestra la **jerarquía de control** del software:
 
 ![[Diagrama Estruturado del Diseño Estructurado.png]]
 
-En este tipo de diagramas, se pueden ver los distintos tipos de *flujo de datos* y *flujo de control*:
+En este tipo de diagramas, se pueden ver los distintos tipos de _flujo de datos_ y _flujo de control_:
 
 1. **Flujo aferente**: la información sube (de sub-módulos hacia super-módulos).
 2. **Flujo eferente**: la información baja (de super-módulos hacia sub-módulos).
 3. **Transformación**: la información baja al sub-módulo y luego vuelve a subir, transformada.
 4. **Coordinación**: la información sube al super-módulo y luego es enviada a otro sub-módulo.
 
-Con el concepto de flujos se pueden identificar *estructuras desbalanceadas*, las cuales pueden ser:
+Con el concepto de flujos se pueden identificar _estructuras desbalanceadas_, las cuales pueden ser:
 
 - **Input-driven**: o predominantemente eferentes. Las entradas se leen primero y luego el código decide cómo tratarlas.
 - **Output-driven**: o predominantemente aferentes. Se activan los módulos aferentes (bajos) antes de obtener una primera entrada.
 
-Es preferible un **sistema balanceado** o *centrado en la transformación* porque las ramas aferentes y eferentes están balanceadas. Este tipo de sistemas suelen estar muy factorizados. Se cree que una *morfología centrada en la transformación* crea sistemas más baratos.
+Es preferible un **sistema balanceado** o _centrado en la transformación_ porque las ramas aferentes y eferentes están balanceadas. Este tipo de sistemas suelen estar muy factorizados. Se cree que una _morfología centrada en la transformación_ crea sistemas más baratos.
 
 ![[Estructuras Desbalanceadas en el Diseño Estructurado.png]]
 
@@ -101,11 +103,11 @@ Las **heurísticas de diseño** son trucos que nos permiten incrementar la modul
 
 ## Análisis de Transformación
 
-El **análisis de transformación** es una estrategia para derivar diseños estructurados modulares que solo requieren una pequeña reestructuración para ser finales. Es un modelo del flujo de información realizado desde un punto de vista *top-down*.
+El **análisis de transformación** es una estrategia para derivar diseños estructurados modulares que solo requieren una pequeña reestructuración para ser finales. Es un modelo del flujo de información realizado desde un punto de vista _top-down_.
 
 Pasos;
 
-1. Obtener el *diagrama de flujo de datos* del problema.
+1. Obtener el _diagrama de flujo de datos_ del problema.
 2. Identificar los elementos de datos aferentes y eferentes.
 3. Factorización del primer nivel.
 4. Factorización de los flujos aferentes, eferentes. y de transformación.

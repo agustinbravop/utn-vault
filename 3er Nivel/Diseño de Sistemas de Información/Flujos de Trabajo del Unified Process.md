@@ -1,4 +1,4 @@
-Todos los [[Flujos de Trabajo]] del [[Unified Software Development Process]] definen *artefactos* y *roles* estáticos unidos por un *workflow* dinámico. Los principales son:
+Todos los [[Flujos de Trabajo]] del [[Unified Software Development Process]] definen _artefactos_ y _roles_ estáticos unidos por un _workflow_ dinámico. Los principales son:
 
 1. Captura de Requisitos.
 2. Análisis.
@@ -8,7 +8,7 @@ Todos los [[Flujos de Trabajo]] del [[Unified Software Development Process]] def
 
 Cada rol es responsable de ciertos artefactos, los cuales son las entradas o salidas de ciertas actividades de cada flujo de trabajo.
 
-A estos flujos de trabajo el [[Rational Unified Process]] los denomina *disciplinas*.
+A estos flujos de trabajo el [[Rational Unified Process]] los denomina _disciplinas_.
 
 ## Captura de Requisitos
 
@@ -27,7 +27,7 @@ Roles y sus artefactos:
 3. **Diseñador de UI**: responsable del prototipo de la UI.
 4. **Arquitecto**: responsable de la descripción de la arquitectura, que considera a los CU críticos.
 
-La *descripción de la arquitectura* es un extracto adecuado de los modelos que evoluciona a medida que se avanza por el proceso. Tiene cinco secciones, una para cada modelo:
+La _descripción de la arquitectura_ es un extracto adecuado de los modelos que evoluciona a medida que se avanza por el proceso. Tiene cinco secciones, una para cada modelo:
 
 1. **Vista de casos de uso**: presenta los actores y casos de uso más importantes.
 2. **Vista de análisis**: no siempre se mantiene.
@@ -59,11 +59,11 @@ Roles:
 2. **Ingeniero de casos de uso**: responsable de la realización de CU-diseño.
 3. **Ingeniero de componentes**: responsable de las interfaces y las clases y subsistemas de diseño.
 
-Una *realización de caso de uso-diseño* es una [[Diagrama de Colaboración|colaboración]] en el modelo de diseño que describe cómo se realiza y ejecuta un caso de uso específico, en términos de clases de diseño y sus objetos.
+Una _realización de caso de uso-diseño_ es una [[Diagrama de Colaboración|colaboración]] en el modelo de diseño que describe cómo se realiza y ejecuta un caso de uso específico, en términos de clases de diseño y sus objetos.
 
 ## Flujo de Implementación
 
-El modelo se implementa en términos de *componentes*, los cuales son scripts, ejecutables, etc.
+El modelo se implementa en términos de _componentes_, los cuales son scripts, ejecutables, etc.
 
 ![[Flujo de Implementación.png]]
 
@@ -81,7 +81,7 @@ Se verifican las construcciones logradas.
 
 Roles:
 
-1. **Ingeniero de pruebas**: responsable del modelo de pruebas, los casos de pruebas (que tienen *trazabilidad* hacia los casos de uso que prueban), el procedimiento de pruebas, la evaluación de pruebas, y el plan de pruebas.
+1. **Ingeniero de pruebas**: responsable del modelo de pruebas, los casos de pruebas (que tienen _trazabilidad_ hacia los casos de uso que prueban), el procedimiento de pruebas, la evaluación de pruebas, y el plan de pruebas.
 2. **Ingeniero de pruebas de integración**: responsable de los defectos (anomalías a resolver).
 3. **Ingeniero de pruebas del sistema**: responsable de los defectos (anomalías a resolver).
-4. **Ingeniero de componentes**: responsable de los componentes de prueba, que *automatizan* los procedimientos de prueba ([[Automatización de Pruebas]]).
+4. **Ingeniero de componentes**: responsable de los componentes de prueba, que _automatizan_ los procedimientos de prueba ([[Automatización de Pruebas]]).

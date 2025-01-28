@@ -2,6 +2,6 @@ En la vista de despliegue de [[UML]], el **diagrama de despliegue** representa l
 
 ![[Diagrama de Despliegue.png]]
 
-Un *nodo* es un recurso computacional que en tiempo de ejecución puede contener *artefactos*.
+Un _nodo_ es un recurso computacional que en tiempo de ejecución puede contener _artefactos_.
 
-Un *artefacto* es una entidad física ejecutable que implementa un componente de diseño (lo *manifiesta*) mediante una relación de manifestación.
+Un _artefacto_ es una entidad física ejecutable que implementa un componente de diseño (lo _manifiesta_) mediante una relación de manifestación.

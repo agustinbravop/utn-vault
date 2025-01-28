@@ -1,9 +1,9 @@
-Dentro del [[Diseño de Entradas y Salidas]], las **interfaces web** están orientadas al internet y a la *world wide web*.
+Dentro del [[Diseño de Entradas y Salidas]], las **interfaces web** están orientadas al internet y a la _world wide web_.
 
-Las *páginas web* son documentos con texto, programas, audio, etc. Un conjunto de páginas forman un sistema o *sitio web*. Hay páginas:
+Las _páginas web_ son documentos con texto, programas, audio, etc. Un conjunto de páginas forman un sistema o _sitio web_. Hay páginas:
 
 - **Estáticas**: la información no cambia en el tiempo.
-- **Dinámicas**: la información se construye en el *servidor web* al solicitarla.
+- **Dinámicas**: la información se construye en el _servidor web_ al solicitarla.
 
 El diseño de GUI web es un proceso que nos permite construir experiencias de usuario web. Un diseñador web adapta los diseños gráficos estáticos al dinamismo y versatilidad de la web.
 
@@ -23,7 +23,7 @@ Proceso de diseño:
 4. Establecer objetivos de [[Usabilidad]].
 5. Optimizar la búsqueda (SEO).
 
-**Accesibilidad**: que los sitios web sean usables por la mayor cantidad de personas con *necesidades específicas*, que utilizan lectores de pantalla, navegación por teclado, o contenido alternativo. Se recomiendan las guías WCAG.
+**Accesibilidad**: que los sitios web sean usables por la mayor cantidad de personas con _necesidades específicas_, que utilizan lectores de pantalla, navegación por teclado, o contenido alternativo. Se recomiendan las guías WCAG.
 
 Página de inicio:
 

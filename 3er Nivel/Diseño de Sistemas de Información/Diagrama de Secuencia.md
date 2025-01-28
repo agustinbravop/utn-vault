@@ -2,6 +2,6 @@ En la vista de interacción de [[UML]], los **diagramas de secuencia** se enfoca
 
 ![[Diagrama de Secuencia.png]]
 
-Se pueden utilizar *fragmentos combinados* para agregar control de flujo al diagrama, o para reutilizar diagramas.
+Se pueden utilizar _fragmentos combinados_ para agregar control de flujo al diagrama, o para reutilizar diagramas.
 
 ![[Diagrama de Secuencia 2.png]]

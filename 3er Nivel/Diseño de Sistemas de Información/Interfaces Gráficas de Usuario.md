@@ -1,4 +1,4 @@
-La **interfaz gráfica de usuario** (*Graphic User Interface*, GUI) es comúnmente la parte del sistema con la que el usuario interactúa. La **interacción humano-máquina** (IHM) es la disciplina que estudia la relación en cómo las máquinas y las personas trabajan juntas.
+La **interfaz gráfica de usuario** (_Graphic User Interface_, GUI) es comúnmente la parte del sistema con la que el usuario interactúa. La **interacción humano-máquina** (IHM) es la disciplina que estudia la relación en cómo las máquinas y las personas trabajan juntas.
 
 El [[Diseño de Entradas y Salidas]], y el Diseño de GUI, es un subconjunto de IHM. Nos centramos en:
 
@@ -8,7 +8,7 @@ El [[Diseño de Entradas y Salidas]], y el Diseño de GUI, es un subconjunto de 
 4. Legibilidad.
 5. Estética.
 
-Una interfaz ofrece *acciones* que manipulan a los *objetos* y sus propiedades. Las operaciones pueden ser:
+Una interfaz ofrece _acciones_ que manipulan a los _objetos_ y sus propiedades. Las operaciones pueden ser:
 
 - **Explícitas**: modelo objeto-acción.
 - **Implícitas**: modelo acción-objeto.
@@ -28,7 +28,7 @@ La **manipulación directa** es un concepto que lo propone Shneiderman en 1982. 
 3. Acciones rápidas, incrementales, responsivas, y reversibles.
 4. Iconos memorizables e intuitivos (universales).
 
-Clasificación según la *distancia traslacional*:
+Clasificación según la _distancia traslacional_:
 
 1. **Débil**: teclado y ratón.
 2. **Media**: táctil y gestos táctiles.
@@ -53,6 +53,6 @@ Una GUI tiene **ventanas**:
 - Primarias: interacción principal.
 - Secundarias: de diálogo, mensaje (alertas), o utilitarias.
 
-**Menus**: presentan una gama de comandos disponibles. Permiten jerarquizar la información. Conviene usar verbos para comandos, incluir al menos tres ítems pero con un solo nivel, y usar *shortcuts*. Hay de tipo drop-down, sub-menu, despegable, etc.
+**Menus**: presentan una gama de comandos disponibles. Permiten jerarquizar la información. Conviene usar verbos para comandos, incluir al menos tres ítems pero con un solo nivel, y usar _shortcuts_. Hay de tipo drop-down, sub-menu, despegable, etc.
 
 **Controles**: objetos gráficos que representan operaciones o propiedades. Es básicamente todo objeto visible en la pantalla. Hay botones, cajas de texto, etiquetas, radio-buttons, check-lists, group fields, listas, etc.

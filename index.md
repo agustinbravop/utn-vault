@@ -46,7 +46,7 @@ Materias obligatorias del [[3er Nivel/index|3er Nivel]]:
 2. [[3er Nivel/Bases de Datos/index|Bases de Datos]].
 3. [[3er Nivel/Comunicación de Datos/index|Comunicación de Datos]].
 4. [[3er Nivel/Desarrollo de Software/index|Desarrollo de Software]].
-5. Diseño de Sistemas de Información (integradora).
+5. [[3er Nivel/Diseño de Sistemas de Información/index|Diseño de Sistemas de Información]] (integradora).
 6. Economía.
 7. [[3er Nivel/Probabilidad y Estadística/index|Probabilidad y Estadística]].
 

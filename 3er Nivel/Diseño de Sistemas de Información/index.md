@@ -2,6 +2,8 @@
 title: Diseño de Sistemas de Información
 ---
 
+![[MOC Diseño de Sistemas de Información.png]]
+
 Asignatura: Diseño de Sistemas de Información. \
 Ciclo Lectivo: 2023.
 

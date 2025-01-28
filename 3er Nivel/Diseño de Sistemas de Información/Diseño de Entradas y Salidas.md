@@ -1,10 +1,10 @@
-Las **entradas** y **salidas** definen a los [[1er Nivel/Sistemas y Procesos de Negocio/Sistemas de Información|Sistemas de Información]] para el exterior. El *diseño de salidas* busca que la salida:
+Las **entradas** y **salidas** definen a los [[1er Nivel/Sistemas y Procesos de Negocio/Sistemas de Información|Sistemas de Información]] para el exterior. El _diseño de salidas_ busca que la salida:
 
 - Satisfaga los objetivos.
 - Se adapte al usuario.
 - Sea oportuna, disponible, y adecuada.
 
-Los sistemas (software) se juzgan en base a sus salidas e interfaces de usuario. 
+Los sistemas (software) se juzgan en base a sus salidas e interfaces de usuario.
 
 Hay salidas:
 

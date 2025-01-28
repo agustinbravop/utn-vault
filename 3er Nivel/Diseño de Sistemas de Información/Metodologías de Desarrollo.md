@@ -1,8 +1,8 @@
-El **diseño** es la *especificación* de un *objeto* compuesto por componentes *primitivos*, manifestada por un *agente*, destinado a lograr *objetivos* en un *entorno*, satisfaciendo *requisitos* y *restricciones* (Ralph y Wand, 2009).
+El **diseño** es la _especificación_ de un _objeto_ compuesto por componentes _primitivos_, manifestada por un _agente_, destinado a lograr _objetivos_ en un _entorno_, satisfaciendo _requisitos_ y _restricciones_ (Ralph y Wand, 2009).
 
-El enfoque *sistemático*, disciplinado, y cuantificable de la **ingeniería de software** busca lograr resultados reproducibles. En contrapartida, la **artesanía** prioriza la subjetividad de profesionales con experiencia.
+El enfoque _sistemático_, disciplinado, y cuantificable de la **ingeniería de software** busca lograr resultados reproducibles. En contrapartida, la **artesanía** prioriza la subjetividad de profesionales con experiencia.
 
-Un **método** es un proceso sistemático o técnica que nos da el cómo (*how-to*) crear software. Por ejemplo, los [[Métodos Orientados a Objetos]].
+Un **método** es un proceso sistemático o técnica que nos da el cómo (_how-to_) crear software. Por ejemplo, los [[Métodos Orientados a Objetos]].
 
 Una **metodología** es un conjunto de métodos empleados por una disciplina.
 
@@ -10,9 +10,9 @@ Un **proceso de desarrollo de software** o **framework de procesos** estructura 
 
 $$\text{Modelo de Proceso de SW} = \text{Ciclo de Vida del SW} = \text{Paradigma de Procesos}$$
 
-Un **modelo de proceso** prescribe un *flujo de trabajo* de alto nivel, con una secuencia en el tiempo. Permiten adaptación o extensión, y definen actividades sin detallarlas demasiado.
+Un **modelo de proceso** prescribe un _flujo de trabajo_ de alto nivel, con una secuencia en el tiempo. Permiten adaptación o extensión, y definen actividades sin detallarlas demasiado.
 
-Se puede decir que un proceso es la *instancia* de un framework de procesos.
+Se puede decir que un proceso es la _instancia_ de un framework de procesos.
 
 En general, cada proyecto aplica el modelo que le sirve de mejor manera. Si bien luego hacemos foco en el [[Unified Software Development Process]], ahora veremos otros ejemplos de modelos.
 

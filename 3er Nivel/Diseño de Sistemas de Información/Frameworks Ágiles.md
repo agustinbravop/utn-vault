@@ -51,4 +51,4 @@ El proceso de XP tiene la siguiente forma:
 
 ![[3er Nivel/Diseño de Sistemas de Información/attachments/Proceso de XP.png]]
 
-Una *spike* es una pequeña historia para investigar una pregunta y resolver un problema específico. Por ejemplo, prototipar un script de migración para validar si es posible o no migrar el sistema a una base de datos diferente.
+Una _spike_ es una pequeña historia para investigar una pregunta y resolver un problema específico. Por ejemplo, prototipar un script de migración para validar si es posible o no migrar el sistema a una base de datos diferente.

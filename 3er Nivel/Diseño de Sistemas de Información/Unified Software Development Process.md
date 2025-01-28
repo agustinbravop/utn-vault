@@ -1,8 +1,8 @@
 El [[Proceso Unificado de Desarrollo de Software]] (PUDS), o simplemente Unified Process (UP), fue propuesto por Jacobson-Booch-Rumbaugh en 1999.
 
-- Es un proceso ([[Metodologías de Desarrollo]]),
-- Con un maro genérico, adaptable, y extendible,
-- Basado en *componentes* reutilizables,
+- Es un framework de procesos ([[Metodologías de Desarrollo]]),
+- Con un marco genérico, adaptable, y extendible,
+- Basado en _componentes_ reutilizables,
 - Que usa [[UML]] sin estar acoplado a él.
 
 Tiene 3 **aspectos** fundamentales:
@@ -17,9 +17,9 @@ Un proceso iterativo e incremental reduce riesgos atacando los riesgos más impo
 
 ## Ciclo de Vida
 
-La vida del sistema se divide en *ciclos*. Al final de cada ciclo, se hace una *product release* en la que entrega una nueva versión del sistema.
+La vida del sistema se divide en _ciclos_. Al final de cada ciclo, se hace una _product release_ en la que entrega una nueva versión del sistema.
 
-Cada ciclo se compone de 4 *fases* que terminan en un *hito* (o *milestone*) al pasar a la siguiente:
+Cada ciclo se compone de 4 _fases_ que terminan en un _hito_ (o _milestone_) al pasar a la siguiente:
 
 1. **Concepción**: define el producto, negocio, objetivos, riesgos, viabilidad. Hito: objetivos y ciclo de vida. Artefactos: casos de uso principales, boceto de la arquitectura, y plan de iteraciones.
 2. **Elaboración**: comprender el problema y eliminar riesgos. Hito: arquitectura del ciclo de vida. Artefactos: línea base de la arquitectura, 80% de los casos de uso, plan detallado de iteraciones.
@@ -28,9 +28,9 @@ Cada ciclo se compone de 4 *fases* que terminan en un *hito* (o *milestone*) al 
 
 ![[Iteraciones del UP.png]]
 
-Cada fase se subdivide en *iteraciones*, controladas con selección y planificación. Cada iteración tiene sus flujos de trabajo principales, y termina en un *incremento* o release interna.
+Cada fase se subdivide en _iteraciones_, controladas con selección y planificación. Cada iteración tiene sus flujos de trabajo principales, y termina en un _incremento_ o release interna.
 
-Un *flujo de trabajo* es una secuencia de actividades que produce artefactos. Un *artefacto* es una pieza de información producida. Los [[Flujos de Trabajo del Unified Process]] son:
+Un _flujo de trabajo_ es una secuencia de actividades que produce artefactos. Un _artefacto_ es una pieza de información producida. Los [[Flujos de Trabajo del Unified Process]] son:
 
 1. Requerimientos.
 2. Análisis.
@@ -42,4 +42,4 @@ Un *flujo de trabajo* es una secuencia de actividades que produce artefactos. Un
 
 Se puede ver cómo todos los flujos de trabajo están en todas las fases, pero con distintos niveles de protagonismo dependiendo de la fase.
 
-Se dice que UP es *bidimensional* (contenido y fases), mientras que el modelo en cascada, al no tener fases, tiene solo una dimensión: el contenido.
+Se dice que UP es _bidimensional_ (contenido y fases), mientras que el modelo en cascada, al no tener fases, tiene solo una dimensión: el contenido.

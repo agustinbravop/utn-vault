@@ -1,8 +1,8 @@
 Los **frameworks y librerías** son paquetes de código que aceleran el desarrollo de software. Existen algunos que son específicos para los [[Métodos Orientados a Objetos]].
 
-Un *framework* es un conjunto de clases cooperantes que constituyen una solución de diseño genérico que se puede adaptar a varios problemas específicos dentro de un dominio dado. Es una estructura predeterminada que ayuda a los desarrolladores a mantener sus soluciones.
+Un _framework_ es un conjunto de clases cooperantes que constituyen una solución de diseño genérico que se puede adaptar a varios problemas específicos dentro de un dominio dado. Es una estructura predeterminada que ayuda a los desarrolladores a mantener sus soluciones.
 
-Una *librería* o biblioteca es un conjunto de clases instanciadas por el cliente, quien llama a sus funciones a medida que las necesita. Suelen resolver un problema mucho más específico que un framework.
+Una _librería_ o biblioteca es un conjunto de clases instanciadas por el cliente, quien llama a sus funciones a medida que las necesita. Suelen resolver un problema mucho más específico que un framework.
 
 Mientras que las librerías son llamadas por el código del cliente, un framework **invierte el flujo de control**: el framework llama a las funciones del cliente, y ofrece cierto comportamiento por defecto.
 
@@ -28,6 +28,19 @@ Algunas de las muchas herramientas de .NET:
 
 ### ASP.NET Core
 
-ASP.NET Core es un framework que utiliza el patrón MVC (Modelo-Vista-Controlador) para el desarrollo web. 
+ASP.NET Core es un framework que utiliza el patrón MVC para el desarrollo web. El patrón estructura la aplicación en tres partes:
 
-Su flujo de trabajo es el siguiente
+1. **Modelo**: encapsula los datos y la lógica de negocio.
+2. **Vista**: genera la interfaz que ve el usuario.
+3. **Controlador**: recibe solicitudes y las procesa. Luego, actualiza la vista y el modelo.
+
+Su flujo de trabajo es el siguiente:
+
+1. Solicitud HTTP.
+2. Enrutamiento.
+3. Controlador.
+4. Modelo.
+5. Vista.
+6. Respuesta HTTP.
+
+Las herramientas como el _scaffold_ de ASP.NET, el autocompletado de GitHub Copilot, o los ORMs como Entity Framework aceleran el tiempo de desarrollo, permitiendo a los programadores enfocarse en resolver el problema en cuestión.

@@ -2,7 +2,7 @@ En [[UML]], un diagrama de [[Clases]] pertenece a la vista estructural del model
 
 ![[Diagrama de Clases.png]]
 
-La *visibilidad* de los atributos puede ser *privada* solo para la clase, *pública* para todos, *protegida* a solamente la clase y sus subclases, o *interna* al paquete. Un atributo o método es *estático* si pertenece a la clase y es compartido por todos los objetos, en lugar de haber uno para cada objeto.
+La _visibilidad_ de los atributos puede ser _privada_ solo para la clase, _pública_ para todos, _protegida_ a solamente la clase y sus subclases, o _interna_ al paquete. Un atributo o método es _estático_ si pertenece a la clase y es compartido por todos los objetos, en lugar de haber uno para cada objeto.
 
 Relaciones:
 
@@ -14,7 +14,7 @@ Relaciones:
 
 Un **clasificador** es un concepto discreto que tiene identidad, estado, comportamiento, y relaciones. Suele ser todo lo que sea instanciable. Ej: una clase, interfaz, caso de uso, actor, tipo de dato, etc.
 
-Una **interfaz** es un clasificador que declara un conjunto de métodos. De esos métodos, solamente se especifica su *firma*, no su implementación. Así, las interfaces establecen un contrato que deben cumplir las clases que las implementen, lo que desacopla el código. Se las considera más flexibles y "livianas" que las clases abstractas.
+Una **interfaz** es un clasificador que declara un conjunto de métodos. De esos métodos, solamente se especifica su _firma_, no su implementación. Así, las interfaces establecen un contrato que deben cumplir las clases que las implementen, lo que desacopla el código. Se las considera más flexibles y "livianas" que las clases abstractas.
 
 ![[Interfaz.png]]
 
@@ -28,4 +28,4 @@ Los **estereotipos** que existen son:
 
 ![[Estereotipos de UML.png]]
 
-UML 2.0 introduce una diferencia entre *ownership* (cuando una clase es dueña de la asociación) y *navegabilidad* (cuando una clase solamente conoce a la otra clase de la asociación).
+UML 2.0 introduce una diferencia entre _ownership_ (cuando una clase es dueña de la asociación) y _navegabilidad_ (cuando una clase solamente conoce a la otra clase de la asociación).

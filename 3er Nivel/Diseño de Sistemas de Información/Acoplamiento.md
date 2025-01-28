@@ -5,9 +5,9 @@ El **acoplamiento**, considerado por primera vez en el [[Diseño Estructurado]],
 3. **Tipo de flujo de información**: determina si el acoplamiento es por datos o por control.
 4. **Tiempo de ligado**: al programar, compilar, linkear, o ejecutar.
 
-El *acoplamiento por entorno común* se da cuando dos o más módulos acceden a un entorno de datos público, por ejemplo una variable global.
+El _acoplamiento por entorno común_ se da cuando dos o más módulos acceden a un entorno de datos público, por ejemplo una variable global.
 
-El *desacoplamiento* se puede lograr de varias maneras:
+El _desacoplamiento_ se puede lograr de varias maneras:
 
 - Rompiendo dependencias.
 - Localizando variables.

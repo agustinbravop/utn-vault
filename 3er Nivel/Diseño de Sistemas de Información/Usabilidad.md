@@ -1,6 +1,6 @@
 En el [[Diseño de Entradas y Salidas]] es muy importante la **usabilidad**, un atributo de calidad que evalúa la facilidad de uso de una interfaz de usuario (UI).
 
->La usabilidad es la capacidad de una UI de ser utilizada por seres humanos con facilidad y eficiencia.
+> La usabilidad es la capacidad de una UI de ser utilizada por seres humanos con facilidad y eficiencia.
 
 Según Nielsen, la usabilidad tiene 5 componentes:
 

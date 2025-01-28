@@ -6,5 +6,5 @@ Es útil cuando una clase no puede anticipar la clase de los objetos que crea.
 
 Variantes:
 
-- Parametrizar el *factory method*.
+- Parametrizar el _factory method_.
 - `Creator` concreto y con una implementación por defecto.
