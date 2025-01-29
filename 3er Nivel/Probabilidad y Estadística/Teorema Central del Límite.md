@@ -1,4 +1,4 @@
-El **teorema central del límite** es uno de los enunciados más importantes de la [[Teoría de la Probabilidad]].
+El **teorema central del límite** es uno de los enunciados más importantes de la [[Probabilidad]].
 
 > Sea $X_1, X_2, \dots, X_n$ una secuencia de variables aleatorias independientes distribuidas idénticamente, cada una con media $\mu_X$ y varianza $\sigma^2_X$. La suma de esa secuencia $S_n = \sum X_i = X_1 + X_2 + \dots + X_n$ es una nueva variable aleatoria con una [[Distribución Normal]] aproximada $S_n \sim N(n\mu_X, n \sigma^2_X)$ para un $n$ suficientemente grande.
 

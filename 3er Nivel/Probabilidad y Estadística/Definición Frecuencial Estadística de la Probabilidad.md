@@ -1,4 +1,4 @@
-Otra definición que se le puede dar a la probabilidad en la [[Teoría de la Probabilidad]] es la **definición frecuencial estadística**. Muchas veces no podemos conocer los valores exactos de los casos favorables, porque la variable aleatoria resulta difícil de medir.
+Otra definición que se le puede dar a la [[Probabilidad]] es la **definición frecuencial estadística**. Muchas veces no podemos conocer los valores exactos de los casos favorables, porque la variable aleatoria resulta difícil de medir.
 
 Se puede entonces imaginar hacer $n$ observaciones con $n \rightarrow \infty$, y registrar la frecuencia de aparición $f_i$ de un evento.
 

@@ -1,4 +1,4 @@
-La _cantidad de información_ $I$ es una medida de la disminución de incertidumbre de un suceso. La cantidad de información que se obtiene al conocer un hecho es directamente proporcional al número posible de estados previos, y proporcional a la [[Teoría de la Probabilidad|probabilidad]]. Según Shannon:
+La _cantidad de información_ $I$ es una medida de la disminución de incertidumbre de un suceso. La cantidad de información que se obtiene al conocer un hecho es directamente proporcional al número posible de estados previos, y proporcional a la [[Probabilidad]]. Según Shannon:
 
 $$I = \log_2 \left(\frac{1}{p}\right)$$
 

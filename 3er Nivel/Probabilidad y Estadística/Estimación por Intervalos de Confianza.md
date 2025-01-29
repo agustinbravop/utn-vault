@@ -26,7 +26,7 @@ De manera que:
 
 $$P\left(- z_1 \le\frac{S_x-\sigma_x}{\frac{\sigma_x}{\sqrt {2n}}} \le z_1\right) = P\left(S_x + z_1 \frac{S_x}{\sqrt {2n}}\ge\mu_x\ge S_x - z_1\frac{S_x}{\sqrt {2n}}\right) = NC$$
 
-El nivel de confianza $NC$ es una [[Teoría de la Probabilidad|probabilidad]]. A mayor $NC$, hay mayor probabilidad de que el parámetro caiga en el intervalo pero hay menor precisión en la estimación (por ser un intervalo más grande). Si $N=1 \implies$ el intervalo va de $- \infty$ a $+ \infty$.
+El nivel de confianza $NC$ es una [[Probabilidad]]. A mayor $NC$, hay mayor probabilidad de que el parámetro caiga en el intervalo pero hay menor precisión en la estimación (por ser un intervalo más grande). Si $N=1 \implies$ el intervalo va de $- \infty$ a $+ \infty$.
 
 ![[Intervalo de Confianza para Muestras Grandes.png]]
 
