@@ -9,7 +9,7 @@ Materias obligatorias:
 3. Investigación Operativa.
 4. Legislación.
 5. Redes de Datos.
-6. Simulación.
+6. [[4to Nivel/Simulación/index|Simulación]].
 7. Tecnologías para la Automatización.
 
 Materias electivas (un mínimo de 6 horas cátedra semanales):

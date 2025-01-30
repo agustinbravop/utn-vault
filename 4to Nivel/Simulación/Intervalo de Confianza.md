@@ -10,8 +10,8 @@ Intervalo de confianza para otra distribución (genérico):
 
 $$IC = \left[ \overline x - \frac{s}{\sqrt {r \alpha}}, \ \overline x + \frac{s}{\sqrt {r \alpha}}\right]$$
 
-Se puede usar un software de bondad de ajuste como *StatFit* para encontrar la distribución que mejor explica el conjunto de resultados de la simulación. Se acostumbra usar un nivel de confianza $\alpha$ igual a $0.05$ (un $5\%$ de probabilidad de cometer un falso negativo).
+Se puede usar un software de bondad de ajuste como _StatFit_ para encontrar la distribución que mejor explica el conjunto de resultados de la simulación. Se acostumbra usar un nivel de confianza $\alpha$ igual a $0.05$ (un $5\%$ de probabilidad de cometer un falso negativo).
 
-El intervalo de confianza tendrá un límite inferior y un límite superior, estando el promedio del conjunto de valores entre ambos límites. El *delta del intervalo* o rango del entorno es la distancia entre los límites y el punto medio.
+El intervalo de confianza tendrá un límite inferior y un límite superior, estando el promedio del conjunto de valores entre ambos límites. El _delta del intervalo_ o rango del entorno es la distancia entre los límites y el punto medio.
 
 El resultado exacto se encuentra dentro del intervalo.

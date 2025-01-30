@@ -1,6 +1,6 @@
 > "La **simulación** es la imitación de la operación de un proceso del mundo real o de un sistema a través del tiempo". - Banks, 1988.
 
-Realizar una simulación implica la generación de una *historia artificial* del sistema y la observación de esa historia artificial para hacer inferencias concernientes al funcionamiento operativo del sistema real que se estudia.
+Realizar una simulación implica la generación de una _historia artificial_ del sistema y la observación de esa historia artificial para hacer inferencias concernientes al funcionamiento operativo del sistema real que se estudia.
 
 Desde el punto de vista de la simulación, los elementos del [[Sistema]] deben tener una frontera clara, y se lo considera la "porción de la realidad" que separamos para estudiar. Los sistemas pueden ser:
 

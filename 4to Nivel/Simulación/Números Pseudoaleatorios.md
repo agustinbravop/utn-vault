@@ -4,29 +4,29 @@ Dado un conjunto de números aleatorios generados determinísticamente, se los d
 
 Características de los números pseudoaleatorios:
 
-1. Están **uniformemente distribuidos** (evitar *weighted dice*).
+1. Están **uniformemente distribuidos** (evitar _weighted dice_).
 2. Ser **estadísticamente independientes** (que uno no dependa del otro).
 3. Ser **reproducibles**.
 4. A efectos prácticos para su uso (aunque son problemas antiguos ya solucionados):
-	- Tener un período largo sin repetición.
-	- Ser generados por un método largo.
-	- Que no requieran mucho almacenamiento.
+   - Tener un período largo sin repetición.
+   - Ser generados por un método largo.
+   - Que no requieran mucho almacenamiento.
 
 ## Métodos de Generación
 
-Hay muchas maneras de obtener números pseudoaleatorios: listados, métodos físicos, con computadoras, con relaciones de recurrencia, etc. 
+Hay muchas maneras de obtener números pseudoaleatorios: listados, métodos físicos, con computadoras, con relaciones de recurrencia, etc.
 
-Hoy en día, los números pseudoaleatorios son fáciles de generar automáticamente por computadora, por lo que su generación es trivial. 
+Hoy en día, los números pseudoaleatorios son fáciles de generar automáticamente por computadora, por lo que su generación es trivial.
 
 Los métodos de generación no garantizan que los números generados cumplan todos los requisitos de un número aleatorio, por lo que es importante probarlos estadísticamente.
 
 ### Método Congruencial Mixto
 
-Se plantea la *relación de recurrencia*:
+Se plantea la _relación de recurrencia_:
 
 $$X_{n+1} = (AX_n+c) \mod m$$
 
-Con estos *parámetros*:
+Con estos _parámetros_:
 
 - $X_0 \gt 0$: semilla.
 - $a \gt 0$: multiplicador.

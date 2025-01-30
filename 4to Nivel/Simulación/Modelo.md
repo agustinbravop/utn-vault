@@ -19,9 +19,9 @@ Hay varios elementos de un sistema que son relevantes para construir su modelo d
 
 1. **Entidades**: flujos de entrada al sistema. Alteran al sistema.
 2. **Estado**: una foto del sistema en cierto instante, con sus variables puntuales y acumuladas.
-3. **Eventos**: cambios en el estado actual. Pueden ser *actuales* o *futuros*.
+3. **Eventos**: cambios en el estado actual. Pueden ser _actuales_ o _futuros_.
 4. **Localizaciones**: lugares en los que la entidad espera a ser atendida.
 5. **Recursos**: dispositivos necesarios para realizar una operación.
 6. **Atributos**: características de una entidad.
-7. **Variables**: condiciones cuyos valores surgen de ecuaciones. Son *discretas* o *continuas*. Son *exógenas* (del entorno) si son *datos* o de *control*. Son *endógenas* (de la simulación) si son de *estado* o de *resultado*. Si no son ni exógenas ni endógenas, son *auxiliares*.
-8. **Reloj**: es el contador de tiempo de la simulación. Puede ser *absoluto* (se cuenta desde el inicio de la simulación) o *relativo* (se cuenta el lapso de tiempo desde el último evento).
+7. **Variables**: condiciones cuyos valores surgen de ecuaciones. Son _discretas_ o _continuas_. Son _exógenas_ (del entorno) si son _datos_ o de _control_. Son _endógenas_ (de la simulación) si son de _estado_ o de _resultado_. Si no son ni exógenas ni endógenas, son _auxiliares_.
+8. **Reloj**: es el contador de tiempo de la simulación. Puede ser _absoluto_ (se cuenta desde el inicio de la simulación) o _relativo_ (se cuenta el lapso de tiempo desde el último evento).

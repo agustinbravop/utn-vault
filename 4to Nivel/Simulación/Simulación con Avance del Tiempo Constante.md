@@ -18,7 +18,7 @@ Sea una cantidad de pedido fija, con un momento de pedido variable. El objetivo 
 
 ## Modelo de Almacenamiento Alternativo
 
-En este modelo alternativo, se supone una cantidad de pedido variable y un momento de pedido fijo, lo que nos permite considerar perturbaciones e *inercia*. Esto se puede aplicar a, por ejemplo, los comercios cuyo proveedor o repositor viene siempre el mismo día. Cuando viene, se repone según lo vendido o demandado.
+En este modelo alternativo, se supone una cantidad de pedido variable y un momento de pedido fijo, lo que nos permite considerar perturbaciones e _inercia_. Esto se puede aplicar a, por ejemplo, los comercios cuyo proveedor o repositor viene siempre el mismo día. Cuando viene, se repone según lo vendido o demandado.
 
 **Variables de control**: capacidad del almacén $\text{CA}$ y frecuencia de pedido fija $\text{FP}$.
 
@@ -26,8 +26,8 @@ El diagrama es muy similar al del modelo anterior (cantidad fija, momento variab
 
 ![[Avance del Tiempo Constante (Almacenamiento Alternativo).png]]
 
-Un *ciclo* es el período de tiempo entre la llegada de dos pedidos. En un ciclo, se pueden acumular *ventas atrasadas*, suponiendo que el cliente compra ni bien se repone el producto.
+Un _ciclo_ es el período de tiempo entre la llegada de dos pedidos. En un ciclo, se pueden acumular _ventas atrasadas_, suponiendo que el cliente compra ni bien se repone el producto.
 
-En la submetodología de tamaño de pedido variable, se prevén *perturbaciones aleatorias externas*. Si en el [[Modelo]] del sistema bajo estudio no hay perturbaciones aleatorias externas o se las conoce con exactitud, entonces conviene utilizar la submetodología de tamaño de pedido constante.
+En la submetodología de tamaño de pedido variable, se prevén _perturbaciones aleatorias externas_. Si en el [[Modelo]] del sistema bajo estudio no hay perturbaciones aleatorias externas o se las conoce con exactitud, entonces conviene utilizar la submetodología de tamaño de pedido constante.
 
-En lugar de considerar una capacidad de almacén máxima a rellenar, se puede tener en cuenta *situaciones anteriores* (inercia) para el cálculo del $\text{TP}$ variable.
+En lugar de considerar una capacidad de almacén máxima a rellenar, se puede tener en cuenta _situaciones anteriores_ (inercia) para el cálculo del $\text{TP}$ variable.

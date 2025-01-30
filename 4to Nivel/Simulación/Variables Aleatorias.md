@@ -1,4 +1,4 @@
-Las **variables aleatorias** son aquellas que tienen un *comportamiento probabilístico* en la realidad, y es importante conocer la distribución de [[Probabilidad]] que explica su comportamiento.
+Las **variables aleatorias** son aquellas que tienen un _comportamiento probabilístico_ en la realidad, y es importante conocer la distribución de [[Probabilidad]] que explica su comportamiento.
 
 Sabemos que:
 
@@ -19,7 +19,7 @@ Prueba de Chi-Cuadrado para determinar si una distribución de probabilidad se a
 7. Definir el nivel de significancia $\alpha$ y determinar el valor crítico de la prueba $\chi^2_{\alpha, \ m-k-1}$.
 8. Si $\chi^2_0 \lt \chi_{\alpha,\ m-k-1}^2$, entonces no se puede rechazar la hipótesis nula (la distribución se ajusta).
 
-Hoy en día existe software que realiza el *auto-fit* de manera automática para, dado un conjunto de datos, encontrar las distribuciones de probabilidad que mejor se ajustan a ellos.
+Hoy en día existe software que realiza el _auto-fit_ de manera automática para, dado un conjunto de datos, encontrar las distribuciones de probabilidad que mejor se ajustan a ellos.
 
 ## Métodos para Generar Variables Aleatorias
 
@@ -38,11 +38,11 @@ Este método es el más directo. Simula variables aleatorias continuas. Pasos:
 
 ### Método del Rechazo
 
-Este método solo conviene usar cuando el método de la función inversa es inviable, lo cual es común cuando la función bajo estudio no tiene inversa fácil de definir. 
+Este método solo conviene usar cuando el método de la función inversa es inviable, lo cual es común cuando la función bajo estudio no tiene inversa fácil de definir.
 
-Se busca generar un valor que venga de la distribución de probabilidad bajo análisis. Antes de comenzar el proceso iterativo, definir un $M$ con valor $M \ge \max (f(x))$, siendo $f(x)$ una distribución de probabilidad *acotada* donde $a \le x \le b$. Pasos:
+Se busca generar un valor que venga de la distribución de probabilidad bajo análisis. Antes de comenzar el proceso iterativo, definir un $M$ con valor $M \ge \max (f(x))$, siendo $f(x)$ una distribución de probabilidad _acotada_ donde $a \le x \le b$. Pasos:
 
-1. Generar dos pseudoaleatorios $r_1$ y $r_2$. 
+1. Generar dos pseudoaleatorios $r_1$ y $r_2$.
 2. Determinar un valor de la variable aleatoria como $x = a + (b - a) \cdot r_1$.
 3. Evaluar la función de probabilidad $f(x)$ en $x = a + (b-a)\cdot r_1$.
 4. Aceptar $x$ solo si se cumple que $r_2 \le \frac{f(x)}{M}$. Si no se cumple, descartar este valor $x$ y reiterar desde el paso 1 para generar otro valor.

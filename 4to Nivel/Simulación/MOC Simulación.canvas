@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"8558e22f197d6141","x":360,"y":-1240,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Números Pseudoaleatorios.md"},
+		{"id":"6383779c1a08a88f","x":360,"y":-720,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Pruebas Estadísticas para Números Aleatorios.md"},
+		{"id":"4d6f69a670e23689","x":360,"y":-200,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Variables Aleatorias.md"},
+		{"id":"75f265a15d061040","x":840,"y":-1240,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Intervalo de Confianza.md"},
+		{"id":"5fbf3f0a733c516f","x":1320,"y":-1240,"width":400,"height":400,"color":"4","type":"file","file":"4to Nivel/Simulación/Simulación Montecarlo.md"},
+		{"id":"636c2e8c75bcda04","x":1800,"y":-720,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Simulación con Metodología Evento a Evento.md"},
+		{"id":"6025840a4f1e213a","x":3000,"y":-1240,"width":400,"height":400,"color":"4","type":"file","file":"4to Nivel/Simulación/Dinámica de Sistemas.md"},
+		{"id":"9b76d74634ad5b35","x":2760,"y":-720,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Diagrama Causal.md"},
+		{"id":"849ec07fc8bf69b9","x":3240,"y":-720,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Diagrama de Forrester.md"},
+		{"id":"d413380090fac0c4","x":360,"y":-1760,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Simulación.md"},
+		{"id":"70c46a44fad6f39b","x":2280,"y":-720,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Simulación con Avance del Tiempo Constante.md"},
+		{"id":"8f467ddb8b757c82","x":2040,"y":-1240,"width":400,"height":400,"color":"4","type":"file","file":"4to Nivel/Simulación/Sistemas Discretos.md"},
+		{"id":"3bc2aa10b2a3a6ab","x":-120,"y":-1240,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Modelo.md"}
+	],
+	"edges":[
+		{"id":"88f919ae813238f0","fromNode":"d413380090fac0c4","fromSide":"bottom","toNode":"3bc2aa10b2a3a6ab","toSide":"top","label":"estudia"},
+		{"id":"08c5f277deb89f26","fromNode":"d413380090fac0c4","fromSide":"right","toNode":"5fbf3f0a733c516f","toSide":"top"},
+		{"id":"9bd6ab319709f424","fromNode":"d413380090fac0c4","fromSide":"right","toNode":"8f467ddb8b757c82","toSide":"top"},
+		{"id":"921362cd3598f697","fromNode":"d413380090fac0c4","fromSide":"right","toNode":"6025840a4f1e213a","toSide":"top"},
+		{"id":"0ad3f44010f52323","fromNode":"d413380090fac0c4","fromSide":"bottom","toNode":"8558e22f197d6141","toSide":"top","label":"usa"},
+		{"id":"7b5810c74c5c4295","fromNode":"8558e22f197d6141","fromSide":"bottom","toNode":"6383779c1a08a88f","toSide":"top","label":"validados por"},
+		{"id":"c20c2a0315ffe73d","fromNode":"6383779c1a08a88f","fromSide":"bottom","toNode":"4d6f69a670e23689","toSide":"top","label":"para generar\nvalores de"},
+		{"id":"935ca6a3b9e3ae79","fromNode":"d413380090fac0c4","fromSide":"bottom","toNode":"75f265a15d061040","toSide":"top","label":"da un"},
+		{"id":"478ebf7bde717fa6","fromNode":"8f467ddb8b757c82","fromSide":"bottom","toNode":"636c2e8c75bcda04","toSide":"top"},
+		{"id":"a034595e3f46035e","fromNode":"8f467ddb8b757c82","fromSide":"bottom","toNode":"70c46a44fad6f39b","toSide":"top"},
+		{"id":"5b4ed30bbbd2c246","fromNode":"6025840a4f1e213a","fromSide":"bottom","toNode":"9b76d74634ad5b35","toSide":"top"},
+		{"id":"b970fced44d759ce","fromNode":"6025840a4f1e213a","fromSide":"bottom","toNode":"849ec07fc8bf69b9","toSide":"top"}
+	]
+}

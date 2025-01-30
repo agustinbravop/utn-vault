@@ -11,7 +11,7 @@ Las pruebas se realizan en ese orden. Si tan solo una prueba falla, entonces el 
 
 ## Prueba de Medias
 
-El conjunto $r_i$, con valores entre $0$ y $1$, debe tener un valor esperado igual a $0.5$. 
+El conjunto $r_i$, con valores entre $0$ y $1$, debe tener un valor esperado igual a $0.5$.
 
 Sean las hipótesis $H_0: \mu_{r_i} = 0.5$ y $H_1 : \mu_{r_i} \ne 0.5$ y el promedio $\overline r = \frac{1}{n} \sum r_i$, se calculan los límites de aceptación:
 
@@ -36,16 +36,18 @@ Existen algunas alternativas:
 
 Se plantean dos hipótesis: $H_0: r_i \sim U(0,1)$ y $H_1:r_1 \text{ no son uniformes}$. Se particiona el conjunto de $n$ números pseudoaleatorios en $m=\sqrt n$ intervalos fijos. Sean $E_i$ la frecuencia esperada y $O_i$ la frecuencia observada en cada intervalo.
 
-La prueba de Chi-Cuadrado propone determinar $\chi^2_0 = \sum \frac{(E_i - O_i)^2}{E_i}$ y compararlo con el valor de tabla $\chi^2_{\alpha, \ m-1}$. Si $\chi^2_0 \lt \chi_{\alpha,\ m-1}$, entonces no se puede rechazar que $r_i$ sigue una distribución uniforme. 
+La prueba de Chi-Cuadrado propone determinar $\chi^2_0 = \sum \frac{(E_i - O_i)^2}{E_i}$ y compararlo con el valor de tabla $\chi^2_{\alpha, \ m-1}$. Si $\chi^2_0 \lt \chi_{\alpha,\ m-1}$, entonces no se puede rechazar que $r_i$ sigue una distribución uniforme.
 
 La prueba de Kolmogorov-Smirnov propone calcular los siguientes valores:
 
-$$\begin{align}D^+&=\max_{1\lt i \lt n} \left\{\frac{i}{n}-r_i\right\} \\
+$$
+\begin{align}D^+&=\max_{1\lt i \lt n} \left\{\frac{i}{n}-r_i\right\} \\
 D^-&=\max_{1\lt i \lt n} \left\{\frac{i}{n}-r_i\right\} \\
 D &= \max \set{D^+;\ D^-}
-\end{align}$$
+\end{align}
+$$
 
-Se busca en la tabla de valores críticos de Kolmogorov-Smirnov el valor crítico $D_{\alpha, \ n}$. Si $D \lt D_{\alpha,\ n}$, entonces no se ha detectado *diferencia significativa* entre la distribución de los números del conjunto $r_i$ y la distribución uniforme. Se pasa a la siguiente prueba.
+Se busca en la tabla de valores críticos de Kolmogorov-Smirnov el valor crítico $D_{\alpha, \ n}$. Si $D \lt D_{\alpha,\ n}$, entonces no se ha detectado _diferencia significativa_ entre la distribución de los números del conjunto $r_i$ y la distribución uniforme. Se pasa a la siguiente prueba.
 
 ## Prueba de Independencia
 

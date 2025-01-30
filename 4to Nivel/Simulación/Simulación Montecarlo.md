@@ -1,3 +1,3 @@
-Una [[Simulación]] **Montecarlo** es una alternativa a la generación de valores de [[Variables Aleatorias]]. Es un método práctico de usar cuando se dispone de una importante cantidad de *datos históricos*, pero no se puede determinar qué tipo de distribución tiene la variable aleatoria bajo estudio.
+Una [[Simulación]] **Montecarlo** es una alternativa a la generación de valores de [[Variables Aleatorias]]. Es un método práctico de usar cuando se dispone de una importante cantidad de _datos históricos_, pero no se puede determinar qué tipo de distribución tiene la variable aleatoria bajo estudio.
 
 Se aproxima la distribución considerando las frecuencias relativas. En lugar de una función de probabilidad, se fragmentan los valores posibles en segmentos o intervalos y se le asigna cierta probabilidad a cada intervalo. Así, con suficientes segmentos se puede aproximar la distribución original.

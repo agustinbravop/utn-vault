@@ -1,8 +1,8 @@
-Un *sistema* es un objeto con cierta complejidad formado por partes coordinadas. La *dinámica* permite expresar el aspecto cambiante de algo bajo estudio.
+Un _sistema_ es un objeto con cierta complejidad formado por partes coordinadas. La _dinámica_ permite expresar el aspecto cambiante de algo bajo estudio.
 
 En [[Simulación]], la **dinámica de sistemas**, que estudia los **sistemas continuos**, permite referir a las distintas variables asociadas a las partes del [[Modelo]] y a sus cambios a lo largo del tiempo como consecuencia de sus interacciones.
 
-Permite analizar las *relaciones* dentro del sistema para explicar su comportamiento. La trama de relaciones conforma la estructura. Esto aporta nuevas formas para comprender problemas complejos. 
+Permite analizar las _relaciones_ dentro del sistema para explicar su comportamiento. La trama de relaciones conforma la estructura. Esto aporta nuevas formas para comprender problemas complejos.
 
 Se utiliza para analizar alternativas convenientes en modelos de gestión. Se aplica en sistemas sociales, ecológicos, energéticos, logísticos, etc.
 

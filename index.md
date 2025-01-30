@@ -14,7 +14,7 @@ Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al pla
 
 No hay apuntes de las siguientes materias debido a que las aprobé por equivalencia: Álgebra y Geometría Analítica, Análisis Matemático 1, Física 1, Ingeniería y Sociedad, Química, Sistemas de Representación.
 
-No hay apuntes de las siguientes materias debido a que perdí las hojas: Matemática Discreta, Análisis Matemático 2, Inglés 2, Economía, Planificación (Electiva).
+No hay apuntes de las siguientes materias debido a que los perdí después de haberlas cursado: Matemática Discreta, Análisis Matemático 2, Inglés 2, Economía, Planificación (Electiva).
 
 ## Materias Obligatorias
 
@@ -57,7 +57,7 @@ Materias obligatorias del [[4to Nivel/index|4to Nivel]]:
 3. Investigación Operativa.
 4. Legislación.
 5. Redes de Datos.
-6. Simulación.
+6. [[4to Nivel/Simulación/index|Simulación]].
 7. Tecnologías para la Automatización.
 
 Materias obligatorias del [[5to Nivel/index|5to Nivel]]:
@@ -71,7 +71,7 @@ Materias obligatorias del [[5to Nivel/index|5to Nivel]]:
 
 ## Materias Electivas
 
-Nota: no hay apuntes de las materias electivas que no cursé.
+Nota: no hay apuntes de las materias electivas que no cursé. No hay apuntes de Planificación porque los perdí después de haberla cursado.
 
 Materias electivas del 3er nivel (un mínimo de 4 horas cátedra semanales):
 

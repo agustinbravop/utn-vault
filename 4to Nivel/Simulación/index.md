@@ -2,6 +2,8 @@
 title: Simulación
 ---
 
+![[MOC Simulación.png]]
+
 Asignatura: Simulación. \
 Ciclo Lectivo: 2024.
 
