@@ -38,3 +38,13 @@ Este método es el más directo. Simula variables aleatorias continuas. Pasos:
 
 ### Método del Rechazo
 
+Este método solo conviene usar cuando el método de la función inversa es inviable, lo cual es común cuando la función bajo estudio no tiene inversa fácil de definir. 
+
+Se busca generar un valor que venga de la distribución de probabilidad bajo análisis. Antes de comenzar el proceso iterativo, definir un $M$ con valor $M \ge \max (f(x))$, siendo $f(x)$ una distribución de probabilidad *acotada* donde $a \le x \le b$. Pasos:
+
+1. Generar dos pseudoaleatorios $r_1$ y $r_2$. 
+2. Determinar un valor de la variable aleatoria como $x = a + (b - a) \cdot r_1$.
+3. Evaluar la función de probabilidad $f(x)$ en $x = a + (b-a)\cdot r_1$.
+4. Aceptar $x$ solo si se cumple que $r_2 \le \frac{f(x)}{M}$. Si no se cumple, descartar este valor $x$ y reiterar desde el paso 1 para generar otro valor.
+
+Este método se apoya en la idea de que la condición $r_2 \le \frac{f(x)}{M}$ tiene una probabilidad de cumplirse de $\frac{f(x)}{M}$. Por eso, el valor se rechaza si $r_2 \gt \frac{f(x)}{M}$. Esto presenta una **ineficiencia** en el método: requiere muchas iteraciones para generar una cantidad suficiente de valores aleatorios.

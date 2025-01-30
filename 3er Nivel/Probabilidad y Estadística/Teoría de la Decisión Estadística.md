@@ -31,7 +31,7 @@ $$\text{Para la media: } z=\frac{\overline x - \mu_0}{\frac{S_x}{\sqrt n}} \ , \
 
 6. **Regla de decisión**: suponiendo $H_0) \ \mu=\mu_0$: si $|z| \ge |z_c| \implies$ las diferencias entre $\overline x$ y $<'mu_0$ son significativas, por ende se rechaza la hipótesis nula. En cambio, si $|z| \lt |z_c| \implies$ no se rechaza la hipótesis nula. Se utiliza la $t$ de Student cuando $n \lt 30$.
 
-### Análisis del nivel de significación
+### Análisis del Nivel de Significación
 
 Estos resultados obtenidos siempre tienen el riesgo del **error**.
 

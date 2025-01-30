@@ -2,7 +2,7 @@ El **modelado** es la técnica que se debe usar en la [[Evaluación de las Prest
 
 En general, sus técnicas se fundamentan en la **teoría de colas**, que pueden ser individuales o formar redes abiertas o cerradas. Se dividen en dos grupos:
 
-- **Técnicas de simulación**: para construir un programa que **reproduce el comportamiento** temporal del sistema, basándose en sus estados y transiciones. Son **caros** en tiempo de cálculo y esfuerzo de puesta a punto.
+- **Técnicas de [[Simulación]]**: para construir un programa que **reproduce el comportamiento** temporal del sistema, basándose en sus estados y transiciones. Son **caros** en tiempo de cálculo y esfuerzo de puesta a punto.
 - **Técnicas analíticas**: **resolución mediante fórmulas** y algoritmos de ecuaciones matemáticas que representan un equilibro entre eventos del sistema. Son más **limitados**, incapaces de tratar ciertos comportamientos y estructuras que existen en los SI.
 
 Una técnica analítica es el [[Análisis Operacional]].
