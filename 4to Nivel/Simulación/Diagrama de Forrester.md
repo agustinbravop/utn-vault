@@ -8,7 +8,7 @@ $$
 
 En la cual se considera a $\frac{dX}{dt}$ una _variable de flujo_ y a $X$ una _variable de nivel_.
 
-En la [[Dinámica de Sistemas]], los **diagramas de Forrester** nos permiten diagramar relaciones de ese tipo para analizar la evolución de las variables de nivel del [[Modelo]] que concierne a nuestro estudio de [[Simulación]].
+En la [[Dinámica de Sistemas]], los **diagramas de Forrester** nos permiten diagramar relaciones de ese tipo para analizar la evolución de las variables de nivel del [[Modelo de Simulación]] que concierne a nuestro estudio de [[Simulación]].
 
 Las variables que brindan información del sistema pero no son de flujo o de nivel se denominan _variables auxiliares_.
 

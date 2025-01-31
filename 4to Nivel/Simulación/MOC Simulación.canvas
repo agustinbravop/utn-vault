@@ -12,7 +12,7 @@
 		{"id":"d413380090fac0c4","x":360,"y":-1760,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Simulación.md"},
 		{"id":"70c46a44fad6f39b","x":2280,"y":-720,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Simulación con Avance del Tiempo Constante.md"},
 		{"id":"8f467ddb8b757c82","x":2040,"y":-1240,"width":400,"height":400,"color":"4","type":"file","file":"4to Nivel/Simulación/Sistemas Discretos.md"},
-		{"id":"3bc2aa10b2a3a6ab","x":-120,"y":-1240,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Modelo.md"}
+		{"id":"3bc2aa10b2a3a6ab","x":-120,"y":-1240,"width":400,"height":400,"type":"file","file":"4to Nivel/Simulación/Modelo de Simulación.md"}
 	],
 	"edges":[
 		{"id":"88f919ae813238f0","fromNode":"d413380090fac0c4","fromSide":"bottom","toNode":"3bc2aa10b2a3a6ab","toSide":"top","label":"estudia"},

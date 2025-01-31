@@ -28,6 +28,6 @@ El diagrama es muy similar al del modelo anterior (cantidad fija, momento variab
 
 Un _ciclo_ es el período de tiempo entre la llegada de dos pedidos. En un ciclo, se pueden acumular _ventas atrasadas_, suponiendo que el cliente compra ni bien se repone el producto.
 
-En la submetodología de tamaño de pedido variable, se prevén _perturbaciones aleatorias externas_. Si en el [[Modelo]] del sistema bajo estudio no hay perturbaciones aleatorias externas o se las conoce con exactitud, entonces conviene utilizar la submetodología de tamaño de pedido constante.
+En la submetodología de tamaño de pedido variable, se prevén _perturbaciones aleatorias externas_. Si en el [[Modelo de Simulación]] del sistema bajo estudio no hay perturbaciones aleatorias externas o se las conoce con exactitud, entonces conviene utilizar la submetodología de tamaño de pedido constante.
 
 En lugar de considerar una capacidad de almacén máxima a rellenar, se puede tener en cuenta _situaciones anteriores_ (inercia) para el cálculo del $\text{TP}$ variable.

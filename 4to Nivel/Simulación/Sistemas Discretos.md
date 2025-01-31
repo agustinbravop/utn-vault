@@ -13,7 +13,7 @@ Para cada simulación dada, se elige la metodología más conveniente.
 
 ## Elección de los Estados Inicial y Final
 
-La simulación de un sistema discreto solo estudia un lapso de tiempo determinado de la operación del [[Modelo]]. Dependiendo del objetivo, restricciones, comportamiento, etc, se debe establecer un _estado inicial_ de arranque de la simulación y un _estado final_ en el cual se pueda terminar.
+La simulación de un sistema discreto solo estudia un lapso de tiempo determinado de la operación del [[Modelo de Simulación]]. Dependiendo del objetivo, restricciones, comportamiento, etc, se debe establecer un _estado inicial_ de arranque de la simulación y un _estado final_ en el cual se pueda terminar.
 
 Definir el estado inicial es definir los valores iniciales de las variables del modelo.
 

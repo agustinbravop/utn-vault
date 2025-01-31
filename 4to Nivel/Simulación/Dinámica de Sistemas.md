@@ -1,6 +1,6 @@
 Un _sistema_ es un objeto con cierta complejidad formado por partes coordinadas. La _dinámica_ permite expresar el aspecto cambiante de algo bajo estudio.
 
-En [[Simulación]], la **dinámica de sistemas**, que estudia los **sistemas continuos**, permite referir a las distintas variables asociadas a las partes del [[Modelo]] y a sus cambios a lo largo del tiempo como consecuencia de sus interacciones.
+En [[Simulación]], la **dinámica de sistemas**, que estudia los **sistemas continuos**, permite referir a las distintas variables asociadas a las partes del [[Modelo de Simulación]] y a sus cambios a lo largo del tiempo como consecuencia de sus interacciones.
 
 Permite analizar las _relaciones_ dentro del sistema para explicar su comportamiento. La trama de relaciones conforma la estructura. Esto aporta nuevas formas para comprender problemas complejos.
 

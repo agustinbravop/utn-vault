@@ -1,4 +1,4 @@
-En la [[Dinámica de Sistemas]], un **diagrama causal** identifica elementos del [[Modelo]] y relaciones entre ellos.
+En la [[Dinámica de Sistemas]], un **diagrama causal** identifica elementos del [[Modelo de Simulación]] y relaciones entre ellos.
 
 Una _relación causal_ puede ser:
 

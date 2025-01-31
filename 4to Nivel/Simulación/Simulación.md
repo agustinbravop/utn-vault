@@ -12,7 +12,7 @@ Además, los sistemas pueden ser:
 - **Determinísticos**: tienen una solución analítica ($y = f(x)$).
 - **Estocásticos**: son probabilísticos ($y = P(x)$), y por eso es necesario simularlos.
 
-Utilizar un [[Modelo]] para nalizar los posibles resultados de un sistema estocástico nos permite plantear distintos escenarios para pensar respuestas a ellos. A la larga, la simulación es una herramienta para la toma de decisiones.
+Utilizar un [[Modelo de Simulación]] para nalizar los posibles resultados de un sistema estocástico nos permite plantear distintos escenarios para pensar respuestas a ellos. A la larga, la simulación es una herramienta para la toma de decisiones.
 
 ## Aplicaciones de la Simulación
 
