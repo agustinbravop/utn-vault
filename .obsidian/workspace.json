@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Programación Lineal"
             }
+          },
+          {
+            "id": "d5f8616d99c27449",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,8 +209,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "536f213dd2f41e0f",
+  "active": "d5f8616d99c27449",
   "lastOpenFiles": [
+    "4to Nivel/Investigación Operativa/attachments/Programación Lineal.png",
     "4to Nivel/Investigación Operativa/Investigación Operativa.md",
     "4to Nivel/Investigación Operativa/Programación Lineal.md",
     "4to Nivel/Simulación/Modelo de Simulación.md",
@@ -237,7 +250,6 @@
     "4to Nivel/Simulación/Números Pseudoaleatorios.md",
     "3er Nivel/Probabilidad y Estadística/Probabilidad.md",
     "3er Nivel/Comunicación de Datos/Teoría de la Codificación.md",
-    "3er Nivel/Probabilidad y Estadística/Estimación por Intervalos de Confianza.md",
     "4to Nivel/Simulación/attachments",
     "4to Nivel/Simulación",
     "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",

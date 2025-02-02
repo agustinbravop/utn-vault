@@ -68,3 +68,46 @@ Restricciones:
 
 Representación gráfica:
 
+![[Programación Lineal.png]]
+
+La *región factible* (área sombreada de rosa) tiene las *soluciones factibles*. Su perímetro es el polígono de *soluciones básicas*, y uno de sus vértices es la *solución óptima*. Vértices:
+
+| Vértice | $(x_1,x_2)$ | $x_3$ | $x_4$ | $x_5$ | $z=4x_1+3x_2$            |
+| ------- | ----------- | ----- | ----- | ----- | ------------------------ |
+| A       | (0, 0)      | 48000 | 42000 | 36000 | 0                        |
+| B       | (0,4000)    | 16000 | 18000 | 0     | 12000                    |
+| C       | (3000,1000) | 31000 | 0     | 0     | **15000** (sol. óptima!) |
+| D       | (3500, 0)   | 37500 | 0     | 4500  | 14000                    |
+
+La recta azul es la función objetivo para el valor óptima. Rectas paralelas a ella se denominan rectas de *isobeneficio*: la recta de beneficio $z'=0$ indica un beneficio nulo, y la más lejana al origen indica un beneficio máximo.
+
+Solución: fabrique 3000 piezas $A$ y 1000 piezas $B$ para ganar 15000 pesos por semana. Le sobrarán 31000 segundos por semana en la operación de estampado, pero nada en puntado y soldado.
+
+## Método Simplex
+
+El **método Simplex** es un algoritmo iterativo que en cada iteración soluciona un sistema de ecuaciones para obtener una nueva solución a la que se le aplica la prueba de optimalidad. Se detiene cuando la solución es óptima. Sirve para $n$ variables de decisión.
+
+> "La diferencia entre optimizar y *satisfizar* diferencia la teoría de la realidad". - Herbert Simon.
+
+Para el método Simplex es fundamental el uso del computador, para operar con matrices. Cada iteración desplaza la solución a un nuevo vértice del polígono de soluciones factibles que tiene el potencial de mejorar el valor de la función objetivo. El proceso continua hasta que no se pueden obtener mejoras.
+
+Gracias a la función objetivo, se encuentra la **solución básica factible óptima**.
+
+Procedimiento, trabajando sobre una matriz que representa al modelo matemático y suponiendo que se trata de un problema de maximización:
+
+1. **Encontrar la *columna pivot***: seleccionar la variable no básica con el coeficiente de mayor valor absoluto (valor negativo si el problema es de maximización, o valor positivo si el problema es de minimización). Esa variable *entra*.
+2. **Encontrar la *fila pivot***: calcular los valores de la columna solución multiplicados por el coeficiente (solo si es mayor a cero) de la columna pivote y de la misma fila. Seleccionar el resultado de menor valor. Esa fila indica la variable que *sale*.
+3. Dividir la fila pivote por el elemento pivote de manera que el pivote se vuelva 1. Hacer cero a los valores por encima o por debajo de la misma columna del elemento pivote.
+4. Si en la primera fila (la de la función objetivo) no hay coeficientes negativos, entonces esta es la solución óptima. Sino, repetir desde el paso 1.
+
+Este método se basa en resolver un sistema de ecuaciones lineales con el procedimiento de Gauss-Jordan, apoyado en criterios para el cambio de la solución básica hasta que converge a la solución óptima.
+
+Si en cambio se desea minimizar $z$, la condición de parada será que no hayan coeficientes positivos en la fila de la función objetivo. También se puede plantear la maximización de $z^{-1}$.
+
+**Casos especiales** que pueden suceder en un problema de programación lineal:
+
+1. **Problema infactible**: ningún punto satisface todas las restricciones. No hay región factible.
+2. **Restricciones redundantes**: dificultan el cálculo. Conviene ignorarlas.
+3. **Región no acotada**: siempre hay otro punto más óptimo. Se debe acotar el objetivo.
+4. **Múltiples soluciones**: una restricción es paralela a la función objetivo. Múltiples soluciones.
+5. **Solución degenerada**: un solo punto cumple todas las restricciones. No se puede optimizar.
