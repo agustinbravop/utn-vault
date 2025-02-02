@@ -39,7 +39,7 @@ Métodos para resolver el modelo:
 - **Solución gráfica**: en un papel, resuelve solo hasta dos variables de decisión (dos dimensiones).
 - **Método Simplex**: método algebraico para cualquier cantidad de variables de decisión.
 
-Resolver el modelo implica resolver el problema, pero solo si el modelo es fiel a la realidad.
+Resolver el modelo matemático implica resolver el problema, pero solo si el modelo es fiel a la realidad. Una vez resuelto el modelo, se puede hacer un [[Análisis de Sensibilidad]] de la solución óptima, o un [[Análisis de Dualidad]] para plantear el problema dual.
 
 ## Solución Gráfica
 
@@ -68,7 +68,7 @@ Restricciones:
 
 Representación gráfica:
 
-![[Programación Lineal.png]]
+![[Programación Lineal (Solución Gráfica).png]]
 
 La *región factible* (área sombreada de rosa) tiene las *soluciones factibles*. Su perímetro es el polígono de *soluciones básicas*, y uno de sus vértices es la *solución óptima*. Vértices:
 
@@ -104,10 +104,59 @@ Este método se basa en resolver un sistema de ecuaciones lineales con el proced
 
 Si en cambio se desea minimizar $z$, la condición de parada será que no hayan coeficientes positivos en la fila de la función objetivo. También se puede plantear la maximización de $z^{-1}$.
 
+Ejemplo resumido de https://ingenieriaindustrialonline.com/investigacion-de-operaciones/metodo-simplex/, en el cual a partir del siguiente modelo matemático:
+
+$$\begin{align}
+\text{Maximizar } z = 20000X_1+20000X_2 + 20000X_3 + 20000X_4 \\
+\implies z - 20000X_1-20000X_2 - 20000X_3 - 20000X_4 &= 0 \\
+2X_1+1X_2+1X_3+2X_4+S_1&=24 \\
+2X_1+2X_2+1X_3+0X_4+S_2&=20 \\
+0X_1+0X_2+2X_3+2X_4+S_3&=20 \\
+0X_1+0X_2+0X_3+4X_4+S_4&=16 \\
+\end{align}$$
+
+Se construye la matriz inicial del método Simplex:
+
+![[Programación Lineal (Matriz del Método Simplex).png]]
+
+Una vez planteada la matriz inicial, se calculan las matrices siguientes hasta llegar a la de la solución óptima:
+
+![[Programación Lineal (Desarrollo del Método Simplex).png]]
+
 **Casos especiales** que pueden suceder en un problema de programación lineal:
 
 1. **Problema infactible**: ningún punto satisface todas las restricciones. No hay región factible.
 2. **Restricciones redundantes**: dificultan el cálculo. Conviene ignorarlas.
-3. **Región no acotada**: siempre hay otro punto más óptimo. Se debe acotar el objetivo.
+3. **Región no acotada**: siempre hay otro punto más óptimo. Sucede debido a que la región factible no es convexa. Se debe acotar el objetivo.
 4. **Múltiples soluciones**: una restricción es paralela a la función objetivo. Múltiples soluciones.
 5. **Solución degenerada**: un solo punto cumple todas las restricciones. No se puede optimizar.
+
+Con la tabla óptima del Simplex (la última matriz, correspondiente a la solución óptima) puede ayudar a determinar el **tipo de solución**:
+
+1. **Solución única**: en un problema de maximización, se identifica cuando los costes reducidos de las variables no básicas son positivos. En un problema de minimización, se identifica cuando los costes reducidos de variables no básicas son negativos.
+2. **Soluciones alternativas**: cuando algún coste reducido de una slack no es igual a cero. En su análisis de sensibilidad no hay valor marginal, por lo que se puede desplazar la restricción. Esto implica que gráficamente la recta de isobeneficio es paralela a la recta de restricción.
+3. **Solución no acotada**: si al hacer el test de salida de la base todos los coeficientes de la columna de la variable entrante son no positivos.
+4. **Problema infactible**: alguna variable artificial quedó en la base.
+5. **Problema degenerado**: alguna variable en la base tiene valor igual a cero. Gráficamente, se anularon tres o más restricciones (slacks) y por ende la región factible es un punto.
+
+## Restricciones Especiales
+
+Hay algunas restricciones especiales que se pueden dar en ciertos escenarios de programación lineal.
+
+Una restricción de la **capacidad de producción** ocurre, por ejemplo, cuando una máquina que procesa productos diferentes tiene una capacidad máxima del 100% (o 1). En matemáticas, sea $\frac{1}{N_A}$ la capacidad que requiere producir un producto $A$. La restricción por la capacidad máxima resulta:
+
+$$R_1: \ \frac{1}{N_A} X_A+\dots+\frac{1}{N_I} X_I \le 1$$
+
+La restricción de **pérdida** ocurre cuando un proceso pierde parte de su entrada. En el siguiente ejemplo con dos centros:
+
+![[Programación Lineal 2025-02-01 23.52.08.excalidraw.svg]]
+
+Tiene que entrar $\frac{x}{(1-p_1)(1-p_2)}$ al centro uno para salir $x$ del centro dos.
+
+La restricción especial de **reciclaje** sucede cuando, si por cada unidad $x$ se pierde $p$, se ingresa nuevamente ese valor al proceso. Esto sucede, por ejemplo, en el control de calidad de piezas mecánicas.
+
+![[Programación Lineal 2025-02-01 23.56.08.excalidraw.svg]]
+
+La restricciones asociadas a un problema de **mezcla** suelen ocurrir cuando se mezclan componentes en determinados porcentajes para crear un nuevo producto. Por ejemplo, la restricción de que un dulce solo pueda tener hasta un 30% de azúcar.
+
+$$\text{Si } x_a \le p_a\ \% \implies x_a \le p_a(x_a+x_b+\dots+x_i) \implies (1-p_a)x_a - p(x_b+\dots+x_i) \le 0$$
