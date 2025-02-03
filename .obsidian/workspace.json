@@ -53,17 +53,196 @@
             "id": "79d004fe29b9dd19",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
-                "viewState": {
-                  "x": 3410,
-                  "y": 720,
-                  "zoom": -3.1405312164475028
-                }
+                "file": "4to Nivel/Legislación/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "MOC Ingeniería y Calidad del Software"
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "5a166670ce8c1671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Derecho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derecho"
+            }
+          },
+          {
+            "id": "3946f22a53573feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Supremacía Constitucional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supremacía Constitucional"
+            }
+          },
+          {
+            "id": "d99964214d3e383a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Federalismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Federalismo"
+            }
+          },
+          {
+            "id": "6d1c3ed34a7581d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Sistema de Derechos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistema de Derechos"
+            }
+          },
+          {
+            "id": "b66335c9eab47d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Supremacía Constitucional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supremacía Constitucional"
+            }
+          },
+          {
+            "id": "f043356e03834f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Ley.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ley"
+            }
+          },
+          {
+            "id": "e16d1f1b34fba49a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Persona Humana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Persona Humana"
+            }
+          },
+          {
+            "id": "883d9828e9a04b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Persona Jurídica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Persona Jurídica"
+            }
+          },
+          {
+            "id": "10f87a4857919e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Hechos Jurídicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hechos Jurídicos"
+            }
+          },
+          {
+            "id": "3d4099313668d273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Instrumentos Públicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instrumentos Públicos"
+            }
+          },
+          {
+            "id": "ffa9ec547a2a10a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Instrumentos Privados y Particulares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instrumentos Privados y Particulares"
+            }
+          },
+          {
+            "id": "030535237207929c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Instrumentos Privados y Particulares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instrumentos Privados y Particulares"
+            }
+          },
+          {
+            "id": "77ef9baa127ef7e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Instrumentos Privados y Particulares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instrumentos Privados y Particulares"
             }
           },
           {
@@ -115,7 +294,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -196,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
+                "file": "4to Nivel/Legislación/Instrumentos Privados y Particulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +385,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MOC Ingeniería y Calidad del Software"
+              "title": "Backlinks for Instrumentos Privados y Particulares"
             }
           },
           {
@@ -215,11 +394,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4to Nivel/Legislación/Instrumentos Privados y Particulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Instrumentos Privados y Particulares"
             }
           },
           {
@@ -276,8 +456,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79d004fe29b9dd19",
+  "active": "030535237207929c",
   "lastOpenFiles": [
+    "4to Nivel/Legislación/Escrituras Públicas.md",
+    "4to Nivel/Legislación/Instrumentos Públicos.md",
+    "4to Nivel/Legislación/Instrumentos Privados y Particulares.md",
+    "4to Nivel/Legislación/Actos Jurídicos.md",
+    "4to Nivel/Legislación/Hechos Jurídicos.md",
+    "4to Nivel/Legislación/Persona Jurídica.md",
+    "4to Nivel/Legislación/Persona Humana.md",
+    "4to Nivel/Legislación/Ley.md",
+    "4to Nivel/Legislación/Fuentes de Derecho.md",
+    "4to Nivel/Legislación/Sistema de Derechos.md",
+    "4to Nivel/Legislación/Derecho.md",
+    "4to Nivel/Legislación/Constitución Nacional.md",
+    "4to Nivel/Legislación/Supremacía Constitucional.md",
+    "4to Nivel/Legislación/Federalismo.md",
+    "4to Nivel/Legislación/Estado Argentino.md",
+    "4to Nivel/Legislación/index.md",
+    "4to Nivel/Investigación Operativa/index.md",
+    "4to Nivel/Legislación",
+    "4to Nivel/Investigación Operativa/MOC Investigación Operativa.canvas",
+    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
     "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
     "1er Nivel/Sistemas y Procesos de Negocio/Organizar.md",
@@ -287,25 +487,7 @@
     "1er Nivel/Algoritmos y Estructuras de Datos/Árbol Binario.md",
     "4to Nivel/Simulación/Simulación con Metodología Evento a Evento.md",
     "4to Nivel/Investigación Operativa/Algoritmos de Programación No Lineal.md",
-    "4to Nivel/Investigación Operativa/Análisis de Dualidad.md",
-    "4to Nivel/Investigación Operativa/Análisis de Sensibilidad.md",
-    "4to Nivel/Investigación Operativa/Modelos de Inventarios.md",
-    "4to Nivel/Investigación Operativa/Modelos de Pronósticos.md",
-    "4to Nivel/Investigación Operativa/Modelos de Redes.md",
-    "3er Nivel/Desarrollo de Software/Desarrollo de Software.md",
-    "4to Nivel/Administración de Sistemas de Información/Informe de Auditoría.md",
-    "4to Nivel/Investigación Operativa/Programación No Lineal.md",
-    "2do Nivel/Análisis de Sistemas de Información/Entrevista.md",
-    "2do Nivel/Análisis de Sistemas de Información/Modelado del Negocio.md",
-    "4to Nivel/Administración de Sistemas de Información/Benchmarking.md",
-    "2do Nivel/Paradigmas de Programación/Abstracciones.md",
-    "4to Nivel/Administración de Sistemas de Información/Administración de los Recursos de SI.md",
-    "3er Nivel/Probabilidad y Estadística/Ajustamiento Lineal.md",
-    "3er Nivel/Desarrollo de Software/Aplicaciones de Cliente.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Árbol.md",
-    "1er Nivel/Sistemas y Procesos de Negocio/Controlar.md",
     "4to Nivel/Investigación Operativa/attachments/MOC Investigación Operativa.png",
-    "4to Nivel/Investigación Operativa/MOC Investigación Operativa.canvas",
     "4to Nivel/Investigación Operativa/attachments/Modelos de Pronósticos.png",
     "4to Nivel/Investigación Operativa/attachments/Modelo con Descuento por Cantidad.png",
     "4to Nivel/Investigación Operativa/attachments/Modelo de Demanda Constante con Agotamiento.png",
@@ -330,9 +512,7 @@
     "3er Nivel/Análisis Numérico/attachments",
     "3er Nivel/Análisis Numérico",
     "3er Nivel/Comunicación de Datos/MOC Comunicación de Datos.canvas",
-    "3er Nivel/Comunicación de Datos/attachments",
     "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
-    "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas",
-    "3er Nivel/Probabilidad y Estadística/MOC Probabilidad y Estadística.canvas"
+    "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas"
   ]
 }
