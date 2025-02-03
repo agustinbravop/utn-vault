@@ -66,3 +66,12 @@ Tipos de toma de decisiones:
 - Modelos de transporte.
 - Modelos de asignación.
 - Modelos de programación dinámica.
+
+Los que vemos en esta asignatura son:
+
+1. [[Programación Lineal]].
+2. [[Programación Lineal Entera]].
+3. [[Programación No Lineal]].
+4. [[Modelos de Redes]].
+5. [[Modelos de Inventarios]].
+6. [[Modelos de Pronósticos]].

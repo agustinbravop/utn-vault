@@ -59,4 +59,4 @@ Con este **método de combinaciones lineales** se busca maximizar $z = f(X)$ suj
 
 Se aproxima $f(X) \approx f(X^k)+\nabla f(X^k)(X-X^k) \implies$ maximizar $w_k(X)=\nabla f(X^k)X$. Se define a $X^{k+1}=(1-r)X^k+rX^*=X^k+r(X^*-X^k)$ como una *combinación lineal* de $X^k$ y $X^*$. Se determina $r$ maximizando $h(r) = f(X^k + r(X^* - X^k))$. 
 
-Repetir hasta que $w_k*X^*)\le w_k(X^k)$.
+Repetir hasta que $w_k(X^*)\le w_k(X^k)$.

@@ -20,8 +20,75 @@
               "icon": "lucide-file",
               "title": "Algoritmos de Programación No Lineal"
             }
+          },
+          {
+            "id": "1749b1c952bedd99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Investigación Operativa/Modelos de Redes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelos de Redes"
+            }
+          },
+          {
+            "id": "1e4a1b83f6f9463c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Investigación Operativa/Métodos CPM y PERT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Métodos CPM y PERT"
+            }
+          },
+          {
+            "id": "79d004fe29b9dd19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Investigación Operativa/Modelos de Inventarios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelos de Inventarios"
+            }
+          },
+          {
+            "id": "208228ac3a8e7ccf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "4to Nivel/Investigación Operativa/attachments/Métodos CPM y PERT 2025-02-02 17.10.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Métodos CPM y PERT 2025-02-02 17.10.46.excalidraw"
+            }
+          },
+          {
+            "id": "fa02e1530fbf6065",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "4to Nivel/Investigación Operativa/attachments/Planificación y Control de Procesos 2025-02-02 16.40.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Planificación y Control de Procesos 2025-02-02 16.40.56.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Investigación Operativa/Algoritmos de Programación No Lineal.md",
+                "file": "4to Nivel/Investigación Operativa/Modelos de Inventarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Algoritmos de Programación No Lineal"
+              "title": "Backlinks for Modelos de Inventarios"
             }
           },
           {
@@ -182,29 +249,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8dc7af10885c0fa3",
+  "active": "79d004fe29b9dd19",
   "lastOpenFiles": [
-    "4to Nivel/Investigación Operativa/Programación No Lineal.md",
+    "4to Nivel/Investigación Operativa/Investigación Operativa.md",
+    "4to Nivel/Investigación Operativa/Modelos de Inventarios.md",
+    "4to Nivel/Investigación Operativa/Programación Lineal.md",
+    "4to Nivel/Investigación Operativa/Modelos de Redes.md",
+    "4to Nivel/Investigación Operativa/Métodos CPM y PERT.md",
+    "4to Nivel/Investigación Operativa/attachments/Métodos CPM y PERT 2025-02-02 17.10.46.excalidraw.md",
+    "4to Nivel/Investigación Operativa/attachments/Métodos CPM y PERT 2025-02-02 17.10.46.excalidraw.svg",
+    "4to Nivel/Investigación Operativa/Planificación y Control de Procesos.md",
+    "4to Nivel/Investigación Operativa/attachments/Planificación y Control de Procesos 2025-02-02 16.40.56.excalidraw.md",
+    "4to Nivel/Investigación Operativa/attachments/Planificación y Control de Procesos 2025-02-02 16.40.56.excalidraw.svg",
+    "4to Nivel/Investigación Operativa/attachments/Pasted image 20250202162859.png",
+    "4to Nivel/Investigación Operativa/Untitled.md",
     "4to Nivel/Investigación Operativa/Algoritmos de Programación No Lineal.md",
+    "4to Nivel/Investigación Operativa/Programación No Lineal.md",
     "4to Nivel/Investigación Operativa/attachments/Programación No Lineal.png",
     "4to Nivel/Investigación Operativa/attachments/Programación Lineal (Solución Gráfica).png",
     "3er Nivel/Análisis Numérico/Punto Crítico.md",
     "4to Nivel/Investigación Operativa/Programación Lineal Entera.md",
     "4to Nivel/Investigación Operativa/attachments/Método de Ramificación y Acote.png",
-    "4to Nivel/Investigación Operativa/Programación Lineal.md",
     "4to Nivel/Investigación Operativa/Análisis de Dualidad.md",
     "4to Nivel/Investigación Operativa/attachments/Análisis de Dualidad.png",
     "4to Nivel/Investigación Operativa/Análisis de Sensibilidad.md",
-    "4to Nivel/Investigación Operativa/Investigación Operativa.md",
     "4to Nivel/Investigación Operativa/attachments/Programación Lineal 2025-02-01 23.56.08.excalidraw.md",
     "4to Nivel/Investigación Operativa/attachments/Programación Lineal 2025-02-01 23.56.08.excalidraw.svg",
     "4to Nivel/Simulación/Diagrama Causal.md",
     "4to Nivel/Investigación Operativa/attachments/Programación Lineal 2025-02-01 23.52.08.excalidraw.md",
     "4to Nivel/Investigación Operativa/attachments/Programación Lineal 2025-02-01 23.52.08.excalidraw.svg",
     "4to Nivel/Investigación Operativa/attachments/Programación Lineal (Desarrollo del Método Simplex).png",
-    "4to Nivel/Investigación Operativa/attachments/Programación Lineal (Matriz del Método Simplex).png",
     "4to Nivel/Simulación/Modelo de Simulación.md",
-    "4to Nivel/Investigación Operativa/attachments/Investigación Operativa.png",
     "4to Nivel/Investigación Operativa/attachments",
     "4to Nivel/Investigación Operativa/index.md",
     "4to Nivel/Simulación/index.md",
@@ -212,17 +287,9 @@
     "index.md",
     "4to Nivel/index.md",
     "4to Nivel/Simulación/MOC Simulación.canvas",
-    "4to Nivel/Simulación/attachments/MOC Simulación.png",
     "4to Nivel/Simulación/Dinámica de Sistemas.md",
     "4to Nivel/Simulación/Diagrama de Forrester.md",
     "4to Nivel/Simulación/Simulación con Avance del Tiempo Constante.md",
-    "4to Nivel/Simulación/Sistemas Discretos.md",
-    "4to Nivel/Simulación/Simulación con Metodología Evento a Evento.md",
-    "4to Nivel/Simulación/Simulación.md",
-    "4to Nivel/Simulación/attachments/Simulación con Metodología Evento a Evento 2025-01-29 17.06.54.excalidraw.md",
-    "4to Nivel/Simulación/Intervalo de Confianza.md",
-    "4to Nivel/Administración de Sistemas de Información/Modelado.md",
-    "3er Nivel/Probabilidad y Estadística/Teoría de la Decisión Estadística.md",
     "4to Nivel/Simulación/attachments",
     "4to Nivel/Simulación",
     "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
