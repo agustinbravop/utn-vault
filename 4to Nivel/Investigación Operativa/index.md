@@ -2,6 +2,8 @@
 title: Investigación Operativa
 ---
 
+![[MOC Investigación Operativa.png]]
+
 Asignatura: Investigación Operativa. \
 Ciclo Lectivo: 2024.
 

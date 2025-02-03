@@ -3,7 +3,7 @@ Los métodos CPM y PERT se basan en los [[Modelos de Redes]]:
 - **CPM**: Critical Path Method.
 - **PERT**: Program Evaluation and Review Technique.
 
-Estos métodos nos ayudan en la [[Planificación y Control de Procesos]]. Un *proyecto* es un conjunto de actividades interrelacionadas que consumen recursos.
+Estos métodos nos ayudan en la [[Planificación y Control de Procesos]]. Un _proyecto_ es un conjunto de actividades interrelacionadas que consumen recursos.
 
 ```mermaid
 flowchart LR;
@@ -23,7 +23,7 @@ El CPM supone duraciones determinísticas de actividad, mientras que el PERT sup
 1. Cada actividad se representa con un y solo un arco.
 2. Cada actividad se debe identificar con dos nodos distintos.
 
-Una *actividad ficticia* es una actividad artificial que sirve solamente para representar dos actividades concurrentes sin romper esas dos reglas. Una actividad ficticia no consume ni tiempo ni recursos.
+Una _actividad ficticia_ es una actividad artificial que sirve solamente para representar dos actividades concurrentes sin romper esas dos reglas. Una actividad ficticia no consume ni tiempo ni recursos.
 
 ## Técnicas de Gestión de Proyectos
 
@@ -36,7 +36,7 @@ Etapas del PERT:
 5. Dibujar el diagrama.
 6. Analizar el diagrama.
 
-Un *suceso* es el inicio o fin de alguna actividad. El suceso final es lograr el objetivo concreto dado. Una *holgura* es la diferencia entre la fecha de inicio *temprana* (hasta cuándo puedo demorar la tarea sin demorar todo el proyecto) y la fecha de inicio *tardía* (qué tan rápido puedo hacerla lo antes posible). El *camino crítico* es la secuencia de actividades que más tiempo consume.
+Un _suceso_ es el inicio o fin de alguna actividad. El suceso final es lograr el objetivo concreto dado. Una _holgura_ es la diferencia entre la fecha de inicio _temprana_ (hasta cuándo puedo demorar la tarea sin demorar todo el proyecto) y la fecha de inicio _tardía_ (qué tan rápido puedo hacerla lo antes posible). El _camino crítico_ es la secuencia de actividades que más tiempo consume.
 
 $$T_\text{estimado} = \frac{T_\text{optimista}+4T_\text{probable}+T_\text{pesimista}}{6}$$
 
@@ -63,7 +63,7 @@ Holguras:
 | E         | 5     | 8     | 5     | 12    | F    | 3     | 8       | 8       | 4     | 0     | 0     |
 | F         | 12    | 18    | 12    | 18    | V    | 6     | 18      | 18      | 0     | 0     | 0     |
 
-Siempre se cumple que $H_t \ge 0,\ H_l \ge 0, \ H_t \ge H_l \ge H_i$. 
+Siempre se cumple que $H_t \ge 0,\ H_l \ge 0, \ H_t \ge H_l \ge H_i$.
 
 Otros diagramas alternativos a un diagrama de PERT:
 

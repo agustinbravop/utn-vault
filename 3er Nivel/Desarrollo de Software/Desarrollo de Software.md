@@ -39,6 +39,6 @@ Todo esto definido en un archivo `pom.xml` (el _Project Object Model_).
 El resultado del _build lifecycle_ es un _artefacto_ (un software ejecutable) **versionado**.
 
 ```mermaid
-flowchart LR;
+flowchart TD;
 1[Validate] --> 2[Compile] --> 3[Test] --> 4[Package] --> 5[Install] --> 6[Deploy]
 ```

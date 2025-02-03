@@ -2,7 +2,13 @@ Al realizar una [[Simulación]] de [[Sistemas Discretos]] con la **metodología 
 
 ```mermaid
 flowchart LR;
-1[Determinar T del\npróximo evento] --> 2[Avanzar a T] --> 3[Tratar evento] --> 4[Determinar\neventos futuros]
+1[Determinar el
+T del próximo
+evento] --> 2[Avanzar
+a T] --> 3[Tratar
+evento] --> 4[Determinar
+eventos
+futuros]
 ```
 
 Flujo básico para cualquier simulación evento a evento:

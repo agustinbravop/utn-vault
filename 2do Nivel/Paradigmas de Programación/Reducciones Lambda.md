@@ -24,10 +24,10 @@ $$\forall \ \lambda \text{-expresión} \ M \ / \ M \overset{*}{\rightarrow} P \l
 
 ```mermaid
 flowchart LR;
-1[M] --*--> 2[P]
-1 --*--> 3[Q]
-2 --*--> 4[E]
-3 --*--> 4
+1[M] --$$*$$--> 2[P]
+1 --$$*$$--> 3[Q]
+2 --$$*$$--> 4[E]
+3 --$$*$$--> 4
 ```
 
 Si $M$ admite forma normal $E$, esta es única salvo que se aplique una $\alpha$-reducción (un renombramiento).

@@ -9,8 +9,8 @@ Un _caso de uso_ es una secuencia de transacciones realizadas por el sistema par
 Estos diagramas son una buena imagen general del sistema y sus usuarios, pero son malos para representar restricciones de diseño o [[Requisitos de Software]] no funcionales.
 
 ```mermaid
-flowchart LR;
-1[Identificar<br/>roles<br/>relevantes] --> 2[Identificar<br/>objetivos de<br/>cada rol] --> 3[Crear un<br/>caso de uso<br/>por objetivo] --> 4[Estructurar<br/>los casos<br/>de uso] --> 5[Revisar y<br/>validar con<br/>el usuario]
+flowchart TD;
+1[Identificar roles relevantes] --> 2[Identificar objetivos de cada rol] --> 3[Crear un caso de uso por objetivo] --> 4[Estructurar los casos de uso] --> 5[Revisar y validar con el usuario]
 ```
 
 El caso de uso debe describir de forma clara el comportamiento externo observable del software. No se deben mencionar interfaces del sistema o situaciones externas al alcance del sistema. Se debe identificar claramente al actor y usar la voz activa en forma de acción-reacción. El caso de uso responde de forma completa al objetivo de un actor, y tiene sentido para el actor.

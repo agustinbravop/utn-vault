@@ -7,7 +7,11 @@ Se basa en la metodología ISACA: _Information Systems Audit and Control Associa
 
 ```mermaid
 flowchart LR;
-1["Objetivo de\nontrol"] --especifica--> 2["Técnicas de\ncontrol"] --comprobadas por--> 3["Pruebas de\ncumplimiento"]
+1["Objetivo
+de control"] --especifica--> 2["Técnicas
+de control"] --validadas
+por--> 3["Pruebas de
+cumplimiento"]
 ```
 
 Ejemplo:

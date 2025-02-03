@@ -13,15 +13,15 @@ Las hojas son **operandos** y los nodos son **operadores**.
 
 ```mermaid
 flowchart TD;
-1(("+")) --> 2(("+"))
-1 --> 3(("*"))
+1(("$$+$$")) --> 2(("$$+$$"))
+1 --> 3(("$$\times$$"))
 2 --> 4(("a"))
-2 --> 5(("*"))
+2 --> 5(("$$\times$$"))
 5 --> 6(("b"))
 5 --> 7(("c"))
-3 --> 8(("+"))
+3 --> 8(("$$+$$"))
 3 --> 9(("g"))
-8 --> 10(("*"))
+8 --> 10(("$$\times$$"))
 8 --> 11(("f"))
 10 --> 12(("d"))
 10 --> 13(("e"))
@@ -53,7 +53,7 @@ Para **insertar elementos**: si es menor que el nodo va a la izquierda, si no va
 
 Un árbol **AVL** es un árbol ABB cuya diferencia entre las alturas de sus subárboles es máximo 1. Esto asegura una profundidad de árbol $O(log(n))$. Formalmente, sea $H$ una función recursiva que calcula la altura de un árbol, $T_i$ el árbol izquierdo y $T_d$ el árbol derecho:
 
-$$T \ es \ un \ AVL \iff T_i, T_d \ son \ AVL \land |H(T_i) - H(T_d)| \le 1$$
+$$T  \text{ es un AVL} \iff T_i, T_d \text{ son AVL } \land \ |H(T_i) - H(T_d)| \le 1$$
 
 Se cumple que un árbol vacío es AVL.
 

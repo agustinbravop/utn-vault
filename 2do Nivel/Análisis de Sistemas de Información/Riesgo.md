@@ -9,9 +9,6 @@ Un riesgo puede ser de:
 2. **Producto**: afecta a la calidad o performance del software. Ej: se cae el servidor.
 3. **Negocio**: afecta a la organización que desarrolla el software. Ej: competidores se adelantan.
 
-```mermaid
-flowchart LR;
-1[Identificar riesgos] --> 2[Analizarlos] --> 3[Planearlos] --> 4[Monitorearlos]
-```
+$$\text{Identificar riesgos} \longrightarrow \text{Analizarlos}\longrightarrow \text{Planearlos} \longrightarrow \text{Monitorearlos}$$
 
 ![[Riesgo.png]]

@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"1a31a46c9b383b24","type":"file","file":"4to Nivel/Investigación Operativa/Programación Lineal.md","x":-200,"y":-514,"width":400,"height":400,"color":"4"},
+		{"id":"a2781cd2121d1bfe","type":"file","file":"4to Nivel/Investigación Operativa/Análisis de Sensibilidad.md","x":-200,"y":0,"width":400,"height":400},
+		{"id":"1899af159a5566e3","type":"file","file":"4to Nivel/Investigación Operativa/Análisis de Dualidad.md","x":-200,"y":520,"width":400,"height":400},
+		{"id":"101c3358d33d98b8","type":"file","file":"4to Nivel/Investigación Operativa/Investigación Operativa.md","x":-200,"y":-1080,"width":400,"height":400},
+		{"id":"8e0b2f6fd6b4f70c","type":"file","file":"4to Nivel/Investigación Operativa/Programación Lineal Entera.md","x":320,"y":-514,"width":400,"height":400,"color":"4"},
+		{"id":"80646a64840157db","type":"file","file":"4to Nivel/Investigación Operativa/Programación No Lineal.md","x":840,"y":-514,"width":400,"height":400,"color":"4"},
+		{"id":"dbdada0192b4866f","type":"file","file":"4to Nivel/Investigación Operativa/Algoritmos de Programación No Lineal.md","x":840,"y":0,"width":400,"height":400},
+		{"id":"9059bd4f55cd2a09","type":"file","file":"4to Nivel/Investigación Operativa/Modelos de Redes.md","x":1360,"y":-514,"width":400,"height":400,"color":"4"},
+		{"id":"ba9dc5207d05e6a3","type":"file","file":"4to Nivel/Investigación Operativa/Métodos CPM y PERT.md","x":1360,"y":0,"width":400,"height":400},
+		{"id":"d1f2e99156f099b3","type":"file","file":"4to Nivel/Investigación Operativa/Planificación y Control de Procesos.md","x":1360,"y":520,"width":400,"height":400},
+		{"id":"1f1d6259b77b18e6","type":"file","file":"4to Nivel/Investigación Operativa/Modelos de Inventarios.md","x":1880,"y":-514,"width":400,"height":400,"color":"4"},
+		{"id":"7490e9d376458a2c","type":"file","file":"4to Nivel/Investigación Operativa/Modelos de Pronósticos.md","x":2400,"y":-514,"width":400,"height":400,"color":"4"}
+	],
+	"edges":[
+		{"id":"0fb3fbc4fe7b4eaa","fromNode":"1a31a46c9b383b24","fromSide":"bottom","toNode":"a2781cd2121d1bfe","toSide":"top"},
+		{"id":"7b0e9b3d9d573a11","fromNode":"a2781cd2121d1bfe","fromSide":"bottom","toNode":"1899af159a5566e3","toSide":"top"},
+		{"id":"9527b17db749c7ba","fromNode":"1a31a46c9b383b24","fromSide":"right","toNode":"8e0b2f6fd6b4f70c","toSide":"left"},
+		{"id":"1364c4747c4cddc0","fromNode":"80646a64840157db","fromSide":"bottom","toNode":"dbdada0192b4866f","toSide":"top"},
+		{"id":"4813abc79eb58139","fromNode":"9059bd4f55cd2a09","fromSide":"bottom","toNode":"ba9dc5207d05e6a3","toSide":"top"},
+		{"id":"49f80c7e7d4e5369","fromNode":"ba9dc5207d05e6a3","fromSide":"bottom","toNode":"d1f2e99156f099b3","toSide":"top"},
+		{"id":"4ffd0d35415fa36f","fromNode":"101c3358d33d98b8","fromSide":"bottom","toNode":"1a31a46c9b383b24","toSide":"top"},
+		{"id":"d50b8ae7bc8ebc0a","fromNode":"101c3358d33d98b8","fromSide":"bottom","toNode":"80646a64840157db","toSide":"top"},
+		{"id":"97a9e162ffb357dc","fromNode":"101c3358d33d98b8","fromSide":"bottom","toNode":"9059bd4f55cd2a09","toSide":"top"},
+		{"id":"82b2d619584cf958","fromNode":"101c3358d33d98b8","fromSide":"bottom","toNode":"1f1d6259b77b18e6","toSide":"top"},
+		{"id":"e6262ecc9dd1cccf","fromNode":"101c3358d33d98b8","fromSide":"bottom","toNode":"7490e9d376458a2c","toSide":"top"}
+	]
+}

@@ -10,6 +10,6 @@ flowchart LR;
 2 --> 3["Estructura Organizativa"]
 ```
 
-$$Estructura \ organizativa = Partes + Relaciones$$
+$$\text{Estructura organizativa} = \text{Partes} + \text{Relaciones}$$
 
 Se divide en la [[Organización Formal]] y la [[Organización Informal]].

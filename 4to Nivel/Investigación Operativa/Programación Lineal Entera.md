@@ -4,7 +4,7 @@ La **programación lineal entera** (PLE) es una caso especial de los problemas d
 - **PLE mixta**: solo algunas variables de decisión toman valores enteros.
 - **PLE binaria**: todas las variables de decisión valen o cero o uno.
 
-El PL obtenido al omitir todos los enteros o restricciones 0-1 en las variables se llama *relajación del PL* de la PLE. Cualquier problema de PLE se puede considerar como una relajación del PL con restricciones adicionales, por lo que la región factible del PLE está contenida en la relajación del PL asociada:
+El PL obtenido al omitir todos los enteros o restricciones 0-1 en las variables se llama _relajación del PL_ de la PLE. Cualquier problema de PLE se puede considerar como una relajación del PL con restricciones adicionales, por lo que la región factible del PLE está contenida en la relajación del PL asociada:
 
 - Si es un problema de maximización: $z \text{ óptimo de la relajación del PL} \ge z \text{ óptimo del PLE}$.
 - Si es un problema de minimización: $z \text{ óptimo de la relajación del PL} \le z \text{ óptimo del PLE}$.
@@ -17,14 +17,16 @@ Procedimientos para solucionar problemas de PLE (ninguno es consistentemente efe
 
 ## Método del Plano de Corte
 
-Se parte de la solución óptima del problema relajado de PL y se agregan restricciones (*cortes*) hasta producir un punto extremo entero. Ejemplo en el que primero se pasa un problema a la forma estándar:
+Se parte de la solución óptima del problema relajado de PL y se agregan restricciones (_cortes_) hasta producir un punto extremo entero. Ejemplo en el que primero se pasa un problema a la forma estándar:
 
-$$\begin{align}\text{minimizar:} -3x-y \\
+$$
+\begin{align}\text{minimizar:} -3x-y \\
 3x+4y+w_1&=20 \\
 2x+y+w_2&=9 \\
 x,y,w_1,w_2 &\ge 0\\
 x,y &\in \Bbb Z
-\end{align}$$
+\end{align}
+$$
 
 Resolución del problema relajado:
 
@@ -66,12 +68,14 @@ flowchart LR;
 
 Ejemplo:
 
-$$\begin{align}\text{maximizar: } z = x_1+5x_2+7x_3+3x_4 \\
+$$
+\begin{align}\text{maximizar: } z = x_1+5x_2+7x_3+3x_4 \\
 \text{sujeto a: } 7x_1+3x_2+2x_3+4x_4 &\le 15 \\
 8x_1+2x_2+3x_3+5x_4 &\le 17 \\
 x_1,x_2 &\le 4 \\
 x_3,x_4 &\le 1
-\end{align}$$
+\end{align}
+$$
 
 ![[Método de Ramificación y Acote.png]]
 

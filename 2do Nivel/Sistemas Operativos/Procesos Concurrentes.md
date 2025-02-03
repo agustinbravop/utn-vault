@@ -9,11 +9,6 @@ Sea una sentencia $S_i$ con un conjunto de lectura $R(S_i)= \set{a_1, a_2, ..., 
 
 Este tipo de grafo es un grafo sin ciclos donde cada nodo representa una única sentencia o conjunto secuencial de instrucciones agrupadas.
 
-```mermaid;
-flowchart TD;
-1((S1)) --> 4((S4))
-```
-
 ![[Procesos Concurrentes 2024-12-08 14.59.24.excalidraw.svg]]
 
 ## Fork/Join

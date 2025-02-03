@@ -23,10 +23,7 @@ La entrevista, como técnica para la recolección de información, siempre es ne
 
 ## Proceso de Entrevista
 
-```mermaid
-flowchart LR;
-1[Objetivos] --> 2[Planificación] --> 3[Concreción] --> 4[Realización] --> 5[Evaluación]
-```
+$$\text{Objetivos} \longrightarrow \text{Planificación} \longrightarrow \text{Concreción} \longrightarrow \text{Realización} \longrightarrow \text{Evaluación}$$
 
 Durante la entrevista:
 

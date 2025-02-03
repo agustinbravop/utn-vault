@@ -6,13 +6,13 @@ El objetivo es ayudar a los [[Procesos de Toma de Decisiones]] desde un enfoque 
 2. Modelar la realidad para así poder interpretarla.
 3. Confirmar el modelo mediante pruebas.
 4. **Generar soluciones** a partir de:
-	- Conocer el problema.
-	- Creatividad.
-	- Modelos reales.
-	- Datos correctos y cuantificados.
-	- Algoritmos apropiados.
-	- Considerar diversos intereses.
-	- Considerar **posibilidades de decisión**.
+   - Conocer el problema.
+   - Creatividad.
+   - Modelos reales.
+   - Datos correctos y cuantificados.
+   - Algoritmos apropiados.
+   - Considerar diversos intereses.
+   - Considerar **posibilidades de decisión**.
 
 Historia de la investigación operativa:
 

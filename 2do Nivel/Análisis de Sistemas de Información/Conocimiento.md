@@ -9,10 +9,9 @@ En particular, los [[1er Nivel/Sistemas y Procesos de Negocio/Sistemas de Inform
 
 El **conocimiento** es la combinación de información, contexto, experiencia, y _know-how_ que sugiere alternativas de acción específicas relacionadas con la información. Se origina en la mente de conocedores y se encuentra en documentos, procesos, normas, etc.
 
-```mermaid
-flowchart LR;
-1[Hechos] --> 2[Datos] --> 3[Información] --> 4[Conocimiento] --> 5[Guía de actuación]
-```
+$$
+\text{Hechos} \longrightarrow \text{Datos} \longrightarrow \text{Información} \longrightarrow \text{Conocimiento} \longrightarrow \text{Guía de actuación}
+$$
 
 | Ciencia                        | Ingeniería                   |
 | ------------------------------ | ---------------------------- |

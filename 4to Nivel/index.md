@@ -6,7 +6,7 @@ Materias obligatorias:
 
 1. [[4to Nivel/Administración de Sistemas de Información/index|Administración de Sistemas de Información]] (integradora).
 2. [[4to Nivel/Ingeniería y Calidad de Software/index|Ingeniería y Calidad de Software]].
-3. Investigación Operativa.
+3. [[4to Nivel/Investigación Operativa/index|Investigación Operativa]].
 4. Legislación.
 5. Redes de Datos.
 6. [[4to Nivel/Simulación/index|Simulación]].

@@ -1,6 +1,6 @@
 La **programación lineal** (PL) es una disciplina dentro de la [[Investigación Operativa]] que trata la planificación de las actividades para obtener un resultado óptimo: el resultado de entre las alternativas de solución que mejor alcance la meta especificada.
 
-Es una **técnica cuantitativa** ampliamente aplicada en sistemas (descritos por un modelo matemático) con relaciones lineales para optimizar el uso de los recursos. Esa mejor manera de usar los **recursos escasos** se logra usando un modelo del sistema llamado *modelo de programación lineal*.
+Es una **técnica cuantitativa** ampliamente aplicada en sistemas (descritos por un modelo matemático) con relaciones lineales para optimizar el uso de los recursos. Esa mejor manera de usar los **recursos escasos** se logra usando un modelo del sistema llamado _modelo de programación lineal_.
 
 Historia:
 
@@ -22,9 +22,9 @@ La PL **supone** las propiedades de:
 
 ¿Qué se produce? ¿Qué se desea calcular? ¿Cuánto producir de qué producto? Para estas respuestas, no existe la producción negativa, por ende la **condición de no negatividad** establece que $X_i \gt 0 \ \forall \ i$.
 
-¿Cuál es el objetivo de la empresa? Todos los varios objetivos se subordinan a un único objetivo: **maximizar ganancias** o **minimizar costos**. Se representa el objetivo con una *función objetivo* que debe ser lineal y única. Se busca maximizar o minimizar el valor de la función objetivo.
+¿Cuál es el objetivo de la empresa? Todos los varios objetivos se subordinan a un único objetivo: **maximizar ganancias** o **minimizar costos**. Se representa el objetivo con una _función objetivo_ que debe ser lineal y única. Se busca maximizar o minimizar el valor de la función objetivo.
 
-¿Cuáles son las **restricciones**? Condicionan los valores que las variables pueden tomar. Una condición con varias variables forma una *ligadura* entre esas variables.
+¿Cuáles son las **restricciones**? Condicionan los valores que las variables pueden tomar. Una condición con varias variables forma una _ligadura_ entre esas variables.
 
 Para plantear el modelo, se usan los 3 pilares de la programación lineal:
 
@@ -32,7 +32,7 @@ Para plantear el modelo, se usan los 3 pilares de la programación lineal:
 2. La función objetivo.
 3. Las restricciones.
 
-Se definen *variables reales* o de decisión, para las cuales se buscará un valor óptimo. También se definen *variables slacks* o de holgura (o de excedente, o surplus), que representan los **recursos ociosos** ("lo que le falta al valor para llegar al máximo" o "lo que el valor está por sobre el mínimo").
+Se definen _variables reales_ o de decisión, para las cuales se buscará un valor óptimo. También se definen _variables slacks_ o de holgura (o de excedente, o surplus), que representan los **recursos ociosos** ("lo que le falta al valor para llegar al máximo" o "lo que el valor está por sobre el mínimo").
 
 Métodos para resolver el modelo:
 
@@ -43,7 +43,7 @@ Resolver el modelo matemático implica resolver el problema, pero solo si el mod
 
 ## Solución Gráfica
 
-El método de solución gráfica es sencillo, pero en el plano solo resuelve hasta dos variables reales. 
+El método de solución gráfica es sencillo, pero en el plano solo resuelve hasta dos variables reales.
 
 Ejemplo: sea un taller metalúrgico cuyos equipos usan insumos para fabricar una pieza $A$ con $\$ 4$ de utilidad unitaria y otra pieza $B$ con $\$ 3$. Los recursos se representan en la siguiente tabla:
 
@@ -62,7 +62,7 @@ El objetivo es diseñar un programa semanal que maximice las ganancias, por lo q
 Restricciones:
 
 - $x_i \ge 0$: condición de no negatividad.
-- $r_1 : \ 3x_1+8x_2 \le 48000 \implies 3x_1+8x_2+x_3=48000$. Las *slacks* pasan restricciones a ecuaciones.
+- $r_1 : \ 3x_1+8x_2 \le 48000 \implies 3x_1+8x_2+x_3=48000$. Las _slacks_ pasan restricciones a ecuaciones.
 - $r_2 : \ 12x_1+6x_2 \le 42000 \implies 12x_1+6x_2+x_4=42000$.
 - $r_3 : \ 9x_1+9x_2 \le 36000 \implies 9x_1+9x_2+x_5=36000$.
 
@@ -70,7 +70,7 @@ Representación gráfica:
 
 ![[Programación Lineal (Solución Gráfica).png]]
 
-La *región factible* (área sombreada de rosa) tiene las *soluciones factibles*. Su perímetro es el polígono de *soluciones básicas*, y uno de sus vértices es la *solución óptima*. Vértices:
+La _región factible_ (área sombreada de rosa) tiene las _soluciones factibles_. Su perímetro es el polígono de _soluciones básicas_, y uno de sus vértices es la _solución óptima_. Vértices:
 
 | Vértice | $(x_1,x_2)$ | $x_3$ | $x_4$ | $x_5$ | $z=4x_1+3x_2$            |
 | ------- | ----------- | ----- | ----- | ----- | ------------------------ |
@@ -79,7 +79,7 @@ La *región factible* (área sombreada de rosa) tiene las *soluciones factibles*
 | C       | (3000,1000) | 31000 | 0     | 0     | **15000** (sol. óptima!) |
 | D       | (3500, 0)   | 37500 | 0     | 4500  | 14000                    |
 
-La recta azul es la función objetivo para el valor óptima. Rectas paralelas a ella se denominan rectas de *isobeneficio*: la recta de beneficio $z'=0$ indica un beneficio nulo, y la más lejana al origen indica un beneficio máximo.
+La recta azul es la función objetivo para el valor óptima. Rectas paralelas a ella se denominan rectas de _isobeneficio_: la recta de beneficio $z'=0$ indica un beneficio nulo, y la más lejana al origen indica un beneficio máximo.
 
 Solución: fabrique 3000 piezas $A$ y 1000 piezas $B$ para ganar 15000 pesos por semana. Le sobrarán 31000 segundos por semana en la operación de estampado, pero nada en puntado y soldado.
 
@@ -87,7 +87,7 @@ Solución: fabrique 3000 piezas $A$ y 1000 piezas $B$ para ganar 15000 pesos por
 
 El **método Simplex** es un algoritmo iterativo que en cada iteración soluciona un sistema de ecuaciones para obtener una nueva solución a la que se le aplica la prueba de optimalidad. Se detiene cuando la solución es óptima. Sirve para $n$ variables de decisión.
 
-> "La diferencia entre optimizar y *satisfizar* diferencia la teoría de la realidad". - Herbert Simon.
+> "La diferencia entre optimizar y _satisfizar_ diferencia la teoría de la realidad". - Herbert Simon.
 
 Para el método Simplex es fundamental el uso del computador, para operar con matrices. Cada iteración desplaza la solución a un nuevo vértice del polígono de soluciones factibles que tiene el potencial de mejorar el valor de la función objetivo. El proceso continua hasta que no se pueden obtener mejoras.
 
@@ -95,8 +95,8 @@ Gracias a la función objetivo, se encuentra la **solución básica factible óp
 
 Procedimiento, trabajando sobre una matriz que representa al modelo matemático y suponiendo que se trata de un problema de maximización:
 
-1. **Encontrar la *columna pivot***: seleccionar la variable no básica con el coeficiente de mayor valor absoluto (valor negativo si el problema es de maximización, o valor positivo si el problema es de minimización). Esa variable *entra*.
-2. **Encontrar la *fila pivot***: calcular los valores de la columna solución multiplicados por el coeficiente (solo si es mayor a cero) de la columna pivote y de la misma fila. Seleccionar el resultado de menor valor. Esa fila indica la variable que *sale*.
+1. **Encontrar la _columna pivot_**: seleccionar la variable no básica con el coeficiente de mayor valor absoluto (valor negativo si el problema es de maximización, o valor positivo si el problema es de minimización). Esa variable _entra_.
+2. **Encontrar la _fila pivot_**: calcular los valores de la columna solución multiplicados por el coeficiente (solo si es mayor a cero) de la columna pivote y de la misma fila. Seleccionar el resultado de menor valor. Esa fila indica la variable que _sale_.
 3. Dividir la fila pivote por el elemento pivote de manera que el pivote se vuelva 1. Hacer cero a los valores por encima o por debajo de la misma columna del elemento pivote.
 4. Si en la primera fila (la de la función objetivo) no hay coeficientes negativos, entonces esta es la solución óptima. Sino, repetir desde el paso 1.
 
@@ -106,14 +106,16 @@ Si en cambio se desea minimizar $z$, la condición de parada será que no hayan 
 
 Ejemplo resumido de https://ingenieriaindustrialonline.com/investigacion-de-operaciones/metodo-simplex/, en el cual a partir del siguiente modelo matemático:
 
-$$\begin{align}
+$$
+\begin{align}
 \text{Maximizar } z = 20000X_1+20000X_2 + 20000X_3 + 20000X_4 \\
 \implies z - 20000X_1-20000X_2 - 20000X_3 - 20000X_4 &= 0 \\
 2X_1+1X_2+1X_3+2X_4+S_1&=24 \\
 2X_1+2X_2+1X_3+0X_4+S_2&=20 \\
 0X_1+0X_2+2X_3+2X_4+S_3&=20 \\
 0X_1+0X_2+0X_3+4X_4+S_4&=16 \\
-\end{align}$$
+\end{align}
+$$
 
 Se construye la matriz inicial del método Simplex:
 

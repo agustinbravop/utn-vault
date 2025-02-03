@@ -2,10 +2,7 @@ El trabajo de una [[Auditoría de los SI]] concluye con un **informe**, su **seg
 
 Estructura:
 
-```mermaid
-flowchart LR;
-1["Introducción"] --> 2["Hallazgos"] --> 3["Recomendaciones"] --> 4["Opinión"] --> 5["Anexos"]
-```
+$$\text{Introducción} \longrightarrow \text{Hallazgos} \longrightarrow \text{Recomendaciones} \longrightarrow \text{Opinión} \longrightarrow \text{Anexos}$$
 
 Dependiendo de las conclusiones, hay varios tipos de informes:
 

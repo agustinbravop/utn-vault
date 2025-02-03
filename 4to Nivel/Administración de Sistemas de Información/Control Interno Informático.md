@@ -13,10 +13,9 @@ Para la implantación de un sistema de controles internos informáticos, se debe
 - Conocer la configuración del [[Ambiente Informático]].
 - Definir la gestión de SI, administración de sistemas, seguridad, y gestión del cambio.
 
-```mermaid
-flowchart LR;
-1["Dirección\nde SI"] --> 2["Dirección\nde informática"] --> 3["Control interno\ninformático"] --> 4["Auditor\ninformático"]
-```
+$$
+\text{Dirección de SI} \rightarrow \text{Dirección de informática}  \rightarrow \text{Control interno informático}  \rightarrow \text{Auditor informático}
+$$
 
 El control interno consiste en el análisis diario de los controles internos de cada función informática, reportando a la dirección de SI/TI. Luego, en algún momento puntual el auditor informático revisa esos controles e informa a la dirección general de la organización.
 

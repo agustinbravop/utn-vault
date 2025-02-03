@@ -8,7 +8,13 @@ Los [[Requisitos de Software]] cambian a través del tiempo: son **volátiles**.
 
 ```mermaid
 flowchart LR;
-1[Entendimiento inicial <br/> del problema] --> 2[Línea base] --> 3[Cambia el <br/> contexto] --> 4[Emergen nuevos <br/> requisitos]
+1[Entendimiento
+inicial del
+problema] --> 2[Línea
+base] --> 3[Cambia el
+contexto] --> 4[Emergen
+nuevos
+requisitos]
 ```
 
 Relaciones posibles entre dos requisitos:

@@ -1,12 +1,12 @@
 Muchas situaciones, interesantes para la [[Investigación Operativa]], se pueden modelar y resolver como **redes**. Los algoritmos basados en redes muchas veces pueden ser más eficientes que el método Simplex de la [[Programación Lineal]].
 
-Una *red* es una serie de *nodos* enlazados con *arcos*.
+Una _red_ es una serie de _nodos_ enlazados con _arcos_.
 
-Cada red tiene asociado un *flujo* limitado a la *capacidad* (finita o infinita) de cada uno de sus arcos. Un arco es *dirigido* u orientado si permite flujo positivo en una dirección y flujo cero en la dirección opuesta. Una *red dirigida* tiene todos sus arcos dirigidos.
+Cada red tiene asociado un _flujo_ limitado a la _capacidad_ (finita o infinita) de cada uno de sus arcos. Un arco es _dirigido_ u orientado si permite flujo positivo en una dirección y flujo cero en la dirección opuesta. Una _red dirigida_ tiene todos sus arcos dirigidos.
 
-Una *ruta* es una sucesión de arcos distintos que unen dos nodos. Un *ciclo* es una ruta que conecta un nodo consigo mismo, pasando por algún arco. Una red es *conectada*  si todo par de nodos está enlazado por al menos una ruta.
+Una _ruta_ es una sucesión de arcos distintos que unen dos nodos. Un _ciclo_ es una ruta que conecta un nodo consigo mismo, pasando por algún arco. Una red es _conectada_ si todo par de nodos está enlazado por al menos una ruta.
 
-Un [[Árbol]] es una red conectada sin ciclos de solo un subconjunto de todos los nodos de la red. Un *árbol de expansión* es un árbol que enlaza todos los nodos de la red.
+Un [[Árbol]] es una red conectada sin ciclos de solo un subconjunto de todos los nodos de la red. Un _árbol de expansión_ es un árbol que enlaza todos los nodos de la red.
 
 Hay dos algoritmos interesantes para los modelos de redes:
 
@@ -19,14 +19,14 @@ Los [[Métodos CPM y PERT]] están inspirados en los modelos de redes.
 
 Sean $N$ el conjunto de nodos, $C_k$ los nodos conectados en la iteración $k$, y $C_k'$ los restantes.
 
-1. Inicializar con $C_0 = \phi$ y  $C'_0 = N$.
+1. Inicializar con $C_0 = \phi$ y $C'_0 = N$.
 2. Comenzar la primera iteración con cualquier nodo y hacer $C_1=\set{i}, \ C'_1 = N - \set{i}$.
 3. Iterativamente, en cada paso $k$, seleccionar un nodo $j \in C'_{k-1}$ que produzca el arco más corto a un nodo del conjunto conectado $C_{k-1}$. Hacer $C_k = C_{k-1} + \set{j}, \ C_k'=C_{k-1}' -\set{j}$. Luego, $k=k+1$ y repetir.
 4. Detenerse cuando $C_k = \phi$. Los arcos utilizados son la **ruta más corta que conecta toda la red**.
 
 ## Algoritmo para el Flujo Máximo
 
-Este algoritmo se utiliza para determinar *rutas de irrupción* con flujo neto positivo.
+Este algoritmo se utiliza para determinar _rutas de irrupción_ con flujo neto positivo.
 
 1. Inicio: para todos los arcos $(i,j)$ se iguala la capacidad residual con la inicial: $(c_{ij}, c_{ji}) = (\overline c_{ij}, \overline c_{ji})$. Se etiqueta el nodo fuente $1$ con $[\infty, -]$. Se iguala $i=1$.
 2. Determinar $S_i$: el conjunto de nodos $j$ no etiquetados directamente alcanzables desde el nodo $i$, con residuales positivos ($c_{ij} \gt 0 \ \forall \ j \in S$). Si $S \ne \phi$, ir al paso 3. Si $S = \phi$, ir al paso 4.

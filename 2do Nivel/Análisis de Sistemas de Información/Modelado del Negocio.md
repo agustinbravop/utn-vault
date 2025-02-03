@@ -23,10 +23,7 @@ La filosofía de una organización se plasma en su SI. En particular:
 - Los _objetivos_ establecen resultados a lograr. Se subdividen en _metas_ a alcanzar, lo que permite medir el progreso. Para lograr esos objetivos se deben poner en marcha procesos de negocio.
 - Para cada _acción_ de esos procesos, se deben asignar responsables, recursos, etc.
 
-```mermaid
-flowchart LR;
-1[Misión] --> 2[Visión] --> 3[Objetivos] --> 4[Metas] --> 5[Acciones]
-```
+$$\text{Misión} \longrightarrow \text{Visión} \longrightarrow \text{Objetivos}\longrightarrow \text{Metas} \longrightarrow \text{Acciones}$$
 
 Una organización tiene necesidades de:
 

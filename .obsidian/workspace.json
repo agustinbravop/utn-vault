@@ -55,12 +55,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Investigación Operativa/Modelos de Inventarios.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelos de Inventarios"
+              "title": "Provisión de SI y TI"
+            }
+          },
+          {
+            "id": "8877da6dca3ce556",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "4to Nivel/Investigación Operativa/attachments/Modelo de Demanda Constante con Agotamiento.png"
+              },
+              "icon": "lucide-image",
+              "title": "Modelo de Demanda Constante con Agotamiento"
+            }
+          },
+          {
+            "id": "259311b5124c14b6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "4to Nivel/Investigación Operativa/attachments/Modelo de Demanda Constante con Stock de Protección.png"
+              },
+              "icon": "lucide-image",
+              "title": "Modelo de Demanda Constante con Stock de Protección"
             }
           },
           {
@@ -100,7 +124,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 67.63392857142857,
+        "dimension": 22.321428571428573,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -120,7 +144,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 32.36607142857143,
+        "dimension": 77.67857142857143,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -128,12 +152,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mermaid",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -169,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Investigación Operativa/Modelos de Inventarios.md",
+                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modelos de Inventarios"
+              "title": "Backlinks for Provisión de SI y TI"
             }
           },
           {
@@ -251,45 +275,46 @@
   },
   "active": "79d004fe29b9dd19",
   "lastOpenFiles": [
-    "4to Nivel/Investigación Operativa/Investigación Operativa.md",
-    "4to Nivel/Investigación Operativa/Modelos de Inventarios.md",
-    "4to Nivel/Investigación Operativa/Programación Lineal.md",
-    "4to Nivel/Investigación Operativa/Modelos de Redes.md",
-    "4to Nivel/Investigación Operativa/Métodos CPM y PERT.md",
-    "4to Nivel/Investigación Operativa/attachments/Métodos CPM y PERT 2025-02-02 17.10.46.excalidraw.md",
-    "4to Nivel/Investigación Operativa/attachments/Métodos CPM y PERT 2025-02-02 17.10.46.excalidraw.svg",
-    "4to Nivel/Investigación Operativa/Planificación y Control de Procesos.md",
-    "4to Nivel/Investigación Operativa/attachments/Planificación y Control de Procesos 2025-02-02 16.40.56.excalidraw.md",
-    "4to Nivel/Investigación Operativa/attachments/Planificación y Control de Procesos 2025-02-02 16.40.56.excalidraw.svg",
-    "4to Nivel/Investigación Operativa/attachments/Pasted image 20250202162859.png",
-    "4to Nivel/Investigación Operativa/Untitled.md",
-    "4to Nivel/Investigación Operativa/Algoritmos de Programación No Lineal.md",
-    "4to Nivel/Investigación Operativa/Programación No Lineal.md",
-    "4to Nivel/Investigación Operativa/attachments/Programación No Lineal.png",
-    "4to Nivel/Investigación Operativa/attachments/Programación Lineal (Solución Gráfica).png",
-    "3er Nivel/Análisis Numérico/Punto Crítico.md",
+    "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Organizar.md",
+    "2do Nivel/Paradigmas de Programación/Reducciones Lambda.md",
     "4to Nivel/Investigación Operativa/Programación Lineal Entera.md",
-    "4to Nivel/Investigación Operativa/attachments/Método de Ramificación y Acote.png",
+    "4to Nivel/Investigación Operativa/Métodos CPM y PERT.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Árbol Binario.md",
+    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+    "4to Nivel/Simulación/Simulación con Metodología Evento a Evento.md",
+    "4to Nivel/Investigación Operativa/Algoritmos de Programación No Lineal.md",
     "4to Nivel/Investigación Operativa/Análisis de Dualidad.md",
-    "4to Nivel/Investigación Operativa/attachments/Análisis de Dualidad.png",
     "4to Nivel/Investigación Operativa/Análisis de Sensibilidad.md",
-    "4to Nivel/Investigación Operativa/attachments/Programación Lineal 2025-02-01 23.56.08.excalidraw.md",
-    "4to Nivel/Investigación Operativa/attachments/Programación Lineal 2025-02-01 23.56.08.excalidraw.svg",
-    "4to Nivel/Simulación/Diagrama Causal.md",
-    "4to Nivel/Investigación Operativa/attachments/Programación Lineal 2025-02-01 23.52.08.excalidraw.md",
-    "4to Nivel/Investigación Operativa/attachments/Programación Lineal 2025-02-01 23.52.08.excalidraw.svg",
-    "4to Nivel/Investigación Operativa/attachments/Programación Lineal (Desarrollo del Método Simplex).png",
-    "4to Nivel/Simulación/Modelo de Simulación.md",
+    "4to Nivel/Investigación Operativa/Modelos de Inventarios.md",
+    "4to Nivel/Investigación Operativa/Modelos de Pronósticos.md",
+    "4to Nivel/Investigación Operativa/Modelos de Redes.md",
+    "3er Nivel/Desarrollo de Software/Desarrollo de Software.md",
+    "4to Nivel/Administración de Sistemas de Información/Informe de Auditoría.md",
+    "4to Nivel/Investigación Operativa/Programación No Lineal.md",
+    "2do Nivel/Análisis de Sistemas de Información/Entrevista.md",
+    "2do Nivel/Análisis de Sistemas de Información/Modelado del Negocio.md",
+    "4to Nivel/Administración de Sistemas de Información/Benchmarking.md",
+    "2do Nivel/Paradigmas de Programación/Abstracciones.md",
+    "4to Nivel/Administración de Sistemas de Información/Administración de los Recursos de SI.md",
+    "3er Nivel/Probabilidad y Estadística/Ajustamiento Lineal.md",
+    "3er Nivel/Desarrollo de Software/Aplicaciones de Cliente.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Árbol.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Controlar.md",
+    "4to Nivel/Investigación Operativa/attachments/MOC Investigación Operativa.png",
+    "4to Nivel/Investigación Operativa/MOC Investigación Operativa.canvas",
+    "4to Nivel/Investigación Operativa/attachments/Modelos de Pronósticos.png",
+    "4to Nivel/Investigación Operativa/attachments/Modelo con Descuento por Cantidad.png",
+    "4to Nivel/Investigación Operativa/attachments/Modelo de Demanda Constante con Agotamiento.png",
+    "4to Nivel/Investigación Operativa/attachments/Modelo de Demanda Constante con Stock de Protección.png",
+    "4to Nivel/Investigación Operativa/attachments/Modelo Triangular (Reposición No Instantánea).png",
+    "4to Nivel/Investigación Operativa/attachments/Pasted image 20250202212339.png",
+    "4to Nivel/Investigación Operativa/attachments/Modelo de Wilson sin Agotamiento.png",
+    "4to Nivel/Investigación Operativa/attachments/Métodos CPM y PERT 2025-02-02 17.10.46.excalidraw.svg",
+    "4to Nivel/Investigación Operativa/attachments/Planificación y Control de Procesos 2025-02-02 16.40.56.excalidraw.svg",
     "4to Nivel/Investigación Operativa/attachments",
-    "4to Nivel/Investigación Operativa/index.md",
-    "4to Nivel/Simulación/index.md",
     "4to Nivel/Investigación Operativa",
-    "index.md",
-    "4to Nivel/index.md",
     "4to Nivel/Simulación/MOC Simulación.canvas",
-    "4to Nivel/Simulación/Dinámica de Sistemas.md",
-    "4to Nivel/Simulación/Diagrama de Forrester.md",
-    "4to Nivel/Simulación/Simulación con Avance del Tiempo Constante.md",
     "4to Nivel/Simulación/attachments",
     "4to Nivel/Simulación",
     "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
@@ -305,7 +330,6 @@
     "3er Nivel/Comunicación de Datos/attachments",
     "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas",
     "3er Nivel/Bases de Datos/MOC Bases de Datos.canvas",
-    "3er Nivel/Probabilidad y Estadística/MOC Probabilidad y Estadística.canvas",
-    "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas"
+    "3er Nivel/Probabilidad y Estadística/MOC Probabilidad y Estadística.canvas"
   ]
 }

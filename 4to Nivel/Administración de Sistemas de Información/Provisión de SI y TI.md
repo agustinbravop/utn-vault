@@ -42,14 +42,27 @@ Dada la complejidad de los SI actuales, no existe un organismo encargado de la [
 ```mermaid
 flowchart LR;
 
-A["Elegir la estructura y \n organización de los SI"] -->|influye|B["Alternativas de\n selección existentes"] -->|influye|C["Org, estructura y \n management de los SI"]
+A["Elegir la
+estructura y
+organización
+de los SI"] -->|influye|B["Alternativas
+de selección
+existentes"] -->|influye|C["Organización,
+estructura, y
+management
+de los SI"]
 ```
 
 ```mermaid
 flowchart LR;
-A["Formulación \n de estrategias"] -->|define|B["Objetivos \n claros"];
-B-->|crean|C["Cuadro de \n requerimientos"] ;
-D["Prioridades y \n cuestiones \n empresariales"];
+A["Formulación
+de estrategias"] -->|define|B["Objetivos
+claros"];
+B-->|crean|C["Cuadro de
+requerimientos"] ;
+D["Prioridades y
+cuestiones
+empresariales"];
 D-->|influyen|C
 ```
 
