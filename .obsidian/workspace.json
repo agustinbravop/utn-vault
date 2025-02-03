@@ -53,14 +53,17 @@
             "id": "79d004fe29b9dd19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
-                "mode": "source",
-                "source": false
+                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
+                "viewState": {
+                  "x": 3410,
+                  "y": 720,
+                  "zoom": -3.1405312164475028
+                }
               },
-              "icon": "lucide-file",
-              "title": "Provisión de SI y TI"
+              "icon": "lucide-layout-dashboard",
+              "title": "MOC Ingeniería y Calidad del Software"
             }
           },
           {
@@ -124,7 +127,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 22.321428571428573,
+        "dimension": 77.67857142857143,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -144,7 +147,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 77.67857142857143,
+        "dimension": 22.321428571428573,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -152,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -193,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
+                "file": "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Provisión de SI y TI"
+              "title": "Backlinks for MOC Ingeniería y Calidad del Software"
             }
           },
           {
@@ -275,13 +278,13 @@
   },
   "active": "79d004fe29b9dd19",
   "lastOpenFiles": [
+    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
     "4to Nivel/Administración de Sistemas de Información/Auditoría del Desarrollo Según Piattini.md",
     "1er Nivel/Sistemas y Procesos de Negocio/Organizar.md",
     "2do Nivel/Paradigmas de Programación/Reducciones Lambda.md",
     "4to Nivel/Investigación Operativa/Programación Lineal Entera.md",
     "4to Nivel/Investigación Operativa/Métodos CPM y PERT.md",
     "1er Nivel/Algoritmos y Estructuras de Datos/Árbol Binario.md",
-    "4to Nivel/Administración de Sistemas de Información/Provisión de SI y TI.md",
     "4to Nivel/Simulación/Simulación con Metodología Evento a Evento.md",
     "4to Nivel/Investigación Operativa/Algoritmos de Programación No Lineal.md",
     "4to Nivel/Investigación Operativa/Análisis de Dualidad.md",
