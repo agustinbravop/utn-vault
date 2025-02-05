@@ -31,3 +31,40 @@ Clasificación de los contratos:
 8. **Principales/Accesorios**: si tienen existencia y validez propia o si dependen de otro contrato.
 9. **Entre Presentes/Entre Ausentes**: si hay contacto directo o no entre las partes.
 10. **Según su función social o económica**: contrato de administración, disposición, cambio, crédito, garantía, previsión, custodia, o colaboración.
+
+## Elementos de los Contratos
+
+Tipos de elementos en los contratos:
+
+1. **Esenciales**: son los que necesariamente deben existir para que haya contrato. Son el consentimiento, el objeto, y la causa. Algunos autores agregan forma y capacidad.
+2. **Naturales**: son los que naturalmente se encuentran en un contrato, pero se pueden omitir mediante una cláusula expresa. Son previstos supletoriamente por la ley.
+3. **Accidentales**: normalmente NO corresponden a un contrato pero se pueden incorporar mediante una cláusula expresa. Ej: la seña.
+
+El **consentimiento** es la integración de las voluntades de las partes tendiente a la celebración del contrato. Sin consentimiento, no hay contrato. Se forma con dos actos jurídicos unilaterales:
+
+- **Oferta**: es la manifestación de voluntad unilateral y recepticia. Dirigida a persona determinada o determinable, con la intención de obligarse (*fuerza obligatoria*), completa o autosuficiente.
+- **Aceptación**: es la conformidad que presta el destinatario a la oferta hecha. Debe ser recepticia, hecha con intención y libertad, expresando plena conformidad sobre una oferta vigente.
+
+La aceptación *perfecciona* el contrato entre presentes y entre ausentes. Se puede *retractar* la aceptación si el destinatario la recibe antes o al mismo tiempo.
+
+La **capacidad** de derecho y de ejercicio tiene implicancias al momento de hacer contratos:
+
+- **Inhabilidad para contratar**: a algunas personas se les prohíbe contratar.
+- **Inhabilidades especiales**: funcionarios públicos no pueden contratar en interés propio respecto de bienes bajo su administración.
+
+Un contrato celebrado por persona incapaz o inhabilitada es *anulado*.
+
+El **objeto** del contrato debe ser:
+
+1. Lícito.
+2. Material y jurídicamente posible.
+3. Determinado o determinable.
+4. Susceptible de valoración económica (y corresponder a un interés de las partes).
+
+La **causa** del contrato es el *fin inmediato* autorizado por el ordenamiento jurídico que ha sido determinante de la voluntad. Es una finalidad puesta en mira por las partes al celebrar el acto. La existencia de una causa se *presume* y es esencial. Debe ser lícita. En los actos "abstractos" (pagaré, cheque, etc), la causa no es relevante.
+
+La **forma** es la manera o medio por la cual las partes manifiestan su consentimiento del contrato. El nuevo Código Civil y Comercial establece la *libertad de formas*.
+
+Los contratos formales son aquellos para los cuales la ley exige determinadas formalidades para su realización. Pueden ser *absolutos* (sin formalidades serán nulos), *relativos* (falta de forma no acarrea nulidad), o *para la prueba* (solo con fines probatorios).
+
+La **prueba** de un contrato consiste en *demostrar*, mediante la ley, la existencia y alcance del contrato. Se vuelve indispensable cuando hay controversias sobre la existencia del contrato.

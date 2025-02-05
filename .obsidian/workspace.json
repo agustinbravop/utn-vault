@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Contratos"
             }
+          },
+          {
+            "id": "635bca47976c5029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Contratos de Obras y Servicios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contratos de Obras y Servicios"
+            }
+          },
+          {
+            "id": "1427915220972870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Legislación/Sociedades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sociedades"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Legislación/Contratos.md",
+                "file": "4to Nivel/Legislación/Sociedades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Contratos"
+              "title": "Backlinks for Sociedades"
             }
           },
           {
@@ -183,10 +212,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc8257a7ccde43db",
+  "active": "1427915220972870",
   "lastOpenFiles": [
-    "4to Nivel/Legislación/Instrumentos Privados y Particulares.md",
+    "4to Nivel/Legislación/Contratos de Obras y Servicios.md",
+    "4to Nivel/Legislación/Sociedades.md",
     "4to Nivel/Legislación/Contratos.md",
+    "4to Nivel/Legislación/Instrumentos Privados y Particulares.md",
     "4to Nivel/Legislación/Escrituras Públicas.md",
     "4to Nivel/Legislación/Instrumentos Públicos.md",
     "4to Nivel/Legislación/Actos Jurídicos.md",
@@ -212,8 +243,6 @@
     "2do Nivel/Paradigmas de Programación/Reducciones Lambda.md",
     "4to Nivel/Investigación Operativa/Programación Lineal Entera.md",
     "4to Nivel/Investigación Operativa/Métodos CPM y PERT.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Árbol Binario.md",
-    "4to Nivel/Simulación/Simulación con Metodología Evento a Evento.md",
     "4to Nivel/Investigación Operativa/attachments/MOC Investigación Operativa.png",
     "4to Nivel/Investigación Operativa/attachments/Modelos de Pronósticos.png",
     "4to Nivel/Investigación Operativa/attachments/Modelo con Descuento por Cantidad.png",
