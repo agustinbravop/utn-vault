@@ -2,7 +2,7 @@ El nuevo Código Civil y Comercial hace una definición descriptiva de una **per
 
 > Son personas jurídicas todos los entes a los cuales el ordenamiento jurídico les confiere aptitud para adquirir derechos y contraer obligaciones para el cumplimiento de su objeto y los fines de su creación.
 
-Mientras que a una [[Persona Humana]] se le reconoce personalidad, a una persona jurídica se le confiere *personalidad* (está limitada a cumplir sus fines).
+Mientras que a una [[Persona Humana]] se le reconoce personalidad, a una persona jurídica se le confiere *personalidad* (está limitada a cumplir sus fines). Ej: las [[Sociedades]].
 
 **Comienzo de la Existencia**: la persona jurídica existe desde su *constitución*, y no requiere una autorización del Estado para funcionar (con excepciones). 
 
