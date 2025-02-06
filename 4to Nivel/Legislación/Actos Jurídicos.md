@@ -4,7 +4,7 @@ Hay una serie de **elementos esenciales** que son indispensables para que el act
 
 1. **Sujetos**: son las [[Persona Humana|personas]] otorgantes del acto, de las cuales el acto emana. El sujeto debe ser capaz de ejercicio y tener capacidad de derecho.
 2. **Objeto**: es el hecho o el bien sobre el cual recae el acto jurídico.
-3. **Causa**: la *fuente* es el origen del acto, y el *fin* es el propósito del acto. Puede ser una causa inmediata (con una finalidad abstracta) o mediata (con motivos particulares).
+3. **Causa**: la _fuente_ es el origen del acto, y el _fin_ es el propósito del acto. Puede ser una causa inmediata (con una finalidad abstracta) o mediata (con motivos particulares).
 4. **Forma**: es la manera por la cual el sujeto manifiesta exteriormente su voluntad.
 
 ## Forma
@@ -22,9 +22,8 @@ La **expresión escrita** es la que se usa en la mayoría de los casos:
 2. [[Instrumentos Privados y Particulares|Instrumentos particulares]] firmados: sin intervención de oficiales públicos (requieren firma).
 3. Instrumentos particulares no firmados: impresos, registros, grabaciones, etc.
 
-La ***firma*** es el nombre del firmante escrito en un signo que la persona usa habitualmente para demostrar su conformidad con el documento. Hay algunos tipos especiales:
+La **_firma_** es el nombre del firmante escrito en un signo que la persona usa habitualmente para demostrar su conformidad con el documento. Hay algunos tipos especiales:
 
 1. **Firma a ruego**: una de las partes ruega a otra persona que firme en su nombre. Es válida en instrumentos públicos, y discutible en instrumentos privados.
 2. **Firma digital**: con apoyo informático, se usa una clave privada y otra pública para ser verificable su identidad, inalterabilidad, fecha, y hora.
 3. **Firma electrónica**: se invierte la carga probatoria (hay que acreditar su validez).
- 

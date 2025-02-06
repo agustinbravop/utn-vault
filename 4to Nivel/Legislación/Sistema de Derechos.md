@@ -5,7 +5,7 @@ La Parte Dogmática de la [[Constitución Nacional]] va del artículo 1 al 43, y
 - **Capítulo Primero**: denominado "Declaraciones, Derechos, y Garantías" (artículos 1-35).
 - **Capítulo Segundo**: (reforma de 1994) denominado "Nuevos Derechos y Garantías" (arts 36-43).
 
-Las *declaraciones* son posturas adoptadas por la Constitución Nacional (CN) de temas políticos fundamentales. Los *derechos* son facultades reconocidas por la CN a las personas o grupos sociales. Las *garantías* son mecanismos creados para permitir ejercer y hacer respetar derechos.
+Las _declaraciones_ son posturas adoptadas por la Constitución Nacional (CN) de temas políticos fundamentales. Los _derechos_ son facultades reconocidas por la CN a las personas o grupos sociales. Las _garantías_ son mecanismos creados para permitir ejercer y hacer respetar derechos.
 
 Los **tratados internacionales** son una [[Fuentes de Derecho|fuente internacional]] de nuestro sistema de derechos.
 
@@ -20,12 +20,12 @@ Además, pueden ser derechos de:
 2. **Segunda Generación**: derechos sociales, económicos, y culturales del Constitucionalismo Social, sobre la igualdad entre individuos. El: trabajo, seguridad social.
 3. **Tercera Generación**: derechos colectivos incorporados en la reforma de 1994. Ej: protección al ambiente, defensa al consumidor.
 
-Las **obligaciones** implican que todo derecho presenta un *sujeto activo* (titular del derecho) y un *sujeto pasivo* que debe respetar el derecho. Las obligaciones pueden ser:
+Las **obligaciones** implican que todo derecho presenta un _sujeto activo_ (titular del derecho) y un _sujeto pasivo_ que debe respetar el derecho. Las obligaciones pueden ser:
 
 - **De omisión**: abstenerse a violar el derecho de otro.
 - **De hacer o de dar**: obligación de hacer o dar algo.
 
-Los *intereses difusos* son una serie de derechos pertenecientes a grupos de personas.
+Los _intereses difusos_ son una serie de derechos pertenecientes a grupos de personas.
 
 El **principio de legalidad** establece que "ningún habitante de la Nación será obligado a hacer lo que no manda la ley, ni privado de lo que ella no prohíbe". Otorga una esfera de libertad y seguridad individual a las personas.
 

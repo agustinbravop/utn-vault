@@ -1,4 +1,4 @@
-Entre los tipos de [[Sociedades]], la **sociedad anónima** (SA) es la sociedad en la que el capital se representa por *acciones* y las sodas limitan su responsabilidad a la integración de las acciones suscritas.
+Entre los tipos de [[Sociedades]], la **sociedad anónima** (SA) es la sociedad en la que el capital se representa por _acciones_ y las sodas limitan su responsabilidad a la integración de las acciones suscritas.
 
 Características:
 
@@ -19,9 +19,9 @@ Las SA solo pueden constituirse mediante [[Instrumentos Públicos]]:
 
 Las SA en formación tienen [[Persona Jurídica|personalidad jurídica]].
 
-El *nombre social* es una denominación social que además incluya el tipo de sociedad (siglas SA).
+El _nombre social_ es una denominación social que además incluya el tipo de sociedad (siglas SA).
 
-La SA es un medio para agrupar grandes capitales. **Capital social** $\gt$ persona del accionista. Sigue los principios de *intangibilidad*, *determinación*, e *invariabilidad*. Tiene tres funciones:
+La SA es un medio para agrupar grandes capitales. **Capital social** $\gt$ persona del accionista. Sigue los principios de _intangibilidad_, _determinación_, e _invariabilidad_. Tiene tres funciones:
 
 1. **Productividad**: es la base patrimonial para las actividades en pos de beneficios.
 2. **Medición**: sirve para medir la participación de cada socio.
@@ -40,4 +40,4 @@ Una **sociedad anónima unipersonal** (SAU) es una sociedad por acciones de **un
 5. **Integración del capital**: integrado totalmente en el acto constitutivo.
 6. **Fiscalización estatal permanente**: la autoridad de control puede fiscalizar la SAU durante su constitución, funcionamiento, disolución, y liquidación.
 
-La constitución es mediante una *declaración unilateral de voluntad*. Si así lo quisiera, puede contar con un directorio unipersonal y un síndico titular (y uno suplente).
+La constitución es mediante una _declaración unilateral de voluntad_. Si así lo quisiera, puede contar con un directorio unipersonal y un síndico titular (y uno suplente).

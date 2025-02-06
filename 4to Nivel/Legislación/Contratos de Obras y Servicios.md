@@ -3,7 +3,7 @@ Los [[Contratos]] de obras y servicios son de particular interés para los ingen
 - **Contrato de obra**: el contratista se obliga a ejecutar una obra (material o intelectual) determinada a favor del comitente, y éste se obliga a retribuírselo. Se **promete un resultado**.
 - **Contrato de servicio**: el prestador se obliga a prestar un servicio a favor del comitente, y éste se obliga a retribuírselo. El servicio puede ser continuado y por tiempo indeterminado. Solo se compromete a **hacer cierta actividad**.
 
-El contrato es *gratuito* si las partes así lo pactan.
+El contrato es _gratuito_ si las partes así lo pactan.
 
 **Caracteres** de los contratos de obras y servicios:
 
@@ -14,14 +14,14 @@ El contrato es *gratuito* si las partes así lo pactan.
 5. No formales.
 6. Nominados.
 
-El *precio* se determina, en este orden de aplicación, por:
+El _precio_ se determina, en este orden de aplicación, por:
 
 1. El contrato.
 2. La [[Ley]].
 3. Los usos y costumbres.
 4. Una decisión judicial.
 
-Obligaciones del contratista: 
+Obligaciones del contratista:
 
 1. Ejecutar el contrato en el tiempo convenido.
 2. Informar aspectos esenciales del cumplimiento.
@@ -34,7 +34,7 @@ Obligaciones del comitente:
 2. Colaborar con el contratista/prestador.
 3. Recibir la obra si corresponde.
 
-Si muere el contratista o prestador, se *extingue* el contrato. El comitente puede *desistir* del contrato, pero debe indemnizar al prestador los gastos, trabajos, y lucro cesante.
+Si muere el contratista o prestador, se _extingue_ el contrato. El comitente puede _desistir_ del contrato, pero debe indemnizar al prestador los gastos, trabajos, y lucro cesante.
 
 Sistemas de contratación de obra, aunque se puede usar cualquier otro sistema convenido:
 
@@ -46,4 +46,4 @@ Sistemas de contratación de obra, aunque se puede usar cualquier otro sistema c
 
 **Destrucción**: cualquiera de las partes puede dar por extinguido el contrato si la obra sufriera destrucción pro caso fortuito antes de la entrega.
 
-**Aceptación**: la obra se considera aceptada cuando el comitente la inspecciona en el *acto de entrega*, presumiendo que no hay vicios aparentes y que tiene la calidad esperada. aceptada la obra, el contratista solo responde por los vicios no aparentes.
+**Aceptación**: la obra se considera aceptada cuando el comitente la inspecciona en el _acto de entrega_, presumiendo que no hay vicios aparentes y que tiene la calidad esperada. aceptada la obra, el contratista solo responde por los vicios no aparentes.

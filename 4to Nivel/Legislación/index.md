@@ -2,6 +2,8 @@
 title: Legislación
 ---
 
+![[MOC Legislación.png]]
+
 Asignatura: Legislación. \
 Ciclo Lectivo: 2024.
 

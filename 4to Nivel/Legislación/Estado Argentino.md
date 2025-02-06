@@ -15,7 +15,7 @@ El **poder legislativo** tiene a su cargo la elaboración y sanción de las norm
 
 El **poder judicial** es el conjunto de órganos encargado de llevar a cabo la función jurisdiccional: aplicar la ley para resolver conflictos.
 
-La *independencia* del poder judicial implica la inamovilidad de los jueces y la intangibilidad de las remuneraciones.
+La _independencia_ del poder judicial implica la inamovilidad de los jueces y la intangibilidad de las remuneraciones.
 
 La **Corte Suprema de Justicia** tiene 5 miembros designados por el presidente y aprobados por 2/3 del senado. Los **Tribunales Inferiores** son Juzgados, Cámaras de Apelaciones, y Cámaras de Casación.
 

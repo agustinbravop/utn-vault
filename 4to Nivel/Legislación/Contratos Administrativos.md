@@ -2,27 +2,27 @@ Los [[Contratos]] administrativos son aquellos en los cuales una de las partes e
 
 El Estado realiza actividades con el fin de satisfacer al bien común y al de los administrados de dos formas: tanto por si mismo, como a través de colaborar con un particular.
 
-> El contrato administrativo es el acuerdo de voluntades, generador de obligaciones, celebrado entre un órgano del Estado en ejercicio de las *funciones administrativas* que le competen y otra parte para satisfacer *necesidades públicas*.
+> El contrato administrativo es el acuerdo de voluntades, generador de obligaciones, celebrado entre un órgano del Estado en ejercicio de las _funciones administrativas_ que le competen y otra parte para satisfacer _necesidades públicas_.
 
 Tiene características especiales:
 
-1. Una parte interviniente es una [[Persona Jurídica]] *estatal*.
-2. Su objeto es un *fin público*.
-3. Tienen *cláusulas exorbitantes* del [[Derecho]] privado.
+1. Una parte interviniente es una [[Persona Jurídica]] _estatal_.
+2. Su objeto es un _fin público_.
+3. Tienen _cláusulas exorbitantes_ del [[Derecho]] privado.
 
 Caracteres del contrato administrativo:
 
 1. **Formalismo**: es imprescindible cumplir con formas exigidas para celebrarlo y perfeccionarlo.
 2. **Cláusulas exorbitantes del derecho privado**: admitidas, con razón, por el derecho público:
-	1. Falta de libertad contractual.
-	2. Está siempre el interés público por sobre el privado.
-	3. Desigualdad jurídica entre las partes.
-	4. La administración estatal tiene facultades de dirección y control permanente.
-	5. Tiene el "*ius variandi*": variar condiciones del contrato de forma unilateral.
-	6. Posibilidad de ejecución forzada del contrato.
-	7. Posibilidad de rescisión.
-	8. Los derechos y obligaciones son en general *intuitu persone*.
-3. **Efectos**: producen efectos jurídicos en *forma individual* para cada parte. Pueden ser opuestos a terceros e invocados por ellos.
+   1. Falta de libertad contractual.
+   2. Está siempre el interés público por sobre el privado.
+   3. Desigualdad jurídica entre las partes.
+   4. La administración estatal tiene facultades de dirección y control permanente.
+   5. Tiene el "_ius variandi_": variar condiciones del contrato de forma unilateral.
+   6. Posibilidad de ejecución forzada del contrato.
+   7. Posibilidad de rescisión.
+   8. Los derechos y obligaciones son en general _intuitu persone_.
+3. **Efectos**: producen efectos jurídicos en _forma individual_ para cada parte. Pueden ser opuestos a terceros e invocados por ellos.
 4. **Legislación**: decretos 1023/2001, 1030/2016, 963/2018, 356/2019.
 
 Hay elementos esenciales, naturales, y accidentales. Los esenciales son:
@@ -34,7 +34,7 @@ Hay elementos esenciales, naturales, y accidentales. Los esenciales son:
 9. **Causa**: siempre es satisfacer un fin público.
 10. **Forma**: el modo concreto en que se documenta o exterioriza.
 
-El contrato se forma con la concurrencia de dos voluntades, y generalmente el cocontratante se adhiere a *cláusulas pre-redactadas*.
+El contrato se forma con la concurrencia de dos voluntades, y generalmente el cocontratante se adhiere a _cláusulas pre-redactadas_.
 
 Hay dos principios fundamentales de los contratos administrativos:
 
@@ -48,27 +48,27 @@ La extinción de un contrato administrativo puede darse en dos tipos de modos:
 
 El procedimiento de contratación es un procedimiento administrativo especial con 2 etapas:
 
-1. **Etapa precontractual o interna**: relacionada con la *decisión de contratar*, preparando el contrato. Se aprueban los *pliegos* (conjunto de documentos con las condiciones del contrato) y se convocan oferentes.
+1. **Etapa precontractual o interna**: relacionada con la _decisión de contratar_, preparando el contrato. Se aprueban los _pliegos_ (conjunto de documentos con las condiciones del contrato) y se convocan oferentes.
 2. **Etapa contractual o de ejecución**: se selecciona al contratista (o cocontratante).
 
 ## Formas de Elegir al Contratista
 
 - **Libre elección**: la administración elige de forma discrecional, aunque la elección debe ser pública y con motivación suficiente. Se usa para negocios de poco monto (cantidades de dinero no importantes), o un contratista de carácter personal importante.
 - **Sistemas de restricción**: hay varias alternativas:
-	1. Concurso público.
-	2. Licitación.
-	3. Subasta.
-	4. Contratación directa.
+  1.  Concurso público.
+  2.  Licitación.
+  3.  Subasta.
+  4.  Contratación directa.
 
 ### Concurso Público
 
-En el **concurso público**, se realiza un llamado a participar dirigido a una *cantidad indeterminada* de oferentes. Se elige al cocontratante en base a su **capacidad técnica/artística** de realizar la prestación u ocupar el cargo, no según un factor económico.
+En el **concurso público**, se realiza un llamado a participar dirigido a una _cantidad indeterminada_ de oferentes. Se elige al cocontratante en base a su **capacidad técnica/artística** de realizar la prestación u ocupar el cargo, no según un factor económico.
 
-Las bases del concurso se detallan en el *pliego de condiciones*. El llamado a concurso es un pedido de ofertas.
+Las bases del concurso se detallan en el _pliego de condiciones_. El llamado a concurso es un pedido de ofertas.
 
 ### Subasta
 
-La **subasta** es la compra y venta de bienes sin *límite de concurrencia* y **al mejor postor**. Se adjudica a aquél que ofreció el precio más alto.
+La **subasta** es la compra y venta de bienes sin _límite de concurrencia_ y **al mejor postor**. Se adjudica a aquél que ofreció el precio más alto.
 
 Se suele rematar mercadería de contrabando confiscada, o algunos bienes del Estado Nacional.
 
@@ -82,7 +82,7 @@ La **contratación directa** debe ser autorizada por la [[Ley]] para **casos esp
 4. Por razones de urgencia o emergencia, con aprobación de una autoridad.
 5. Etc...
 
-El procedimiento puede ser por *compulsa abreviada* (más de un potencial oferente) o por *adjudicación simple* (se debe contratar con cierta persona).
+El procedimiento puede ser por _compulsa abreviada_ (más de un potencial oferente) o por _adjudicación simple_ (se debe contratar con cierta persona).
 
 ### Licitación
 

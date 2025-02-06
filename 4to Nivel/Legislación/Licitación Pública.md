@@ -1,4 +1,4 @@
-La **licitación pública** es un procedimiento administrativo (una serie de [[Actos Jurídicos]]) tendiente a elegir la mejor oferta, para los [[Contratos Administrativos]]. 
+La **licitación pública** es un procedimiento administrativo (una serie de [[Actos Jurídicos]]) tendiente a elegir la mejor oferta, para los [[Contratos Administrativos]].
 
 Se basa en los siguientes principios:
 
@@ -37,7 +37,7 @@ La **invitación** se publica de forma clara en diarios de alcance masivo. Los o
 - Ofertas alternativas: cumplen especificaciones técnicas. Puede haber distintos precios.
 - Ofertas variantes: modifican especificaciones técnicas y ofrecen una solución con mejoras.
 
-Luego, se abren los sobres y se comparan las ofertas frente a un escribano público. Se leen en voz alta todas las ofertas, y se *labra acta*.
+Luego, se abren los sobres y se comparan las ofertas frente a un escribano público. Se leen en voz alta todas las ofertas, y se _labra acta_.
 
 Finalmente, se **adjudica**: la Administración decide cuál oferta es la más conveniente. Si el contrato es complejo, una Comisión puede hacer una pre-adjudicación. Si el contrato es simple, se hace en forma directa.
 

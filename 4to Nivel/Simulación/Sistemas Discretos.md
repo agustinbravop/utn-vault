@@ -19,7 +19,7 @@ Definir el estado inicial es definir los valores iniciales de las variables del 
 
 Existe un _período transitorio_ mientras el sistema pasa del estado inicial a un estado operativo estable.
 
-## Determinación de la Cantidad de réplicas
+## Determinación de la Cantidad de Réplicas
 
 A mayor cantidad de réplicas (corridas de la simulación), se logra reducir el delta del [[Intervalo de Confianza]] de los resultados de la simulación, aunque con rendimientos decrecientes.
 

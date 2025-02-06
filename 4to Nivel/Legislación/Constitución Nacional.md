@@ -43,7 +43,7 @@ El **Estado de Derecho** está compuesto por:
 
 El territorio, poder, y gobierno, le dan al estado de derecho la legitimidad de origen y de ejercicio.
 
-La **ciudadanía** le pertenece a aquel que puede votar y postularse para ser votado. Da derechos y deberes. La **nacionalidad** le pertenece a todo aquel nacido en Argentina o naturalizado. Los *extranjeros* son aquellos que no son argentinos, aunque gozan los mismos derechos civiles.
+La **ciudadanía** le pertenece a aquel que puede votar y postularse para ser votado. Da derechos y deberes. La **nacionalidad** le pertenece a todo aquel nacido en Argentina o naturalizado. Los _extranjeros_ son aquellos que no son argentinos, aunque gozan los mismos derechos civiles.
 
 Nuestro **gobierno** es:
 

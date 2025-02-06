@@ -8,7 +8,7 @@ Las fuentes pueden ser:
 Fuentes en el nuevo Código Civil y Comercial, que reconoce a la ley, la [[Constitución Nacional]] (CN), los tratados de derechos humanos, y los "usos, prácticas, y costumbres":
 
 - **La Ley**: en sentido amplio, la ley es toda norma general dictada por autoridad competente. En sentido estricto, solo emana del Poder Legislativo de acuerdo a la CN. Tiene generalidad (aplica para todos), es obligatoria y coactiva (obedecer o ser sancionado), y es de origen público.
-- **Constitución Nacional**: es fundamental que la ley sea conforme a la CN y que no se declare la invalidez de una disposición legislativa si se tiene al menos una interpretación conforme ala CN. Declarar la *inconstitucionalidad* es un último recurso.
+- **Constitución Nacional**: es fundamental que la ley sea conforme a la CN y que no se declare la invalidez de una disposición legislativa si se tiene al menos una interpretación conforme ala CN. Declarar la _inconstitucionalidad_ es un último recurso.
 - **Los Tratados de Derechos Humanos**: solo en los que la República sea parte. Son fuente del derecho y además son ley suprema de la Nación, según la CN.
 - **Los Usos, Prácticas, y Costumbres**: son vinculantes cuando los interesados se refieren a ellos en situaciones no regladas legalmente, siempre que no sean contrarios al derecho.
 

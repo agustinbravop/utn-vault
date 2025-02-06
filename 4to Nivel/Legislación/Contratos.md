@@ -1,8 +1,8 @@
-Los **contratos** son [[Actos Jurídicos]] mediante los cuales dos o más *partes* manifiestan su *consentimiento* para crear, regular, modificar, transferir, o extinguir *relaciones jurídicas patrimoniales*.
+Los **contratos** son [[Actos Jurídicos]] mediante los cuales dos o más _partes_ manifiestan su _consentimiento_ para crear, regular, modificar, transferir, o extinguir _relaciones jurídicas patrimoniales_.
 
-Es un acto *bilateral*, *entre vivos*, y de *carácter patrimonial*.
+Es un acto _bilateral_, _entre vivos_, y de _carácter patrimonial_.
 
-Las *partes* son centros de interés compuestos por una o varias personas. Es un acto voluntario lícito con fines inmediatos. La finalidad jurídica puede ser amplia. El aspecto patrimonial implica un fin lucrativo. El *consentimiento* es elemental (no es tan solo una "declaración de voluntad").
+Las _partes_ son centros de interés compuestos por una o varias personas. Es un acto voluntario lícito con fines inmediatos. La finalidad jurídica puede ser amplia. El aspecto patrimonial implica un fin lucrativo. El _consentimiento_ es elemental (no es tan solo una "declaración de voluntad").
 
 Principios fundamentales de la teoría clásica del contrato:
 
@@ -13,7 +13,7 @@ Estos dos principios se han ido flexibilizando luego del siglo 20 por el gran po
 
 **Buena fe**: cada parte debe guardar fidelidad a la palabra empeñada, y no defraudar la confianza ni abusarla. La buena fe obliga a cumplir obligaciones.
 
-Las normas legales son *supletorias* de la voluntad de las partes en el contrato. Normas:
+Las normas legales son _supletorias_ de la voluntad de las partes en el contrato. Normas:
 
 1. **Indisponibles**: imperativas. Las más importantes para la [[Ley]].
 2. **De los particulares**: estipuladas en el contrato.
@@ -21,7 +21,7 @@ Las normas legales son *supletorias* de la voluntad de las partes en el contrato
 
 Clasificación de los contratos:
 
-1. **Unilaterales/Bilaterales**: es la cantidad de partes obligadas. Si hay más, son *plurilaterales*.
+1. **Unilaterales/Bilaterales**: es la cantidad de partes obligadas. Si hay más, son _plurilaterales_.
 2. **Onerosos/Gratuitos**: si hay o no ventajas o prestaciones recíprocas.
 3. **Aleatorios/Conmutativos**: si dependen de un evento futuro incierto o hay certidumbre.
 4. **Formales/No Formales**: si tienen una forma determinada exigida.
@@ -42,17 +42,17 @@ Tipos de elementos en los contratos:
 
 El **consentimiento** es la integración de las voluntades de las partes tendiente a la celebración del contrato. Sin consentimiento, no hay contrato. Se forma con dos actos jurídicos unilaterales:
 
-- **Oferta**: es la manifestación de voluntad unilateral y recepticia. Dirigida a persona determinada o determinable, con la intención de obligarse (*fuerza obligatoria*), completa o autosuficiente.
+- **Oferta**: es la manifestación de voluntad unilateral y recepticia. Dirigida a persona determinada o determinable, con la intención de obligarse (_fuerza obligatoria_), completa o autosuficiente.
 - **Aceptación**: es la conformidad que presta el destinatario a la oferta hecha. Debe ser recepticia, hecha con intención y libertad, expresando plena conformidad sobre una oferta vigente.
 
-La aceptación *perfecciona* el contrato entre presentes y entre ausentes. Se puede *retractar* la aceptación si el destinatario la recibe antes o al mismo tiempo.
+La aceptación _perfecciona_ el contrato entre presentes y entre ausentes. Se puede _retractar_ la aceptación si el destinatario la recibe antes o al mismo tiempo.
 
 La **capacidad** de derecho y de ejercicio tiene implicancias al momento de hacer contratos:
 
 - **Inhabilidad para contratar**: a algunas personas se les prohíbe contratar.
 - **Inhabilidades especiales**: funcionarios públicos no pueden contratar en interés propio respecto de bienes bajo su administración.
 
-Un contrato celebrado por persona incapaz o inhabilitada es *anulado*.
+Un contrato celebrado por persona incapaz o inhabilitada es _anulado_.
 
 El **objeto** del contrato debe ser:
 
@@ -61,10 +61,10 @@ El **objeto** del contrato debe ser:
 3. Determinado o determinable.
 4. Susceptible de valoración económica (y corresponder a un interés de las partes).
 
-La **causa** del contrato es el *fin inmediato* autorizado por el ordenamiento jurídico que ha sido determinante de la voluntad. Es una finalidad puesta en mira por las partes al celebrar el acto. La existencia de una causa se *presume* y es esencial. Debe ser lícita. En los actos "abstractos" (pagaré, cheque, etc), la causa no es relevante.
+La **causa** del contrato es el _fin inmediato_ autorizado por el ordenamiento jurídico que ha sido determinante de la voluntad. Es una finalidad puesta en mira por las partes al celebrar el acto. La existencia de una causa se _presume_ y es esencial. Debe ser lícita. En los actos "abstractos" (pagaré, cheque, etc), la causa no es relevante.
 
-La **forma** es la manera o medio por la cual las partes manifiestan su consentimiento del contrato. El nuevo Código Civil y Comercial establece la *libertad de formas*.
+La **forma** es la manera o medio por la cual las partes manifiestan su consentimiento del contrato. El nuevo Código Civil y Comercial establece la _libertad de formas_.
 
-Los contratos formales son aquellos para los cuales la ley exige determinadas formalidades para su realización. Pueden ser *absolutos* (sin formalidades serán nulos), *relativos* (falta de forma no acarrea nulidad), o *para la prueba* (solo con fines probatorios).
+Los contratos formales son aquellos para los cuales la ley exige determinadas formalidades para su realización. Pueden ser _absolutos_ (sin formalidades serán nulos), _relativos_ (falta de forma no acarrea nulidad), o _para la prueba_ (solo con fines probatorios).
 
-La **prueba** de un contrato consiste en *demostrar*, mediante la ley, la existencia y alcance del contrato. Se vuelve indispensable cuando hay controversias sobre la existencia del contrato.
+La **prueba** de un contrato consiste en _demostrar_, mediante la ley, la existencia y alcance del contrato. Se vuelve indispensable cuando hay controversias sobre la existencia del contrato.

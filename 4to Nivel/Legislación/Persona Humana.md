@@ -2,13 +2,13 @@ En el (antiguo) Código de Vélez: "son personas todos los susceptibles de adqui
 
 El nuevo código Civil y Comercial habla de **persona humana**, y persona es todo ser humano por el hecho de serlo. no existe ser humano sin derechos.
 
-Una persona comienza a existir desde la *concepción* (dentro o fuera del seno materno): la fecundación  del óvulo femenino por el espermatozoide masculino.
+Una persona comienza a existir desde la _concepción_ (dentro o fuera del seno materno): la fecundación del óvulo femenino por el espermatozoide masculino.
 
-Los derechos y obligaciones del concebido quedan *irrevocablemente adquiridos* si nace con vida. Se *presume* el nacimiento con vida ("iuris tantum"). Si no nace con vida, la persona nunca existió.
+Los derechos y obligaciones del concebido quedan _irrevocablemente adquiridos_ si nace con vida. Se _presume_ el nacimiento con vida ("iuris tantum"). Si no nace con vida, la persona nunca existió.
 
 ## 5 Atributos
 
-Los **5 atributos de una persona** son cualidades jurídicas inseparables de la persona humana o jurídica. Son de carácter *necesario*, *inseparable*, *inalienable*, *imprescriptible*, y *único*.
+Los **5 atributos de una persona** son cualidades jurídicas inseparables de la persona humana o jurídica. Son de carácter _necesario_, _inseparable_, _inalienable_, _imprescriptible_, y _único_.
 
 ### Capacidad
 
@@ -25,15 +25,15 @@ Los jueces pueden declarar personas:
 
 ### Nombre
 
-El **nombre** es el *prenombre* (nombre de pila) y *apellido* (nombre de familia) que individualiza a cada persona dentro de la sociedad.
+El **nombre** es el _prenombre_ (nombre de pila) y _apellido_ (nombre de familia) que individualiza a cada persona dentro de la sociedad.
 
-La persona tiene el derecho y el deber de usar el nombre que le corresponde. El nombre individual lo eligen los padres (respetando ciertas prohibiciones). La adquisición del apellido puede ser originaria o derivada. El nombre se puede cambiar si el juez lo autoriza y median *justos motivos*.
+La persona tiene el derecho y el deber de usar el nombre que le corresponde. El nombre individual lo eligen los padres (respetando ciertas prohibiciones). La adquisición del apellido puede ser originaria o derivada. El nombre se puede cambiar si el juez lo autoriza y median _justos motivos_.
 
-El *sobrenombre* es una designación familiar o íntima. El *seudónimo* es un nombre artístico adquirido por elección. Ambos pueden tener importancia jurídica.
+El _sobrenombre_ es una designación familiar o íntima. El _seudónimo_ es un nombre artístico adquirido por elección. Ambos pueden tener importancia jurídica.
 
 ### Domicilio
 
-El **domicilio** es el *asiento juridico* de una persona donde se la puede encontrar. Es distinto (o no) de la "residencia" y la "habitación" donde vive.
+El **domicilio** es el _asiento juridico_ de una persona donde se la puede encontrar. Es distinto (o no) de la "residencia" y la "habitación" donde vive.
 
 Sirve para hacer notificaciones, para determinar la ley aplicable, y para fijar jueces competentes. Hay 3 **especies** de domicilio:
 
@@ -51,15 +51,15 @@ El **estado** de una persona es la posición jurídica que la persona ocupa en l
 
 La posesión del estado de familia, según la teoría clásica, requiere:
 
-- *nomen*: apellido.
-- *tractatus*: trato.
-- *fama*: reconocimiento.
+- _nomen_: apellido.
+- _tractatus_: trato.
+- _fama_: reconocimiento.
 
 ### Patrimonio
 
-El **patrimonio** es un atributo de la personalidad, y un conjunto de bienes. Es el *conjunto de bienes con valor económico pertenecientes a la persona*.
+El **patrimonio** es un atributo de la personalidad, y un conjunto de bienes. Es el _conjunto de bienes con valor económico pertenecientes a la persona_.
 
-Es una *universalidad jurídica*: genera consecuencias en el derecho. El patrimonio es un conjunto de elementos cuyo criterio aglutinador es la pertenencia a una misma persona.
+Es una _universalidad jurídica_: genera consecuencias en el derecho. El patrimonio es un conjunto de elementos cuyo criterio aglutinador es la pertenencia a una misma persona.
 
 Algunos derechos de las personas sirven para la satisfacción de sus necesidades económicas y pueden valuarse en dinero: son parte de su patrimonio. Otros derechos (de personalidad y de familia) están fuera del patrimonio.
 
@@ -71,7 +71,7 @@ Se afirma que el patrimonio es único e indivisible: una sola persona es **titul
 
 > La existencia de la persona termina por su muerte.
 
-Antes existía la *muerte civil*: una persona que hacía ciertos delitos, o ciertos votos religiosos, era privada de todos los derechos civiles. Ej: España. Actualmente, esto es inconstitucional.
+Antes existía la _muerte civil_: una persona que hacía ciertos delitos, o ciertos votos religiosos, era privada de todos los derechos civiles. Ej: España. Actualmente, esto es inconstitucional.
 
 La **comprobación de la muerte** está sujeta a estándares médicos aceptados. Dispara la disolución del matrimonio, sucesión, etc.
 

@@ -1,4 +1,4 @@
-Un *documento* es algo que puede ser grabado, escrito, filmado. Un *instrumento* es un documento escrito. Se clasifican en públicos, privados (con firma), y particulares (sin firma).
+Un _documento_ es algo que puede ser grabado, escrito, filmado. Un _instrumento_ es un documento escrito. Se clasifican en públicos, privados (con firma), y particulares (sin firma).
 
 Un **instrumento público** es el instrumento otorgado con las formalidades que la [[Ley]] establece en presencia de un oficial público autorizado (como un escribano).
 
@@ -18,15 +18,15 @@ Un **instrumento público** es el instrumento otorgado con las formalidades que 
 
 La **eficacia probatoria** establece que el instrumento público hace plena fe de:
 
-- Hechos *presenciados o cumplidos* por el oficial público, hasta que sea argüido de falso.
-- Hechos *declarados* por las partes, hasta que haya prueba en contrario.
+- Hechos _presenciados o cumplidos_ por el oficial público, hasta que sea argüido de falso.
+- Hechos _declarados_ por las partes, hasta que haya prueba en contrario.
 
-La *fuerza probatoria* puede hacerse valer contra las partes, sus sucesores, y terceros. Esta es la ventaja de los instrumentos públicos por sobre los [[Instrumentos Privados y Particulares]].
+La _fuerza probatoria_ puede hacerse valer contra las partes, sus sucesores, y terceros. Esta es la ventaja de los instrumentos públicos por sobre los [[Instrumentos Privados y Particulares]].
 
-El instrumento público y su contenido se presume *auténtico*. Si alguien quiere **impugnarlo**, lo hace mediante la querella de falsedad o prueba en contrario.
+El instrumento público y su contenido se presume _auténtico_. Si alguien quiere **impugnarlo**, lo hace mediante la querella de falsedad o prueba en contrario.
 
 La **incolumidad formal** establece que los testigos de un instrumento público y el oficial público no pueden contradecir, variar ni alterar su contenido, siempre que no hayan sido víctimas de violencia al testificarlo u otorgarlo.
 
-Un *contradocumento* es una declaración de voluntad formulada por las partes que altera lo expresado en un instrumento público. Es válido entre las partes pero es inoponible a terceros de buena fe.
+Un _contradocumento_ es una declaración de voluntad formulada por las partes que altera lo expresado en un instrumento público. Es válido entre las partes pero es inoponible a terceros de buena fe.
 
 Las [[Escrituras Públicas]] son una manera de generar instrumentos públicos.
