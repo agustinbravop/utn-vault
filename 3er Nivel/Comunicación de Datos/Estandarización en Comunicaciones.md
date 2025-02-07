@@ -8,4 +8,4 @@ Organismos internacionales de normalización:
 
 Organizaciones argentinas:
 
-- Comisión Nacional de Comunicaciones: ejerce el poder de policía del espectro radioeléctrico, de las telecomunicaciones, y de los servicios postales.
+- **Comisión Nacional de Comunicaciones**: ejerce el poder de policía del espectro radioeléctrico, de las telecomunicaciones, y de los servicios postales.

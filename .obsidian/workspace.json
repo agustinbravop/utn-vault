@@ -83,16 +83,114 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "4to Nivel/Redes de Datos/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "860520b8f66729ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Software de Redes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software de Redes"
+            }
+          },
+          {
+            "id": "16fca17f00f6607e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Redes de Datos/Redes de Datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redes de Datos"
+            }
+          },
+          {
+            "id": "0e586926ca136138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Redes de Datos/Redes de Datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redes de Datos"
+            }
+          },
+          {
+            "id": "75c308963da8eea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Redes de Datos/Protocolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protocolo"
+            }
+          },
+          {
+            "id": "c8d673083b0ce8fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Redes de Datos/Entramado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entramado"
+            }
+          },
+          {
+            "id": "fe8f03355ea54a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Redes de Datos/Capa de Enlace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capa de Enlace"
+            }
+          },
+          {
+            "id": "d5677083b3adc504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Comunicación de Datos/Codificación de Datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Codificación de Datos"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -104,7 +202,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 77.67857142857143,
+        "dimension": 62.72321428571429,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -124,7 +222,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 22.321428571428573,
+        "dimension": 37.276785714285715,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -132,7 +230,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "manchester",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -173,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "4to Nivel/Redes de Datos/Capa de Enlace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +281,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Capa de Enlace"
             }
           },
           {
@@ -254,37 +352,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83337d684f10bb13",
+  "active": "fe8f03355ea54a2a",
   "lastOpenFiles": [
+    "4to Nivel/Redes de Datos/Control de Errores.md",
+    "4to Nivel/Redes de Datos/Capa de Enlace.md",
+    "4to Nivel/Redes de Datos/Control de Flujo.md",
+    "4to Nivel/Redes de Datos/Entramado.md",
+    "3er Nivel/Comunicación de Datos/Codificación de Datos.md",
+    "4to Nivel/Redes de Datos/Protocolo.md",
+    "4to Nivel/Redes de Datos/attachments/Capa de Enlace.png",
+    "4to Nivel/Redes de Datos/Redes de Datos.md",
+    "4to Nivel/Redes de Datos/attachments/Modelos de Referencia OSI y TCP-IP.png",
+    "4to Nivel/Redes de Datos/attachments/Protocolo.png",
+    "4to Nivel/Redes de Datos/attachments/Redes de Datos.png",
+    "4to Nivel/Redes de Datos/attachments",
+    "3er Nivel/Comunicación de Datos/Software de Redes.md",
+    "3er Nivel/Comunicación de Datos/Transmisión de Datos.md",
+    "3er Nivel/Comunicación de Datos/Teoría de la Codificación.md",
+    "3er Nivel/Comunicación de Datos/Transmisión de Señales.md",
+    "3er Nivel/Comunicación de Datos/Comunicación de Datos.md",
+    "3er Nivel/Comunicación de Datos/Códigos Perfectos.md",
+    "3er Nivel/Comunicación de Datos/Concentradores.md",
+    "3er Nivel/Comunicación de Datos/Criptografía.md",
+    "3er Nivel/Comunicación de Datos/Criptografía Cuántica.md",
+    "3er Nivel/Comunicación de Datos/Detección de Errores.md",
+    "3er Nivel/Comunicación de Datos/Distancia de Hamming.md",
+    "3er Nivel/Comunicación de Datos/Estandarización en Comunicaciones.md",
+    "3er Nivel/Comunicación de Datos/index.md",
+    "4to Nivel/Redes de Datos/index.md",
+    "4to Nivel/Legislación/index.md",
+    "index.md",
+    "4to Nivel/Redes de Datos",
     "4to Nivel/Legislación/attachments/desktop.ini",
     "4to Nivel/index.md",
-    "4to Nivel/Legislación/index.md",
     "4to Nivel/Legislación/attachments/MOC Legislación.png",
     "4to Nivel/Legislación/attachments",
     "4to Nivel/Legislación/MOC Legislación.canvas",
     "4to Nivel/Legislación/Actos Jurídicos.md",
     "4to Nivel/Legislación/Ejercicio Profesional del Ingeniero.md",
-    "4to Nivel/Legislación/Prueba Pericial.md",
-    "4to Nivel/Legislación/Contratos.md",
-    "4to Nivel/Legislación/Contratos de Trabajo.md",
-    "4to Nivel/Legislación/Derecho Laboral.md",
-    "4to Nivel/Legislación/Fuentes de Derecho.md",
-    "4to Nivel/Legislación/Ley.md",
-    "4to Nivel/Legislación/Sociedades.md",
-    "4to Nivel/Legislación/Sociedad de Responsabilidad Limitada.md",
-    "3er Nivel/Probabilidad y Estadística/index.md",
-    "3er Nivel/Probabilidad y Estadística/Medidas de Dispersión.md",
-    "3er Nivel/Probabilidad y Estadística/Medidas de Posición.md",
-    "3er Nivel/Probabilidad y Estadística/Método de los Mínimos Cuadrados.md",
-    "3er Nivel/Probabilidad y Estadística/Población.md",
-    "3er Nivel/Probabilidad y Estadística/Probabilidad.md",
-    "3er Nivel/Probabilidad y Estadística/Probabilidad Total.md",
-    "3er Nivel/Probabilidad y Estadística/Teorema Central del Límite.md",
-    "3er Nivel/Probabilidad y Estadística/Teorema de Bayes.md",
-    "3er Nivel/Probabilidad y Estadística/Teoría de la Decisión Estadística.md",
-    "3er Nivel/Probabilidad y Estadística/Teoría de la Estimación Estadística.md",
-    "3er Nivel/Probabilidad y Estadística/Teoría de las Muestras.md",
-    "3er Nivel/Diseño de Sistemas de Información/Usabilidad.md",
     "3er Nivel/Diseño de Sistemas de Información/attachments/MOC Diseño de Sistemas de Información.png",
     "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
     "4to Nivel/Legislación",
@@ -294,22 +399,15 @@
     "4to Nivel/Investigación Operativa/attachments/Modelos de Pronósticos.png",
     "4to Nivel/Investigación Operativa/attachments/Modelo con Descuento por Cantidad.png",
     "4to Nivel/Investigación Operativa/attachments/Modelo de Demanda Constante con Agotamiento.png",
-    "4to Nivel/Investigación Operativa/attachments/Modelo de Demanda Constante con Stock de Protección.png",
-    "4to Nivel/Investigación Operativa/attachments/Modelo Triangular (Reposición No Instantánea).png",
-    "4to Nivel/Investigación Operativa/attachments/Pasted image 20250202212339.png",
-    "4to Nivel/Investigación Operativa/attachments/Modelo de Wilson sin Agotamiento.png",
     "4to Nivel/Investigación Operativa/attachments",
     "4to Nivel/Investigación Operativa",
     "4to Nivel/Simulación/MOC Simulación.canvas",
     "4to Nivel/Simulación/attachments",
     "4to Nivel/Simulación",
     "3er Nivel/Diseño de Sistemas de Información/attachments",
-    "3er Nivel/Diseño de Sistemas de Información/desktop.ini",
-    "3er Nivel/Diseño de Sistemas de Información",
     "2do Nivel/Sistemas Operativos/MOC Sistemas Operativos.canvas",
     "2do Nivel/Paradigmas de Programación/MOC Paradigmas de Programación.canvas",
     "3er Nivel/Análisis Numérico/MOC Análisis Numérico.canvas",
-    "3er Nivel/Análisis Numérico/attachments",
     "3er Nivel/Comunicación de Datos/MOC Comunicación de Datos.canvas",
     "3er Nivel/Desarrollo de Software/MOC Desarrollo de Software.canvas"
   ]

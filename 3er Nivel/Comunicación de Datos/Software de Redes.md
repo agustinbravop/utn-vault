@@ -1,4 +1,4 @@
-El **software de redes** para la [[Comunicación de Datos]] está muy estructurado y tiene una **jerarquía de protocolos** clara.
+El **software de redes** para la [[Comunicación de Datos]] está muy estructurado y tiene una **jerarquía de protocolos** clara. Esto se le da más detalle en la materia siguiente, [[Redes de Datos]].
 
 ![[Software de Redes.png]]
 
