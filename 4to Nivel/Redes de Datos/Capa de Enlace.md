@@ -1,12 +1,15 @@
-La **capa de Enlace** es la responsable de la transferencia de mensajes (*tramas*), utilizando los [[Redes de Datos|servicios]] de la capa física. Transforma un canal físico susceptible de provocar errores, en un enlace lógico prácticamente libre de errores.
+La **capa de Enlace** (capa 2 en el modelo OSI) es la responsable de la transferencia de mensajes (o *tramas*), utilizando los [[Redes de Datos|servicios]] de la capa física. Transforma un canal físico susceptible de provocar errores, en un enlace lógico prácticamente libre de errores. Se suele dividir en dos subcapas:
+
+- Subcapa de Control Lógico de Enlace (superior).
+- [[Subcapa de Control de Acceso al Medio]] (inferior).
 
 Funciones:
 
-1. [[Entramado]] y encapsulamiento.
-2. Direccionamiento.
-3. [[Control de Errores]].
-4. [[Control de Flujo]].
-5. Control de acceso al medio.
+2. [[Entramado]] y encapsulamiento.
+3. Direccionamiento.
+4. [[Control de Errores]].
+5. [[Control de Flujo]].
+6. Control de acceso al medio.
 
 La *trama* es la PDU de esta capa. Es un bloque de datos con información de control.
 
@@ -16,7 +19,7 @@ La *trama* es la PDU de esta capa. Es un bloque de datos con información de con
 
 Protocolos de capa de enlace:
 
-1. [[HDLC]].
-2. [[PPP]].
-3. [[Frame Relay]].
-4. [[ATM]].
+7. [[HDLC]].
+8. [[PPP]].
+9. [[Frame Relay]].
+10. [[ATM]].

@@ -8,77 +8,133 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc8257a7ccde43db",
+            "id": "51bab32b79212cab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Legislación/Contratos.md",
+                "file": "4to Nivel/Redes de Datos/Subcapa de Control de Acceso al Medio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contratos"
+              "title": "Subcapa de Control de Acceso al Medio"
             }
           },
           {
-            "id": "635bca47976c5029",
+            "id": "c2915cb6401a1704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Legislación/Contratos de Obras y Servicios.md",
+                "file": "4to Nivel/Redes de Datos/Ethernet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contratos de Obras y Servicios"
+              "title": "Ethernet"
             }
           },
           {
-            "id": "1427915220972870",
+            "id": "f343f17110de3f24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Legislación/Derecho Laboral.md",
+                "file": "4to Nivel/Redes de Datos/Conmutación en Redes LAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derecho Laboral"
+              "title": "Conmutación en Redes LAN"
             }
           },
           {
-            "id": "2f984c63d1fb6189",
+            "id": "94f7e051b2374259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Legislación/Contratos de Trabajo.md",
+                "file": "4to Nivel/Redes de Datos/Seguridad y Criptografía.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contratos de Trabajo"
+              "title": "Seguridad y Criptografía"
             }
           },
           {
-            "id": "e2c4286cb17d7c56",
+            "id": "3623c5781a18fcda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Legislación/Prueba Pericial.md",
+                "file": "4to Nivel/Redes de Datos/Estándar 802.11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prueba Pericial"
+              "title": "Estándar 802.11"
             }
           },
           {
-            "id": "83337d684f10bb13",
+            "id": "a9ae3b9e815d4012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Redes de Datos/Estándar 802.11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estándar 802.11"
+            }
+          },
+          {
+            "id": "b74f88a00916da67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Redes de Datos/MACA y MACAW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MACA y MACAW"
+            }
+          },
+          {
+            "id": "87e2c0e6e517b2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Redes de Datos/MACA y MACAW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MACA y MACAW"
+            }
+          },
+          {
+            "id": "679ad24b77d10424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Redes de Datos/Switches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Switches"
+            }
+          },
+          {
+            "id": "4458a17442963e0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,77 +148,7 @@
             }
           },
           {
-            "id": "860520b8f66729ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Comunicación de Datos/Software de Redes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Software de Redes"
-            }
-          },
-          {
-            "id": "16fca17f00f6607e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/Redes de Datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redes de Datos"
-            }
-          },
-          {
-            "id": "0e586926ca136138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/Redes de Datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redes de Datos"
-            }
-          },
-          {
-            "id": "75c308963da8eea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/Protocolo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Protocolo"
-            }
-          },
-          {
-            "id": "c8d673083b0ce8fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/Entramado.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entramado"
-            }
-          },
-          {
-            "id": "fe8f03355ea54a2a",
+            "id": "cc1a41038b9df29e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,23 +160,9 @@
               "icon": "lucide-file",
               "title": "Capa de Enlace"
             }
-          },
-          {
-            "id": "d5677083b3adc504",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Comunicación de Datos/Codificación de Datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Codificación de Datos"
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "manchester",
+                "query": "fdm",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -271,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Redes de Datos/Capa de Enlace.md",
+                "file": "4to Nivel/Redes de Datos/Estándar 802.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +253,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Capa de Enlace"
+              "title": "Backlinks for Estándar 802.11"
             }
           },
           {
@@ -352,53 +324,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe8f03355ea54a2a",
+  "active": "a9ae3b9e815d4012",
   "lastOpenFiles": [
-    "4to Nivel/Redes de Datos/Control de Errores.md",
+    "4to Nivel/Redes de Datos/MACA y MACAW.md",
+    "4to Nivel/Redes de Datos/index.md",
+    "4to Nivel/Redes de Datos/Subcapa de Control de Acceso al Medio.md",
+    "4to Nivel/Redes de Datos/MACA.md",
+    "4to Nivel/Redes de Datos/Estándar 802.11.md",
+    "4to Nivel/Redes de Datos/ProtocMACAW.md",
+    "4to Nivel/Redes de Datos/attachments/Estándar 802.11.png",
+    "4to Nivel/Redes de Datos/Seguridad y Criptografía.md",
+    "4to Nivel/Redes de Datos/attachments/3DES.png",
+    "4to Nivel/Redes de Datos/attachments/DES.png",
+    "4to Nivel/Redes de Datos/attachments/Seguridad y Criptografía.png",
+    "4to Nivel/Redes de Datos/Conmutación en Redes LAN.md",
+    "3er Nivel/Comunicación de Datos/Criptografía.md",
+    "4to Nivel/Redes de Datos/Criptogra.md",
+    "4to Nivel/Redes de Datos/Switches.md",
+    "4to Nivel/Redes de Datos/Puentes de Red.md",
+    "4to Nivel/Redes de Datos/attachments/Estados de un Puerto Spanning Tree.png",
+    "4to Nivel/Redes de Datos/attachments/Bucles entre Puentes de Red.png",
+    "4to Nivel/Redes de Datos/attachments/Puentes de Red (3 Puertos).png",
+    "4to Nivel/Redes de Datos/attachments/Puentes de Red.png",
     "4to Nivel/Redes de Datos/Capa de Enlace.md",
+    "4to Nivel/Redes de Datos/Ethernet.md",
+    "4to Nivel/Redes de Datos/attachments/Encapsulamiento Ethernet.png",
+    "4to Nivel/Redes de Datos/attachments/Stack de Ethernet.png",
+    "3er Nivel/Comunicación de Datos/Multiplexación.md",
+    "4to Nivel/Redes de Datos/Capa de Control de Acceso al Medio.md",
+    "4to Nivel/Redes de Datos/ATM.md",
+    "4to Nivel/Redes de Datos/Frame Relay.md",
+    "3er Nivel/Comunicación de Datos/Conmutación de Paquetes.md",
+    "4to Nivel/Redes de Datos/PPP.md",
+    "4to Nivel/Redes de Datos/HDLC.md",
+    "4to Nivel/Redes de Datos/Control de Errores.md",
     "4to Nivel/Redes de Datos/Control de Flujo.md",
     "4to Nivel/Redes de Datos/Entramado.md",
     "3er Nivel/Comunicación de Datos/Codificación de Datos.md",
     "4to Nivel/Redes de Datos/Protocolo.md",
-    "4to Nivel/Redes de Datos/attachments/Capa de Enlace.png",
-    "4to Nivel/Redes de Datos/Redes de Datos.md",
-    "4to Nivel/Redes de Datos/attachments/Modelos de Referencia OSI y TCP-IP.png",
-    "4to Nivel/Redes de Datos/attachments/Protocolo.png",
-    "4to Nivel/Redes de Datos/attachments/Redes de Datos.png",
     "4to Nivel/Redes de Datos/attachments",
-    "3er Nivel/Comunicación de Datos/Software de Redes.md",
-    "3er Nivel/Comunicación de Datos/Transmisión de Datos.md",
-    "3er Nivel/Comunicación de Datos/Teoría de la Codificación.md",
-    "3er Nivel/Comunicación de Datos/Transmisión de Señales.md",
-    "3er Nivel/Comunicación de Datos/Comunicación de Datos.md",
-    "3er Nivel/Comunicación de Datos/Códigos Perfectos.md",
-    "3er Nivel/Comunicación de Datos/Concentradores.md",
-    "3er Nivel/Comunicación de Datos/Criptografía.md",
-    "3er Nivel/Comunicación de Datos/Criptografía Cuántica.md",
-    "3er Nivel/Comunicación de Datos/Detección de Errores.md",
-    "3er Nivel/Comunicación de Datos/Distancia de Hamming.md",
-    "3er Nivel/Comunicación de Datos/Estandarización en Comunicaciones.md",
-    "3er Nivel/Comunicación de Datos/index.md",
-    "4to Nivel/Redes de Datos/index.md",
-    "4to Nivel/Legislación/index.md",
-    "index.md",
     "4to Nivel/Redes de Datos",
     "4to Nivel/Legislación/attachments/desktop.ini",
-    "4to Nivel/index.md",
-    "4to Nivel/Legislación/attachments/MOC Legislación.png",
     "4to Nivel/Legislación/attachments",
     "4to Nivel/Legislación/MOC Legislación.canvas",
-    "4to Nivel/Legislación/Actos Jurídicos.md",
-    "4to Nivel/Legislación/Ejercicio Profesional del Ingeniero.md",
-    "3er Nivel/Diseño de Sistemas de Información/attachments/MOC Diseño de Sistemas de Información.png",
     "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
     "4to Nivel/Legislación",
     "4to Nivel/Investigación Operativa/MOC Investigación Operativa.canvas",
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
-    "4to Nivel/Investigación Operativa/attachments/MOC Investigación Operativa.png",
-    "4to Nivel/Investigación Operativa/attachments/Modelos de Pronósticos.png",
-    "4to Nivel/Investigación Operativa/attachments/Modelo con Descuento por Cantidad.png",
-    "4to Nivel/Investigación Operativa/attachments/Modelo de Demanda Constante con Agotamiento.png",
     "4to Nivel/Investigación Operativa/attachments",
     "4to Nivel/Investigación Operativa",
     "4to Nivel/Simulación/MOC Simulación.canvas",
