@@ -8,7 +8,7 @@ Modos básicos de operación:
 
 **Las WLAN son una extensión de la red LAN cableada**, aunque pueden también ser un sustituto completo.
 
-La configuración típica involucra varias estaciones y una base:
+La configuración típica involucra varias *estaciones* y una *base*:
 
 ![[Estándar 802.11.png]]
 
@@ -27,7 +27,7 @@ En modo Ad-Hoc, se usa DCF para que las estaciones coordinen entre sí usando un
 
 En modo infraestructura, implementa control PCF.
 
-Servicios de un access point (AP) o base:
+Servicios de un *access point* (AP) o base:
 
 1. Asociación.
 2. Desasociación.
