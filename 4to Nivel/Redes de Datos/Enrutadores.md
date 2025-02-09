@@ -34,7 +34,7 @@ El algoritmo de Dijkstra de la **ruta más corta** es un ejemplo de ruteo estát
 
 ![[Ruteo Estático.png]]
 
-### Ruteo Dinámico por Vector de Distancia
+### Ruteo Dinámico por Vector Distancia
 
 Se utiliza el algoritmo de Bellman-Ford o de Ford-Fulkerson. Se almacena un vector con las distancias.
 
