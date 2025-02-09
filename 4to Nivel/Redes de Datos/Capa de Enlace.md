@@ -9,7 +9,7 @@ Funciones:
 3. Direccionamiento.
 4. [[Control de Errores]].
 5. [[Control de Flujo]].
-6. Control de acceso al medio.
+6. [[Subcapa de Control de Acceso al Medio|Control de acceso al medio]].
 
 La *trama* es la PDU de esta capa. Es un bloque de datos con información de control.
 

@@ -1,6 +1,6 @@
 En el [[Estándar 802.11]], dado que el medio es **no guiado**, se necesita encriptar para tener confidencialidad.
 
-Un primer intento fue **WEP**, que usaba el [[Seguridad y Criptografía#Cifrado Simétrico|cifrado simétrico]]. Su implementación defectuosa y esquema vulnerable hace que no se utilice más.
+Un primer intento fue **WEP**, que usaba el [[Ciberseguridad#Cifrado Simétrico|cifrado simétrico]]. Su implementación defectuosa y esquema vulnerable hace que no se utilice más.
 
 Nace el **estándar 802.11i** y el [[Protocolo]] **WPA**. En entornos no críticos se usa WPA, un compromiso entre WEP y la totalidad del estándar 802.11i.
 
@@ -10,7 +10,7 @@ WPA usa el protocolo **TKIP** (*Temporal Key Integrity Protocol*), variando la c
 
 WPA asegura la integridad de datos al usar un código de autenticación de mensajes (MIC) que previene la modificación o inyección de paquetes.
 
-WPA2 es una versión mejorada que usa un protocolo CCMP (*Counter with CBC-MAC Mode Protocol*) para el cifrado, basado en [[Seguridad y Criptografía#Cifrado Simétrico|AES]] y por ende más robusto que TKIP, el cual está basado en RC4.
+WPA2 es una versión mejorada que usa un protocolo CCMP (*Counter with CBC-MAC Mode Protocol*) para el cifrado, basado en [[Ciberseguridad#Cifrado Simétrico|AES]] y por ende más robusto que TKIP, el cual está basado en RC4.
 
 ![[CCMP.png]]
 

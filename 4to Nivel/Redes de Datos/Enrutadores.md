@@ -42,7 +42,7 @@ Esta estrategia hace que cada enrutador mantenga una **tabla** (vector) que da t
 
 En la práctica, este enrutamiento resulta muy **lento**, sobre todo porque reacciona con lentitud ante fallos en los nodos. Además, se puede dar el problema de la **cuenta a infinito**: los routers incrementan recursivamente la distancia a un enrutador que está caído, porque todos los vecinos creen que lo pueden alcanzar (aunque no esté disponible).
 
-### Ruteo Dinámico por Estado  de Enlace
+### Ruteo Dinámico por Estado de Enlace
 
 El algoritmo link-state (LS) tiene 4 etapas:
 
