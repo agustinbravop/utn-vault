@@ -10,7 +10,7 @@ Ciclo Lectivo: 2024.
 Carga horaria: 144 horas cátedra.
 Cursado: Anual.
 
-Foco en mucha lectura de bibliografía.
+Materia integradora del cuarto nivel. Foco en mucha lectura de bibliografía.
 
 ### Profesores
 

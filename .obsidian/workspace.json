@@ -8,152 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6aacc853a771466c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/Autonomous Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Autonomous Systems"
-            }
-          },
-          {
-            "id": "a19d308e009f770a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/BGPv4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BGPv4"
-            }
-          },
-          {
-            "id": "400ff780fa942fac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/BGPv4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BGPv4"
-            }
-          },
-          {
-            "id": "10acf715d4e46a7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/DHCP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DHCP"
-            }
-          },
-          {
-            "id": "5a51c2280d619c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNS"
-            }
-          },
-          {
-            "id": "ce88432846ee34f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/Ciberseguridad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ciberseguridad"
-            }
-          },
-          {
-            "id": "b847e662e095c1ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/IPSec.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IPSec"
-            }
-          },
-          {
-            "id": "0c4471be5cd91991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/VPN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VPN"
-            }
-          },
-          {
-            "id": "3bb14b3e9e0c6295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/Firewalls.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Firewalls"
-            }
-          },
-          {
-            "id": "95ab14af63af63e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Redes de Datos/Administración de Redes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Administración de Redes"
-            }
-          },
-          {
             "id": "84c293766396a33c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "4to Nivel/Tecnologías para la Automatización/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -162,35 +22,91 @@
             }
           },
           {
-            "id": "ca32139e45842c5d",
+            "id": "9dc9921bedb584ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Redes de Datos/IntServ.md",
+                "file": "4to Nivel/Tecnologías para la Automatización/Álgebra de Bloques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IntServ"
+              "title": "Álgebra de Bloques"
             }
           },
           {
-            "id": "4ae2b93b46523d16",
+            "id": "b6530464df30c115",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Redes de Datos/Subnetting.md",
+                "file": "4to Nivel/Tecnologías para la Automatización/Actuadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subnetting"
+              "title": "Actuadores"
+            }
+          },
+          {
+            "id": "7745401a50c803db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Tecnologías para la Automatización/Transformada Z Aplicada a los Sistemas de Control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformada Z Aplicada a los Sistemas de Control"
+            }
+          },
+          {
+            "id": "6484a6545b0db464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Tecnologías para la Automatización/Actuadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actuadores"
+            }
+          },
+          {
+            "id": "8954f383b31cbc6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Tecnologías para la Automatización/Isomorfismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isomorfismo"
+            }
+          },
+          {
+            "id": "3478a3edd4575e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Nivel/Tecnologías para la Automatización/Diagrama de Bloques Funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diagrama de Bloques Funcionales"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "4to Nivel/Tecnologías para la Automatización/Transformada Z Aplicada a los Sistemas de Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Transformada Z Aplicada a los Sistemas de Control"
             }
           },
           {
@@ -354,45 +270,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84c293766396a33c",
+  "active": "7745401a50c803db",
   "lastOpenFiles": [
+    "4to Nivel/Tecnologías para la Automatización/attachments/Transformada Z Aplicada a los Sistemas de Control.png",
+    "4to Nivel/Tecnologías para la Automatización/Modelos Matemáticos de Sistemas de Control.md",
+    "4to Nivel/Tecnologías para la Automatización/Transformada Z Aplicada a los Sistemas de Control.md",
+    "4to Nivel/Tecnologías para la Automatización/Transformada de Laplace Aplicada a los Sistemas de Control.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Transformada de Laplace Aplicada a los Sistemas de Control.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Conversión Analógico Digital.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Perturbaciones Externas en Sistemas de Lazo Cerrado.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Perturbaciones Externas en Sistemas de Lazo Abierto.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Sistema de Lazo Cerrado.png",
+    "4to Nivel/Tecnologías para la Automatización/Actuadores.md",
+    "4to Nivel/Tecnologías para la Automatización/Sistema de Control.md",
+    "4to Nivel/Tecnologías para la Automatización/Sensores.md",
+    "4to Nivel/Tecnologías para la Automatización/Componentes Básicos de un Sistema de Control.md",
+    "4to Nivel/Tecnologías para la Automatización/Diagrama de Flujo de Señales.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Diagrama de Flujo de Señales.png",
+    "4to Nivel/Tecnologías para la Automatización/Álgebra de Bloques.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Reglas del Álgebra de Bloques.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Álgebra de Bloques.png",
+    "4to Nivel/Tecnologías para la Automatización/Diagrama de Bloques Funcionales.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Comparador.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Bloque Funcional.png",
+    "4to Nivel/Tecnologías para la Automatización/Teoría de Control.md",
+    "4to Nivel/Tecnologías para la Automatización/Ingeniería de Control.md",
+    "3er Nivel/Análisis Numérico/Estabilidad.md",
+    "4to Nivel/Administración de Sistemas de Información/index.md",
+    "3er Nivel/Diseño de Sistemas de Información/index.md",
+    "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
+    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Warnier.md",
+    "3er Nivel/Diseño de Sistemas de Información/Reportes Impresos.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments",
+    "4to Nivel/Tecnologías para la Automatización/Isomorfismo.md",
+    "4to Nivel/Administración de Sistemas de Información/Sistemas Abiertos.md",
+    "4to Nivel/Tecnologías para la Automatización/index.md",
     "4to Nivel/Redes de Datos/index.md",
     "index.md",
+    "4to Nivel/Tecnologías para la Automatización",
     "4to Nivel/index.md",
-    "4to Nivel/Redes de Datos/attachments/MOC Redes de Datos 1.png",
     "4to Nivel/Redes de Datos/MOC Redes de Datos.canvas",
-    "4to Nivel/Redes de Datos/attachments/MOC Redes de Datos.png",
     "4to Nivel/Redes de Datos/Protocolo.md",
     "4to Nivel/Redes de Datos/Subcapa de Control de Acceso al Medio.md",
-    "4to Nivel/Redes de Datos/Esquema Global de Conectividad.md",
-    "4to Nivel/Redes de Datos/BGPv4.md",
-    "4to Nivel/Redes de Datos/attachments/Esquema Global de Conectividad.png",
-    "4to Nivel/Redes de Datos/Administración de Redes.md",
-    "4to Nivel/Redes de Datos/Firewalls.md",
-    "4to Nivel/Redes de Datos/VPN.md",
-    "4to Nivel/Redes de Datos/IPSec.md",
-    "4to Nivel/Redes de Datos/Ciberseguridad.md",
-    "4to Nivel/Redes de Datos/Calidad de Servicio.md",
-    "4to Nivel/Redes de Datos/attachments/Policy Routing.png",
-    "4to Nivel/Redes de Datos/DiffServ.md",
-    "4to Nivel/Redes de Datos/attachments/DiffServ.png",
-    "4to Nivel/Redes de Datos/IntServ.md",
-    "4to Nivel/Redes de Datos/attachments/IntServ.png",
-    "4to Nivel/Redes de Datos/attachments/Traffic Shaping vs Policing.png",
-    "4to Nivel/Redes de Datos/attachments/Calidad de Servicio.png",
-    "4to Nivel/Redes de Datos/DNS.md",
-    "4to Nivel/Redes de Datos/DHCP.md",
-    "4to Nivel/Redes de Datos/attachments/Estructura de la Internet Global.png",
-    "4to Nivel/Redes de Datos/attachments/Relación entre Pares BGPv4.png",
-    "4to Nivel/Redes de Datos/Subnetting.md",
-    "4to Nivel/Redes de Datos/Ruteo Externo.md",
-    "4to Nivel/Redes de Datos/Autonomous Systems.md",
-    "4to Nivel/Redes de Datos/OSPF.md",
-    "4to Nivel/Redes de Datos/Capa de Transporte.md",
-    "4to Nivel/Redes de Datos/UDP.md",
-    "4to Nivel/Redes de Datos/TCP.md",
-    "4to Nivel/Redes de Datos/Congestión en TCP.md",
-    "4to Nivel/Redes de Datos/Puertos.md",
     "4to Nivel/Investigación Operativa/attachments/desktop.ini",
     "2do Nivel/Análisis de Sistemas de Información/attachments/desktop.ini",
     "desktop.ini",
@@ -401,12 +320,9 @@
     "4to Nivel/Legislación/attachments/desktop.ini",
     "4to Nivel/Legislación/attachments",
     "4to Nivel/Legislación/MOC Legislación.canvas",
-    "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
     "4to Nivel/Legislación",
     "4to Nivel/Investigación Operativa/MOC Investigación Operativa.canvas",
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
-    "4to Nivel/Investigación Operativa/attachments",
-    "4to Nivel/Investigación Operativa",
     "4to Nivel/Simulación/MOC Simulación.canvas",
     "2do Nivel/Sistemas Operativos/MOC Sistemas Operativos.canvas",
     "2do Nivel/Paradigmas de Programación/MOC Paradigmas de Programación.canvas",

@@ -16,4 +16,4 @@ Pasos para preparar un formato impreso:
 9. Indicar la posición de los totales y cortes.
 10. Revisar el prototipo con los usuarios.
 
-Los [[Diagramas de Warnier]] nos permiten _jerarquizar_ la información variable de los reportes impresos.
+Un [[Diagrama de Warnier]] nos permite _jerarquizar_ la información variable de los reportes impresos.

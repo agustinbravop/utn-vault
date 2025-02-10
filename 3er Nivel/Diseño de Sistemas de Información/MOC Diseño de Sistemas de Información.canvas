@@ -44,7 +44,7 @@
 		{"id":"6435019e70b22b50","type":"file","file":"3er Nivel/Diseño de Sistemas de Información/Patrón de Diseño Factory Method.md","x":3560,"y":-880,"width":400,"height":400},
 		{"id":"b6cc19038fdd5acf","type":"file","file":"3er Nivel/Diseño de Sistemas de Información/Patrón de Diseño Singleton.md","x":3560,"y":-400,"width":400,"height":400},
 		{"id":"dd3f57d327eed1be","type":"file","file":"3er Nivel/Diseño de Sistemas de Información/Frameworks Ágiles.md","x":3040,"y":-1400,"width":400,"height":400},
-		{"id":"e45a530eebf85431","x":-2120,"y":-400,"width":400,"height":400,"type":"file","file":"3er Nivel/Diseño de Sistemas de Información/Diagramas de Warnier.md"}
+		{"id":"e45a530eebf85431","x":-2120,"y":-400,"width":400,"height":400,"type":"file","file":"3er Nivel/Diseño de Sistemas de Información/Diagrama de Warnier.md"}
 	],
 	"edges":[
 		{"id":"19bd937d0e9d77eb","fromNode":"1bb43089da634eb5","fromSide":"bottom","toNode":"9bff301726504ae5","toSide":"top","label":"diseña"},
