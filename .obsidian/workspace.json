@@ -8,101 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84c293766396a33c",
+            "id": "5ad74313fc749057",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Tecnologías para la Automatización/index.md",
+                "file": "4to Nivel/Tecnologías para la Automatización/Diagrama de Nyquist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Diagrama de Nyquist"
             }
           },
           {
-            "id": "9dc9921bedb584ab",
+            "id": "f2c25f690ea05617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Tecnologías para la Automatización/Álgebra de Bloques.md",
+                "file": "4to Nivel/Tecnologías para la Automatización/Internet of Things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Álgebra de Bloques"
+              "title": "Internet of Things"
             }
           },
           {
-            "id": "b6530464df30c115",
+            "id": "233fe0f1338cba87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Tecnologías para la Automatización/Actuadores.md",
+                "file": "4to Nivel/Tecnologías para la Automatización/Protocolos IoT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actuadores"
+              "title": "Protocolos IoT"
             }
           },
           {
-            "id": "7745401a50c803db",
+            "id": "e29ffc41b7e7fd0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Tecnologías para la Automatización/Transformada Z Aplicada a los Sistemas de Control.md",
+                "file": "4to Nivel/Tecnologías para la Automatización/Zigbee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformada Z Aplicada a los Sistemas de Control"
-            }
-          },
-          {
-            "id": "6484a6545b0db464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Tecnologías para la Automatización/Actuadores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actuadores"
-            }
-          },
-          {
-            "id": "8954f383b31cbc6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Tecnologías para la Automatización/Isomorfismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isomorfismo"
-            }
-          },
-          {
-            "id": "3478a3edd4575e0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Tecnologías para la Automatización/Diagrama de Bloques Funcionales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diagrama de Bloques Funcionales"
+              "title": "Zigbee"
             }
           }
         ],
@@ -187,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Tecnologías para la Automatización/Transformada Z Aplicada a los Sistemas de Control.md",
+                "file": "4to Nivel/Tecnologías para la Automatización/Zigbee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Transformada Z Aplicada a los Sistemas de Control"
+              "title": "Backlinks for Zigbee"
             }
           },
           {
@@ -270,48 +228,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7745401a50c803db",
+  "active": "e29ffc41b7e7fd0f",
   "lastOpenFiles": [
-    "4to Nivel/Tecnologías para la Automatización/attachments/Transformada Z Aplicada a los Sistemas de Control.png",
-    "4to Nivel/Tecnologías para la Automatización/Modelos Matemáticos de Sistemas de Control.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Stack de Protocolos Zigbee.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Topologías de Zigbee.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Picture1.png",
+    "4to Nivel/Tecnologías para la Automatización/Zigbee.md",
+    "4to Nivel/Tecnologías para la Automatización/Protocolos IoT.md",
+    "4to Nivel/Tecnologías para la Automatización/Internet of Things.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Internet of Things.png",
+    "4to Nivel/Tecnologías para la Automatización/Diagrama de Nyquist.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Diagrama de Nyquist.png",
+    "4to Nivel/Tecnologías para la Automatización/Diagrama de Bode.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Diagrama de Bode.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Diagrama de Bode.png",
+    "4to Nivel/Tecnologías para la Automatización/Respuesta en Frecuencia.md",
+    "4to Nivel/Tecnologías para la Automatización/Respuesta.md",
+    "4to Nivel/Tecnologías para la Automatización/Método del Lugar Geométrico de las Raíces.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Método del Lugar Geométrico de las Raíces.png",
+    "4to Nivel/Tecnologías para la Automatización/Estabilidad de los Sistemas de Control.md",
+    "4to Nivel/Tecnologías para la Automatización/Controladores.md",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Controlador PID.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Controlador Integral.png",
+    "4to Nivel/Tecnologías para la Automatización/attachments/Controlador Proporcional.png",
+    "4to Nivel/Tecnologías para la Automatización/Error en Estado Estable de los Sistemas de Control.md",
+    "3er Nivel/Análisis Numérico/Respuesta al Impulso.md",
+    "4to Nivel/Tecnologías para la Automatización/Respues.md",
+    "3er Nivel/Análisis Numérico/Estabilidad.md",
     "4to Nivel/Tecnologías para la Automatización/Transformada Z Aplicada a los Sistemas de Control.md",
+    "4to Nivel/Tecnologías para la Automatización/Transformada Z.md",
+    "4to Nivel/Tecnologías para la Automatización/Modelos Matemáticos de Sistemas de Control.md",
     "4to Nivel/Tecnologías para la Automatización/Transformada de Laplace Aplicada a los Sistemas de Control.md",
-    "4to Nivel/Tecnologías para la Automatización/attachments/Transformada de Laplace Aplicada a los Sistemas de Control.png",
-    "4to Nivel/Tecnologías para la Automatización/attachments/Conversión Analógico Digital.png",
-    "4to Nivel/Tecnologías para la Automatización/attachments/Perturbaciones Externas en Sistemas de Lazo Cerrado.png",
-    "4to Nivel/Tecnologías para la Automatización/attachments/Perturbaciones Externas en Sistemas de Lazo Abierto.png",
-    "4to Nivel/Tecnologías para la Automatización/attachments/Sistema de Lazo Cerrado.png",
     "4to Nivel/Tecnologías para la Automatización/Actuadores.md",
     "4to Nivel/Tecnologías para la Automatización/Sistema de Control.md",
     "4to Nivel/Tecnologías para la Automatización/Sensores.md",
     "4to Nivel/Tecnologías para la Automatización/Componentes Básicos de un Sistema de Control.md",
     "4to Nivel/Tecnologías para la Automatización/Diagrama de Flujo de Señales.md",
-    "4to Nivel/Tecnologías para la Automatización/attachments/Diagrama de Flujo de Señales.png",
     "4to Nivel/Tecnologías para la Automatización/Álgebra de Bloques.md",
-    "4to Nivel/Tecnologías para la Automatización/attachments/Reglas del Álgebra de Bloques.png",
-    "4to Nivel/Tecnologías para la Automatización/attachments/Álgebra de Bloques.png",
     "4to Nivel/Tecnologías para la Automatización/Diagrama de Bloques Funcionales.md",
-    "4to Nivel/Tecnologías para la Automatización/attachments/Comparador.png",
-    "4to Nivel/Tecnologías para la Automatización/attachments/Bloque Funcional.png",
-    "4to Nivel/Tecnologías para la Automatización/Teoría de Control.md",
-    "4to Nivel/Tecnologías para la Automatización/Ingeniería de Control.md",
-    "3er Nivel/Análisis Numérico/Estabilidad.md",
-    "4to Nivel/Administración de Sistemas de Información/index.md",
-    "3er Nivel/Diseño de Sistemas de Información/index.md",
     "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
-    "3er Nivel/Diseño de Sistemas de Información/Diagrama de Warnier.md",
-    "3er Nivel/Diseño de Sistemas de Información/Reportes Impresos.md",
     "4to Nivel/Tecnologías para la Automatización/attachments",
-    "4to Nivel/Tecnologías para la Automatización/Isomorfismo.md",
-    "4to Nivel/Administración de Sistemas de Información/Sistemas Abiertos.md",
-    "4to Nivel/Tecnologías para la Automatización/index.md",
-    "4to Nivel/Redes de Datos/index.md",
-    "index.md",
     "4to Nivel/Tecnologías para la Automatización",
-    "4to Nivel/index.md",
     "4to Nivel/Redes de Datos/MOC Redes de Datos.canvas",
-    "4to Nivel/Redes de Datos/Protocolo.md",
-    "4to Nivel/Redes de Datos/Subcapa de Control de Acceso al Medio.md",
     "4to Nivel/Investigación Operativa/attachments/desktop.ini",
     "2do Nivel/Análisis de Sistemas de Información/attachments/desktop.ini",
     "desktop.ini",

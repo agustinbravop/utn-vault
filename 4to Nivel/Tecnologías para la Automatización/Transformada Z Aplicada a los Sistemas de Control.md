@@ -1,4 +1,4 @@
-La **transformada Z** es una herramienta alternativa a la [[Transformada de Laplace Aplicada a los Sistemas de Control]], cumple la misma función pero está pensada para **variables discretas**. Se la utiliza debido a la incorporación de las computadoras electrónicas dentro de los sistemas de control.
+La [[Transformada Z]] es una herramienta alternativa a la [[Transformada de Laplace Aplicada a los Sistemas de Control]], cumple la misma función pero está pensada para **variables discretas**. Se la utiliza debido a la incorporación de las computadoras electrónicas dentro de los sistemas de control.
 
 ![[Transformada Z Aplicada a los Sistemas de Control.png]]
 
