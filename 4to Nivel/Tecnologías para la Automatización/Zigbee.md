@@ -36,7 +36,7 @@ Tipos de topologías:
 
 ![[Topologías de Zigbee.png]]
 
-Combinando varios árboles se puede formar un clúster de árboles. También se pueden armar clústers de clústers
+Combinando varios árboles se puede formar un clúster de árboles. También se pueden unir clústers de clústers en una *Multi-Clúster Network*.
 
 Zigbee soporta **redes de malla** (*mesh*), que son redes descentralizadas tal que múltiples vías conectan cada nodo. También permiten reconfigurar rutas cuando algún nodo falla o se desconecta.
 
@@ -44,3 +44,4 @@ Zigbee soporta **redes de malla** (*mesh*), que son redes descentralizadas tal q
 
 ![[Stack de Protocolos Zigbee.png]]
 
+Zigbee NO utiliza [[IP]]. Cada nodo Zigbee tiene una dirección MAC de 64 bits.

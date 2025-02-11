@@ -8,3 +8,9 @@ Los protocolos permiten la comunicación entre capas. Los modelos de referencia 
 
 Algunos protocolos vistos a lo largo de la asignatura:
 
+- [[Capa de Enlace]]: [[HDLC]], [[PPP]], [[Frame Relay]], [[ATM]], [[MACA y MACAW]], [[Ethernet]], [[Estándar 802.11]].
+- [[Capa de Red]]: [[IP]], [[IPv6]], [[ICMP]], [[ARP]], [[RIP]], [[OSPF]].
+- [[Capa de Transporte]]: [[UDP]], [[TCP]], [[DHCP]].
+- [[Ruteo Externo]]: [[BGPv4]].
+- [[Calidad de Servicio]]: [[IntServ]], [[DiffServ]].
+- [[Ciberseguridad]]: [[IPSec]].

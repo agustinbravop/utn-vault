@@ -10,11 +10,11 @@ Materias obligatorias:
 4. [[4to Nivel/Legislación/index|Legislación]].
 5. [[4to Nivel/Redes de Datos/index|Redes de Datos]].
 6. [[4to Nivel/Simulación/index|Simulación]].
-7. Tecnologías para la Automatización.
+7. [[4to Nivel/Tecnologías para la Automatización/index|Tecnologías para la Automatización]].
 
 Materias electivas (un mínimo de 6 horas cátedra semanales):
 
-1. Agilidad Avanzada (3 hs).
-2. Análisis de Datos Empresariales (3 hs).
-3. Aspectos Avanzados de la Calidad de Software (3 hs).
-4. Sistemas de Información Geográficos (3 hs).
+8. Agilidad Avanzada (3 hs).
+9. Análisis de Datos Empresariales (3 hs).
+10. Aspectos Avanzados de la Calidad de Software (3 hs).
+11. Sistemas de Información Geográficos (3 hs).
