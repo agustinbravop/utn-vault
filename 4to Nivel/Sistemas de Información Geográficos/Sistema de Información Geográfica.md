@@ -1,0 +1,1 @@
+Un [[4to Nivel/Administración de Sistemas de Información/Sistemas de Información|Sistema de Información]] **geográfica** es una integración organizada de HW, SW, y datos geográficos, diseñada para tratar información geográficamente referenciada para resolver problemas complejos de planificación y gestión.
