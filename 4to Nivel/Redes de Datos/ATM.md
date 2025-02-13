@@ -4,7 +4,7 @@ Permite transportar distintos tipos de tráfico. Tuvo gran adopción en telefón
 
 Está basado en SONET/SDH como capa física, y permite la [[Multiplexación]] de varios circuitos virtuales sobre las conexiones físicas. Cada circuito virtual se identifica con un VCVI. Varios VCIs con destino común se pueden multiplexar en un único VPI.
 
-Las *ATM Adaptation Layers* (AAL):
+Las _ATM Adaptation Layers_ (AAL):
 
 ![[ATM.png]]
 

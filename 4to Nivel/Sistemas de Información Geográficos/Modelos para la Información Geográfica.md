@@ -20,14 +20,14 @@ El modelo geográfico (o de alto nivel) es un esquema mental relativo a cómo en
 
 ### Campos
 
-Los *campos* son ideales para modelar variables de variación continua en el espacio:
+Los _campos_ son ideales para modelar variables de variación continua en el espacio:
 
 - **Campo escalar**: a cada punto del espacio vectorial origen se le asocia un único escalar. Sirve para variables que necesitan un solo valor. $\varphi:\Bbb R^n \rightarrow \Bbb R$.
 - **Campo vectorial**: el espacio vectorial destino es multidimensional. A estos datos también se los puede recoger como un conjunto de varios campos escalares.
 
 ### Entidades Discretas
 
-El modelo de *entidades discretas* concibe un entorno geográfico como un espacio vacío rellenado por entidades. Sirve para variables discretas.
+El modelo de _entidades discretas_ concibe un entorno geográfico como un espacio vacío rellenado por entidades. Sirve para variables discretas.
 
 NO se asocia a cada punto geográfico un valor, y cada punto puede pertenecer a ninguna, una, o varias entidades.
 
@@ -35,7 +35,7 @@ Para un espacio dado, las entidades son elementos geométricos existentes en el 
 
 ## Modelos de Representación
 
-Los **modelos de representación** reducen las propiedades de los modelos geográficos a un *conjunto finito de elementos* que siga siendo representativo de la realidad.
+Los **modelos de representación** reducen las propiedades de los modelos geográficos a un _conjunto finito de elementos_ que siga siendo representativo de la realidad.
 
 Por ejemplo, la elevación se puede representar con curvas de nivel, una malla de celdas, y puntos a intervalos regulares. Una red viaria se puede representar con una malla de celdas o un conjunto de líneas.
 
@@ -78,9 +78,8 @@ Resuelven dos necesidades:
 En base a los modelos de almacenamiento, aparecen **formatos** para archivos y para [[Bases de Datos Espaciales]]:
 
 - **Formatos para vectores**:
-	- Archivos: ESRI Shapefile (.shp), GeoJSON, GML, KML, etc.
-	- Bases de datos: PostgreSQL (con PostGIS), MongoDB, etc.
+  - Archivos: ESRI Shapefile (.shp), GeoJSON, GML, KML, etc.
+  - Bases de datos: PostgreSQL (con PostGIS), MongoDB, etc.
 - **Formatos para raster**:
-	- Archivos: Tiff/GeoTiff, ASCII Grids, MrSID, etc.
-	- Bases de datos: PostgreSQL (con PostGIS), Rasterlite (Sqlite), etc.
- 
+  - Archivos: Tiff/GeoTiff, ASCII Grids, MrSID, etc.
+  - Bases de datos: PostgreSQL (con PostGIS), Rasterlite (Sqlite), etc.

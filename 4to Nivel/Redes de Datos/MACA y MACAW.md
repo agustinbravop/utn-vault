@@ -7,7 +7,7 @@ En la [[Subcapa de Control de Acceso al Medio]] (capa MAC), surgen complicacione
 
 Multiple Access Collision Avoidance (de 1990). Usa y ajusta temporizadores.
 
-Hay dos operaciones importantes para resolver problemas: Request to Send (RTS) y Clear to Send (CTS). 
+Hay dos operaciones importantes para resolver problemas: Request to Send (RTS) y Clear to Send (CTS).
 
 ![[Protocolos Inalámbricos.png]]
 

@@ -1,6 +1,6 @@
 **Point-to-Point Protocol** (PPP) es un [[Protocolo]] para la [[Capa de Enlace]], estandarizado por la IETF RFC 1661, 1662, 1663.
 
-Es completamente *multiprotocolo* y *multienlace*. Busca reemplazar LAPB y SLIP (otros dos protocolos derivados de [[HDLC]]). Tiene dos subprotocolos:
+Es completamente _multiprotocolo_ y _multienlace_. Busca reemplazar LAPB y SLIP (otros dos protocolos derivados de [[HDLC]]). Tiene dos subprotocolos:
 
 - Link Control Protocol (LCP).
 - Network Control Protocol (NCP).

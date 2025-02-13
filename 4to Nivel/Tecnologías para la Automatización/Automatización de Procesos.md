@@ -1,8 +1,8 @@
 La **automatización de procesos** busca sustituir al ser humano por máquinas en procesos industriales repetitivos.
 
-La *automatización industrial* es el uso de técnicas y equipos para la dirección de un proceso industrial, para que este sistema funcione de forma autónoma.
+La _automatización industrial_ es el uso de técnicas y equipos para la dirección de un proceso industrial, para que este sistema funcione de forma autónoma.
 
-Un *automatismo* es todo dispositivo físico capaz de controlar una máquina o proceso.
+Un _automatismo_ es todo dispositivo físico capaz de controlar una máquina o proceso.
 
 Un sistema automatizado consta de dos partes: la parte operativa y la parte de mando (un autómata programable). La parte de mando debe poder comunicarse con el resto del sistema.
 
@@ -18,7 +18,7 @@ Tipos de automatización según el **nivel de especialización**:
 
 1. **Fija**: usa **equipos especializados** y específicamente diseñados. Busca la máxima eficiencia. Da una alta producción pero con poca flexibilidad.
 2. **Programable**: usa **equipos de propósito general** para diferentes sistemas de producción. Permite una gran variedad de productos. Esto implica menores costos y mayor flexibilidad.
-3. **Flexible**: es un punto medio entre la automatización fija y la programable. Implica cierto nivel de *parametrización*.
+3. **Flexible**: es un punto medio entre la automatización fija y la programable. Implica cierto nivel de _parametrización_.
 
 **Objetivos** de la automatización:
 
@@ -29,7 +29,7 @@ Tipos de automatización según el **nivel de especialización**:
 5. Simplificar el mantenimiento del proceso productivo.
 6. Integrar la gestión y la producción.
 
-La **parte de control** gobierna la **parte operativa**. La **parte de supervisión y explotación** del sistema sirve de interfaz (*Human Machine Interaction*, HMI) entre el usuario y el sistema.
+La **parte de control** gobierna la **parte operativa**. La **parte de supervisión y explotación** del sistema sirve de interfaz (_Human Machine Interaction_, HMI) entre el usuario y el sistema.
 
 ## Planificación de una Solución de Automatización
 

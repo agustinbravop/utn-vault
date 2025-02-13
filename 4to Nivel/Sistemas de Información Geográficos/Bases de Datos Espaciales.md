@@ -1,4 +1,4 @@
-Las [[Bases de Datos]] **espaciales** (*Spatial Database Management Systems*, SDBMS) ofrecen nuevos tipos de datos con nuevas operaciones asociadas.
+Las [[Bases de Datos]] **espaciales** (_Spatial Database Management Systems_, SDBMS) ofrecen nuevos tipos de datos con nuevas operaciones asociadas.
 
 ![[PostGIS.png]]
 

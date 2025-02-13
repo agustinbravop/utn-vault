@@ -13,6 +13,6 @@ La QoS quedará definida por el grado de proximidad entre cada uno de los valore
 Según las respuestas, los sistemas de control discretos se clasifican en:
 
 - **Sistema casual**: sus entradas dependen de las entradas actuales y las entradas inmediatamente anteriores. Son secuenciales. $r(t) = u(t) + u(t-1)$.
-- **Sistema estrictamente casual**: la salida solo depende de los valores anteriores de las entradas, por lo que son todavía más simples. $r(t)=u(t-1)$. Este sistema se considera *no anticipativo*, ya que sus salidas no anticipan valores próximos $t+1$ de las entradas.
+- **Sistema estrictamente casual**: la salida solo depende de los valores anteriores de las entradas, por lo que son todavía más simples. $r(t)=u(t-1)$. Este sistema se considera _no anticipativo_, ya que sus salidas no anticipan valores próximos $t+1$ de las entradas.
 
 El control discreto es una secuencia de operaciones administradas por eventos o por tiempo, y cada operación tiene una condición definida para iniciarse.

@@ -1,4 +1,4 @@
-*Open Shortest Path First* (OSPF) es un [[Protocolo]] para el [[Ruteo IP]] que usa el [[Enrutadores#Ruteo Dinámico por Estado de Enlace|mecanismo de estado enlace]] (LS). Los mensajes OSPF se encapsulan en datagramas IP, campo protocolo n° 89.
+_Open Shortest Path First_ (OSPF) es un [[Protocolo]] para el [[Ruteo IP]] que usa el [[Enrutadores#Ruteo Dinámico por Estado de Enlace|mecanismo de estado enlace]] (LS). Los mensajes OSPF se encapsulan en datagramas IP, campo protocolo n° 89.
 
 Clasificación de routers:
 

@@ -1,4 +1,4 @@
-*Address Resolution Protocol* (ARP) es un [[Protocolo]] que responde la siguiente pregunta: ¿Cómo averiguar la dirección [[Subcapa de Control de Acceso al Medio|MAC]] de un destino [[IP]]?
+_Address Resolution Protocol_ (ARP) es un [[Protocolo]] que responde la siguiente pregunta: ¿Cómo averiguar la dirección [[Subcapa de Control de Acceso al Medio|MAC]] de un destino [[IP]]?
 
 La [[Capa de Red]] conoce la dirección lógica IP, y la [[Capa de Enlace]] conoce la dirección física MAC. ARP asocia una dirección lógica conocida a una dirección física desconocida.
 

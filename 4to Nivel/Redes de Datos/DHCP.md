@@ -1,4 +1,4 @@
-*Dynamic Host Configuration Protocol* (DHCP) es un [[Protocolo]] que funciona sobre [[UDP]].
+_Dynamic Host Configuration Protocol_ (DHCP) es un [[Protocolo]] que funciona sobre [[UDP]].
 
 Es una extensión del protocolo BOOTP que da flexibilidad al administrar direcciones IP. Se usa para **configurar dinámicamente los parámetros** [[TCP]]/[[IP]] de una red.
 

@@ -1,17 +1,17 @@
-*Transmission Control Protocol* (TCP) es un [[Protocolo]] de la [[Capa de Transporte]] para aplicaciones que requieren confiabilidad. Se considera que TCP es mucho más complejo que [[UDP]].
+_Transmission Control Protocol_ (TCP) es un [[Protocolo]] de la [[Capa de Transporte]] para aplicaciones que requieren confiabilidad. Se considera que TCP es mucho más complejo que [[UDP]].
 
 Características:
 
-- Orientado a la conexión (*stream*).
+- Orientado a la conexión (_stream_).
 - Abstracción.
 - Full-duplex.
 - Funcionamiento: establecer la conexión $\longrightarrow$ transmisión $\longrightarrow$ liberar la conexión.
 
 ![[Encabezado TCP.png]]
 
-Los números de secuencia (de 32 bits) son acumulativos. Son como punteros que indican la posición del próximo octeto de datos a ser recibido. Se usa uno para cada sentido de la conexión, lo que se conoce como *piggybacking*. El *Initial Sequence Number* se asigna de forma aleatoria, y luego se lo incrementa secuencialmente.
+Los números de secuencia (de 32 bits) son acumulativos. Son como punteros que indican la posición del próximo octeto de datos a ser recibido. Se usa uno para cada sentido de la conexión, lo que se conoce como _piggybacking_. El _Initial Sequence Number_ se asigna de forma aleatoria, y luego se lo incrementa secuencialmente.
 
-**Inicio de la conexión**: se usa un saludo de tres vías. Se usan temporizadores *timeout* por si no se recibe una respuesta.
+**Inicio de la conexión**: se usa un saludo de tres vías. Se usan temporizadores _timeout_ por si no se recibe una respuesta.
 
 ![[Inicio de la Conexión TCP.png]]
 

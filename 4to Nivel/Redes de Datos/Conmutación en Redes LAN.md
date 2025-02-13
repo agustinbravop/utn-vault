@@ -1,4 +1,4 @@
-Para comunicarse con todos los dominios de colisión, los [[Protocolo|protocolos]] usan tramas *broadcast* (de difusión) y *multicast* a nivel de [[Capa de Enlace]]. Estas difusiones hacen una ocupación costosa de la capacidad del canal.
+Para comunicarse con todos los dominios de colisión, los [[Protocolo|protocolos]] usan tramas _broadcast_ (de difusión) y _multicast_ a nivel de [[Capa de Enlace]]. Estas difusiones hacen una ocupación costosa de la capacidad del canal.
 
 Para la conmutación en redes LAN, se utilizan dispositivos como [[Puentes de Red]] y [[Switches]].
 
@@ -10,8 +10,8 @@ Formas de conmutación de tramas para conmutadores LAN:
 
 ## LAN Virtuales
 
-Una **LAN virtual** es una agrupación lógica (lograda mediante el *etiquetado* de tramas) de estaciones por grupo de trabajo, independiente de su ubicación física. 
+Una **LAN virtual** es una agrupación lógica (lograda mediante el _etiquetado_ de tramas) de estaciones por grupo de trabajo, independiente de su ubicación física.
 
-Se extiende la función de filtrado del puente de red para no modificar el cableado. Se puede distinguir entre el tráfico de usuario y el tráfico backbone. Para cambiar de VLAN, se debe procesar en la [[Capa de Red]] (en un *router*).
+Se extiende la función de filtrado del puente de red para no modificar el cableado. Se puede distinguir entre el tráfico de usuario y el tráfico backbone. Para cambiar de VLAN, se debe procesar en la [[Capa de Red]] (en un _router_).
 
-Las VLANs mejoran la *escalabilidad* de la red, mientras que siguen siendo *transparentes* al usuario.
+Las VLANs mejoran la _escalabilidad_ de la red, mientras que siguen siendo _transparentes_ al usuario.

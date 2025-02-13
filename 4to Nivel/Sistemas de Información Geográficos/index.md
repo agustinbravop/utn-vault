@@ -2,6 +2,8 @@
 title: Sistemas de Información Geográficos
 ---
 
+![[MOC Sistemas de Información Geográficos.png]]
+
 Asignatura: Sistemas de Información Geográficos. \
 Ciclo Lectivo: 2024.
 

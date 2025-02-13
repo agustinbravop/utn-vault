@@ -1,4 +1,4 @@
-Un *protocolo* define reglas que gobiernan el **formato y significado** de los mensajes intercambiados por pares de entidades dentro de una capa. Las entidades de las [[Redes de Datos]] usan protocolos para implementar la definición de sus servicios.
+Un _protocolo_ define reglas que gobiernan el **formato y significado** de los mensajes intercambiados por pares de entidades dentro de una capa. Las entidades de las [[Redes de Datos]] usan protocolos para implementar la definición de sus servicios.
 
 ![[Protocolo.png]]
 

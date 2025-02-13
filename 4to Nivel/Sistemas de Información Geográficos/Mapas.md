@@ -1,4 +1,4 @@
-Los **mapas** son herramientas de comunicación visual que buscan comunicar [[Información Geográfica]]. 
+Los **mapas** son herramientas de comunicación visual que buscan comunicar [[Información Geográfica]].
 
 Es importante saber quién será el usuario y para qué va a servir el mapa. Es el usuario quien dice si el mapa es útil o no.
 
@@ -23,7 +23,7 @@ El mapa utiliza un lenguaje visual con elementos básicos (símbolos) que siguen
 
 Hay dos tipos de **cartografías**:
 
-- **Cartografía base**: o fundamental o [[Topología|topográfica]]. Busca recoger con precisión *qué* hay sobre la Tierra, documentando sus características físicas. Es de carácter general. Es el "mapa de fondo".
+- **Cartografía base**: o fundamental o [[Topología|topográfica]]. Busca recoger con precisión _qué_ hay sobre la Tierra, documentando sus características físicas. Es de carácter general. Es el "mapa de fondo".
 - **Cartografía temática**: representa un tema concreto de cualquier índole. Se apoya en la cartografía base para ubicar la información temática en un contexto, y facilitar su comprensión.
 
 ![[Cartografía Base y Temática.png]]
@@ -45,7 +45,7 @@ Variables visuales:
 
 1. **Posición**: su uso es muy restringido y particular.
 2. **Tamaño**: dimensión del símbolo.
-3. **Color**: es la más importante. Componentes: *valor*, *tono*, y *saturación*.
+3. **Color**: es la más importante. Componentes: _valor_, _tono_, y _saturación_.
 
 ![[Color.png]]
 
@@ -80,7 +80,7 @@ El tipo de variable condiciona las operaciones que pueden realizarse con la comp
 
 ## Clases
 
-Se pueden agrupar los valores en *clases*, lo cual es útil para categorizar y asignar simbología por categoría (y no valores individuales). La creación de clases requiere dos parámetros:
+Se pueden agrupar los valores en _clases_, lo cual es útil para categorizar y asignar simbología por categoría (y no valores individuales). La creación de clases requiere dos parámetros:
 
 1. Número de clases distintas a crear.
 2. Criterios para definir sus límites.
@@ -101,23 +101,24 @@ Distintos métodos crean clases distintas, lo que afecta a la interpretación de
 
 ![[Mapa de Símbolos Graduados.png]]
 
-2. **Mapa de puntos**: cada punto es igual a otro, lo que permite mostrar la distribución geográfica de la información. Representa muy bien la *densidad* de los datos.
+2. **Mapa de puntos**: cada punto es igual a otro, lo que permite mostrar la distribución geográfica de la información. Representa muy bien la _densidad_ de los datos.
 
 ![[Mapa de Puntos.png]]
 
-3. Mapa de Flujos: representan *trayectorias lineales* con símbolos lineales. Se pueden usar flechas para señalar direcciones. Se usan para rutas, ríos, tráfico aéreo, etc.
+3. Mapa de Flujos: representan _trayectorias lineales_ con símbolos lineales. Se pueden usar flechas para señalar direcciones. Se usan para rutas, ríos, tráfico aéreo, etc.
 
 ![[Mapa de Flujo.png]]
 
-4. **Mapa de Isolíneas**: usa símbolos lineales para representar magnitudes cuando la magnitud hace referencia a un volumen que se distribuye por toda la superficie. Cada línea une puntos de igual valor. Suele ser apropiado para *variables continuas* e intervalos iguales de datos.
+4. **Mapa de Isolíneas**: usa símbolos lineales para representar magnitudes cuando la magnitud hace referencia a un volumen que se distribuye por toda la superficie. Cada línea une puntos de igual valor. Suele ser apropiado para _variables continuas_ e intervalos iguales de datos.
 
 ![[Mapa de Isolíneas.png]]
 
 5. **Mapa Coroplético, Dasimétrico, e Isoplético**:
-	- **Coroplético**: las cantidades se asignan a polígonos predefinidos.
-	- **Dasimétrico**: las cantidades definen el polígono.
-	- **Isoplético**: es un mapa de isolíneas con símbolos zonales para resaltar umbrales.
 
-6. **Cartograma**: la información cualitativa se transmite *distorsionando* las unidades de superficie para que su tamaño represente la *magnitud* de la variable en cuestión.
+   - **Coroplético**: las cantidades se asignan a polígonos predefinidos.
+   - **Dasimétrico**: las cantidades definen el polígono.
+   - **Isoplético**: es un mapa de isolíneas con símbolos zonales para resaltar umbrales.
+
+6. **Cartograma**: la información cualitativa se transmite _distorsionando_ las unidades de superficie para que su tamaño represente la _magnitud_ de la variable en cuestión.
 
 ![[Cartograma.png]]

@@ -4,10 +4,10 @@ Se los puede controlar con:
 
 - **2 estados**: en marcha y parados, on y off.
 - **Valores analógicos**: dentro de cierto intervalo.
-- **PWM**: *Pulse Width Modulation*.
+- **PWM**: _Pulse Width Modulation_.
 
-Un *relé* es un componente con un electroimán que al aplicarle [[Corriente Eléctrica]] produce un movimiento mecánico que cierra circuitos a los que podemos conectar equipos externos.
+Un _relé_ es un componente con un electroimán que al aplicarle [[Corriente Eléctrica]] produce un movimiento mecánico que cierra circuitos a los que podemos conectar equipos externos.
 
-Un *contactor* es similar a un relé, pero soporta corrientes superiores (industriales). 
+Un _contactor_ es similar a un relé, pero soporta corrientes superiores (industriales).
 
 Los actuadores con niveles intermedios y ajustables pueden responder a salidas de control con valores variables (siempre dentro de un rango definido).

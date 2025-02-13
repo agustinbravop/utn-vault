@@ -17,7 +17,7 @@ Problemas que ataca:
 
 ## Escala
 
-La *escala* es la relación matemática entre las dimensiones reales y las representadas. Puede ser:
+La _escala_ es la relación matemática entre las dimensiones reales y las representadas. Puede ser:
 
 - **Natural**: 1 a 1.
 - **De reducción**: el plano es menor a la realidad. Ej: 1 a 10.000.
@@ -27,19 +27,19 @@ Representaciones de la escala:
 
 1. **Escala numérica**: 1:100.
 2. **Unidad por unidad**: 1 cm = 4 km.
-3. **Escala gráfica**: 
+3. **Escala gráfica**:
 
 ![[Escala Gráfica.png]]
 
 ## Forma de la Tierra
 
-La Tierra no es plana, y su forma no se puede ignorar al estudiar terrenos extensos. Pero, tampoco es una esfera perfecta. Una aproximación a su forma es el *geoide*.
+La Tierra no es plana, y su forma no se puede ignorar al estudiar terrenos extensos. Pero, tampoco es una esfera perfecta. Una aproximación a su forma es el _geoide_.
 
 > El **geoide** es la superficie equipotencial del campo gravitatorio que mejor se ajusta, al nivel medio del mar.
 
 El campo gravitatorio depende de la densidad y la gravedad, la cual cambia con la altura. El geoide es una superficie irregular, similar a una esfera, pero con altos y bajos menores a 100 m.
 
-El ***elipsoide*** es una elipse aproximada al geoide, pero fácil para cálculos matemáticos. Tiene 3 parámetros:
+El **_elipsoide_** es una elipse aproximada al geoide, pero fácil para cálculos matemáticos. Tiene 3 parámetros:
 
 1. **Semieje ecuatorial**: $a$. Va desde el centro de masas hasta la superficie.
 2. **Semieje polar**: $b$. La elipse base rota alrededor de este eje.

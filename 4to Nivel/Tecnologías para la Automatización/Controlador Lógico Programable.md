@@ -1,4 +1,4 @@
-Un **controlador lógico programable** (*Programmable Logic Controller*, PLC) es una computadora usada en la automatización industrial para la [[Automatización de Procesos]] de producción.
+Un **controlador lógico programable** (_Programmable Logic Controller_, PLC) es una computadora usada en la automatización industrial para la [[Automatización de Procesos]] de producción.
 
 > Es un aparato electrónico operado digitalmente que usa una memoria programable para almacenar instrucciones internamente para controlar varios tipos de máquinas o procesos a través de módulos de entrada/salida.
 
@@ -18,7 +18,7 @@ Componentes del PLC:
 2. **Software**: son programas elaborados por el programador en un listado de instrucciones, un diagrama de contactos, o un diagrama de funciones.
 3. **Entradas/salidas**: son los [[Canales]] que le permiten al PLC comunicarse.
 
-El **funcionamiento** del PLC tiene dos modos: `stop` y `run`. Cuando está en modo `run`, está indefinida y continuamente ejecutando *ciclos de scan*. Cada ciclo de scan consiste en 4 pasos:
+El **funcionamiento** del PLC tiene dos modos: `stop` y `run`. Cuando está en modo `run`, está indefinida y continuamente ejecutando _ciclos de scan_. Cada ciclo de scan consiste en 4 pasos:
 
 1. Lectura de las entradas del PLC.
 2. Ejecución del programa de control.
@@ -30,7 +30,7 @@ Hoy en día los PLC también necesitan un **sistema para enlace con el computado
 - Módulos de Comunicación Asíncrona Punto a Punto: RS-232.
 - Módulos de Comunicación Multipunto: varias estaciones en un esquema maestro/esclavo.
 
-Existen **sistemas de red** que permiten supervisar elementos del proceso para controlarlo en forma más precisa y óptima. Estos programas permiten generar alarmas, reportes, archivos históricos, tendencias en tiempo real, etc. Hay módulos de red *propietarias* (de un fabricante) y *comerciales* (siguen normas internacionales para facilitar la integración).
+Existen **sistemas de red** que permiten supervisar elementos del proceso para controlarlo en forma más precisa y óptima. Estos programas permiten generar alarmas, reportes, archivos históricos, tendencias en tiempo real, etc. Hay módulos de red _propietarias_ (de un fabricante) y _comerciales_ (siguen normas internacionales para facilitar la integración).
 
 ## Elementos de Programación
 

@@ -8,11 +8,11 @@ En este taller de integración, se configura un esquema global de conectividad q
 
 Cada [[Enrutadores|router]] de este esquema se **configura** por consola de comandos. Primero se configuran las direcciones de todas las interfaces de los routers.
 
-Luego, se deben activar los protocolos de ruteo según el contexto de cada router. En los tier  1, tier 2, y tier 3, se configura BGP.
+Luego, se deben activar los protocolos de ruteo según el contexto de cada router. En los tier 1, tier 2, y tier 3, se configura BGP.
 
 Se configura OSPF en el lado derecho de la imagen, y se configura RIP en el lado izquierdo de la imagen.
 
-Los dos tier 3 de esta topología son *routers de frontera* que se encargan de redistribuir las rutas para compartir información de enrutamiento entre protocolos (o dominios) de enrutamiento diferentes.
+Los dos tier 3 de esta topología son _routers de frontera_ que se encargan de redistribuir las rutas para compartir información de enrutamiento entre protocolos (o dominios) de enrutamiento diferentes.
 
 Luego se configuran los servidores DHCP, DNS, y web.
 

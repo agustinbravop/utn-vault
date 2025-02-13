@@ -1,6 +1,6 @@
-Cada componente desempeña una función clara, y son integrados en una [[Redes de Datos|red de datos]] para crear una solución completa del **internet de las cosas** (*Internet of Things*, IoT).
+Cada componente desempeña una función clara, y son integrados en una [[Redes de Datos|red de datos]] para crear una solución completa del **internet de las cosas** (_Internet of Things_, IoT).
 
-La pila de tecnologías IoT cubre todas las tecnologías requeridas. Un *stack IoT* consta de:
+La pila de tecnologías IoT cubre todas las tecnologías requeridas. Un _stack IoT_ consta de:
 
 1. Dispositivos.
 2. Gateway (que conecta los dispositivos al exterior).
@@ -9,9 +9,9 @@ La pila de tecnologías IoT cubre todas las tecnologías requeridas. Un *stack I
 
 ![[Internet of Things.png]]
 
-Un *transductor* ([[Sensores]] y [[Actuadores]]) es un dispositivo que convierte energía de una forma a otra.
+Un _transductor_ ([[Sensores]] y [[Actuadores]]) es un dispositivo que convierte energía de una forma a otra.
 
-En las soluciones IoT, e común **distribuir el procesamiento**. Un dispositivo IoT necesita algo de **inteligencia** (*computing power*), por lo cual se utilizan microcontroladores (como los ESP32 o Raspberry Pi Pico).
+En las soluciones IoT, e común **distribuir el procesamiento**. Un dispositivo IoT necesita algo de **inteligencia** (_computing power_), por lo cual se utilizan microcontroladores (como los ESP32 o Raspberry Pi Pico).
 
 La comunicación puede ser:
 

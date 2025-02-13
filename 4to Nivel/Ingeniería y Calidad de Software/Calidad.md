@@ -21,7 +21,7 @@ La calidad depende de la **responsabilidad** de cada integrante del equipo. Es u
 
 La calidad debería existir en toda la organización, pro como mínimo la tenemos que aplicar en nuestro propio espacio de trabajo. Se da en 3 niveles:
 
-1. [[Gestión de la Calidad]] (Estratégico)
+1. [[Gestión de la Calidad]] (Estratégico)
 2. [[Aseguramiento de la Calidad]] (Táctico)
 3. [[Control de la Calidad]] (Operativo)
 

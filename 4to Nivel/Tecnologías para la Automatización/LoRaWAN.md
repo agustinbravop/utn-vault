@@ -4,7 +4,7 @@ Son redes de **baja potencia** para cuidar el consumo energético de los disposi
 
 La velocidad de datos de LPWAN oscila entre **0.3 kbits/s y 50 kbits/s** por canal.
 
-La capa física se basa en CCSM: *Chirp Spread Spectrum Modulation*, para poder crear un enlace de comunicación de largo alcance. Las LPWAN pueden cubrir distancias de hasta **50 km**. 
+La capa física se basa en CCSM: _Chirp Spread Spectrum Modulation_, para poder crear un enlace de comunicación de largo alcance. Las LPWAN pueden cubrir distancias de hasta **50 km**.
 
 Para evitar problemas de atenuación, se usan bandas de frecuencia de entre **433 MHz y 868 MHz**.
 
@@ -12,7 +12,7 @@ Topología básica:
 
 ![[Topología LoRaWAN Básica.png]]
 
-Se pueden agregar *coordinadores* que solamente concentran información para hacer una topología más escalable:
+Se pueden agregar _coordinadores_ que solamente concentran información para hacer una topología más escalable:
 
 ![[Topología LoRaWAN con Coordinadores.png]]
 

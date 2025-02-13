@@ -8,245 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ac44c6b221a3243",
+            "id": "9d79967aa5f67262",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Información Geográfica.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Información Geográfica"
-            }
-          },
-          {
-            "id": "98f19228114f5575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Representación Raster.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Representación Raster"
-            }
-          },
-          {
-            "id": "3fb87ac2f3c4a515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Representación Raster.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Representación Raster"
-            }
-          },
-          {
-            "id": "e7fd544fd406ed62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Representación Vectorial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Representación Vectorial"
-            }
-          },
-          {
-            "id": "ee5fa657ce491e01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Fundamentos Cartográficos y Geodésicos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fundamentos Cartográficos y Geodésicos"
-            }
-          },
-          {
-            "id": "7261cc884e074c4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Proyecciones Cartográficas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proyecciones Cartográficas"
-            }
-          },
-          {
-            "id": "8ff5b11ca9abfdfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Visualización de la Información Geográfica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Visualización de la Información Geográfica"
-            }
-          },
-          {
-            "id": "8310cac7b921e8b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Mapas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mapas"
-            }
-          },
-          {
-            "id": "c7ef6aa369ae04bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Metadatos para la Información Geográfica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metadatos para la Información Geográfica"
-            }
-          },
-          {
-            "id": "a0a70f44d1ee933b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Infraestructuras de Datos Espaciales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infraestructuras de Datos Espaciales"
-            }
-          },
-          {
-            "id": "a95efff6f01c9365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Fuentes de la Información Geográfica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fuentes de la Información Geográfica"
-            }
-          },
-          {
-            "id": "c04990a2a804da41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Visualización de la Información Geográfica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Visualización de la Información Geográfica"
-            }
-          },
-          {
-            "id": "83c736ac5aab84f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Generalización Cartográfica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Generalización Cartográfica"
-            }
-          },
-          {
-            "id": "a5f9df90e3fca9a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2do Nivel/Física 2/Fotometría.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fotometría"
-            }
-          },
-          {
-            "id": "478f14c2e9ecf831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Capa de Información Geográfica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Capa de Información Geográfica"
-            }
-          },
-          {
-            "id": "392e508177c9cc27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Sistema de Información Geográfica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistema de Información Geográfica"
-            }
-          },
-          {
-            "id": "75aee281ebb4a66d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Bases de Datos Espaciales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bases de Datos Espaciales"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,7 +33,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 71.54017857142857,
+        "dimension": 77.67857142857143,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -278,7 +53,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 28.45982142857143,
+        "dimension": 22.321428571428573,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -286,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coordenadas",
+                "query": "gps",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -327,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Nivel/Sistemas de Información Geográficos/Fuentes de la Información Geográfica.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fuentes de la Información Geográfica"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -410,24 +185,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a95efff6f01c9365",
+  "active": "9d79967aa5f67262",
   "lastOpenFiles": [
-    "4to Nivel/Sistemas de Información Geográficos/Infraestructuras de Datos Espaciales.md",
+    "4to Nivel/index.md",
+    "4to Nivel/Sistemas de Información Geográficos/index.md",
+    "4to Nivel/Sistemas de Información Geográficos/attachments/MOC Sistemas de Información Geográficos.png",
+    "4to Nivel/Sistemas de Información Geográficos/MOC Sistemas de Información Geográficos.canvas",
+    "4to Nivel/Sistemas de Información Geográficos/MOC Sistemas de Información Geográficos.md",
+    "4to Nivel/Sistemas de Información Geográficos/GPS.md",
+    "4to Nivel/Sistemas de Información Geográficos/attachments/Resolución de Distancias en GPS.png",
+    "4to Nivel/Sistemas de Información Geográficos/attachments/GPS.png",
+    "4to Nivel/Sistemas de Información Geográficos/attachments/Segmentos de GPS.png",
     "4to Nivel/Sistemas de Información Geográficos/Fuentes de la Información Geográfica.md",
+    "4to Nivel/Sistemas de Información Geográficos/Órbitas.md",
+    "4to Nivel/Sistemas de Información Geográficos/attachments/Órbitas.png",
+    "3er Nivel/Comunicación de Datos/Medios de Transmisión.md",
+    "3er Nivel/Análisis Numérico/Sistemas Dinámicos.md",
+    "4to Nivel/Sistemas de Información Geográficos/Teledetección.md",
+    "4to Nivel/Sistemas de Información Geográficos/Tratamiento de Imágenes.md",
+    "4to Nivel/Sistemas de Información Geográficos/attachments/Suelo.png",
+    "4to Nivel/Sistemas de Información Geográficos/attachments/Vegetación.png",
+    "4to Nivel/Sistemas de Información Geográficos/attachments/Operación de Cierre.png",
+    "4to Nivel/Sistemas de Información Geográficos/attachments/Operaciones de Punto.png",
+    "4to Nivel/Sistemas de Información Geográficos/attachments/Operaciones Locales.png",
+    "4to Nivel/Sistemas de Información Geográficos/Resolución.md",
+    "4to Nivel/Sistemas de Información Geográficos/Calidad de los Datos Espaciales.md",
+    "4to Nivel/Ingeniería y Calidad de Software/Calidad.md",
+    "4to Nivel/Sistemas de Información Geográficos/Infraestructuras de Datos Espaciales.md",
     "4to Nivel/Sistemas de Información Geográficos/Metadatos para la Información Geográfica.md",
-    "4to Nivel/Sistemas de Información Geográficos/attachments/Metadatos para la Información Geográfica.png",
     "4to Nivel/Sistemas de Información Geográficos/Estándares para la Información Geográfica.md",
     "4to Nivel/Sistemas de Información Geográficos/Mapas.md",
     "4to Nivel/Sistemas de Información Geográficos/Visualización de la Información Geográfica.md",
-    "4to Nivel/Sistemas de Información Geográficos/attachments/Cartograma.png",
-    "4to Nivel/Sistemas de Información Geográficos/attachments/Mapa de Isolíneas.png",
-    "4to Nivel/Sistemas de Información Geográficos/attachments/Pasted image 20250213003752.png",
-    "4to Nivel/Sistemas de Información Geográficos/attachments/Mapa de Flujo.png",
-    "4to Nivel/Sistemas de Información Geográficos/attachments/Mapa de Puntos.png",
-    "4to Nivel/Sistemas de Información Geográficos/attachments/Mapa de Símbolos Graduados.png",
-    "4to Nivel/Sistemas de Información Geográficos/attachments/Clases.png",
-    "4to Nivel/Sistemas de Información Geográficos/attachments/Información Cualitativa y Cuantitativa.png",
-    "4to Nivel/Sistemas de Información Geográficos/attachments/Propiedades de las Variables Visuales.png",
     "4to Nivel/Sistemas de Información Geográficos/Generalización Cartográfica.md",
     "4to Nivel/Sistemas de Información Geográficos/Sistema de Referencia de Coordenadas.md",
     "4to Nivel/Sistemas de Información Geográficos/Proyecciones Cartográficas.md",
@@ -436,21 +224,9 @@
     "4to Nivel/Sistemas de Información Geográficos/Capa de Información Geográfica.md",
     "4to Nivel/Sistemas de Información Geográficos/Representación Vectorial.md",
     "4to Nivel/Sistemas de Información Geográficos/Representación Raster.md",
-    "4to Nivel/Sistemas de Información Geográficos/Modelos para la Información Geográfica.md",
-    "4to Nivel/Sistemas de Información Geográficos/Topología.md",
-    "4to Nivel/Sistemas de Información Geográficos/Bases de Datos Espaciales.md",
     "4to Nivel/Tecnologías para la Automatización/attachments/desktop.ini",
     "3er Nivel/Comunicación de Datos/desktop.ini",
     "3er Nivel/Bases de Datos/desktop.ini",
-    "4to Nivel/Sistemas de Información Geográficos/index.md",
-    "4to Nivel/Sistemas de Información Geográficos/Sistema de Información Geográfica.md",
-    "2do Nivel/Física 2/Fotometría.md",
-    "2do Nivel/Física 2/Flujo Radiante.md",
-    "2do Nivel/Física 2/Intensidad Luminosa.md",
-    "2do Nivel/Física 2/Luminancia.md",
-    "4to Nivel/Sistemas de Información Geográficos/Lu.md",
-    "4to Nivel/Tecnologías para la Automatización/Robótica.md",
-    "4to Nivel/Tecnologías para la Automatización/Protocolos para IoT.md",
     "4to Nivel/Sistemas de Información Geográficos/attachments",
     "4to Nivel/Sistemas de Información Geográficos",
     "4to Nivel/Tecnologías para la Automatización/MOC Tecnologías para la Automatización.canvas",
@@ -466,7 +242,6 @@
     "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
     "4to Nivel/Simulación/MOC Simulación.canvas",
     "2do Nivel/Sistemas Operativos/MOC Sistemas Operativos.canvas",
-    "2do Nivel/Paradigmas de Programación/MOC Paradigmas de Programación.canvas",
-    "3er Nivel/Análisis Numérico/MOC Análisis Numérico.canvas"
+    "2do Nivel/Paradigmas de Programación/MOC Paradigmas de Programación.canvas"
   ]
 }

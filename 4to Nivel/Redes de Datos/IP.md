@@ -1,15 +1,15 @@
-*Internet Protocol* (IP) es un [[Protocolo]] de la [[Capa de Red]] para el:
+_Internet Protocol_ (IP) es un [[Protocolo]] de la [[Capa de Red]] para el:
 
 - **Enrutamiento**: conjunto de reglas y algoritmos usados por los [[Enrutadores]] para construir y mantener sus tablas de enrutamiento, para determinar la mejor ruta.
 - **Enrutado**: definen cómo se debe empaquetar y direccionar los datos para ser enviados a través de la red. Especifican estructuras de datos y cómo manejarlas.
 
-IP es el protocolo de enrutado más utilizado. Implementa un **[[Redes de Datos|servicio]] de entrega sin conexión no confiable**. Debido al **encapsulamiento**, el *datagrama IP* cuenta con un *encabezado* de mínimo 20 bytes:
+IP es el protocolo de enrutado más utilizado. Implementa un **[[Redes de Datos|servicio]] de entrega sin conexión no confiable**. Debido al **encapsulamiento**, el _datagrama IP_ cuenta con un _encabezado_ de mínimo 20 bytes:
 
 ![[Datagrama IP.png]]
 
 El campo TOS se consideraba muerto hace décadas, pero actualmente es vital para cuestiones de [[Calidad de Servicio]]. Este encabezado permite la [[Fragmentación en IP]] y el uso de [[Opciones en IP]].
 
-Las redes IP utilizan como identificadores de redes y hosts las *direcciones IP*, que son **únicas** en toda la red. La dirección IP refiere a la interfaz del host con la red.
+Las redes IP utilizan como identificadores de redes y hosts las _direcciones IP_, que son **únicas** en toda la red. La dirección IP refiere a la interfaz del host con la red.
 
 ## Direcciones IP
 
@@ -17,9 +17,9 @@ Las direcciones IP se implementan como un número de 32 bits. Por convención, s
 
 ![[Dirección IP.png]]
 
-El significado de una dirección IP es una convención de diseño. El mecanismo que separa entre el `netID` y el `hostID` es la *máscara de subred*: otro número de 32 bits que permite extraer las distintas porciones al hacer un AND bit a bit. Por lo general, una dirección con `hostID = 0` refiere a la dirección de la red.
+El significado de una dirección IP es una convención de diseño. El mecanismo que separa entre el `netID` y el `hostID` es la _máscara de subred_: otro número de 32 bits que permite extraer las distintas porciones al hacer un AND bit a bit. Por lo general, una dirección con `hostID = 0` refiere a la dirección de la red.
 
-La IANA (*Internet Assigned Numbers Authority*) era un registro central de IPs. Se sustituye en 1998 por la ICANN (*Internet Corporation for Assigned Names and Numbers*), la cual asigna espacios de direcciones IP y otros identificadores.
+La IANA (_Internet Assigned Numbers Authority_) era un registro central de IPs. Se sustituye en 1998 por la ICANN (_Internet Corporation for Assigned Names and Numbers_), la cual asigna espacios de direcciones IP y otros identificadores.
 
 También existen registros regionales de internet, que revisan el cumplimiento de normas.
 
@@ -45,7 +45,7 @@ Las direcciones otorgadas por ICANN son públicas y otorgadas a gobiernos y empr
 
 ### Agotamiento de Direcciones
 
-En la realidad, las redes crecieron exponencialmente y muy rápido estas clases se quedaron sin direcciones disponibles para asignar. Esto se conoce como el **agotamiento de direcciones**. 
+En la realidad, las redes crecieron exponencialmente y muy rápido estas clases se quedaron sin direcciones disponibles para asignar. Esto se conoce como el **agotamiento de direcciones**.
 
 Actualmente, la cantidad de direcciones IP que pueden existir con 32 bits es también un recurso agotado.
 

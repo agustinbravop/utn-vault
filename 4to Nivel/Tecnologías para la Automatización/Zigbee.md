@@ -10,7 +10,7 @@ Es un estándar de conectividad construido sobre IEEE 802.15.4. Velocidades de d
 
 La especificación de Zigbee es un [[Protocolo]] de placa de radio basado en paquetes y destinado a dispositivos de bajo coste que funcionan con baterías. Busca ser fácil de usar.
 
-Zigbee es creado y ratificado por las empresas miembros de la *Zigbee Board Alliance*, hoy en día llamada *Connectivity Standards Alliance*. El estándar actual es el 3.0, que garantiza **interoperabilidad** entre fabricantes.
+Zigbee es creado y ratificado por las empresas miembros de la _Zigbee Board Alliance_, hoy en día llamada _Connectivity Standards Alliance_. El estándar actual es el 3.0, que garantiza **interoperabilidad** entre fabricantes.
 
 Características de Zigbee:
 
@@ -27,18 +27,18 @@ Características de Zigbee:
 Una red Zigbee tiene diferentes tipos de nodos:
 
 - **Full Function Device**: un FFD puede comunicarse con cualquier dispositivo. Puede actuar como:
-	1. **PAN Coordinator**: envía tramas *beacon* y administra direcciones de la red.
-	2. **Coordinator**: actúa como un router.
-	3. **Dispositivo normal**.
+  1.  **PAN Coordinator**: envía tramas _beacon_ y administra direcciones de la red.
+  2.  **Coordinator**: actúa como un router.
+  3.  **Dispositivo normal**.
 - **Reduced Function Device**: solo puede hablar con un FFD.
 
 Tipos de topologías:
 
 ![[Topologías de Zigbee.png]]
 
-Combinando varios árboles se puede formar un clúster de árboles. También se pueden unir clústers de clústers en una *Multi-Clúster Network*.
+Combinando varios árboles se puede formar un clúster de árboles. También se pueden unir clústers de clústers en una _Multi-Clúster Network_.
 
-Zigbee soporta **redes de malla** (*mesh*), que son redes descentralizadas tal que múltiples vías conectan cada nodo. También permiten reconfigurar rutas cuando algún nodo falla o se desconecta.
+Zigbee soporta **redes de malla** (_mesh_), que son redes descentralizadas tal que múltiples vías conectan cada nodo. También permiten reconfigurar rutas cuando algún nodo falla o se desconecta.
 
 ## Stack de Protocolos
 

@@ -1,4 +1,4 @@
-*Integrated Services* - ISA (IntServ) funciona junto al [[Protocolo]] RSVP para ofrecer [[Calidad de Servicio]] en la red. El usuario **solicita de antemano los recursos que necesita**, lo cual define un **flujo**.
+_Integrated Services_ - ISA (IntServ) funciona junto al [[Protocolo]] RSVP para ofrecer [[Calidad de Servicio]] en la red. El usuario **solicita de antemano los recursos que necesita**, lo cual define un **flujo**.
 
 | Servicio         | Características                                | Equivalencia en [[ATM]] |
 | ---------------- | ---------------------------------------------- | ----------------------- |

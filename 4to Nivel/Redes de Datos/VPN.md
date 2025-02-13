@@ -1,4 +1,4 @@
-Una *Virtual Private Network* (VPN) conecta [[Redes de Datos]] de la misma organización ubicadas en distintos lugares, usando la internet pública. Sobre la infraestructura pública de internet, se monta una infraestructura privada.
+Una _Virtual Private Network_ (VPN) conecta [[Redes de Datos]] de la misma organización ubicadas en distintos lugares, usando la internet pública. Sobre la infraestructura pública de internet, se monta una infraestructura privada.
 
 La performance, costo, y disponibilidad, dependen del ISP seleccionado.
 

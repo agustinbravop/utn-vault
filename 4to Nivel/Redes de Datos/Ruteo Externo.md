@@ -12,4 +12,4 @@ Luego aparece el problema de las redes ocultas. En el siguiente ejemplo, ¿Cómo
 
 ![[Redes Ocultas en el Ruteo Externo.png]]
 
-La solución es pasar de un núcleo hacia un [[Autonomous Systems|AS]] (*Autonomous System*, Sistema Autónomo). [[BGPv4]] es una solución para el ruteo externo.
+La solución es pasar de un núcleo hacia un [[Autonomous Systems|AS]] (_Autonomous System_, Sistema Autónomo). [[BGPv4]] es una solución para el ruteo externo.

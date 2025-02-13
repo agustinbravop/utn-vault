@@ -1,4 +1,4 @@
-El **diagrama de Nyquist**, o **diagrama polar**, busca representar la misma información que un [[Diagrama de Bode]] en un solo gráfico. El diagrama es una *traza polar* de la [[Respuesta en Frecuencia]] del [[Sistema de Control]].
+El **diagrama de Nyquist**, o **diagrama polar**, busca representar la misma información que un [[Diagrama de Bode]] en un solo gráfico. El diagrama es una _traza polar_ de la [[Respuesta en Frecuencia]] del [[Sistema de Control]].
 
 Hay cuatro puntos clave a representar:
 
@@ -11,7 +11,7 @@ Hay cuatro puntos clave a representar:
 
 El **criterio de estabilidad de Nyquist** es un método gráfico-numérico para determinar la [[Estabilidad de los Sistemas de Control]] mediante un diagrama de Nyquist.
 
-El lugar geométrico $G(jw)H(jw)$ con $-\infty \le w \le \infty$ encierra $N$ veces con un giro completo al punto $-1+0j$. 
+El lugar geométrico $G(jw)H(jw)$ con $-\infty \le w \le \infty$ encierra $N$ veces con un giro completo al punto $-1+0j$.
 
 Se considera que $N$ es positivo si los giros son en sentido horario. Sea $P$ el número de polos en el semiplano derecho de la [[Función de Transferencia]] de lazo abierto.
 

@@ -1,8 +1,8 @@
-Un **diagrama de bloques funcionales** sirve para modelar un [[Sistema de Control]]. El componente básico es un *bloque funcional*, donde $G(s) = \frac{Y(s)}{X(s)}$:
+Un **diagrama de bloques funcionales** sirve para modelar un [[Sistema de Control]]. El componente básico es un _bloque funcional_, donde $G(s) = \frac{Y(s)}{X(s)}$:
 
 ![[Bloque Funcional.png]]
 
-Un *comparador*, o punto suma, suma algebraicamente las señales, tal que $Z(s)=X(s)-Y(s)$:
+Un _comparador_, o punto suma, suma algebraicamente las señales, tal que $Z(s)=X(s)-Y(s)$:
 
 ![[Comparador.png]]
 

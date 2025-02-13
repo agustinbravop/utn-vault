@@ -10,9 +10,11 @@ $$f^*(t)=f(0)\partial(t)+f(1)\partial(t-1T)+\dots+f(k)\partial(t-kT)$$
 
 Aplicamos la [[Transformada de Laplace]], recordando que $\mathcal L [\partial (t-T)]=e^{-Ts}$ :
 
-$$\begin{align} \mathcal L [f^*(t)]&=F*(s)=f(0)\cdot 1 + f(1)\cdot e^{-Ts} + \dots + f(k)\cdot e^{-kTs} \\
+$$
+\begin{align} \mathcal L [f^*(t)]&=F*(s)=f(0)\cdot 1 + f(1)\cdot e^{-Ts} + \dots + f(k)\cdot e^{-kTs} \\
 \mathcal L [f^*(t)]&=F*(s)= \sum_{k=0}^\infty f(k)\cdot e^{-kTs}
-\end{align}$$
+\end{align}
+$$
 
 Ahora, se hace un cambio de variable $z = e^{kTs}$ tal que $s = \frac{1}{T}\cdot\ln z$ :
 
@@ -36,21 +38,25 @@ Sea la **función escalón unitario** $f^*(t)=1$:
 
 ![[Función Escalón Unitario.png]]
 
-$$\begin{align}F(z)&=f(0)+f(1)z^{-1}+\dots+f(k)z^{-k} \\
+$$
+\begin{align}F(z)&=f(0)+f(1)z^{-1}+\dots+f(k)z^{-k} \\
 \text{Si el impulso es unitario: } \ F(z)&=1+z^{-1}\dots+z^{-k} \\
 \text{Lo cual}& \text{ es una serie geométrica convergente a } \frac{1}{1-\frac{1}{z}} \\
 F(z)&=\frac{1}{1-\frac{1}{z}} = \frac{z}{z-1} \text{ donde } |z| \gt 1
-\end{align}$$
+\end{align}
+$$
 
 Ahora, para la **función rampa muestreada** $f^*(t)=t$:
 
 ![[Función Rampa Muestreada.png]]
 
-$$\begin{align}F(z)&=0+Tz^{-1}+\dots+kTz^{-k} \\
+$$
+\begin{align}F(z)&=0+Tz^{-1}+\dots+kTz^{-k} \\
 \frac{zF(z)}{T} &= 1+2z^{-1}+3z^{-2}+\dots+k z^{-k-1} \\
 &\text{Es una serie geométrica convergente a } \frac{1}{\left(1-\frac{1}{z}\right)^2} \\
 F(z)&= \frac{1}{z\left(1-\frac{1}{z}\right)^2} = \frac{Tz}{(z-1)^2} \text{ donde } |z|\gt 1
-\end{align}$$
+\end{align}
+$$
 
 ## Transformada Z Inversa
 

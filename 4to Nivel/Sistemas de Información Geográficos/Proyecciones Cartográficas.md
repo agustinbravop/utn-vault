@@ -13,12 +13,12 @@ Proyecciones:
 - **Cónicas**: usan un cono. Pueden ser tangentes o secantes.
 - **Cilíndricas**: usan un cilindro normal, transverso, u oblicuo.
 - **Planas**: o acimutales o cenitales. Usan un plano. Según la perspectiva:
-	- **Gnomónica**: desde el centro de la Tierra.
-	- **Estereográfica**: desde el polo opuesto.
-	- **Ortográfica**: desde un punto en el infinito.
+  - **Gnomónica**: desde el centro de la Tierra.
+  - **Estereográfica**: desde el polo opuesto.
+  - **Ortográfica**: desde un punto en el infinito.
 
 ![[Proyecciones Cartográficas.png]]
 
-*Universal Transverse Mercator* es una proyección cilíndrica transversa conforme, desarrollada por el ejército de EEUU en los 40s. Así surgen las zonas UTM: 60 *husos* de 6° de longitud cada uno, y 20 *bandas* de 8° de latitud cada una. $A$, $B$, $Y$, y $Z$ son zonas polares.
+_Universal Transverse Mercator_ es una proyección cilíndrica transversa conforme, desarrollada por el ejército de EEUU en los 40s. Así surgen las zonas UTM: 60 _husos_ de 6° de longitud cada uno, y 20 _bandas_ de 8° de latitud cada una. $A$, $B$, $Y$, y $Z$ son zonas polares.
 
 ![[UTM.png]]

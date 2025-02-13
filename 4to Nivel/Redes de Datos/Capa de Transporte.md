@@ -6,6 +6,6 @@ Suele ser la última capa "obligatoria" a implementar en un stack de [[Protocolo
 
 ![[Capa de Transporte.png]]
 
-Debe proveer confiabilidad, abstracción, y aislación de problemas de la subred. 
+Debe proveer confiabilidad, abstracción, y aislación de problemas de la subred.
 
 Es la última capa que realiza control de errores, y soluciona (de nuevo) algunos problemas ya vistos en la [[Capa de Enlace]].

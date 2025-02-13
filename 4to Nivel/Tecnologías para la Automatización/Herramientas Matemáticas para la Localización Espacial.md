@@ -9,21 +9,21 @@ Representación de la posición en coordenadas cartesianas, cilíndricas, o esf�
 
 ![[Representación de la Posición.png]]
 
-Representación de la orientación: sea la siguiente rotación $\left[p_x \atop p_y \right] = R \left[p_u \atop p_v \right]$ realizada con la *matriz de rotación* $R=\left[\begin{matrix}\cos\alpha & -\sin\alpha \\  \sin\alpha & \cos\alpha \end{matrix}\right]$. $R$ siempre es **ortogonal**, tal que $R^{-1}=R^T$. En 3D, la matriz podría ser: 
+Representación de la orientación: sea la siguiente rotación $\left[p_x \atop p_y \right] = R \left[p_u \atop p_v \right]$ realizada con la _matriz de rotación_ $R=\left[\begin{matrix}\cos\alpha & -\sin\alpha \\  \sin\alpha & \cos\alpha \end{matrix}\right]$. $R$ siempre es **ortogonal**, tal que $R^{-1}=R^T$. En 3D, la matriz podría ser:
 
 $$R = \left[\begin{matrix}1&0&0\\ 0 &\cos\alpha & -\sin \alpha \\ 0 & \sin\alpha & \cos\alpha\end{matrix}\right]$$
 
 Técnicas matemáticas:
 
-- Se puede hacer una *composición de rotaciones*, rotando en cada vez sobre distintos ejes.
-- Se pueden usar *ángulos de Euler*.
+- Se puede hacer una _composición de rotaciones_, rotando en cada vez sobre distintos ejes.
+- Se pueden usar _ángulos de Euler_.
 - Se puede definir un vector $k$ como eje de rotación y un ángulo de giro $\theta$.
-- Los *cuaternios* $Q = [q_0,q_1,q_2,q_3]=[s,\vec v]$ tienen alta eficiencia computacional.
-- Se pueden usar *coordenadas homogéneas* de un espacio $(n+1)$-dimensional para representar sólidos en el espacio $n$-dimensional.
+- Los _cuaternios_ $Q = [q_0,q_1,q_2,q_3]=[s,\vec v]$ tienen alta eficiencia computacional.
+- Se pueden usar _coordenadas homogéneas_ de un espacio $(n+1)$-dimensional para representar sólidos en el espacio $n$-dimensional.
 
 ## Matrices de Transformación Homogénea
 
-Una *matriz de transformación homogénea* es una matrix 4x4 que representa la transformación de un vector en coordenadas homogéneas de un sistema de coordenadas a otro.
+Una _matriz de transformación homogénea_ es una matrix 4x4 que representa la transformación de un vector en coordenadas homogéneas de un sistema de coordenadas a otro.
 
 $$T =\left[\begin{matrix}R_{3\times 3} & P_{3\times 1} \\ f_{1\times 3} & w_{1\times 1} \end{matrix}\right] = \left[\begin{matrix}\text{Rotación} & \text{Traslación} \\ \text{Perspectiva} & \text{Escalado}\end{matrix}\right]$$
 

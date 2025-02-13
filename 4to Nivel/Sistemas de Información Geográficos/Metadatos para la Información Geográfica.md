@@ -34,9 +34,9 @@ A los usuarios, les sirven para:
 
 [[Estándares para la Información Geográfica|Estándares]] ISO:
 
-- **ISO 19115**: define cómo describir información geográfica a través de 400+ elementos. Secciones: *Metadata Entity*, *Identification*, *Extent*, *Constraint*, *Distribution*.
+- **ISO 19115**: define cómo describir información geográfica a través de 400+ elementos. Secciones: _Metadata Entity_, _Identification_, _Extent_, _Constraint_, _Distribution_.
 - **ISO 19139**: define un esquema de implementación XML para ISO 19115.
 
-Los **perfiles de metadatos** definen qué elementos son opcionales y qué otros son obligatorios. Todos los metadatos de las organizaciones que adoptan un perfil deben cumplir dicho perfil, para lograr *consistencia*.
+Los **perfiles de metadatos** definen qué elementos son opcionales y qué otros son obligatorios. Todos los metadatos de las organizaciones que adoptan un perfil deben cumplir dicho perfil, para lograr _consistencia_.
 
 Los metadatos facilitan la construcción de [[Infraestructuras de Datos Espaciales]].

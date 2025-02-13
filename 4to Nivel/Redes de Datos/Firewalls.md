@@ -6,14 +6,14 @@ Los firewalls de primera generación pueden filtrar paquetes por dirección [[IP
 
 ## ALG
 
-Los *Application Level Gateway* (ALG) son firewalls a nivel de aplicación que combinan HW y SW y generalmente están integrados en un proxy.
+Los _Application Level Gateway_ (ALG) son firewalls a nivel de aplicación que combinan HW y SW y generalmente están integrados en un proxy.
 
 Los ALG establecen conexiones en nombre del host y puede examinar en detalle cada conexión. La performance puede ser un problema.
 
-Con *stateful inspection*, los paquetes son inspeccionados en tiempo real, y teniendo en cuenta el flujo de paquetes previos para detectar patrones de comportamiento. Con *dynamin packet inspection*, se puede modificar las reglas reaccionando al entorno.
+Con _stateful inspection_, los paquetes son inspeccionados en tiempo real, y teniendo en cuenta el flujo de paquetes previos para detectar patrones de comportamiento. Con _dynamin packet inspection_, se puede modificar las reglas reaccionando al entorno.
 
 ## IDS
 
-Los *Intrusion Detection System* (IDS) estudian **patrones de comportamiento hostiles**, considerados actividad sospechosa.
+Los _Intrusion Detection System_ (IDS) estudian **patrones de comportamiento hostiles**, considerados actividad sospechosa.
 
 Existen IDSs a nivel de red (NIDS, no monitorean datos encriptados) y a nivel de host (HIDS, afectan la performance).

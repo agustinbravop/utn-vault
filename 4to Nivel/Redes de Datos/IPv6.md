@@ -18,9 +18,9 @@ FEDC:BA98:7654:3210:0000:0000:0000:0089
 			     se abrevia con "::"
 ```
 
- A un encabezado IPv6 se lo puede extender con cabeceras extendidas opcionales, lo cual mejora la eficiencia. Hay 6 tipos de **cabeceras de extensión**:
+A un encabezado IPv6 se lo puede extender con cabeceras extendidas opcionales, lo cual mejora la eficiencia. Hay 6 tipos de **cabeceras de extensión**:
 
-1. **Opciones salto a salto**: sirven para enviar un *jumbograma* (paquete enorme).
+1. **Opciones salto a salto**: sirven para enviar un _jumbograma_ (paquete enorme).
 2. **Opciones de destino**.
 3. **Enrutamiento**.
 4. **Fragmentación**: ahora el origen calcula los dragmentos.
@@ -29,13 +29,13 @@ FEDC:BA98:7654:3210:0000:0000:0000:0089
 
 IPv6 soporta dos mecanismos para la autoconfiguración:
 
-- **[[DHCP]]**: *Dynamic Host Configuration Protocol*.
+- **[[DHCP]]**: _Dynamic Host Configuration Protocol_.
 - **ND**: Neighbor Discovery.
 
 Existen tres enfoques para la **interoperabilidad** entre IPv4 e IPv6:
 
 1. Pilas duales: cada estación debe tener ambos stacks de protocolos.
 2. Túneles: gateways realizan la conversión entre IPv6 e IPv4 cuando un paquete entra o sale de un "túnel" que solo maneja IPv4.
-3. Traductores: un NAT-PT gateway (*Network Address Translator and Protocol Translator Gateway*) conecta segmentos de routers IPv6 con sus vecinos IPv4.
+3. Traductores: un NAT-PT gateway (_Network Address Translator and Protocol Translator Gateway_) conecta segmentos de routers IPv6 con sus vecinos IPv4.
 
 En todos estos casos, se trata de adecuar los routers IPv4, ya que se consideran imposibles de eliminar por completo al 100%.

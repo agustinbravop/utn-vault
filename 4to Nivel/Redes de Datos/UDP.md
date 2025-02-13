@@ -1,4 +1,4 @@
-*User Datagram Protocol* (UDP) es un [[Protocolo]] de la [[Capa de Transporte]] que permite el envío NO confiable de datagramas [[IP]].
+_User Datagram Protocol_ (UDP) es un [[Protocolo]] de la [[Capa de Transporte]] que permite el envío NO confiable de datagramas [[IP]].
 
 ![[UDP.png]]
 

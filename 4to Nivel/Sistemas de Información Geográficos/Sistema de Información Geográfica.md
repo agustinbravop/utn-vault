@@ -96,7 +96,7 @@ Evolución de:
 
 Tendencias actuales:
 
-- Los SIG pasan de ser sistemas completos a ser *plataformas adaptables*.
+- Los SIG pasan de ser sistemas completos a ser _plataformas adaptables_.
 - Se convierten en herramientas base para las disciplinas beneficiarias.
-- Pasan a ser elementos de consumo diario con *presencia social*.
-- Han pasado de un concepto a una *ciencia*.
+- Pasan a ser elementos de consumo diario con _presencia social_.
+- Han pasado de un concepto a una _ciencia_.

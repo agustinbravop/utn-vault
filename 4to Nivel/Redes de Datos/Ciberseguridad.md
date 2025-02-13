@@ -38,16 +38,16 @@ En general, la seguridad de los esquemas simétricos depende del secreto de la l
 
 ## Cifrado Asimétrico
 
-La criptografía asimétrica estudia algoritmos que tienen una clave privada y otra pública. Se basan en funciones matemáticas unidireccionales (funciones *hash*), tal que el cifrado $f(M)=C$ es fácil, pero el descifrado $f^{-1}(C)=N$ es computacionalmente imposible si no se tiene la llave.
+La criptografía asimétrica estudia algoritmos que tienen una clave privada y otra pública. Se basan en funciones matemáticas unidireccionales (funciones _hash_), tal que el cifrado $f(M)=C$ es fácil, pero el descifrado $f^{-1}(C)=N$ es computacionalmente imposible si no se tiene la llave.
 
-Una función unidireccional *hashing* permite que $P \longrightarrow \text{MD}(P)$ sea fácil pero $\text{MD}(P) \longrightarrow P$ sea imposible. Se produce una *colisión* cuando $\exists P, P' / \text{MD}(P) = \text{MD}(P')$. La longitud de la clave debe ser mayor a 128 bits para disminuir la facilidad de producir colisiones. Se usa en firmas digitales para la autenticidad, el no repudio, y la integridad.
+Una función unidireccional _hashing_ permite que $P \longrightarrow \text{MD}(P)$ sea fácil pero $\text{MD}(P) \longrightarrow P$ sea imposible. Se produce una _colisión_ cuando $\exists P, P' / \text{MD}(P) = \text{MD}(P')$. La longitud de la clave debe ser mayor a 128 bits para disminuir la facilidad de producir colisiones. Se usa en firmas digitales para la autenticidad, el no repudio, y la integridad.
 
-Pocos cambios en $P$ deben provocar grandes cambios en $\text{MD}(P)$. Se puede usar con la  clave pública o la clave privada.
+Pocos cambios en $P$ deben provocar grandes cambios en $\text{MD}(P)$. Se puede usar con la clave pública o la clave privada.
 
 Algoritmos de cifrado asimétrico:
 
 1. **RSA**: propuesto en 1977, se seleccionan dos números primos grandes $p$ y $q$ que se mantienen en secreto para generar las dos claves. La fortaleza reside en la imposibilidad práctica de factorizar un número grande.
 
-El problema de *Man In The Middle* (MITM). Un atacante suplanta la identidad de una persona/sistema y genera un par de claves auténticas en su nombre. Para solucionarlo, se introduce una *Certification Authority* (CA) que emita **certificados** firmados con la clave privada del receptor, para asegurar que la clave pública del receptor es válida.
+El problema de _Man In The Middle_ (MITM). Un atacante suplanta la identidad de una persona/sistema y genera un par de claves auténticas en su nombre. Para solucionarlo, se introduce una _Certification Authority_ (CA) que emita **certificados** firmados con la clave privada del receptor, para asegurar que la clave pública del receptor es válida.
 
-Varias CA forman parte de una *Public Key Infrastructure* (PKI). Existe una **cadena de confianza** entre las CAs, que forman una jerarquía descentralizada.
+Varias CA forman parte de una _Public Key Infrastructure_ (PKI). Existe una **cadena de confianza** entre las CAs, que forman una jerarquía descentralizada.

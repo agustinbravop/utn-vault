@@ -1,4 +1,4 @@
-*Differentiated Services* (DiffServ) es un [[Protocolo]] para la [[Calidad de Servicio]] en el cual el usuario marca sus paquetes con un determinado nivel de prioridad.
+_Differentiated Services_ (DiffServ) es un [[Protocolo]] para la [[Calidad de Servicio]] en el cual el usuario marca sus paquetes con un determinado nivel de prioridad.
 
 A diferencia de [[IntServ]], no necesita guardar el estado de cada flujo, por lo que tiene mejor escalabilidad. Se configura en cada [[Enrutadores|router]] por separado.
 

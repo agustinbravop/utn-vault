@@ -7,7 +7,7 @@ La **información geográfica** es el elemento diferenciador de un [[Sistema de 
 
 Esta información es **compleja y voluminosa**. Para manejarla, se la divide en capas. Cada [[Capa de Información Geográfica]] es una porción de esa división:
 
-- **División Horizontal**: división en *zonas* según ciertos criterios puramente espaciales.
-- **División Vertical**: división en *categorías* arbitrarias según características comunes.
+- **División Horizontal**: división en _zonas_ según ciertos criterios puramente espaciales.
+- **División Vertical**: división en _categorías_ arbitrarias según características comunes.
 
 Existen [[Modelos para la Información Geográfica]].

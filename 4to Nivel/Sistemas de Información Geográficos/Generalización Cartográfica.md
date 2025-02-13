@@ -1,8 +1,8 @@
-La **generalización cartográfica** se refiere a representar un dato a una [[Fundamentos Cartográficos y Geodésicos#Escala|escala]] diferente de la que le corresponde en realidad. 
+La **generalización cartográfica** se refiere a representar un dato a una [[Fundamentos Cartográficos y Geodésicos#Escala|escala]] diferente de la que le corresponde en realidad.
 
 Ampliar [[Mapas]] sin agregar detalle o encogerlo sin sacar detalle es incorrecto porque genera una representación inadecuada y confusa. El detalle innecesario genera una densidad excesiva de información.
 
-El ojo humano solo distingue hasta 0.2 mm. Algo más pequeño debe ser agrandado. 
+El ojo humano solo distingue hasta 0.2 mm. Algo más pequeño debe ser agrandado.
 
 La generalización es importante para el rendimiento del [[Sistema de Información Geográfica]] y la visualización. Es un proceso que busca:
 

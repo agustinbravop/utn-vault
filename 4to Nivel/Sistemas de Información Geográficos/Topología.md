@@ -1,4 +1,4 @@
-La **topología** en los [[Modelos para la Información Geográfica]] es un conjunto de *relaciones espaciales* que se establecen por el hecho de que una entidad geográfica tenga una **posición** que la relaciona con otras.
+La **topología** en los [[Modelos para la Información Geográfica]] es un conjunto de _relaciones espaciales_ que se establecen por el hecho de que una entidad geográfica tenga una **posición** que la relaciona con otras.
 
 Estas relaciones pueden ser obvias para el ser humano, pero un [[Sistema de Información Geográfica]] las debe establecer mediante un lenguaje y reglas específicas.
 
@@ -7,7 +7,7 @@ Una [[Capa de Información Geográfica]] tiene topología si almacena de algún 
 - [[Representación Raster]]: las relaciones topológicas vienen implícitas.
 - [[Representación Vectorial]]: se registran las relaciones topológicas de modo **explícito**.
 
-Las *relaciones topológicas* son importantes porque permiten automatizar procesos de análisis o edición de datos geográficos. Para lograr la *consistencia topológica* es necesaria una validación y corrección topológica de la información gráfica.
+Las _relaciones topológicas_ son importantes porque permiten automatizar procesos de análisis o edición de datos geográficos. Para lograr la _consistencia topológica_ es necesaria una validación y corrección topológica de la información gráfica.
 
 Existen herramientas para la rectificación de los errores de topografía.
 
@@ -31,9 +31,9 @@ Relaciones topológicas importantes:
 
 Algunas propiedades topológicas pueden calcularse, pero otras no.
 
-Un modelo vectorial sin topología ("*spagetti*") es más simple, ya que solo recoge las propiedades geométricas de cada unidad. Para agregar topología, se requiere un almacenamiento explícito. Hay dos estrategias:
+Un modelo vectorial sin topología ("_spagetti_") es más simple, ya que solo recoge las propiedades geométricas de cada unidad. Para agregar topología, se requiere un almacenamiento explícito. Hay dos estrategias:
 
-- **DIME**: *Dual Independent Map Encoding* (de 1967). Cada línea recta entre dos puntos se trata como una unidad.
-- **Arco-Nodo**: es el más popular. Un *arco* es una sucesión de segmentos rectos. Un *vértice* es un punto que solo pertenece a una entidad. Un *nodo* son puntos iniciales y finales de un arco, o si conectan 3 o más arcos. Los *polígonos adyacentes* comparten uno o más arcos.
+- **DIME**: _Dual Independent Map Encoding_ (de 1967). Cada línea recta entre dos puntos se trata como una unidad.
+- **Arco-Nodo**: es el más popular. Un _arco_ es una sucesión de segmentos rectos. Un _vértice_ es un punto que solo pertenece a una entidad. Un _nodo_ son puntos iniciales y finales de un arco, o si conectan 3 o más arcos. Los _polígonos adyacentes_ comparten uno o más arcos.
 
 ![[Modelo Vectorial con Topología.png]]

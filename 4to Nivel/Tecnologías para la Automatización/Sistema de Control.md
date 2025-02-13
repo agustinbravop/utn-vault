@@ -2,7 +2,7 @@ La [[Teoría de Control]] nos ayuda a crear **sistemas de control** (SC).
 
 Un **sistema de control automático** posee subsistemas conformados por dispositivos, que efectúan acciones de **control, corrección, procesamiento, y medición** de la variable que se desea regular.
 
-Un sistema de control *dinámico* está expuesto a *perturbaciones* (internas y externas). Se aplica la teoría general de sistemas para determinar bajo qué condiciones el sistema opera en **régimen estable**.
+Un sistema de control _dinámico_ está expuesto a _perturbaciones_ (internas y externas). Se aplica la teoría general de sistemas para determinar bajo qué condiciones el sistema opera en **régimen estable**.
 
 Para elaborar un modelo de un SC, se deben definir estos elementos:
 
@@ -18,7 +18,7 @@ Modelo clásico de un SC:
 
 ![[Sistema de Control.png]]
 
-La *retroalimentación* puede ser:
+La _retroalimentación_ puede ser:
 
 - **Positiva**: desestabiliza el sistema, creando un círculo vicioso.
 - **Negativa**: la salida vuelve a entrar pero negada, lo que estabiliza el sistema.
@@ -38,7 +38,7 @@ El sistema de control puede ser de:
 - **Lazo abierto**: no obtienen información por retroalimentación.
 - **Lazo cerrado**: mide la señal de salida para realimentarla a la entrada.
 
-La [[Ingeniería de Control]] debe no solo definir los *límites* del sistema, sino también hacer recomendaciones para su *diseño*.
+La [[Ingeniería de Control]] debe no solo definir los _límites_ del sistema, sino también hacer recomendaciones para su _diseño_.
 
 Modelo de capas de un SC:
 

@@ -1,4 +1,4 @@
-El uso de subredes o ***subnetting*** es una técnica para subdividir redes y **aprovechar las direcciones** disponibles de [[IP]] (el [[Protocolo]] de Internet).
+El uso de subredes o **_subnetting_** es una técnica para subdividir redes y **aprovechar las direcciones** disponibles de [[IP]] (el [[Protocolo]] de Internet).
 
 ![[Subnetting.png]]
 
@@ -12,7 +12,7 @@ Se ocupan unos bits del `hostID` de la dirección IP para usar un identificador 
 
 ![[Subnetting para cada Clase.png]]
 
-Con el **subnetting con VLSM** (*Variable Length Subnet Mask*), se puede dividir una subred en subredes más pequeñas con máscaras diferentes según los requerimientos que tengamos.
+Con el **subnetting con VLSM** (_Variable Length Subnet Mask_), se puede dividir una subred en subredes más pequeñas con máscaras diferentes según los requerimientos que tengamos.
 
 ![[Subnetting con VLSM.png]]
 

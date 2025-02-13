@@ -1,4 +1,4 @@
-Los **enrutadores** o *routers* son dispositivos de la [[Capa de Red]], capa 3 del modelo OSI. Los enrutadores cumplen dos funciones:
+Los **enrutadores** o _routers_ son dispositivos de la [[Capa de Red]], capa 3 del modelo OSI. Los enrutadores cumplen dos funciones:
 
 - Determinación de la ruta.
 - Conmutación.
@@ -13,7 +13,7 @@ Si el enrutador $J$ está en ruta óptima del enrutador $I$ al enrutador $K$, en
 
 $$\text{Si } J \in \text{opt}(I,K) \implies (J,K) \text{ es óptimo}$$
 
-Debido a esto, el grupo de rutas óptimas de todos los orígenes a un destino dado forma un *árbol sumidero* con raíz en el destino. La métrica de distancia es la **cantidad de saltos**.
+Debido a esto, el grupo de rutas óptimas de todos los orígenes a un destino dado forma un _árbol sumidero_ con raíz en el destino. La métrica de distancia es la **cantidad de saltos**.
 
 El objetivo de los algoritmos de enrutamiento es descubrir y utilizar los árboles sumideros de todos los enrutadores.
 
@@ -57,12 +57,12 @@ Esto logra una **convergencia rápida**, aunque la difusión puede consumir much
 
 ## Enrutamiento Jerárquico
 
-En el **enrutamiento jerárquico**, los routers se dividen en *regiones*.
+En el **enrutamiento jerárquico**, los routers se dividen en _regiones_.
 
-Cada enrutador conoce todos los detalles para enrutar paquetes a destinos dentro de su propia región, pero no sabe nada de la *estructura interna* de las otras regiones. Se puede considerar a cada región como una red conectada a través de un solo *gateway* con otras regiones (o redes).
+Cada enrutador conoce todos los detalles para enrutar paquetes a destinos dentro de su propia región, pero no sabe nada de la _estructura interna_ de las otras regiones. Se puede considerar a cada región como una red conectada a través de un solo _gateway_ con otras regiones (o redes).
 
 ![[Enrutamiento Jerárquico.png]]
 
-Un router que no sea el *gateway router*, no necesita conocer de otras regiones, por lo que su **tabla jerárquica** de direcciones puede ser más corta, porque solo incluye direcciones de su misma región.
+Un router que no sea el _gateway router_, no necesita conocer de otras regiones, por lo que su **tabla jerárquica** de direcciones puede ser más corta, porque solo incluye direcciones de su misma región.
 
 Para una subred de $N$ routers, el número óptimo de niveles es $\ln N$.

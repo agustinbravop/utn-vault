@@ -1,4 +1,4 @@
-Es requisito que un [[Sistema de Control]] sea [[Estabilidad|estable]]. Bajo condiciones óptimas sin fallas ni [[Error en Estado Estable de los Sistemas de Control|perturbaciones]], un sistema de lazo cerrado siempre es estable. 
+Es requisito que un [[Sistema de Control]] sea [[Estabilidad|estable]]. Bajo condiciones óptimas sin fallas ni [[Error en Estado Estable de los Sistemas de Control|perturbaciones]], un sistema de lazo cerrado siempre es estable.
 
 Un SC es estable si al aplicarle una entrada de referencia finita, la salida también tiene un valor finito. Un SC es estable si:
 
@@ -11,9 +11,9 @@ Los sistemas pueden ser:
 - Marginalmente o críticamente estables.
 - Inestables (no sirven para la [[Teoría de Control]]).
 
-Se puede determinar la estabilidad mediante el **método de polos y ceros**. Se analiza la [[Función de Transferencia]] en lazo cerrado de un SC. Las raíces de su denominador son los *polos* a analizar.
+Se puede determinar la estabilidad mediante el **método de polos y ceros**. Se analiza la [[Función de Transferencia]] en lazo cerrado de un SC. Las raíces de su denominador son los _polos_ a analizar.
 
-Para determinar la estabilidad del sistema, se le puede introducir una *señal impulso* y ver si al cabo de un tiempo la salida tiende a cero. 
+Para determinar la estabilidad del sistema, se le puede introducir una _señal impulso_ y ver si al cabo de un tiempo la salida tiende a cero.
 
 Ejemplos:
 

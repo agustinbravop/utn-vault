@@ -4,7 +4,7 @@ El [[Protocolo]] de [[Capa de Red]] utilizado es casi siempre [[IPv6]].
 
 Para el protocolo de datos, hay más variedad:
 
-1. **MQTT**: *Message Queuing Telemetry Transport*. Es probablemente el más utilizado en IoT. Usa [[TCP]] en la  [[Capa de Transporte]]. Usa operaciones `publish` y `suscribe` para transmitir datos entre cliente y servidor. Los paquetes son diminutos y requieren poco ancho de banda.
+1. **MQTT**: _Message Queuing Telemetry Transport_. Es probablemente el más utilizado en IoT. Usa [[TCP]] en la [[Capa de Transporte]]. Usa operaciones `publish` y `suscribe` para transmitir datos entre cliente y servidor. Los paquetes son diminutos y requieren poco ancho de banda.
 2. **CoAP**: construido sobre [[UDP]], es fácil de utilizar. Un servidor dispone sus recursos bajo una URL y acepta peticiones HTTP, permitiendo una [[RESTful API]].
 3. **XMPP**: este es un estándar abierto basado en XML para la comunicación en tiempo real. Definido en RFC 6120.
 
@@ -16,7 +16,7 @@ Las [[Redes de Datos]] se clasifican según su **radio de alcance**:
 
 $$\text{Nano} \lt \text{BAN} \lt \text{PAN} \lt \text{LAN}\lt \text{CAN}\lt \text{MAN}\lt \text{RAN}\lt \text{WAN}$$
 
-Decidir qué tipo de red y estándares usar depende de los requisitos o *restricciones* del problema.
+Decidir qué tipo de red y estándares usar depende de los requisitos o _restricciones_ del problema.
 
 Para redes LAN, de **corto alcance y bajo consumo**:
 

@@ -86,7 +86,7 @@ Materias electivas del 4to nivel (un mínimo de 6 horas cátedra semanales):
 17. Agilidad Avanzada (3 hs).
 18. Análisis de Datos Empresariales (3 hs).
 19. Aspectos Avanzados de la Calidad de Software (3 hs).
-20. Sistemas de Información Geográficos (3 hs).
+20. [[4to Nivel/Sistemas de Información Geográficos/index|Sistemas de Información Geográficos]] (3 hs).
 
 Materias electivas del 5to nivel (un mínimo de 10 horas cátedra semanales):
 

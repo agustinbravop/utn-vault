@@ -15,7 +15,7 @@ El _intervalo de clase_ es un intervalo de variación de los datos entre dos val
 
 Un _histograma_ es un gráfico de la distribución de frecuencias. Cada intervalo de clase es una barra del gráfico. Otro gráfico alternativo es un _polígono de frecuencias_, que une los puntos medios del lado superior de cada barra del histograma.
 
-![[Histograma.png]]
+![[3er Nivel/Probabilidad y Estadística/attachments/Histograma.png]]
 
 La _ojiva_ (creciente o decreciente) sirve para graficar frecuencias acumuladas.:
 

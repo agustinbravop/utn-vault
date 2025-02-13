@@ -7,14 +7,14 @@ En la actualidad hay varios tipos de sensores para la automatización:
 3. **Sensores de proximidad inductivos**: genera un campo electromagnético que detecta metales.
 4. **Sensores de proximidad capacitivos**: cuenta con dos electrodos. Detecta cualquier material.
 
-Un *potenciómetro* es un dispositivo con valor de resistencia variable que permite controlar la intensidad de corriente. Su salida en volts, siendo $K$ la sensibilidad y $P_p$ la posición, es la siguiente:
+Un _potenciómetro_ es un dispositivo con valor de resistencia variable que permite controlar la intensidad de corriente. Su salida en volts, siendo $K$ la sensibilidad y $P_p$ la posición, es la siguiente:
 
 $$V_s = K \cdot P_p$$
 
-Un *detector de temperatura* usa la propiedad de cambio de la [[Resistencia Eléctrica]] de los metales o semiconductores en función de la temperatura.
+Un _detector de temperatura_ usa la propiedad de cambio de la [[Resistencia Eléctrica]] de los metales o semiconductores en función de la temperatura.
 
 $$V_s = K_t \cdot T$$
 
-Un *tacómetro eléctrico* mide las revoluciones de un dispositivo que gira. Por ejemplo, un volante. Su salida, donde $K$ es una constante de proporcionalidad y $w$ es la velocidad angular, es:
+Un _tacómetro eléctrico_ mide las revoluciones de un dispositivo que gira. Por ejemplo, un volante. Su salida, donde $K$ es una constante de proporcionalidad y $w$ es la velocidad angular, es:
 
 $$V(t) = K \cdot \frac{d\phi}{dt} = K \cdot w$$

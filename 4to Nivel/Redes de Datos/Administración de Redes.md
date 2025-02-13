@@ -14,16 +14,16 @@ Componentes:
 2. **Network Management System**: cliente que consulta y controla los dispositivos.
 3. **Management Information Base**: base de datos que organiza la información.
 
-La *Management Information Base* (MIB) es una base de datos distribuida y jerárquica con estructura de [[Árbol]] que contiene objetos administrados. Cada dispositivo implementa una porción del árbol.
+La _Management Information Base_ (MIB) es una base de datos distribuida y jerárquica con estructura de [[Árbol]] que contiene objetos administrados. Cada dispositivo implementa una porción del árbol.
 
-Los *atributos* (objetos administrados) pueden ser escalares o tabulares. Se los representa con la notación ASN.1 (*Abstract Syntax Notation*). Por ejemplo, para acceder a estadísticas de [[IP]], se debe invocar su ruta completa: `iso.org.dod.internet.mgmt.mib.ip`.
+Los _atributos_ (objetos administrados) pueden ser escalares o tabulares. Se los representa con la notación ASN.1 (_Abstract Syntax Notation_). Por ejemplo, para acceder a estadísticas de [[IP]], se debe invocar su ruta completa: `iso.org.dod.internet.mgmt.mib.ip`.
 
-*Structure Management Information* (SMI), estandarizado en RFC 1155, establece un marco general para la definición y construcción de la MIB. Provee una forma estandarizada de representar información de administración.
+_Structure Management Information_ (SMI), estandarizado en RFC 1155, establece un marco general para la definición y construcción de la MIB. Provee una forma estandarizada de representar información de administración.
 
-**SNMPv1**, basado en SMI y definido en RFC 1157, define cuatro operaciones: `Get`, `GetNext`, `Set`, `Trap`. Es seguridad basada en *community*. Puede generar vulnerabilidades pero es ampliamente utilizado.
+**SNMPv1**, basado en SMI y definido en RFC 1157, define cuatro operaciones: `Get`, `GetNext`, `Set`, `Trap`. Es seguridad basada en _community_. Puede generar vulnerabilidades pero es ampliamente utilizado.
 
 Luego surge **SNMPv2**, definido en RFC 1902, que agrega las operaciones `GetBulk` e `Inform`. Mejora los tipos de datos.
 
 **SNMPv3**, definido en RFC 3411/3418, presenta una arquitectura modular para mejorar la [[Ciberseguridad]]. Agrega soporte para la encriptación y autenticación. El motor SNMP decide si permitir o no el acceso para cada operación. Es poco usado por ser inconveniente.
 
-**RMON** permite el monitoreo remoto. Dispositivos específicos *sondean* la red y centralizan la información de varios dispositivos. Esto evita sobrecargar todos los hosts.
+**RMON** permite el monitoreo remoto. Dispositivos específicos _sondean_ la red y centralizan la información de varios dispositivos. Esto evita sobrecargar todos los hosts.

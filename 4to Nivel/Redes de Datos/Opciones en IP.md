@@ -1,4 +1,4 @@
-En [[IP]], las *opciones* representan operaciones disponibles pero no siempre necesarias. Se agregan al encabezado del paquete.
+En [[IP]], las _opciones_ representan operaciones disponibles pero no siempre necesarias. Se agregan al encabezado del paquete.
 
 Cada opción se representa con un número. Son de longitud variable porque un datagrama IP puede tener cero, una, o más opciones. Se consideró útil separar cuatro clases de opciones:
 
@@ -7,4 +7,4 @@ Cada opción se representa con un número. Son de longitud variable porque un da
 3. Medición y debugging.
 4. Reservado para uso futuro.
 
-Hoy en día están *deprecadas* (ya no se usan más).
+Hoy en día están _deprecadas_ (ya no se usan más).

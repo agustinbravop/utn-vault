@@ -1,8 +1,8 @@
-El **método del lugar de las raíces** es un enfoque práctico para graficar el Lugar *Geométrico de las Raíces* (LGR).
+El **método del lugar de las raíces** es un enfoque práctico para graficar el Lugar _Geométrico de las Raíces_ (LGR).
 
-Este método sirve para conocer cómo varían las raíces del denominador de la [[Función de Transferencia]] dentro del plano [[Números Complejos|complejo]], lo que permite estudiar la [[Estabilidad de los Sistemas de Control]]. 
+Este método sirve para conocer cómo varían las raíces del denominador de la [[Función de Transferencia]] dentro del plano [[Números Complejos|complejo]], lo que permite estudiar la [[Estabilidad de los Sistemas de Control]].
 
-Para ello, se generan curvas que muestran el desplazamiento de las raíces conforme cambiamos los valores de funcionamiento. Estos gráficos son el *lugar geométrico de las raíces* (LGR): un conjunto de curvas que se grafican en el plano complejo.
+Para ello, se generan curvas que muestran el desplazamiento de las raíces conforme cambiamos los valores de funcionamiento. Estos gráficos son el _lugar geométrico de las raíces_ (LGR): un conjunto de curvas que se grafican en el plano complejo.
 
 El método del LGR permite determinar la posición de los polos de la función de transferencia de lazo cerrado para valores de ganancia $k \in [0,\infty]$ a partir de la función de transferencia de lazo abierto.
 
@@ -14,10 +14,12 @@ $$\frac{C(s)}{R(s)} = \frac{G(s)}{1+G(s)H(s)} \Longrightarrow \text{Ecuación ca
 
 La ecuación característica $1 + G(s)H(s) = 0$ se puede expresar de varias maneras:
 
-$$\begin{align}1 + G(s)H(s) &= 0\\
+$$
+\begin{align}1 + G(s)H(s) &= 0\\
 G(s)H(s) &= -1\\
 1 + K\frac{P(s)}{Q(s)} &= 0\\
-1 + K\frac{(s+z_1)(s+z_2)\dots(s+z_m)}{(s+p_1)(s+p_2)\dots(s+p_n)}&=0\end{align}$$
+1 + K\frac{(s+z_1)(s+z_2)\dots(s+z_m)}{(s+p_1)(s+p_2)\dots(s+p_n)}&=0\end{align}
+$$
 
 De la expresión $G(s)H(s)=-1$ surgen dos condiciones:
 
@@ -26,7 +28,7 @@ De la expresión $G(s)H(s)=-1$ surgen dos condiciones:
 
 El procedimiento del método del LGR es el siguiente:
 
-1. **Hallar los polos y ceros de lazo abierto**: partiendo de $G(s)H(s)$. 
+1. **Hallar los polos y ceros de lazo abierto**: partiendo de $G(s)H(s)$.
 
 El diagrama del LGR tiene tantas ramas como polos de lazo cerrado existan. Los polos siempre son o reales, o complejos conjugados.
 
@@ -36,9 +38,9 @@ Un segmento del LGR sobre el eje real va desde un polo o cero hasta otro polo, o
 
 3. **Determinar las asíntotas**: las ramas del LGR tocan a las asíntotas en el infinito.
 
-El *ángulo de las asíntotas* en sentido antihorario es $\alpha = \frac{180°(2k+1)}{n-m}$, tal que hay $n-m$ asíntotas distintas. El *punto de partida de las asíntotas*, que determina la distancia al origen en la que todas las asíntotas cruzan el eje real, es $\sigma_a = \frac{\sum \text{polos finitos} - \sum \text{ceros finitos}}{n-m}$.
+El _ángulo de las asíntotas_ en sentido antihorario es $\alpha = \frac{180°(2k+1)}{n-m}$, tal que hay $n-m$ asíntotas distintas. El _punto de partida de las asíntotas_, que determina la distancia al origen en la que todas las asíntotas cruzan el eje real, es $\sigma_a = \frac{\sum \text{polos finitos} - \sum \text{ceros finitos}}{n-m}$.
 
-4. **Hallar los *puntos de ruptura***: donde nacen o mueren ramas del LGR.
+4. **Hallar los _puntos de ruptura_**: donde nacen o mueren ramas del LGR.
 
 Los puntos de ruptura están o sobre el eje real, o son pares complejos conjugados. Hay por lo menos un punto de ruptura en todo segmento del LGR entre dos polos de lazo abierto sobre el eje real adyacente, o entre dos ceros de lazo abierto adyacentes aunque uno de ellos esté en el infinito.
 

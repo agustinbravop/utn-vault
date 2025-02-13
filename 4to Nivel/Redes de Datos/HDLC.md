@@ -1,8 +1,8 @@
-**High-Level Data Link Control** (HDLC) es un [[Protocolo]] punto a punto de [[Capa de Enlace]]. 
+**High-Level Data Link Control** (HDLC) es un [[Protocolo]] punto a punto de [[Capa de Enlace]].
 
-Define 3 tipos de estaciones, 2 configuraciones del enlace, y 3 modos de operación. 
+Define 3 tipos de estaciones, 2 configuraciones del enlace, y 3 modos de operación.
 
-Se usaba antes para *topologías centralizadas* (arquitecturas maestro/esclavo). Cumplía con todas las funciones de la capa de enlace, lo que lo hace un protocolo pesado: uno no siempre necesita todos los campos de control que HDLC define.
+Se usaba antes para _topologías centralizadas_ (arquitecturas maestro/esclavo). Cumplía con todas las funciones de la capa de enlace, lo que lo hace un protocolo pesado: uno no siempre necesita todos los campos de control que HDLC define.
 
 Eventualmente surgieron protocolos hijos que solo utilizan ciertas partes de HDLC:
 

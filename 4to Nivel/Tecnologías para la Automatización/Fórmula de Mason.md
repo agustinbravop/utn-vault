@@ -6,8 +6,10 @@ $$G(s)=\frac{C(s)}{R(s)} = \sum_{i=1}^n \frac{P_i\Delta_i}{\Delta} = \frac{1}{\D
 
 El método consiste en calcular el determinante $\Delta$, lo que involucra enumerar los lazos cerrados del sistema:
 
-$$\begin{align}\Delta = 1 &-\sum \text{ lazos individuales} \\
+$$
+\begin{align}\Delta = 1 &-\sum \text{ lazos individuales} \\
 &+ \sum \text{ productos de todas las combinaciones de lazos disjuntos tomados de a dos} \\
 &- \sum \text{ productos de todas las combinaciones de lazos disjuntos tomados de a tres} \\
 & \ \ \vdots \\
-\end{align}$$
+\end{align}
+$$

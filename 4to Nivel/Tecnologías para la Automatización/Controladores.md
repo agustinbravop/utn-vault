@@ -1,6 +1,6 @@
-Un **controlador automático** compara el valor real de la salida de un [[Sistema de Control]] con la *entrada de referencia*, determina la desviación, y produce una *señal de control* que reducirá la desviación.
+Un **controlador automático** compara el valor real de la salida de un [[Sistema de Control]] con la _entrada de referencia_, determina la desviación, y produce una _señal de control_ que reducirá la desviación.
 
-Un controlador introduce *polos* en la [[Función de Transferencia]] del sistema para forzar la [[Estabilidad de los Sistemas de Control]] y hacer **estable** al sistema.
+Un controlador introduce _polos_ en la [[Función de Transferencia]] del sistema para forzar la [[Estabilidad de los Sistemas de Control]] y hacer **estable** al sistema.
 
 ![[Controladores.png]]
 
@@ -17,7 +17,7 @@ Tipos de controladores:
 
 El **controlador proporcional** es sencillo. Es básicamente un amplificador con cierta ganancia constante $u(t) = K_p \cdot e(t)$.
 
-Si bien es un controlador simple, el problema es que siempre habrá un [[Error en Estado Estable de los Sistemas de Control|error]] en estado estacionario frente a una entrada escalón. Siempre habrá una desviación u *offset* con respecto al valor de referencia.
+Si bien es un controlador simple, el problema es que siempre habrá un [[Error en Estado Estable de los Sistemas de Control|error]] en estado estacionario frente a una entrada escalón. Siempre habrá una desviación u _offset_ con respecto al valor de referencia.
 
 ![[Controlador Proporcional.png]]
 
