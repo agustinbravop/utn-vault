@@ -1,6 +1,6 @@
 Una capa de [[Información Geográfica]], o simplemente **capa**, es la unidad básica de almacenamiento de un [[Sistema de Información Geográfica]]. Es la unidad fundamental de información sobre una zona y un tipo de información.
 
-Hay capas de elevación, parcelas, calles, clientes, ríos, transporte, anotaciones, etc. Un conjunto de capas forma un [[Mapa]].
+Hay capas de elevación, parcelas, calles, clientes, ríos, transporte, anotaciones, etc. Un conjunto de capas forma un [[Mapas|mapa]].
 
 ![[Capa de Información Geográfica.png]]
 

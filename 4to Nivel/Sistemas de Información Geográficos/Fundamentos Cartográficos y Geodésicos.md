@@ -4,7 +4,7 @@ La **geodesia** es la ciencia que estudia la forma y dimensiones de la Tierra. T
 - **Física**: estudia el campo gravitatorio y sus variaciones.
 - **Astronómica**: medir los astros para determinar coordenadas terrestres.
 
-La **cartografía** es un conjunto de operaciones y procesos que intervienen en la creación, edición, y análisis de [[Mapa|mapas]]. Se basa en la premisa de **modelar la realidad** de manera que comunique información espacial de manera efectiva.
+La **cartografía** es un conjunto de operaciones y procesos que intervienen en la creación, edición, y análisis de [[Mapas]]. Se basa en la premisa de **modelar la realidad** de manera que comunique información espacial de manera efectiva.
 
 ![[Fundamentos Cartográficos y Geodésicos.png]]
 

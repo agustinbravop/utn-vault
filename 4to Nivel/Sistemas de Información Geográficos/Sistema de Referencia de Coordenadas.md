@@ -34,3 +34,5 @@ Por ejemplo, el código EPSG:4326 identifica al elipsoide WGS84 utilizando coord
 En Argentina, la proyección oficial es la Gauss-Kruger. El ente responsable es el IGN, y el marco actual es el POSGAR 07, que materializa al WGS84.
 
 Gauss-Kruger divide al país en 7 *fajas* de 3° cada una. El Chaco está entre la 4 y la 5. Los códigos EPSG correspondientes son 2217X, siendo X la faja (de 1 a 7).
+
+![[POSGAR 07.png]]
