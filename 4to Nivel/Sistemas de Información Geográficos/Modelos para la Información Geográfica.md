@@ -49,10 +49,22 @@ geográfico] --> 4[Repr. raster]
 
 Hay dos modelos de representación principales al definir las capas de información geográfica:
 
-- [[Modelo de Representación Raster]]: hace una división sistemática del espacio que lo cubre completamente. Se puede analizar como matriz por su regularidad.
-- [[Modelo de Representación Vectorial]]: define el espacio con una serie de elementos geométricos únicamente ubicados donde ocurre el fenómeno bajo estudio.
+- [[Representación Raster]]: hace una división sistemática del espacio que lo cubre completamente. Se puede analizar como matriz por su regularidad.
+- [[Representación Vectorial]]: define el espacio con una serie de elementos geométricos únicamente ubicados donde ocurre el fenómeno bajo estudio.
 
 ![[Modelos de Representación.png]]
+
+|                           | Representación Vectorial       | Representación Raster            |
+| ------------------------- | ------------------------------ | -------------------------------- |
+| Naturaleza                | Énfasis en dónde               | Énfasis en qué y cómo            |
+| Volumen de almacenamientp | Suele ser menor                | Suele ser superior               |
+| Precisión                 | Elevada                        | Limitada al tamaño del píxel     |
+| Facilidades               | Fácil de mantener              | Fácil de capturar y analizar     |
+| Estructura de datos       | Compleja                       | Simple                           |
+| Algoritmos                | Complejos                      | Costosos en tiempo               |
+| Salidas gráficas          | Mejores (escalables)           | Peores                           |
+| Usos comunes              | Gestión, planificaación urbana | Estudios ambientales, climáticos |
+| Límites de objetos        | Bien definidos                 | Difusos                          |
 
 ## Modelos de Almacenamiento
 
@@ -67,7 +79,8 @@ En base a los modelos de almacenamiento, aparecen **formatos** para archivos y p
 
 - **Formatos para vectores**:
 	- Archivos: ESRI Shapefile (.shp), GeoJSON, GML, KML, etc.
-	- Bases de datos: PostgreSQL (con POSTGIS), MongoDB, etc.
+	- Bases de datos: PostgreSQL (con PostGIS), MongoDB, etc.
 - **Formatos para raster**:
 	- Archivos: Tiff/GeoTiff, ASCII Grids, MrSID, etc.
-	- Bases de datos: PostgreSQL (con POSTGIS), Rasterlite (Sqlite), etc.
+	- Bases de datos: PostgreSQL (con PostGIS), Rasterlite (Sqlite), etc.
+ 

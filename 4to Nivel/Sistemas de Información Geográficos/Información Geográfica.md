@@ -3,6 +3,8 @@ La **información geográfica** es el elemento diferenciador de un [[Sistema de 
 - **Componente espacial**: es la posición dentro de un [[Sistema de Referencia de Coordenadas]]. Responde el ¿Dónde?
 - **Componente temática**: características del proceso o fenómeno que ocurre en la localización dada. Responde el ¿Qué?
 
+![[Información Geográfica.png]]
+
 Esta información es **compleja y voluminosa**. Para manejarla, se la divide en capas. Cada [[Capa de Información Geográfica]] es una porción de esa división:
 
 - **División Horizontal**: división en *zonas* según ciertos criterios puramente espaciales.
