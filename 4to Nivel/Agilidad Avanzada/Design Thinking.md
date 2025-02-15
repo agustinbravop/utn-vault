@@ -14,6 +14,17 @@ Técnicas de design thinking:
 - [[Design Persona]].
 - [[Reverse Brainstorming]].
 
+Para esta fase de concepción, pueden haber un [[Producto Mínimo Viable]] de distintos tamaños:
+
+|             | Proof of Concept   | Prototype                 | MVP                         |
+| ----------- | ------------------ | ------------------------- | --------------------------- |
+| Responde a  | ¿Se puede hacer?   | ¿Hay interés?             | ¿Hay mercado?               |
+| Objetivo    | Viabilidad técnica | Probar un caso de negocio | Producto con feedback real  |
+| Tiempo      | Días               | Semanas                   | Meses                       |
+| Audiencia   | Desarrolladores    | Sponsors y focus group    | Inversores y early adopters |
+| Caso de uso | Aspectos técnicos  | Idea de negocio           | Financiación y mercado      |
+| Inversión   | Baja               | Media                     | Presupuesto definido        |
+
 DT nos permite pasar de las ideas a la generación de valor.
 
 Los modelos de DT intentan darle una **estructura** o método (pseudo) científico a los equipos de diseño de soluciones, cuya común falta de procesos suele hacerlos tender al caos. Existen varias propuestas, pero nosotros vemos tres.
