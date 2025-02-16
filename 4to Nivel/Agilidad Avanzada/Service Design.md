@@ -16,6 +16,8 @@ Los ***alignment diagrams*** son mapas, diagramas, o visualizaciones que revelan
 2. **Customer Journey Maps**: hacen foco en el viaje emocional del cliente.
 3. **Otros**: experience maps, mental model diagrams, spatial maps.
 
+![[Service Blueprint.png]]
+
 Se debe tener en cuenta todo el servicio, no solo la aplicación en sí. La **experiencia** del cliente respecto del servicio es mucho más amplia. Hay que identificar sus sentimientos positivos y negativos.
 
 También se identifican acciones de los clientes y el resultado que esperan.

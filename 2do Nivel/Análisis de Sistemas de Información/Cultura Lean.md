@@ -26,7 +26,7 @@ Mary y Tom Poppendieck usaron las ideas de Lean para crear Lean Software Develop
 
 Propuesto por Eric Ries para crear productos bajo mucha incertidumbre, Lean Startup propone probar la viabilidad de un concepto para aprender constantemente, y poder _pivotar_ en base a lo aprendido.
 
-![[Lean Startup.png]]
+![[2do Nivel/Análisis de Sistemas de Información/attachments/Lean Startup.png]]
 
 ## Kanban
 
