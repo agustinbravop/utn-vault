@@ -1,6 +1,6 @@
 **Design Thinking** (DT) es un conjunto de prácticas y herramientas para la creación de productos.
 
-En la [[Ingeniería de Software]], sirve mucho en las etapas iniciales de diseño, las denominadas fases de *inception* o "sprint 0".
+En la [[Ingeniería de Software]], sirve mucho en las etapas iniciales de diseño, las denominadas fases de _inception_ o "sprint 0".
 
 Hay varias propuestas del proceso de Design Thinking, no existe un estándar común. Hay mucha variedad de prácticas y técnicas. El esquema básico es el siguiente:
 
@@ -31,7 +31,7 @@ Los modelos de DT intentan darle una **estructura** o método (pseudo) científi
 
 ## Design Council's Double Diamond
 
-El *Design Council's Double Diamond* es un modelo iterativo basado en varios principios de diseño. Da una descripción visual del proceso de diseño, con los siguientes pasos:
+El _Design Council's Double Diamond_ es un modelo iterativo basado en varios principios de diseño. Da una descripción visual del proceso de diseño, con los siguientes pasos:
 
 1. **Discover**: entender el problema.
 2. **Define**: enfocar.
@@ -42,14 +42,14 @@ El *Design Council's Double Diamond* es un modelo iterativo basado en varios pri
 
 ## Stanford's Design Thinking Process
 
-El *Stanford's Design Thinking Process* propone un proceso iterativo y **no lineal** con 5 etapas o **"formas de pensar"**, junto a las transiciones de cada etapa a la siguiente.
+El _Stanford's Design Thinking Process_ propone un proceso iterativo y **no lineal** con 5 etapas o **"formas de pensar"**, junto a las transiciones de cada etapa a la siguiente.
 
 ![[Stanford's Design Thinking Process.png]]
 
 ## IDEO's Human-Centered Design
 
-*IDEO's Human-Centered Design* propone un enfoque creativo para resolver problemas. Piensa al Design Thinking como un enfoque centrado en el humano para innovar.
+_IDEO's Human-Centered Design_ propone un enfoque creativo para resolver problemas. Piensa al Design Thinking como un enfoque centrado en el humano para innovar.
 
 ![[IDE's Human-Centered Design.png]]
 
-Integra las **necesidades** de las personas, las **posibilidades** de la tecnología, y los **requerimientos** para el éxito del negocio. *Desirability*, *Viability*, y *Feasibility*.
+Integra las **necesidades** de las personas, las **posibilidades** de la tecnología, y los **requerimientos** para el éxito del negocio. _Desirability_, _Viability_, y _Feasibility_.

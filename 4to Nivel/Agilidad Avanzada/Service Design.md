@@ -1,6 +1,6 @@
 Hay una tendencia actual a pasar de desarrollar productos (que cualquiera puede hacer) a desarrollar servicios de software (específicos a cada empresa) con actualizaciones, seguridad, etc.
 
-**Service Design** es una disciplina que aplica [[Design Thinking]] al diseño de servicios. Al diseñar estos servicios, buscamos entender el *customer journey*: el viaje del cliente a lo largo de su relación con nuestro servicio, el cual se plasma en un [[Customer Journey Map]].
+**Service Design** es una disciplina que aplica [[Design Thinking]] al diseño de servicios. Al diseñar estos servicios, buscamos entender el _customer journey_: el viaje del cliente a lo largo de su relación con nuestro servicio, el cual se plasma en un [[Customer Journey Map]].
 
 Es conveniente tener una [[Design Persona]] para cada tipo de cliente.
 
@@ -10,7 +10,7 @@ Otras técnicas útiles para Service Design:
 - **Value Network Map**: es un modelo de **aporte de valor** a los clientes. Hay que tener clara la misión de nuestro negocio, y ajustar la propuesta de valor y el servicio tangible.
 - **Service Prototypes**: prototipar el funcionamiento mediante mockups, simulaciones, etc.
 
-Los ***alignment diagrams*** son mapas, diagramas, o visualizaciones que revelan ambos lados de la creación de valor. Hay varios tipos de alignment diagrams:
+Los **_alignment diagrams_** son mapas, diagramas, o visualizaciones que revelan ambos lados de la creación de valor. Hay varios tipos de alignment diagrams:
 
 1. **Service Blueprints**: se limitan a describir el servicio.
 2. **Customer Journey Maps**: hacen foco en el viaje emocional del cliente.
@@ -22,7 +22,7 @@ Se debe tener en cuenta todo el servicio, no solo la aplicación en sí. La **ex
 
 También se identifican acciones de los clientes y el resultado que esperan.
 
-Los *momentos de verdad* son puntos específicos del viaje en el que sale o todo bien o todo mal: son **críticos**. Son similares a los puntos de conversión donde un usuario pasa de una categoría a otra: de suscripción free a premium, de mirar el catálogo a comprar el ítem.
+Los _momentos de verdad_ son puntos específicos del viaje en el que sale o todo bien o todo mal: son **críticos**. Son similares a los puntos de conversión donde un usuario pasa de una categoría a otra: de suscripción free a premium, de mirar el catálogo a comprar el ítem.
 
 ```mermaid
 flowchart LR;

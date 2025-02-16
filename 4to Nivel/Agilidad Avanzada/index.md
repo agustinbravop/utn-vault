@@ -2,6 +2,8 @@
 title: Agilidad Avanzada
 ---
 
+![[MOC Agilidad Avanzada.png]]
+
 Asignatura: Agilidad Avanzada. \
 Ciclo Lectivo: 2024.
 

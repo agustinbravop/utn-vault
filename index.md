@@ -83,16 +83,16 @@ Nota: la materia "Seminario Integrador" del tercer nivel no es una electiva. Es 
 
 Materias electivas del 4to nivel (un mínimo de 6 horas cátedra semanales):
 
-17. Agilidad Avanzada (3 hs).
-18. Análisis de Datos Empresariales (3 hs).
-19. Aspectos Avanzados de la Calidad de Software (3 hs).
-20. [[4to Nivel/Sistemas de Información Geográficos/index|Sistemas de Información Geográficos]] (3 hs).
+1. [[4to Nivel/Agilidad Avanzada/index|Agilidad Avanzada]] (3 hs).
+2. Análisis de Datos Empresariales (3 hs).
+3. Aspectos Avanzados de la Calidad de Software (3 hs).
+4. [[4to Nivel/Sistemas de Información Geográficos/index|Sistemas de Información Geográficos]] (3 hs).
 
 Materias electivas del 5to nivel (un mínimo de 10 horas cátedra semanales):
 
-21. Analítica de Datos Moderna (3 hs).
-22. Aspectos Avanzados de Redes de Información (3 hs).
-23. Auditoría e Informática Forense (4 hs).
-24. DevOps - Cultura, Herramientas y Procesos (4 hs).
-25. Formación de Emprendedores (4 hs).
-26. Fundamentos de Ciberseguridad (3 hs).
+5. Analítica de Datos Moderna (3 hs).
+6. Aspectos Avanzados de Redes de Información (3 hs).
+7. Auditoría e Informática Forense (4 hs).
+8. DevOps - Cultura, Herramientas y Procesos (4 hs).
+9. Formación de Emprendedores (4 hs).
+10. Fundamentos de Ciberseguridad (3 hs).

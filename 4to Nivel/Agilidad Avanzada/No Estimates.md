@@ -1,6 +1,6 @@
 El **movimiento \#NoEstimates** surge cuando Woody Zuill y Neil Killick cuestionan si tiene sentido la [[Estimación]] en la [[Ingeniería de Software]] cuando todavía no sabemos o entendemos la solución, o los requisitos todavía no son precisos.
 
-Conociendo que la *precisión* de la estimación mejora a medida que el [[Proyectos Ágiles|proyecto]] avanza, aunque según el cono de incertidumbre la precisión nunca es exacta, conviene demorar la estimación lo más posible.
+Conociendo que la _precisión_ de la estimación mejora a medida que el [[Proyectos Ágiles|proyecto]] avanza, aunque según el cono de incertidumbre la precisión nunca es exacta, conviene demorar la estimación lo más posible.
 
 Ahora en la [[Agilidad]], ¿Para qué estimar si los requisitos pueden cambiar siempre? Si la estimación nunca es exacta, conviene no hacerla para no desperdiciar ese tiempo.
 
@@ -8,18 +8,18 @@ Ahora en la [[Agilidad]], ¿Para qué estimar si los requisitos pueden cambiar s
 
 ¿Para qué buscar una estimación precisa y condicionar todo el proyecto a ella? \#NoEstimates propone que **las estimaciones no siempre son necesarias**.
 
-¿Para qué buscar un *compromiso* en tiempo-costo sin conocer el alcance? En lugar de hacer estimaciones, el cliente podría dar un **presupuesto** a gastar. Esto requiere **confianza**, la cual es difícil de construir. La ventaja de esta forma de cobrar, es que los requisitos pueden cambiar cuando el cliente quiera.
+¿Para qué buscar un _compromiso_ en tiempo-costo sin conocer el alcance? En lugar de hacer estimaciones, el cliente podría dar un **presupuesto** a gastar. Esto requiere **confianza**, la cual es difícil de construir. La ventaja de esta forma de cobrar, es que los requisitos pueden cambiar cuando el cliente quiera.
 
 Para aprovechar esa confianza, las empresas están contratando [[Equipo Ágil|equipos de desarrollo ágiles]] bajo demanda y cobrando las horas ocupadas. Esto no funciona sin la confianza del cliente, aunque si la empresa de desarrollo te quiere engañar, también lo puede hacer de otras maneras.
 
-La manera de controlar el avance del proyecto es el **working software**. Las medidas de *lead time* y *cycle time* de [[Kanban]] permiten que el cliente pueda tener una idea de cuánto falta para terminar el proyecto.
+La manera de controlar el avance del proyecto es el **working software**. Las medidas de _lead time_ y _cycle time_ de [[Kanban]] permiten que el cliente pueda tener una idea de cuánto falta para terminar el proyecto.
 
 \#NoEstimates propone usar contratos "pago por horas" (o un punto intermedio) en lugar de contratos "llave en mano". Los autores de [[4to Nivel/Ingeniería y Calidad de Software/Scrum|Scrum]] proponen agregar dos cláusulas a estos contratos:
 
 1. "Dinero por nada".
 2. "Cambios gratis".
 
-Otra práctica propone lograr que todas las [[4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario|Historias de Usuario]] tengan el mismo (o similar) tamaño, de manera que todas sean *intercambiables*.
+Otra práctica propone lograr que todas las [[4to Nivel/Ingeniería y Calidad de Software/Historias de Usuario|Historias de Usuario]] tengan el mismo (o similar) tamaño, de manera que todas sean _intercambiables_.
 
 También es útil comenzar los proyectos con poca inversión inicial, siempre entregando SW funcionando para lograr que el cliente confie en nosotros.
 

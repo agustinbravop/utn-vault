@@ -10,7 +10,7 @@ Principios:
 
 Este tipo de disciplinas permite tener un marco conceptual/teórico con el que enfocar la práctica. Ofrece un **enfoque sistémico** por sobre ideas maravillosas.
 
-Las ideas se tienen que contar para ser validadas, así que hay que saber contarlas de manera efectiva. La técnica del *elevator pitch* sirve para esto
+Las ideas se tienen que contar para ser validadas, así que hay que saber contarlas de manera efectiva. La técnica del _elevator pitch_ sirve para esto
 
 Con Lean Startup, buscamos crear una [[Organización]], no solamente un producto. Los inversores prefieren apostar a un buen equipo por sobre una buena idea. Las personas por sobre el producto, porque eventualmente la startup va a encontrar el producto adecuado.
 
@@ -35,7 +35,7 @@ flowchart LR;
 
 ## Aprender
 
-**Aprender** es averiguar si el modelo de negocio está bien. ¿Hay que pivotar o podemos continuar? *Pivotar* es cambiar el modelo de negocio, es cambiar la estrategia sin alterar la visión.
+**Aprender** es averiguar si el modelo de negocio está bien. ¿Hay que pivotar o podemos continuar? _Pivotar_ es cambiar el modelo de negocio, es cambiar la estrategia sin alterar la visión.
 
 Tipos de **pivot**:
 
@@ -43,7 +43,7 @@ Tipos de **pivot**:
 2. **Zoom out**: ampliar el propósito o agregar características al producto.
 3. **Customer segment**: nos enfocamos en otro segmento.
 4. **Customer need**: se descubren nuevas necesidades.
-5. **Platform**: pasar de ser una aplicación a ser una *plataforma*.
+5. **Platform**: pasar de ser una aplicación a ser una _plataforma_.
 6. **Business architecture**: por ejemplo, pasar de B2B a B2C.
 7. **Value capture**: cambiar la manera de añadir valor.
 8. **Engine of growth**: cambia el enfoque de crecimiento del negocio.
@@ -53,4 +53,3 @@ Tipos de **pivot**:
 Hay que **adaptarse al mercado**. Mientras menor sea nuestra inversión, más fácil y barato es pivotar hasta encontrar un modelo rentable que justifique esos pivots anteriores antes de quedarnos sin financiamiento.
 
 Se debe descartar lo que no sirve y continuar lo que sí aporta valor.
-

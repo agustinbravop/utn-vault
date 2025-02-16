@@ -1,4 +1,4 @@
-*Design persona* o *persona profiling* es una práctica de [[Design Thinking]] que sirve para estereotipar un segmento de los usuarios con una caracterización concreta.
+_Design persona_ o _persona profiling_ es una práctica de [[Design Thinking]] que sirve para estereotipar un segmento de los usuarios con una caracterización concreta.
 
 ![[Design Persona.png]]
 

@@ -1,4 +1,4 @@
-*Reverse brainstorming* es una técnica de [[Design Thinking]]. Propone que cuando estamos ante a un problema, lo demos vuelta para plantear su contrario. 
+_Reverse brainstorming_ es una técnica de [[Design Thinking]]. Propone que cuando estamos ante a un problema, lo demos vuelta para plantear su contrario.
 
 ![[Reverse Brainstorming.png]]
 
