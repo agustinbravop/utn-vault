@@ -9,6 +9,6 @@ Prácticas ágiles no tan específicas al desarrollo de software:
 
 Nuevas propuestas ágiles para las organizaciones:
 
-- [[Peopleware]].
+- [[Management 3.0]].
 - [[Escalado de la Agilidad]].
 - [[Evolución de la Agilidad]].
