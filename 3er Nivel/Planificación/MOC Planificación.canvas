@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"002d53481039313d","x":-360,"y":-600,"width":400,"height":400,"color":"4","type":"file","file":"3er Nivel/Planificación/Planificación.md"},
+		{"id":"324e3f5ccbe66c8d","x":360,"y":-600,"width":400,"height":400,"color":"4","type":"file","file":"3er Nivel/Planificación/Seguimiento.md"},
+		{"id":"00007a662b13b0ff","x":1160,"y":-600,"width":400,"height":400,"type":"file","file":"3er Nivel/Planificación/Evaluación del Proyecto.md"},
+		{"id":"ae2cdf39985d29a2","x":-80,"y":-40,"width":400,"height":400,"type":"file","file":"3er Nivel/Planificación/Representación de un Proyecto.md"},
+		{"id":"1698d0859a3965b7","x":-80,"y":1080,"width":400,"height":400,"type":"file","file":"3er Nivel/Planificación/Planificación con Software de Gestión de Proyectos.md"},
+		{"id":"280c3fd230ad5f2c","x":640,"y":520,"width":400,"height":400,"type":"file","file":"3er Nivel/Planificación/Control de un Proyecto.md"},
+		{"id":"42a2d7fa078f811c","x":640,"y":-40,"width":400,"height":400,"type":"file","file":"3er Nivel/Planificación/Costos de un Proyecto.md"},
+		{"id":"e254b3a2404c4282","x":1440,"y":-40,"width":400,"height":400,"type":"file","file":"3er Nivel/Planificación/Ingresos y Beneficios de un Proyecto.md"},
+		{"id":"c5311d97fa31ee50","x":-80,"y":520,"width":400,"height":400,"type":"file","file":"3er Nivel/Planificación/Camino Crítico.md"},
+		{"id":"61434b9fe4f3116c","x":360,"y":-1160,"width":400,"height":400,"type":"file","file":"3er Nivel/Planificación/Proyecto.md"}
+	],
+	"edges":[
+		{"id":"e7b262170ce79d0b","fromNode":"002d53481039313d","fromSide":"right","toNode":"324e3f5ccbe66c8d","toSide":"left"},
+		{"id":"cfdcb3f561e0b713","fromNode":"324e3f5ccbe66c8d","fromSide":"right","toNode":"00007a662b13b0ff","toSide":"left"},
+		{"id":"9d3d2ea0e7a73a74","fromNode":"002d53481039313d","fromSide":"bottom","toNode":"ae2cdf39985d29a2","toSide":"left"},
+		{"id":"7ccb6b0bc350bfe0","fromNode":"002d53481039313d","fromSide":"bottom","toNode":"c5311d97fa31ee50","toSide":"left"},
+		{"id":"c89d113db7ab6dc3","fromNode":"002d53481039313d","fromSide":"bottom","toNode":"1698d0859a3965b7","toSide":"left"},
+		{"id":"30dfd947394a3a74","fromNode":"324e3f5ccbe66c8d","fromSide":"bottom","toNode":"42a2d7fa078f811c","toSide":"left"},
+		{"id":"5fdd4af2fb43ec92","fromNode":"324e3f5ccbe66c8d","fromSide":"bottom","toNode":"280c3fd230ad5f2c","toSide":"left"},
+		{"id":"9f3938eed595dab6","fromNode":"00007a662b13b0ff","fromSide":"bottom","toNode":"e254b3a2404c4282","toSide":"left"},
+		{"id":"2663d5c02074b377","fromNode":"61434b9fe4f3116c","fromSide":"bottom","toNode":"002d53481039313d","toSide":"top"},
+		{"id":"7b5e0586f87ab24c","fromNode":"61434b9fe4f3116c","fromSide":"bottom","toNode":"324e3f5ccbe66c8d","toSide":"top"},
+		{"id":"40b6f4eb729dd335","fromNode":"61434b9fe4f3116c","fromSide":"bottom","toNode":"00007a662b13b0ff","toSide":"top"}
+	]
+}

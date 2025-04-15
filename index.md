@@ -62,12 +62,12 @@ Materias obligatorias del [[4to Nivel/index|4to Nivel]]:
 
 Materias obligatorias del [[5to Nivel/index|5to Nivel]]:
 
-8. Ciencia de Datos.
-9. Gestión Gerencial.
-10. Inteligencia Artificial.
-11. Proyecto Final.
-12. Seguridad en los Sistemas de Información.
-13. Sistemas de Gestión.
+1. Ciencia de Datos.
+2. Gestión Gerencial.
+3. Inteligencia Artificial.
+4. Proyecto Final.
+5. Seguridad en los Sistemas de Información.
+6. Sistemas de Gestión.
 
 ## Materias Electivas
 
@@ -75,24 +75,24 @@ Nota: no hay apuntes de las materias electivas que no cursé. No hay apuntes de 
 
 Materias electivas del 3er nivel (un mínimo de 4 horas cátedra semanales):
 
-14. Complejidad y Técnicas de Diseño de Algoritmos (3 hs).
-15. Gestión de Datos (3 hs).
-16. Planificación (3 hs).
+7. Complejidad y Técnicas de Diseño de Algoritmos (3 hs).
+8. Gestión de Datos (3 hs).
+9. Planificación (3 hs).
 
 Nota: la materia "Seminario Integrador" del tercer nivel no es una electiva. Es una materia opcional, útil solamente para obtener el título intermedio de Analista Desarrollador Universitario en Sistemas de Información.
 
 Materias electivas del 4to nivel (un mínimo de 6 horas cátedra semanales):
 
-1. [[4to Nivel/Agilidad Avanzada/index|Agilidad Avanzada]] (3 hs).
-2. Análisis de Datos Empresariales (3 hs).
-3. Aspectos Avanzados de la Calidad de Software (3 hs).
-4. [[4to Nivel/Sistemas de Información Geográficos/index|Sistemas de Información Geográficos]] (3 hs).
+10. [[4to Nivel/Agilidad Avanzada/index|Agilidad Avanzada]] (3 hs).
+11. Análisis de Datos Empresariales (3 hs).
+12. Aspectos Avanzados de la Calidad de Software (3 hs).
+13. [[4to Nivel/Sistemas de Información Geográficos/index|Sistemas de Información Geográficos]] (3 hs).
 
 Materias electivas del 5to nivel (un mínimo de 10 horas cátedra semanales):
 
-5. Analítica de Datos Moderna (3 hs).
-6. Aspectos Avanzados de Redes de Información (3 hs).
-7. Auditoría e Informática Forense (4 hs).
-8. DevOps - Cultura, Herramientas y Procesos (4 hs).
-9. Formación de Emprendedores (4 hs).
-10. Fundamentos de Ciberseguridad (3 hs).
+14. Analítica de Datos Moderna (3 hs).
+15. Aspectos Avanzados de Redes de Información (3 hs).
+16. Auditoría e Informática Forense (4 hs).
+17. DevOps - Cultura, Herramientas y Procesos (4 hs).
+18. Formación de Emprendedores (4 hs).
+19. Fundamentos de Ciberseguridad (3 hs).

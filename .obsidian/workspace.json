@@ -8,91 +8,120 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8742716ada54f520",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Agilidad Avanzada/Seguridad Psicológica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seguridad Psicológica"
-            }
-          },
-          {
-            "id": "d67cbdda994bbb2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Agilidad Avanzada/Merit Money.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Merit Money"
-            }
-          },
-          {
-            "id": "06a627fbd6b957f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Agilidad Avanzada/Seguridad Psicológica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seguridad Psicológica"
-            }
-          },
-          {
-            "id": "a9809c1182d6a50b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Agilidad Avanzada/Management 3.0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Management 3.0"
-            }
-          },
-          {
-            "id": "a9b1414c11b0100c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Nivel/Agilidad Avanzada/Herramientas para el Product Owner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Herramientas para el Product Owner"
-            }
-          },
-          {
             "id": "1f3ecf7950305a8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "3er Nivel/Planificación/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "a9e0f824acd9bb41",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "935de68239d304a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Planificación/Representación de un Proyecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Representación de un Proyecto"
+            }
+          },
+          {
+            "id": "3cb9c5246d2ce78f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Planificación/Planificación con Software de Gestión de Proyectos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planificación con Software de Gestión de Proyectos"
+            }
+          },
+          {
+            "id": "baf81aac5934636f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Planificación/Costos de un Proyecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Costos de un Proyecto"
+            }
+          },
+          {
+            "id": "8755730c321af58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Planificación/Control de un Proyecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control de un Proyecto"
+            }
+          },
+          {
+            "id": "f0a712df953ec1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Planificación/Ingresos y Beneficios de un Proyecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ingresos y Beneficios de un Proyecto"
+            }
+          },
+          {
+            "id": "4f4f414b877ec1b4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3er Nivel/Planificación/MOC Planificación.canvas",
+                "viewState": {
+                  "x": 740,
+                  "y": 160,
+                  "zoom": -1.753956310598907
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "MOC Planificación"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +133,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 76.67410714285714,
+        "dimension": 77.67857142857143,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -124,7 +153,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 23.325892857142858,
+        "dimension": 22.321428571428573,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -132,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"división del trabajo\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -173,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "3er Nivel/Planificación/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "3er Nivel/Planificación/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -256,8 +285,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f3ecf7950305a8b",
+  "active": "a9e0f824acd9bb41",
   "lastOpenFiles": [
+    "3er Nivel/Planificación/attachments/MOC Planificación.png",
+    "3er Nivel/Planificación/Planificación.md",
+    "3er Nivel/Planificación/MOC Planificación.canvas",
+    "3er Nivel/Planificación/Seguimiento.md",
+    "3er Nivel/Planificación/Evaluación del Proyecto.md",
+    "3er Nivel/Planificación/Control de un Proyecto.md",
+    "3er Nivel/Planificación/Ingresos y Beneficios de un Proyecto.md",
+    "3er Nivel/Planificación/Costos de un Proyecto.md",
+    "3er Nivel/Planificación/Planificación con Software de Gestión de Proyectos.md",
+    "3er Nivel/Planificación/Camino Crítico.md",
+    "3er Nivel/Planificación/attachments/Representación de un Proyecto 2025-03-29 17.29.34.excalidraw.md",
+    "3er Nivel/Planificación/attachments/Microsoft Project.png",
+    "3er Nivel/Planificación/attachments/Microsoft Project.png",
+    "3er Nivel/Planificación/attachments/Camino Crítico.png",
+    "3er Nivel/Planificación/Representación de un Proyecto.md",
+    "3er Nivel/Planificación/Proyecto.md",
+    "3er Nivel/Planificación/attachments/Representación de un Proyecto 2025-03-29 17.29.34.excalidraw.svg",
+    "3er Nivel/Planificación/attachments",
+    "4to Nivel/Administración de Sistemas de Información/Programación de Entrenamiento.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Organización Formal.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Organizaciones como Sistemas Abiertos.md",
+    "3er Nivel/Planificación/index.md",
+    "3er Nivel/Probabilidad y Estadística/index.md",
+    "index.md",
+    "3er Nivel/Planificación",
     "4to Nivel/index.md",
     "4to Nivel/Agilidad Avanzada/index.md",
     "4to Nivel/Agilidad Avanzada/attachments/MOC Agilidad Avanzada.png",
@@ -271,31 +325,9 @@
     "4to Nivel/Agilidad Avanzada/Seguridad Psicológica.md",
     "4to Nivel/Agilidad Avanzada/attachments/Work Expo.png",
     "4to Nivel/Agilidad Avanzada/Prácticas para Conocer a las Personas.md",
-    "4to Nivel/Agilidad Avanzada/Merit Money.md",
     "4to Nivel/Agilidad Avanzada/attachments/Mapa Personal.png",
-    "4to Nivel/Agilidad Avanzada/Peopleware.md",
-    "4to Nivel/Agilidad Avanzada/Prácticas para Motivar a las Personas.md",
     "4to Nivel/Agilidad Avanzada/attachments/Hapiness Door.png",
-    "4to Nivel/Agilidad Avanzada/attachments/Niko-Niko Calendar.png",
-    "4to Nivel/Agilidad Avanzada/attachments/Evolución de un Equipo según Tuckman.png",
-    "4to Nivel/Agilidad Avanzada/attachments/Team Barometer.png",
-    "4to Nivel/Agilidad Avanzada/attachments/Seguridad Psicológica.png",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Agilidad Avanzada/Recompensas.md",
-    "4to Nivel/Agilidad Avanzada/No Estimates.md",
-    "4to Nivel/Agilidad Avanzada/attachments/Prácticas para la Motivación 2025-02-16 15.45.08.excalidraw.md",
-    "4to Nivel/Agilidad Avanzada/Ikigai.md",
-    "1er Nivel/Arquitectura de Computadoras/Técnicas de Direccionamiento.md",
-    "1er Nivel/Arquitectura de Computadoras/Técnicas de Transferencia.md",
-    "4to Nivel/Agilidad Avanzada/Agilidad Avanzada.md",
-    "4to Nivel/Agilidad Avanzada/unFIX.md",
-    "4to Nivel/Agilidad Avanzada/Escalado de la Agilidad.md",
-    "4to Nivel/Agilidad Avanzada/SAFe.md",
-    "2do Nivel/Análisis de Sistemas de Información/Cultura Lean.md",
-    "4to Nivel/Ingeniería y Calidad de Software/Equipo Ágil.md",
-    "4to Nivel/Agilidad Avanzada/Startup.md",
-    "4to Nivel/Agilidad Avanzada/Business Model Canvas.md",
-    "4to Nivel/Agilidad Avanzada/Customer Journey Map.md",
     "4to Nivel/Agilidad Avanzada/attachments",
     "4to Nivel/Agilidad Avanzada",
     "4to Nivel/Sistemas de Información Geográficos/MOC Sistemas de Información Geográficos.canvas",
@@ -307,12 +339,9 @@
     "4to Nivel/Tecnologías para la Automatización/MOC Tecnologías para la Automatización.canvas",
     "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
     "4to Nivel/Tecnologías para la Automatización/attachments",
-    "4to Nivel/Tecnologías para la Automatización",
     "4to Nivel/Redes de Datos/MOC Redes de Datos.canvas",
-    "4to Nivel/Investigación Operativa/attachments/desktop.ini",
     "4to Nivel/Legislación/MOC Legislación.canvas",
     "4to Nivel/Investigación Operativa/MOC Investigación Operativa.canvas",
-    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas",
-    "4to Nivel/Simulación/MOC Simulación.canvas"
+    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas"
   ]
 }
