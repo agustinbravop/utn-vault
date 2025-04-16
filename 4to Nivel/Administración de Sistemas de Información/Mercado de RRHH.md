@@ -1,4 +1,4 @@
-Está conformado por los **individuos aptos para el trabajo** en cierto lugar y época. Lo define el conjunto de personas empleadas (mercado aplicado) y desempleadas pero aptas (mercado disponible).
+El [[Mercado]] de recursos humanos conformado por los **individuos aptos para el trabajo** en cierto lugar y época. Lo define el conjunto de personas empleadas (mercado aplicado) y desempleadas pero aptas (mercado disponible).
 
 Se puede segmentar por:
 

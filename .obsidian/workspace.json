@@ -4,16 +4,142 @@
     "type": "split",
     "children": [
       {
-        "id": "069e923ff711428a",
+        "id": "ef89585283013a6c",
         "type": "tabs",
         "children": [
           {
-            "id": "1f3ecf7950305a8b",
+            "id": "a9c3e558f9f69d97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3er Nivel/Planificación/index.md",
+                "file": "3er Nivel/Economía/Empresa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Empresa"
+            }
+          },
+          {
+            "id": "42f98d715cd1d4c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Economía/Contabilidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contabilidad"
+            }
+          },
+          {
+            "id": "76723c11878dedeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Economía/Proceso Contable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proceso Contable"
+            }
+          },
+          {
+            "id": "8b0e620b31c5d07c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Economía/Análisis de la Información Contable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Análisis de la Información Contable"
+            }
+          },
+          {
+            "id": "4a2e101216e543a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Economía/Contabilidad de Costos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contabilidad de Costos"
+            }
+          },
+          {
+            "id": "56ce63ff09b84627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Economía/Economía.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Economía"
+            }
+          },
+          {
+            "id": "1475fef32efc4fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Economía/Mercado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mercado"
+            }
+          },
+          {
+            "id": "e1b6a05b4be530a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Economía/Competencias del Mercado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Competencias del Mercado"
+            }
+          },
+          {
+            "id": "ca3a1bd59304c616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Economía/Estructuras Poblacionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estructuras Poblacionales"
+            }
+          },
+          {
+            "id": "8c732cd645895af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3er Nivel/Economía/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,106 +148,19 @@
             }
           },
           {
-            "id": "a9e0f824acd9bb41",
+            "id": "20e9d322aa7b956b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "3er Nivel/Economía/attachments/Competencias del Mercado 2025-04-15 18.56.29.excalidraw.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "935de68239d304a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Planificación/Representación de un Proyecto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Representación de un Proyecto"
-            }
-          },
-          {
-            "id": "3cb9c5246d2ce78f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Planificación/Planificación con Software de Gestión de Proyectos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planificación con Software de Gestión de Proyectos"
-            }
-          },
-          {
-            "id": "baf81aac5934636f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Planificación/Costos de un Proyecto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Costos de un Proyecto"
-            }
-          },
-          {
-            "id": "8755730c321af58d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Planificación/Control de un Proyecto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Control de un Proyecto"
-            }
-          },
-          {
-            "id": "f0a712df953ec1c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Planificación/Ingresos y Beneficios de un Proyecto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ingresos y Beneficios de un Proyecto"
-            }
-          },
-          {
-            "id": "4f4f414b877ec1b4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "3er Nivel/Planificación/MOC Planificación.canvas",
-                "viewState": {
-                  "x": 740,
-                  "y": 160,
-                  "zoom": -1.753956310598907
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "MOC Planificación"
+              "icon": "excalidraw-icon",
+              "title": "Competencias del Mercado 2025-04-15 18.56.29.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -202,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Planificación/index.md",
+                "file": "3er Nivel/Economía/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3er Nivel/Planificación/index.md",
+                "file": "3er Nivel/Economía/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -285,48 +324,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9e0f824acd9bb41",
+  "active": "248e2874cbd9669e",
   "lastOpenFiles": [
-    "3er Nivel/Planificación/attachments/MOC Planificación.png",
-    "3er Nivel/Planificación/Planificación.md",
+    "3er Nivel/Economía/attachments/MOC Economía.png",
+    "3er Nivel/Economía/MOC Economía.canvas",
+    "3er Nivel/Economía/Actividad Productiva.md",
+    "3er Nivel/Economía/attachments/Ciclo Económico.png",
+    "3er Nivel/Economía/Producto de una Economía.md",
+    "3er Nivel/Economía/Estructuras Poblacionales.md",
+    "3er Nivel/Economía/Competencias del Mercado.md",
+    "3er Nivel/Economía/Contabilidad.md",
+    "3er Nivel/Economía/attachments/Competencias del Mercado 2025-04-15 18.56.29.excalidraw.md",
+    "3er Nivel/Economía/Mercado.md",
+    "3er Nivel/Economía/Contabilidad de Costos.md",
+    "3er Nivel/Economía/attachments/Competencias del Mercado 2025-04-15 18.56.29.excalidraw.svg",
+    "3er Nivel/Economía/attachments/Costos.png",
+    "3er Nivel/Economía/attachments/Demanda.png",
+    "3er Nivel/Economía/Dinero.md",
+    "3er Nivel/Economía/Proceso Contable.md",
+    "3er Nivel/Economía/attachments/Patrimonio 2025-04-15 17.35.18.excalidraw.md",
+    "3er Nivel/Economía/Economía.md",
+    "4to Nivel/Administración de Sistemas de Información/Mercado Laboral.md",
+    "4to Nivel/Administración de Sistemas de Información/Mercado.md",
+    "4to Nivel/Administración de Sistemas de Información/Mercado de RRHH.md",
+    "3er Nivel/Economía/attachments/Actividad Productiva 2025-04-15 18.16.01.excalidraw.md",
+    "3er Nivel/Economía/attachments/Actividad Productiva 2025-04-15 18.16.01.excalidraw.svg",
+    "3er Nivel/Economía/Análisis de la Información Contable.md",
+    "3er Nivel/Economía/Empresa.md",
+    "3er Nivel/Economía/Patrimonio.md",
+    "3er Nivel/Economía/index.md",
+    "3er Nivel/Economía/attachments/desktop.ini",
+    "3er Nivel/Economía/attachments/Patrimonio 2025-04-15 17.35.18.excalidraw.svg",
+    "3er Nivel/Economía/attachments",
+    "3er Nivel/Planificación/index.md",
+    "3er Nivel/Economía",
     "3er Nivel/Planificación/MOC Planificación.canvas",
-    "3er Nivel/Planificación/Seguimiento.md",
-    "3er Nivel/Planificación/Evaluación del Proyecto.md",
-    "3er Nivel/Planificación/Control de un Proyecto.md",
     "3er Nivel/Planificación/Ingresos y Beneficios de un Proyecto.md",
+    "3er Nivel/Planificación/Control de un Proyecto.md",
     "3er Nivel/Planificación/Costos de un Proyecto.md",
     "3er Nivel/Planificación/Planificación con Software de Gestión de Proyectos.md",
-    "3er Nivel/Planificación/Camino Crítico.md",
-    "3er Nivel/Planificación/attachments/Representación de un Proyecto 2025-03-29 17.29.34.excalidraw.md",
+    "3er Nivel/Planificación/attachments/MOC Planificación.png",
     "3er Nivel/Planificación/attachments/Microsoft Project.png",
     "3er Nivel/Planificación/attachments/Microsoft Project.png",
     "3er Nivel/Planificación/attachments/Camino Crítico.png",
-    "3er Nivel/Planificación/Representación de un Proyecto.md",
-    "3er Nivel/Planificación/Proyecto.md",
-    "3er Nivel/Planificación/attachments/Representación de un Proyecto 2025-03-29 17.29.34.excalidraw.svg",
     "3er Nivel/Planificación/attachments",
-    "4to Nivel/Administración de Sistemas de Información/Programación de Entrenamiento.md",
-    "1er Nivel/Sistemas y Procesos de Negocio/Organización Formal.md",
-    "1er Nivel/Sistemas y Procesos de Negocio/Organizaciones como Sistemas Abiertos.md",
-    "3er Nivel/Planificación/index.md",
-    "3er Nivel/Probabilidad y Estadística/index.md",
-    "index.md",
     "3er Nivel/Planificación",
-    "4to Nivel/index.md",
-    "4to Nivel/Agilidad Avanzada/index.md",
-    "4to Nivel/Agilidad Avanzada/attachments/MOC Agilidad Avanzada.png",
     "4to Nivel/Agilidad Avanzada/MOC Agilidad Avanzada.canvas",
-    "4to Nivel/Agilidad Avanzada/Técnicas para el Product Backlog.md",
-    "4to Nivel/Agilidad Avanzada/attachments/Mapa de  Empatía.png",
-    "4to Nivel/Agilidad Avanzada/attachments/Agile Inception.png",
-    "4to Nivel/Agilidad Avanzada/Herramientas para el Product Owner.md",
-    "4to Nivel/Agilidad Avanzada/Management 3.0.md",
-    "4to Nivel/Agilidad Avanzada/Entorno de Productividad.md",
-    "4to Nivel/Agilidad Avanzada/Seguridad Psicológica.md",
-    "4to Nivel/Agilidad Avanzada/attachments/Work Expo.png",
-    "4to Nivel/Agilidad Avanzada/Prácticas para Conocer a las Personas.md",
-    "4to Nivel/Agilidad Avanzada/attachments/Mapa Personal.png",
-    "4to Nivel/Agilidad Avanzada/attachments/Hapiness Door.png",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Agilidad Avanzada/attachments",
     "4to Nivel/Agilidad Avanzada",
@@ -334,14 +377,10 @@
     "4to Nivel/Tecnologías para la Automatización/attachments/desktop.ini",
     "3er Nivel/Comunicación de Datos/desktop.ini",
     "3er Nivel/Bases de Datos/desktop.ini",
-    "4to Nivel/Sistemas de Información Geográficos/attachments",
-    "4to Nivel/Sistemas de Información Geográficos",
     "4to Nivel/Tecnologías para la Automatización/MOC Tecnologías para la Automatización.canvas",
     "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
-    "4to Nivel/Tecnologías para la Automatización/attachments",
     "4to Nivel/Redes de Datos/MOC Redes de Datos.canvas",
     "4to Nivel/Legislación/MOC Legislación.canvas",
-    "4to Nivel/Investigación Operativa/MOC Investigación Operativa.canvas",
-    "4to Nivel/Ingeniería y Calidad de Software/MOC Ingeniería y Calidad del Software.canvas"
+    "4to Nivel/Investigación Operativa/MOC Investigación Operativa.canvas"
   ]
 }

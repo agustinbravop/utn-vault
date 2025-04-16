@@ -1,4 +1,4 @@
-Conformado por **ofertas de empleo** hechas por las organizaciones en cierto lugar y tiempo. Esto hace surgir una oferta y demanda del **trabajo**. **Empleo** significa _utilización del trabajo humano_. Este mercado es el conjunto de empleos.
+El [[Mercado]] laboral está conformado por **ofertas de empleo** hechas por las organizaciones en cierto lugar y tiempo. Esto hace surgir una oferta y demanda del **trabajo**. **Empleo** significa _utilización del trabajo humano_. Este mercado es el conjunto de empleos.
 
 Se puede segmentar el mercado por:
 

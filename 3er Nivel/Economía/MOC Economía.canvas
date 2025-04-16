@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"e5b2271937ab50ca","type":"file","file":"3er Nivel/Economía/Mercado.md","x":680,"y":-200,"width":400,"height":400},
+		{"id":"e9101a411a633189","type":"file","file":"3er Nivel/Economía/Producto de una Economía.md","x":1200,"y":-200,"width":400,"height":400},
+		{"id":"86cb5551e069a4a6","type":"file","file":"3er Nivel/Economía/Actividad Productiva.md","x":162,"y":-200,"width":400,"height":400},
+		{"id":"fabc3f59307a83e1","type":"file","file":"3er Nivel/Economía/Economía.md","x":162,"y":-720,"width":400,"height":400,"color":"4"},
+		{"id":"2fe927796661b471","type":"file","file":"3er Nivel/Economía/Estructuras Poblacionales.md","x":1720,"y":-200,"width":400,"height":400},
+		{"id":"75e7ad2d4b09eab0","type":"file","file":"3er Nivel/Economía/Competencias del Mercado.md","x":680,"y":320,"width":400,"height":400},
+		{"id":"6fa3bd91f3167e56","type":"file","file":"3er Nivel/Economía/Dinero.md","x":162,"y":320,"width":400,"height":400},
+		{"id":"6fa9c9dbd3e32b4b","type":"file","file":"3er Nivel/Economía/Empresa.md","x":2240,"y":-720,"width":400,"height":400,"color":"4"},
+		{"id":"903f003cb15667a9","type":"file","file":"3er Nivel/Economía/Patrimonio.md","x":2240,"y":-200,"width":400,"height":400},
+		{"id":"a6e254f0cd52cec0","type":"file","file":"3er Nivel/Economía/Contabilidad.md","x":2760,"y":-200,"width":400,"height":400},
+		{"id":"087d9e7747c78e6c","type":"file","file":"3er Nivel/Economía/Proceso Contable.md","x":3280,"y":-200,"width":400,"height":400},
+		{"id":"8c6ab07f44670639","type":"file","file":"3er Nivel/Economía/Análisis de la Información Contable.md","x":3280,"y":299,"width":400,"height":400},
+		{"id":"b4ed32138abc15bd","type":"file","file":"3er Nivel/Economía/Contabilidad de Costos.md","x":3280,"y":800,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"636e11796634b61a","fromNode":"86cb5551e069a4a6","fromSide":"bottom","toNode":"6fa3bd91f3167e56","toSide":"top"},
+		{"id":"9ae6e0f0120d69e3","fromNode":"e5b2271937ab50ca","fromSide":"bottom","toNode":"75e7ad2d4b09eab0","toSide":"top"},
+		{"id":"ac22d552756fbc2f","fromNode":"fabc3f59307a83e1","fromSide":"bottom","toNode":"86cb5551e069a4a6","toSide":"top"},
+		{"id":"c7d9ff06acacd6c1","fromNode":"fabc3f59307a83e1","fromSide":"bottom","toNode":"e5b2271937ab50ca","toSide":"top"},
+		{"id":"0f19eb86bf47d5e1","fromNode":"fabc3f59307a83e1","fromSide":"bottom","toNode":"e9101a411a633189","toSide":"top"},
+		{"id":"aa30c6f664705b77","fromNode":"fabc3f59307a83e1","fromSide":"bottom","toNode":"2fe927796661b471","toSide":"top"},
+		{"id":"7265986e9bdd87ce","fromNode":"6fa9c9dbd3e32b4b","fromSide":"bottom","toNode":"903f003cb15667a9","toSide":"top"},
+		{"id":"ebe6feba63c9b9d1","fromNode":"903f003cb15667a9","fromSide":"right","toNode":"a6e254f0cd52cec0","toSide":"left"},
+		{"id":"08930a14c6fd0370","fromNode":"a6e254f0cd52cec0","fromSide":"right","toNode":"087d9e7747c78e6c","toSide":"left"},
+		{"id":"50a7ea94d659df80","fromNode":"087d9e7747c78e6c","fromSide":"bottom","toNode":"8c6ab07f44670639","toSide":"top"},
+		{"id":"294d061bf2b45ec3","fromNode":"8c6ab07f44670639","fromSide":"bottom","toNode":"b4ed32138abc15bd","toSide":"top"}
+	]
+}
