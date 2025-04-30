@@ -14,7 +14,7 @@ Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al pla
 
 No hay apuntes de las siguientes materias debido a que las aprobé por equivalencia: Álgebra y Geometría Analítica, Análisis Matemático 1, Física 1, Ingeniería y Sociedad, Química, Sistemas de Representación.
 
-No hay apuntes de las siguientes materias debido a que los perdí después de haberlas cursado: Matemática Discreta, Análisis Matemático 2, Inglés 2, Economía, Planificación (Electiva).
+No hay apuntes de las siguientes materias debido a que los perdí después de haberlas cursado: Matemática Discreta, Análisis Matemático 2, Inglés 2.
 
 ## Materias Obligatorias
 
@@ -47,7 +47,7 @@ Materias obligatorias del [[3er Nivel/index|3er Nivel]]:
 3. [[3er Nivel/Comunicación de Datos/index|Comunicación de Datos]].
 4. [[3er Nivel/Desarrollo de Software/index|Desarrollo de Software]].
 5. [[3er Nivel/Diseño de Sistemas de Información/index|Diseño de Sistemas de Información]] (integradora).
-6. Economía.
+6. [[3er Nivel/Economía/index|Economía]].
 7. [[3er Nivel/Probabilidad y Estadística/index|Probabilidad y Estadística]].
 
 Materias obligatorias del [[4to Nivel/index|4to Nivel]]:
@@ -71,28 +71,27 @@ Materias obligatorias del [[5to Nivel/index|5to Nivel]]:
 
 ## Materias Electivas
 
-Nota: no hay apuntes de las materias electivas que no cursé. No hay apuntes de Planificación porque los perdí después de haberla cursado.
+Nota: no hay apuntes de las materias electivas que no cursé.
 
 Materias electivas del 3er nivel (un mínimo de 4 horas cátedra semanales):
 
-7. Complejidad y Técnicas de Diseño de Algoritmos (3 hs).
-8. Gestión de Datos (3 hs).
-9. Planificación (3 hs).
+1. Complejidad y Técnicas de Diseño de Algoritmos (3 hs).
+2. Gestión de Datos (3 hs).
+3. [[3er Nivel/Planificación/index|Planificación]] (3 hs).
 
-Nota: la materia "Seminario Integrador" del tercer nivel no es una electiva. Es una materia opcional, útil solamente para obtener el título intermedio de Analista Desarrollador Universitario en Sistemas de Información.
+Nota: la materia "Seminario Integrador" del tercer nivel no es una electiva. Es una materia opcional, necesaria solamente para obtener el título intermedio de Analista Desarrollador Universitario en Sistemas de Información.
 
 Materias electivas del 4to nivel (un mínimo de 6 horas cátedra semanales):
 
-10. [[4to Nivel/Agilidad Avanzada/index|Agilidad Avanzada]] (3 hs).
-11. Análisis de Datos Empresariales (3 hs).
-12. Aspectos Avanzados de la Calidad de Software (3 hs).
-13. [[4to Nivel/Sistemas de Información Geográficos/index|Sistemas de Información Geográficos]] (3 hs).
+1. [[4to Nivel/Agilidad Avanzada/index|Agilidad Avanzada]] (3 hs).
+2. Aspectos Avanzados de la Calidad de Software (3 hs).
+3. [[4to Nivel/Sistemas de Información Geográficos/index|Sistemas de Información Geográficos]] (3 hs).
 
 Materias electivas del 5to nivel (un mínimo de 10 horas cátedra semanales):
 
-14. Analítica de Datos Moderna (3 hs).
-15. Aspectos Avanzados de Redes de Información (3 hs).
-16. Auditoría e Informática Forense (4 hs).
-17. DevOps - Cultura, Herramientas y Procesos (4 hs).
-18. Formación de Emprendedores (4 hs).
-19. Fundamentos de Ciberseguridad (3 hs).
+1. Análisis de Datos Empresariales (3 hs).
+2. Formación de Emprendedores (4 hs).
+3. Aspectos Avanzados de Redes de Información (3 hs).
+4. Fundamentos de Ciberseguridad (3 hs).
+5. Auditoría e Informática Forense (4 hs).
+6. DevOps - Cultura, Herramientas y Procesos (4 hs).

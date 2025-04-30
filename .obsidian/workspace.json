@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3er Nivel/Economía/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -241,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3er Nivel/Economía/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,8 +324,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "248e2874cbd9669e",
+  "active": "8c732cd645895af4",
   "lastOpenFiles": [
+    "3er Nivel/Economía/index.md",
+    "3er Nivel/index.md",
+    "3er Nivel/Planificación/index.md",
+    "index.md",
     "3er Nivel/Economía/attachments/MOC Economía.png",
     "3er Nivel/Economía/MOC Economía.canvas",
     "3er Nivel/Economía/Actividad Productiva.md",
@@ -352,21 +356,17 @@
     "3er Nivel/Economía/Análisis de la Información Contable.md",
     "3er Nivel/Economía/Empresa.md",
     "3er Nivel/Economía/Patrimonio.md",
-    "3er Nivel/Economía/index.md",
     "3er Nivel/Economía/attachments/desktop.ini",
     "3er Nivel/Economía/attachments/Patrimonio 2025-04-15 17.35.18.excalidraw.svg",
     "3er Nivel/Economía/attachments",
-    "3er Nivel/Planificación/index.md",
     "3er Nivel/Economía",
     "3er Nivel/Planificación/MOC Planificación.canvas",
     "3er Nivel/Planificación/Ingresos y Beneficios de un Proyecto.md",
     "3er Nivel/Planificación/Control de un Proyecto.md",
     "3er Nivel/Planificación/Costos de un Proyecto.md",
-    "3er Nivel/Planificación/Planificación con Software de Gestión de Proyectos.md",
     "3er Nivel/Planificación/attachments/MOC Planificación.png",
     "3er Nivel/Planificación/attachments/Microsoft Project.png",
     "3er Nivel/Planificación/attachments/Microsoft Project.png",
-    "3er Nivel/Planificación/attachments/Camino Crítico.png",
     "3er Nivel/Planificación/attachments",
     "3er Nivel/Planificación",
     "4to Nivel/Agilidad Avanzada/MOC Agilidad Avanzada.canvas",
