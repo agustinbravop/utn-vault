@@ -4,175 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ef89585283013a6c",
+        "id": "a86b22d2eba99016",
         "type": "tabs",
         "children": [
           {
-            "id": "a9c3e558f9f69d97",
+            "id": "33dca6d10bbaf223",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Economía/Empresa.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Empresa"
-            }
-          },
-          {
-            "id": "42f98d715cd1d4c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Economía/Contabilidad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Contabilidad"
-            }
-          },
-          {
-            "id": "76723c11878dedeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Economía/Proceso Contable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proceso Contable"
-            }
-          },
-          {
-            "id": "8b0e620b31c5d07c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Economía/Análisis de la Información Contable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Análisis de la Información Contable"
-            }
-          },
-          {
-            "id": "4a2e101216e543a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Economía/Contabilidad de Costos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Contabilidad de Costos"
-            }
-          },
-          {
-            "id": "56ce63ff09b84627",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Economía/Economía.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Economía"
-            }
-          },
-          {
-            "id": "1475fef32efc4fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Economía/Mercado.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mercado"
-            }
-          },
-          {
-            "id": "e1b6a05b4be530a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Economía/Competencias del Mercado.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Competencias del Mercado"
-            }
-          },
-          {
-            "id": "ca3a1bd59304c616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3er Nivel/Economía/Estructuras Poblacionales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estructuras Poblacionales"
-            }
-          },
-          {
-            "id": "8c732cd645895af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "4e81e270a6fa1f23",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
-            "id": "20e9d322aa7b956b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "3er Nivel/Economía/attachments/Competencias del Mercado 2025-04-15 18.56.29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Competencias del Mercado 2025-04-15 18.56.29.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
@@ -336,12 +180,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e81e270a6fa1f23",
+  "active": "33dca6d10bbaf223",
   "lastOpenFiles": [
+    "2do Nivel/index.md",
+    "index.md",
     "3er Nivel/Economía/index.md",
     "3er Nivel/index.md",
     "3er Nivel/Planificación/index.md",
-    "index.md",
     "3er Nivel/Economía/attachments/MOC Economía.png",
     "3er Nivel/Economía/MOC Economía.canvas",
     "3er Nivel/Economía/Actividad Productiva.md",
@@ -375,7 +220,6 @@
     "3er Nivel/Planificación/MOC Planificación.canvas",
     "3er Nivel/Planificación/Ingresos y Beneficios de un Proyecto.md",
     "3er Nivel/Planificación/Control de un Proyecto.md",
-    "3er Nivel/Planificación/Costos de un Proyecto.md",
     "3er Nivel/Planificación/attachments/MOC Planificación.png",
     "3er Nivel/Planificación/attachments/Microsoft Project.png",
     "3er Nivel/Planificación/attachments/Microsoft Project.png",
