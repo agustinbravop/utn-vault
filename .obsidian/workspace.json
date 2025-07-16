@@ -11,13 +11,58 @@
             "id": "33dca6d10bbaf223",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sintaxis y Senántica de los Lenguajes/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
+            }
+          },
+          {
+            "id": "cf6cd279ddf66936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sintaxis y Senántica de los Lenguajes/Jerarquía de Chomsky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jerarquía de Chomsky"
+            }
+          },
+          {
+            "id": "40478ff40b51f8b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sintaxis y Senántica de los Lenguajes/Gramática Formal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gramática Formal"
+            }
+          },
+          {
+            "id": "b0edae08b2f58d10",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Jerarquía de Chomsky 2025-07-13 00.00.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Jerarquía de Chomsky 2025-07-13 00.00.02.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2do Nivel/Sintaxis y Senántica de los Lenguajes/Gramática Formal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Gramática Formal"
             }
           },
           {
@@ -180,9 +226,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33dca6d10bbaf223",
+  "active": "40478ff40b51f8b5",
   "lastOpenFiles": [
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/Jerarquía de Chomsky.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/Gramática Formal.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/Untitled.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Traductor.png",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Generador.png",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Aceptor.png",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Jerarquía de Chomsky 2025-07-13 00.00.02.excalidraw.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Jerarquía de Chomsky 2025-07-13 00.00.02.excalidraw.svg",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Jerarquía de Chomsky 2025-07-12 23.41.34.excalidraw.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/index.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Jerarquía de Chomsky 2025-07-12 23.41.34.excalidraw.svg",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments",
+    "2do Nivel/Paradigmas de Programación/Cálculo Lambda.md",
+    "2do Nivel/Sistemas Operativos/index.md",
     "2do Nivel/index.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes",
     "index.md",
     "3er Nivel/Economía/index.md",
     "3er Nivel/index.md",
@@ -206,23 +267,10 @@
     "3er Nivel/Economía/attachments/Patrimonio 2025-04-15 17.35.18.excalidraw.md",
     "3er Nivel/Economía/Economía.md",
     "4to Nivel/Administración de Sistemas de Información/Mercado Laboral.md",
-    "4to Nivel/Administración de Sistemas de Información/Mercado.md",
-    "4to Nivel/Administración de Sistemas de Información/Mercado de RRHH.md",
-    "3er Nivel/Economía/attachments/Actividad Productiva 2025-04-15 18.16.01.excalidraw.md",
-    "3er Nivel/Economía/attachments/Actividad Productiva 2025-04-15 18.16.01.excalidraw.svg",
-    "3er Nivel/Economía/Análisis de la Información Contable.md",
-    "3er Nivel/Economía/Empresa.md",
-    "3er Nivel/Economía/Patrimonio.md",
     "3er Nivel/Economía/attachments/desktop.ini",
-    "3er Nivel/Economía/attachments/Patrimonio 2025-04-15 17.35.18.excalidraw.svg",
     "3er Nivel/Economía/attachments",
     "3er Nivel/Economía",
     "3er Nivel/Planificación/MOC Planificación.canvas",
-    "3er Nivel/Planificación/Ingresos y Beneficios de un Proyecto.md",
-    "3er Nivel/Planificación/Control de un Proyecto.md",
-    "3er Nivel/Planificación/attachments/MOC Planificación.png",
-    "3er Nivel/Planificación/attachments/Microsoft Project.png",
-    "3er Nivel/Planificación/attachments/Microsoft Project.png",
     "3er Nivel/Planificación/attachments",
     "3er Nivel/Planificación",
     "4to Nivel/Agilidad Avanzada/MOC Agilidad Avanzada.canvas",
@@ -231,8 +279,6 @@
     "4to Nivel/Agilidad Avanzada",
     "4to Nivel/Sistemas de Información Geográficos/MOC Sistemas de Información Geográficos.canvas",
     "4to Nivel/Tecnologías para la Automatización/attachments/desktop.ini",
-    "3er Nivel/Comunicación de Datos/desktop.ini",
-    "3er Nivel/Bases de Datos/desktop.ini",
     "4to Nivel/Tecnologías para la Automatización/MOC Tecnologías para la Automatización.canvas",
     "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
     "4to Nivel/Redes de Datos/MOC Redes de Datos.canvas",
