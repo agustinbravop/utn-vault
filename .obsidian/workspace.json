@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50852584838867
+    "width": 224.50852584838867,
+    "collapsed": true
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -211,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,6 +230,8 @@
   },
   "active": "40478ff40b51f8b5",
   "lastOpenFiles": [
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Tipos de Gramáticas.png",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Pasted image 20250716155404.png",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/Jerarquía de Chomsky.md",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/Gramática Formal.md",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/Untitled.md",
@@ -261,12 +265,10 @@
     "3er Nivel/Economía/Contabilidad de Costos.md",
     "3er Nivel/Economía/attachments/Competencias del Mercado 2025-04-15 18.56.29.excalidraw.svg",
     "3er Nivel/Economía/attachments/Costos.png",
-    "3er Nivel/Economía/attachments/Demanda.png",
     "3er Nivel/Economía/Dinero.md",
     "3er Nivel/Economía/Proceso Contable.md",
     "3er Nivel/Economía/attachments/Patrimonio 2025-04-15 17.35.18.excalidraw.md",
     "3er Nivel/Economía/Economía.md",
-    "4to Nivel/Administración de Sistemas de Información/Mercado Laboral.md",
     "3er Nivel/Economía/attachments/desktop.ini",
     "3er Nivel/Economía/attachments",
     "3er Nivel/Economía",
