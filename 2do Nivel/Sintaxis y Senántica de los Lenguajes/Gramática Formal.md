@@ -41,4 +41,18 @@ En resumen:
 - Las tipo $0$ tienen producciones $P$ con contracción.
 - Las tipo $1$ son similares a las tipo $0$ excepto que no producen contracción.
 - Las tipo $2$ ya son libres de contexto porque sus producciones no presentan $\varphi$ y $\psi$.
-- 
+- Las tipo $3$ solo permiten producciones por derecha ($A \rightarrow aB$) o por izquierda ($A\rightarrow Ba$).
+
+Si $G$ es gramática regular, entonces $L(G)$ es lenguaje regular.
+
+## Ambigüedad
+
+Existe **ambigüedad** cuando para determinado string, la gramática provee árboles de derivación distintos. Es un problema que no siempre se soluciona, y no existe un método para solucionarlo.
+
+Existen lenguajes *inherentemente ambiguos* que no pueden ser generados por una gramática no ambigua. No hay manera de decidir si un $L(G)$ es inherentemente ambiguo. Por ejemplo, $L=\set{aîb^jc^k / i=j \lor j = k}$ es inherentemente ambiguo.
+
+Una **derivación** se indica como $\varphi A \psi \implies \varphi B_1B_2\dots B_n \psi$ mediante $A\rightarrow B_1B_2\dots B_n$ donde $A \in (N\cup \set{\Sigma}) \ \land \ B_i \in (N\cup T)$. Una derivación $\omega_0 \implies \omega_1 \implies \dots \implies \omega_n$ es derivación por izquierda sí y solo sí el símbolo no terminal ubicado más a la izquierda de $\omega_i$ es reemplazado para obtener $\omega_{i+1}$. Esto se verifica para $0\le i\le n$ Formalmente:
+
+$$\omega_i = \alpha A \beta , \omega_{i+1}=\alpha\omega\beta \text{ con } \alpha \in T^*,\ A \in N,\ \beta \in (N\cup T)^*,\ A\rightarrow \omega \in P$$
+
+Un *árbol de derivación* solo sirve para gramáticas de tipo 2 o 3 porque no muestran el orden de derivación. Hay una correspondencia 1 a 1 entre derivaciones por izquierda y árboles de derivación. Si existen dos derivaciones por izquierda que dan el mismo string, existe ambigüedad.
