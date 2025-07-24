@@ -63,8 +63,25 @@ Dos estados $q_a$ y $q_b$ pertenecientes a $M=(Q,S,R,f,-,q_I)$ son equivalentes 
 
 Si $q_a$ y $q_b$ no son equivalentes, entonces existe un $\omega$ que produce salidas diferentes.
 
-### Teorema de Equivalencia de Estados
+> [!Info] Teorema de Equivalencia de Estados
+>
+> Los estados $q_a$ y $q_b$ de $M$ son equivalentes sí y solo sí:
+>  1. $\forall s \in S: f(q_a,s) \sim f(q_b,s)$
+>  2. $\text{para } M_t : \forall s \in S : g(g_,s)=g(q_b,s) \text{ y para } M_s:h(q_a)=h(q_b)$
+>  
+>  Este teorema no sirve para estados mutuamente recursivos entre sí porque se entra en un bucle.
 
-Los estados $q_a$ y $q_b$ de $M$ son equivalentes sí y solo sí:
+Otras definiciones:
 
-1. 
+- $M$ es **reducida** $\iff \forall q, q'\in Q: q \text{ no}\sim q'$
+- $q \in Q$ es **accesible** $\iff \exists \omega \in S^* / q_i \overset \omega \implies q$
+- $M$ es **conectada** $\iff \forall q \in Q : q$ es accesible.
+- $M$ es **mínima** si es reducida y conectada.
+
+Si $q$ es accesible en una $M$ con $n$ estados $\implies \exists \omega / |\omega| \lt n \land q_I \overset \omega \implies q$.
+
+## Estados Distinguibles y k-equivalencia
+
+Los estados $q_a$ y $q_b$ de $M$ son **$k$-distinguibles** si $\exists \omega \in S^*$ con $|\omega| \le k$ tal que las respuestas de $M_a =(Q,S,R,f,g,q_a)$ y $M_b = (Q,S,R,f,g,q_b)$ a la entrada $\omega$ difieren al menos en un símbolo. $\omega$ es **string de distinción** entre $q_a$ y $q_b$. Si $q_a$ y $q_b$ no son k-distinguibles $\implies$ son k-equivalentes.
+
+El teorema de k-equivalencia
