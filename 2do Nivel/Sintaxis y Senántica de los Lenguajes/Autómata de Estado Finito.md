@@ -84,4 +84,25 @@ Si $q$ es accesible en una $M$ con $n$ estados $\implies \exists \omega / |\omeg
 
 Los estados $q_a$ y $q_b$ de $M$ son **$k$-distinguibles** si $\exists \omega \in S^*$ con $|\omega| \le k$ tal que las respuestas de $M_a =(Q,S,R,f,g,q_a)$ y $M_b = (Q,S,R,f,g,q_b)$ a la entrada $\omega$ difieren al menos en un símbolo. $\omega$ es **string de distinción** entre $q_a$ y $q_b$. Si $q_a$ y $q_b$ no son k-distinguibles $\implies$ son k-equivalentes.
 
-El teorema de k-equivalencia
+> [!info] Teorema de k-equivalencia
+>
+>Se dice que $q_a$ y $q_b$ son k-equivalentes sí y solo sí:
+> 
+> 1. Son 1-equivalentes: $\forall s \in S : g(q_a,s) =g(q_b,s)$, y
+> 2. Para todo $s$, sus estados sucesores son $(k-1)$-equivalentes: $\forall s \in S : f(q_a,s) \sim_{k-1} f(q_b,s)$.
+>    
+>    $$q_a \sim q_b \iff q_a \sim_k q_b \forall k \ge 1$$
+
+Una relación de equivalencia aplicada a un conjunto particiona al conjunto en clases mutuamente excluyentes y que colectivamente representan de forma exhaustiva al conjunto original. Si $P_1$ y $P_2$ son particiones de $X$ y cada bloque de $P_2$ es subconjunto de solo un bloque de $P_1$, se dice que $P_2$ es un refinamiento de $P_1$. Si $P_1 =\set{A_1,\dots,A_n} \land P_2 = \set{B_1, \dots , B_m}$ y $P_2$ es refinamiento de $P_1$ $\implies \forall B_j \in P_2 \ \exists  \ A_i \in P_1 / B_j \subseteq A_i \land m \ge n$.
+
+## Algoritmo de Particionado
+
+Este algoritmo tiene 3 etapas:
+
+1. Generar $P_1$ de $Q$ agrupando los $q$ 1-equivalentes: se sabe que $q$ y $q'$ están en el mismo bloque de $P_1$ $\iff \forall s \in S: g(q,s)=g(q',s)$.
+2. Obtener $P_{k+1}$ a partir de $P_k$: $q$ y $q'$ van en el mismo bloque $\iff$ están en el mismo bloque de $P_k$ (es decir $q \sim_k q')$ y $\forall s \in S: f(q,s) \sim_k f(q',s)$.
+3. Repetir la etapa 2 hasta que $P_{m+1} = P_m$ para algún $m$ siendo $P_m$ la **partición final** de $Q$.
+
+### Construcción de Máquina Reducida
+
+Sea $M_t$, se puede construir una $M_t'$ reducida y equivalente a $M_t$. Cada $q'$ de $Q'$ corresponde a un bloque de la partición final $P_f$ del particionado de $M_t$. $q_I'$ corresponde al bloque inicial que contiene a $q_I$ de $M_t$ en su particionado.
