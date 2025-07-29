@@ -33,3 +33,12 @@ Un AEF-$\lambda$ es un aceptor de estados finitos no determinístico $M=(Q,S,P,I
 
 ### Equivalencia entre AEF-$\lambda$ y AEFND
 
+> [!info] Teorema
+> 
+> Dado un AEF-$\lambda$ se puede construir un AEFND equivalente tal que $L(M)=L(M')$.
+
+Sea $\lambda[q] = \set{q} \cup \set{q'\in Q / q \overset \lambda \rightarrow \dots \overset \lambda \rightarrow q' \text{ en } M}$ o $\lambda [q] = \set{q} \cup \lambda [q'] \ \forall \ q' \in P(q,\lambda)$. Nótese que generalmente $\lambda [q] \ne P(q, \lambda)$. 
+
+Por definición: $q \in \lambda [q] \implies \lambda [\phi] =  \phi ; \lambda [ \set{ q_1, \dots , q_k}] = \lambda[q_1]\cup \dots \cup\lambda[q_k]$. 
+
+Procedimiento de construcción: sea $M'=(Q,S,P',I,F')$ donde $P ': Q \times S \rightarrow \delta (Q)$ es tal que $P'(q,s)=\lambda[P(\lambda [q],s)]$. Así, $M'$ simula todas las transiciones $\lambda$ de $M$ teniendo en cuenta todos los posibles caminos. Se obtiene $F'=\set{q\in Q / \lambda [q] \cap F \ne \phi}$. Los estados de aceptación de $M'$ incluye los de $M$ y los $q$ que llegan a un $q_F$ con transiciones $\lambda$.
