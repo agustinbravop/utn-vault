@@ -120,6 +120,34 @@
             }
           },
           {
+            "id": "da09238012c5d8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2do Nivel/Sintaxis y Senántica de los Lenguajes/Conjuntos Traverse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conjuntos Traverse"
+            }
+          },
+          {
+            "id": "08453fa2a2f57e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
             "id": "79e7a76b4d2fe4e9",
             "type": "leaf",
             "state": {
@@ -134,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50852584838867,
-    "collapsed": true
+    "width": 224.50852584838867
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -300,11 +327,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11b895abd54d8bae",
+  "active": "08453fa2a2f57e17",
   "lastOpenFiles": [
-    "2do Nivel/Sintaxis y Senántica de los Lenguajes/Análisis Sintáctico.md",
-    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Jerarquía de Chomsky 2025-07-13 00.00.02.excalidraw.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/index.md",
+    "index.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/index.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/Gramáticas Libres de Contexto.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/Conjuntos Traverse.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Conjuntos Traverse.png",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/Autómatas Push-Down.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Construcción de un Analizador Push-Down.png",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/Análisis Sintáctico.md",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Matching.png",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Expansión.png",
+    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Jerarquía de Chomsky 2025-07-13 00.00.02.excalidraw.md",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Instrucciones de los Autómatas Push-Down.png",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/Gramáticas Regulares.md",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Pasted image 20250729202927.png",
@@ -317,11 +353,7 @@
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Equivalencia.png",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Construcción de una Mt a partir de una Ms.png",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Construcción de una Ms a partir de una Mt.png",
-    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Mt y Ms similares.png",
-    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Autómata de Estado Finito.png",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/Gramática Formal.md",
-    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Tipos de Gramáticas.png",
-    "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Pasted image 20250716155404.png",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/Jerarquía de Chomsky.md",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/attachments/Jerarquía de Chomsky 2025-07-12 23.41.34.excalidraw.md",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes/index.md",
@@ -330,17 +362,12 @@
     "2do Nivel/Sistemas Operativos/index.md",
     "2do Nivel/index.md",
     "2do Nivel/Sintaxis y Senántica de los Lenguajes",
-    "index.md",
     "3er Nivel/Economía/index.md",
     "3er Nivel/index.md",
     "3er Nivel/Planificación/index.md",
     "3er Nivel/Economía/MOC Economía.canvas",
     "3er Nivel/Economía/Actividad Productiva.md",
     "3er Nivel/Economía/Producto de una Economía.md",
-    "3er Nivel/Economía/Estructuras Poblacionales.md",
-    "3er Nivel/Economía/Competencias del Mercado.md",
-    "3er Nivel/Economía/Contabilidad.md",
-    "3er Nivel/Economía/attachments/Competencias del Mercado 2025-04-15 18.56.29.excalidraw.md",
     "3er Nivel/Economía/attachments/desktop.ini",
     "3er Nivel/Economía/attachments",
     "3er Nivel/Economía",

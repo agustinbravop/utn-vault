@@ -30,3 +30,15 @@ Sean los APD $M$ y APDP $M'$: el siguiente procedimiento verifica que $L(M') = L
 
 ## Tabla: Construcción de un Analizador Push-Down
 
+Dada $G=(N,T,P_G,\Sigma)$ se puede construir un $M=(Q,T,U,P_M,I,F)$. Sean $U=N\cup T\cup \set{\Sigma}$, $Q=\set{q_I,w_R}\cup \set{q_X / x\in U}$, $I=\set{q_I}$, $q_R\in F$.
+
+| Acción                      | Condición                                                                                                                       | Instrucción                                                            |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Para inicializar:**       |                                                                                                                                 | $q_\downarrow$] `write` $(\Sigma, q_R)$                                |
+| **Para expandir:**          | $\forall\, A \rightarrow \psi \in G$<br> $\begin{cases} A \in N \cup \{\Sigma\} \\ \psi \in (N \cup T)^* - \lambda \end{cases}$ | $q_R$] `read` $(A, q_A)$<br>$q_A$] `write` $(\psi^R, q_R)$             |
+| **Para hacer "matching":**  | $\forall\, t \in T$                                                                                                             | $q_R$] `read` $(t, q_\downarrow)$<br>$q_\downarrow$] `scan` $(t, q_R)$ |
+| **Para aceptar $\lambda$:** | Si $\Sigma \rightarrow \lambda \in G$                                                                                           | $q_\downarrow \in F$                                                   |
+
+Por cada [[Gramáticas Libre de Contexto|GLC]] $G$ se puede construir un APD $M$ tal que $L(M)=L(G)$.
+
+![[Construcción de un Analizador Push-Down.png]]
