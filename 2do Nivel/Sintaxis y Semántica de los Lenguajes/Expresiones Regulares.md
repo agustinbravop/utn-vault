@@ -1,14 +1,14 @@
-Sea $V$ un alfabeto finito, una expresión regular en $V$ es un string finito compuesto por símbolos del conjunto $\set{q\in Q / \lambda [q] \cap F \ne \phi}$ y se forma de acuerdo a: 
+Sea $V$ un alfabeto finito, una expresión regular en $V$ es un string finito compuesto por símbolos del conjunto $\set{q\in Q / \lambda [q] \cap F \ne \phi}$ y se forma de acuerdo a:
 
 - $\lambda$ es una expresión regular.
 - $\phi$ es una expresión regular,
 - Si $a \in V$, $a$ es una expresión regular.
 
-Si $\alpha$ y $\beta$ son expresiones regulares, también lo son $(\alpha \ \beta)$, $\alpha \cup \beta)$, y $(\alpha^ *)$. 
+Si $\alpha$ y $\beta$ son expresiones regulares, también lo son $(\alpha \ \beta)$, $\alpha \cup \beta)$, y $(\alpha^ *)$.
 
 Por ejemplo, una expresión regular $(0 \cup  1)^*$ describe el conjunto regular $\set{\set{0}\cup\set{1}}^*$. Ese conjunto es un lenguaje regular aceptable por un [[Aceptor de Estado Finito]].
 
-Dos expresiones regulares son *equivalentes* $\iff$ describen el mismo conjunto regular. 
+Dos expresiones regulares son _equivalentes_ $\iff$ describen el mismo conjunto regular.
 
 Propiedades de las expresiones regulares:
 
@@ -34,12 +34,11 @@ Dada una expresión regular $\gamma$ que describe al conjunto $X$, es posible co
 3. Si $\gamma = (\alpha \cup \beta)$ $\implies \gamma^R = \alpha^R \cup \beta^R$
 4. Si $\gamma = \alpha^*$ $\implies \gamma^R = \alpha^{R*}$
 
-
 ## Construcción de AEF a partir de Expresiones Regulares
 
 > [!info] Teorema
->  
->  Dada la expresión regular $\gamma$ sobre el alfabeto finito $V$, se puede construir un AEF-$\lambda$ $M\ / \ L(M) = \gamma$.
+>
+> Dada la expresión regular $\gamma$ sobre el alfabeto finito $V$, se puede construir un AEF-$\lambda$ $M\ / \ L(M) = \gamma$.
 
 Método 1 de construcción:
 

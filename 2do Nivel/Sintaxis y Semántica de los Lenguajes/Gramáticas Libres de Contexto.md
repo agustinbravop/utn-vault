@@ -1,7 +1,7 @@
 Sea $G$ una GLC con las siguientes definiciones:
 
 - **Regla $A$ de $G$**: $A\rightarrow \alpha$.
-- ***Handle***: $x$ en $A\rightarrow x\beta$.
+- **_Handle_**: $x$ en $A\rightarrow x\beta$.
 - **Producción útil**: $A\rightarrow \alpha$ es útil $\iff \Sigma \overset * \implies \varphi A \psi \implies \varphi \alpha \psi \overset * \implies \omega$ con $\omega \in T^*$.
 - **No terminal útil**: $A$ es útil $\iff$ es parte izquierda de una producción útil.
 - **Producción no generativa**: $A\rightarrow B$.
@@ -11,7 +11,7 @@ Sea $G$ una GLC con las siguientes definiciones:
 
 ## Transformaciones Gramaticales
 
-Dos GLC $G_1$ y $G_2$ son *débilmente equivalentes* si $L(G_1)=L(G_2)$. $G_1$ y $G_2$ son *fuertemente equivalentes* si son débilmente equivalentes y para cada string terminal $\omega$ las derivaciones por izquierda mínimas de $\omega$ en $G_1$ tienen una correspondencia uno a uno con las de $G_2$. Una derivación es *mínima* si ninguna forma sentencial se repite en la derivación.
+Dos GLC $G_1$ y $G_2$ son _débilmente equivalentes_ si $L(G_1)=L(G_2)$. $G_1$ y $G_2$ son _fuertemente equivalentes_ si son débilmente equivalentes y para cada string terminal $\omega$ las derivaciones por izquierda mínimas de $\omega$ en $G_1$ tienen una correspondencia uno a uno con las de $G_2$. Una derivación es _mínima_ si ninguna forma sentencial se repite en la derivación.
 
 ### Sustitución
 
@@ -30,7 +30,7 @@ Sea $A\rightarrow \varphi \psi$ con $\varphi, \psi \in (N\cup T)^* -\lambda$, se
 - $A\rightarrow X\psi \ , \ X\rightarrow \varphi$, o
 - $A\rightarrow \varphi X \ , \ X\rightarrow \psi$.
 
-Siendo $X$ un nuevo no terminal. Se dice que se expandió la regla $A\rightarrow \varphi \psi$. Siempre se mantiene la equivalencia fuerte entre $G$ y $G'$. 
+Siendo $X$ un nuevo no terminal. Se dice que se expandió la regla $A\rightarrow \varphi \psi$. Siempre se mantiene la equivalencia fuerte entre $G$ y $G'$.
 
 Se observa que sustitución y expansión son transformaciones inversas.
 
@@ -64,43 +64,50 @@ $$\begin{align} Q &= \left\{ A \,\middle/\, A \rightarrow B \text{ ó } B \right
 
 $G'=(N',T,P'' ,\Sigma)$ incluye un nuevo no terminal por cada secuencia de pasos no generativos en una derivación mínima. Eso en $M(G)$ es un camino sin ciclos.
 
-$$\begin{align}N' = N &\cup \left\{[X_1 \ \dots \ X_n] \ ; X_1 = X \in I, \ X_n = Y \in F, \ X_i \ne X_j \text{ para } i \ne j, X_1 \xrightarrow{\lambda} \dots \xrightarrow{\lambda} X_n \text{ en } M(G) \right\} \\
-&\cup \left\{ [X \ X] \;\middle|\; X \in I \cap F \right\}\end{align}$$
+$$
+\begin{align}N' = N &\cup \left\{[X_1 \ \dots \ X_n] \ ; X_1 = X \in I, \ X_n = Y \in F, \ X_i \ne X_j \text{ para } i \ne j, X_1 \xrightarrow{\lambda} \dots \xrightarrow{\lambda} X_n \text{ en } M(G) \right\} \\
+&\cup \left\{ [X \ X] \;\middle|\; X \in I \cap F \right\}\end{align}
+$$
 
 Así:
 
 1. Toda producción sin un símbolo de $Q$ es copiada.
 2. Por cada producción generativa $A\rightarrow \alpha_0 B_1 \dots V_k \alpha_k$ con $B_i \in Q$ en $G$ surge en $G'$ una producción $U\rightarrow \alpha_0 V_1\dots V_k \alpha_k$ donde:
 
-$$U \in 
+$$
+U \in
 \begin{cases}
 \{ A \} & \text{si } A \notin F \\
 \{ [X \ \dots \ Y] \mid Y = A \} & \text{si } A \in F
 \end{cases}
 \ \ \ \ \ \ \ \ \ \
-V_i \in 
+V_i \in
 \begin{cases}
 \{ B_i \} & \text{si } B_i \notin I \\
 \{ [X \ \dots \ Y] \mid X = B_i \} & \text{si } B_i \in I
-\end{cases}$$
+\end{cases}
+$$
 
 Se cumple que $G$ y $G'$ son fuertemente equivalentes siempre.
 
 ### Factorización por Izquierda
 
-Sean $A\rightarrow\beta \alpha_1 \ \land \ A \rightarrow \beta  \alpha_k$ dos producciones con el mismo *handle* de una misma parte derecha. Esto provoca ambigüedad al diseñar un compilador por izquierda. Para evitarlo, se puede aplicar una factorización por izquierda:
+Sean $A\rightarrow\beta \alpha_1 \ \land \ A \rightarrow \beta  \alpha_k$ dos producciones con el mismo _handle_ de una misma parte derecha. Esto provoca ambigüedad al diseñar un compilador por izquierda. Para evitarlo, se puede aplicar una factorización por izquierda:
 
-$$\begin{align}
+$$
+\begin{align}
 \forall \ A \in N \text{ de } G:& \text{ si }A\rightarrow \beta\alpha_1 , \dots, A\rightarrow\beta\alpha_k \text{ con } k \gt 1, \\
 \text{ en } G' \text{ se las cambia por}:& \ A\rightarrow \beta A' \\
 &\ A'\rightarrow \alpha_1,\dots,A'\rightarrow \alpha_k \text{ con }  k \ge 1
-\end{align}$$
+\end{align}
+$$
 
 Es un caso especial de expansión, por lo que $G$ y $G'$ son fuertemente equivalentes.
 
 Ejemplo:
 
-$$\begin{align}
+$$
+\begin{align}
 G: \Sigma &\rightarrow \lambda \ | \ S \\
 S &\rightarrow SS \ | \ (S) \ | \ () \ | \ [S] \ | \ [ \ ] \\
 \text{ luego de la}& \text{ factorización por izquierda resulta... } \\
@@ -108,11 +115,12 @@ G': \Sigma &\rightarrow \lambda \ | \ S \\
 S &\rightarrow SS \ | \ (S' \ | \ [ S'' \\
 S' &\rightarrow S) \ | \ ) \\
 S'' &\rightarrow S]   \ | \ ]
-\end{align}$$
+\end{align}
+$$
 
 ### Eliminación de Producciones $\lambda$
 
-Sea $A\rightarrow \lambda$ una producción lambda. $A$ es *anulable* $\iff A \overset * \implies \lambda$. Se acepta una definición no estricta de una GLC que tenga $A\rightarrow \lambda$ porque es *salvable*.
+Sea $A\rightarrow \lambda$ una producción lambda. $A$ es _anulable_ $\iff A \overset * \implies \lambda$. Se acepta una definición no estricta de una GLC que tenga $A\rightarrow \lambda$ porque es _salvable_.
 
 Identificación de no terminales anulables:
 
@@ -124,7 +132,7 @@ Procedimiento:
 
 $\forall \ A \rightarrow \alpha_1 \dots \alpha_n$ de $G$ se agregan producciones $A\rightarrow \beta_1 \dots \beta_n$ donde $\beta_i \in \begin{cases}\set{\alpha_i} &\text{ si } \alpha_i \notin \Delta \\ \set{\alpha_i,\lambda} &\text{ si } \alpha_i \in \Delta\end{cases}$. Luego, se eliminan todas las producciones $\lambda$. Si $\Sigma \in \Delta \implies \Sigma \rightarrow \lambda \in P'$.
 
-$G$ y $G'$ son fuertemente equivalentes, y toda producción $\lambda$ es *salvable*.
+$G$ y $G'$ son fuertemente equivalentes, y toda producción $\lambda$ es _salvable_.
 
 ## Formas Canónicas de Gramáticas
 
@@ -132,3 +140,4 @@ Se pueden definir formas restringidas de gramáticas libres de contexto, conocid
 
 - [[Gramáticas Bien Conformadas]].
 - [[Gramáticas en Forma Normal]].
+- [[Gramáticas en Forma Stándard]].

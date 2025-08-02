@@ -12,19 +12,19 @@ El **conjunto Traverse** se define de la siguiente manera:
 
 $$T(q,q')=\set{\omega\in S^*/(q,\varphi,\sigma)\overset T\implies(q',\varphi\omega,\sigma); \ \varphi\in  S^*,\sigma \in U^*}$$
 
-Un traverse *trivial* observa el string vacío: $(q,\varphi,\sigma)\overset T \implies (q,\varphi,\sigma)$ de forma que $\lambda \in T(q,q)\forall q\in Q$.
+Un traverse _trivial_ observa el string vacío: $(q,\varphi,\sigma)\overset T \implies (q,\varphi,\sigma)$ de forma que $\lambda \in T(q,q)\forall q\in Q$.
 
 Propiedades:
 
 1. Si $(q,\varphi,\sigma)\overset T \implies(q',\varphi\omega,\sigma)$ es un traverse de $\omega$ para algún $varphi \in S^*$ y algún $\sigma \in U^*$, entonces es traverse de $\omega \ \forall\ \varphi \in S^*$ y $\forall \ \sigma \in U^*$.
-2. Si $\varphi = \omega = \lambda \implies (q,\lambda,\lambda)\overset T \implies (q',\omega,\lambda)$ es una *secuencia de aceptación* de $\omega$, si $q \in I$ y $q'\in F$.
+2. Si $\varphi = \omega = \lambda \implies (q,\lambda,\lambda)\overset T \implies (q',\omega,\lambda)$ es una _secuencia de aceptación_ de $\omega$, si $q \in I$ y $q'\in F$.
 3. Un APD $M$ acepta $\omega \iff \omega \in T(q,q'); \ q\in I, q'\in F$, por lo tanto el lenguaje reconocido por $M$ es $L(M) = \underset {q\in I \atop q'\in F} \bigcup T(q,q')$.
 4. Sea $M$ un $APDP: \lambda \in T(q,q')\iff q=q'$, por lo que cada traverse no trivial de un APDP debe contener como mínimo un `scan`.
 
 Sea $(q,\varphi,\sigma)\overset T \implies (q',\varphi\omega,\sigma)$ un traverse realizado por un APD, siendo $\sigma$ el contenido inicial y final de la pila. Se analiza:
 
-- Se considera *write básico* un `write` que se realiza desde una configuración con pila igual a $\sigma$.
-- Se considera *read básico* un `read` que deja a la pila conteniendo $\sigma$.
+- Se considera _write básico_ un `write` que se realiza desde una configuración con pila igual a $\sigma$.
+- Se considera _read básico_ un `read` que deja a la pila conteniendo $\sigma$.
 - Un write básico y un read básico forman un par de igualdad o coincidencia. Para que la secuencia sea traverse, **todo elemento escrito a la pila debe ser leído** (para $\sigma$ constante).
 - Por ende, un traverse que contiene un read básico también contiene el write básico correspondiente, y viceversa.
 

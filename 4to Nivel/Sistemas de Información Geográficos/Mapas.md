@@ -114,7 +114,6 @@ Distintos métodos crean clases distintas, lo que afecta a la interpretación de
 ![[Mapa de Isolíneas.png]]
 
 5. **Mapa Coroplético, Dasimétrico, e Isoplético**:
-
    - **Coroplético**: las cantidades se asignan a polígonos predefinidos.
    - **Dasimétrico**: las cantidades definen el polígono.
    - **Isoplético**: es un mapa de isolíneas con símbolos zonales para resaltar umbrales.

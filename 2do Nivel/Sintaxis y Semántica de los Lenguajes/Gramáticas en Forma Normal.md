@@ -13,7 +13,8 @@ Sea $CC(A,\omega)$ la función recursiva que verifica si $A\implies\omega$. Exis
 
 La forma normal permite aplicar el algoritmo de análisis sintáctico CYK (Cocke-Younger-Kasami), el cual dado un string $\omega$ y una GLC $G$ en forma normal permite decidir si $\omega \in L(G)$. Procedimiento:
 
-$$\begin{align}
+$$
+\begin{align}
 &\text{Para } i=1\dots n \text{ hacer}  \\
 &\ \ \ \ t_{i1}=\set{A/A\rightarrow a_i} \\
 &\text{Para } j=2\dots n \text{ hacer}  \\
@@ -22,4 +23,5 @@ $$\begin{align}
 &\ \ \ \ \ \ \ \ \text{Para } k=1\dots (j-1) \text{ hacer}  \\
 &\ \ \ \ \ \ \ \ \ \ \ \ t_{ij}=t_{ij} \ \cup \ \set{A/A\rightarrow BC, \text{ con } B \in t_{ik} \text { y } C \in t_{i+kj-k}} \\
 &\text{Si } \Sigma \rightarrow S \text{ y } S \in t_{1n} \text{ entonces } \omega \in L(G)
-&\end{align}$$
+&\end{align}
+$$

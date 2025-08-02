@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"e40b5b9b410f4735","type":"group","x":1620,"y":-460,"width":440,"height":1400,"label":"Formas Canónicas"},
+		{"id":"7ec3a0705dea37d4","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Autómatas Push-Down.md","x":880,"y":-960,"width":400,"height":400,"color":"4"},
+		{"id":"fd8781922b68bb6a","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Gramáticas Libres de Contexto.md","x":1640,"y":-960,"width":400,"height":400},
+		{"id":"233473380b5ab424","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Gramáticas Bien Conformadas.md","x":1640,"y":-440,"width":400,"height":400},
+		{"id":"f307a229a99bdc1a","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Gramáticas en Forma Normal.md","x":1640,"y":40,"width":400,"height":400},
+		{"id":"3545418c9a958685","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Gramáticas en Forma Stándard.md","x":1640,"y":520,"width":400,"height":400},
+		{"id":"4f58f023d9f17c6b","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Máquinas de Turing.md","x":2160,"y":-960,"width":400,"height":400,"color":"4"},
+		{"id":"c9b9112df569e5a5","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Autómata de Estado Finito.md","x":-400,"y":-960,"width":400,"height":400,"color":"4"},
+		{"id":"649e4370c16117d3","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Jerarquía de Chomsky.md","x":-400,"y":-1680,"width":400,"height":400},
+		{"id":"a1c0fe76d5974ab9","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Gramática Formal.md","x":120,"y":-1680,"width":400,"height":400},
+		{"id":"e9f38bba536d964b","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Análisis Sintáctico.md","x":640,"y":-440,"width":400,"height":400},
+		{"id":"6df9132b3db8ace5","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Conjuntos Traverse.md","x":1120,"y":-440,"width":400,"height":400},
+		{"id":"c72f28c670a3f5c9","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Aceptor de Estado Finito.md","x":-400,"y":-440,"width":400,"height":400},
+		{"id":"b7ea6ba9afed52e8","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Relación entre Autómatas Finitos y Lenguajes Regulares.md","x":-400,"y":80,"width":400,"height":400},
+		{"id":"d73bba9079fea4de","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Expresiones Regulares.md","x":120,"y":-440,"width":400,"height":400},
+		{"id":"b0cadd6d7321f34a","type":"file","file":"2do Nivel/Sintaxis y Semántica de los Lenguajes/Gramáticas Regulares.md","x":120,"y":80,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"b482ebdc0b523c3e","fromNode":"c72f28c670a3f5c9","fromSide":"right","toNode":"d73bba9079fea4de","toSide":"left"},
+		{"id":"652506d85aa892b4","fromNode":"d73bba9079fea4de","fromSide":"bottom","toNode":"b0cadd6d7321f34a","toSide":"top"},
+		{"id":"937f110ff7dc0cd0","fromNode":"c72f28c670a3f5c9","fromSide":"bottom","toNode":"b7ea6ba9afed52e8","toSide":"top"},
+		{"id":"852d520890f65838","fromNode":"c9b9112df569e5a5","fromSide":"bottom","toNode":"c72f28c670a3f5c9","toSide":"top"},
+		{"id":"5035a93c8ca8eb08","fromNode":"fd8781922b68bb6a","fromSide":"bottom","toNode":"e40b5b9b410f4735","toSide":"top"},
+		{"id":"c6359a1912301840","fromNode":"649e4370c16117d3","fromSide":"bottom","toNode":"7ec3a0705dea37d4","toSide":"top"},
+		{"id":"4ca405f20d800699","fromNode":"649e4370c16117d3","fromSide":"bottom","toNode":"4f58f023d9f17c6b","toSide":"top"},
+		{"id":"57ad2f69512e7d3f","fromNode":"649e4370c16117d3","fromSide":"bottom","toNode":"c9b9112df569e5a5","toSide":"top"},
+		{"id":"3cf656ec42e591b1","fromNode":"649e4370c16117d3","fromSide":"right","toNode":"a1c0fe76d5974ab9","toSide":"left"},
+		{"id":"97b322fcf9fc5e98","fromNode":"7ec3a0705dea37d4","fromSide":"bottom","toNode":"e9f38bba536d964b","toSide":"top"},
+		{"id":"1e82497b54073c3f","fromNode":"7ec3a0705dea37d4","fromSide":"bottom","toNode":"6df9132b3db8ace5","toSide":"top"},
+		{"id":"ade2c6599bc256a3","fromNode":"7ec3a0705dea37d4","fromSide":"right","toNode":"fd8781922b68bb6a","toSide":"left"}
+	]
+}

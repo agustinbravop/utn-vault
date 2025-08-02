@@ -16,7 +16,7 @@ Sea el autómata de estado finito $M$ con $n$ partes que pueden asumir $k$ estad
 
 Formalmente se define $M=(Q,S,R,f,g,q_I)$, donde $Q,S,R$ son discretos finitos, $f$ y $g$ son funciones, y $q_I\in Q$.
 
-Para aceptar $\lambda$ (el string vacío) se puede sacar $g$ de $M$ y  agregar $h: Q \rightarrow R$, que es la salida asociada al estado. $h$ asocia a cada estado una respuesta independiente de la entrada.
+Para aceptar $\lambda$ (el string vacío) se puede sacar $g$ de $M$ y agregar $h: Q \rightarrow R$, que es la salida asociada al estado. $h$ asocia a cada estado una respuesta independiente de la entrada.
 
 ## Secuencias de Estados
 
@@ -27,7 +27,7 @@ Sea $M$ con $f: Q \times S \rightarrow Q$:
 - Si $M$ es $M_t$ con $g: Q\times S\rightarrow R$, $\varphi = r(1)r(2)\dots r(t)$ es la respuesta de $M$ al estímulo $\omega$, donde $r(i)=g(q(i-1),s(i))$ con $i=1,2,\dots, t$.
 - Si $M$ es $M_s$ con $h:Q\rightarrow R$, se da que $r(i)=h(q(i))$ con $i=0,1,2,\dots, t$.
 
-Una $M_t$ y una $M_s$ son *similares* si para cada estímulo posible la respuesta de $M_s$ es igual a la de $M_t$ pero precedida por un símbolo arbitrario y fijo.
+Una $M_t$ y una $M_s$ son _similares_ si para cada estímulo posible la respuesta de $M_s$ es igual a la de $M_t$ pero precedida por un símbolo arbitrario y fijo.
 
 ![[Mt y Ms similares.png]]
 
@@ -39,7 +39,7 @@ Una $M_t$ y una $M_s$ son *similares* si para cada estímulo posible la respuest
 
 ## Equivalencia
 
-Dos máquinas de estado finito $M_1$ y $M_2$ son *equivalentes* sí y solo sí:
+Dos máquinas de estado finito $M_1$ y $M_2$ son _equivalentes_ sí y solo sí:
 
 $$S_1 =S)2 ; R_1 = R-2 ; \text{ si } s_1(t) = s_2(t) \implies r_1(t)=r(2t) \ \forall t \ge 1$$
 
@@ -66,10 +66,11 @@ Si $q_a$ y $q_b$ no son equivalentes, entonces existe un $\omega$ que produce sa
 > [!Info] Teorema de Equivalencia de Estados
 >
 > Los estados $q_a$ y $q_b$ de $M$ son equivalentes sí y solo sí:
->  1. $\forall s \in S: f(q_a,s) \sim f(q_b,s)$
->  2. $\text{para } M_t : \forall s \in S : g(g_,s)=g(q_b,s) \text{ y para } M_s:h(q_a)=h(q_b)$
->  
->  Este teorema no sirve para estados mutuamente recursivos entre sí porque se entra en un bucle.
+>
+> 1.  $\forall s \in S: f(q_a,s) \sim f(q_b,s)$
+> 2.  $\text{para } M_t : \forall s \in S : g(g_,s)=g(q_b,s) \text{ y para } M_s:h(q_a)=h(q_b)$
+>
+> Este teorema no sirve para estados mutuamente recursivos entre sí porque se entra en un bucle.
 
 Otras definiciones:
 
@@ -86,11 +87,11 @@ Los estados $q_a$ y $q_b$ de $M$ son **$k$-distinguibles** si $\exists \omega \i
 
 > [!info] Teorema de k-equivalencia
 >
->Se dice que $q_a$ y $q_b$ son k-equivalentes sí y solo sí:
-> 
+> Se dice que $q_a$ y $q_b$ son k-equivalentes sí y solo sí:
+>
 > 1. Son 1-equivalentes: $\forall s \in S : g(q_a,s) =g(q_b,s)$, y
 > 2. Para todo $s$, sus estados sucesores son $(k-1)$-equivalentes: $\forall s \in S : f(q_a,s) \sim_{k-1} f(q_b,s)$.
->    
+>
 >    $$q_a \sim q_b \iff q_a \sim_k q_b \forall k \ge 1$$
 
 Una relación de equivalencia aplicada a un conjunto particiona al conjunto en clases mutuamente excluyentes y que colectivamente representan de forma exhaustiva al conjunto original. Si $P_1$ y $P_2$ son particiones de $X$ y cada bloque de $P_2$ es subconjunto de solo un bloque de $P_1$, se dice que $P_2$ es un refinamiento de $P_1$. Si $P_1 =\set{A_1,\dots,A_n} \land P_2 = \set{B_1, \dots , B_m}$ y $P_2$ es refinamiento de $P_1$ $\implies \forall B_j \in P_2 \ \exists  \ A_i \in P_1 / B_j \subseteq A_i \land m \ge n$.

@@ -42,23 +42,23 @@ Las secuencias de estados en $M$ desde $q\in I$ hasta $q'\in F$ tienen una corre
 
 Es el proceso inverso. Dada una gramática lineal $G=(N,T,P_G,\Sigma)$, se puede construir un AEF $M=(Q,T,P_M,I,\set{q_F})$ con $Q=\set{q_A / A \in N} \cup \set{q_F}$ y conjuntos finales $\set{ E(q) / q \in Q}$ tal que $L(G,a) = E(q_A)$ para $A \in N \cup \set{\Sigma}$.
 
-| Regla | Si $G$ tiene             | Luego $M$ tiene                     | Razón                             |
-|:-----:|:-------------------------|:------------------------------------|:----------------------------------|
-| 1     | $\Sigma \rightarrow \lambda$     | $q_F \in I$                        | $\lambda \in L(G)$                |
-| 2     | $\Sigma \rightarrow A$           | $q_A \in I$                        | $L(G, A) \subseteq L(G)$          |
-| 3     | $A \rightarrow s$                | $q_A \xrightarrow{s} q_F$          | $s \in L(G, A)$                   |
-| 4     | $A \rightarrow sB$               | $q_A \xrightarrow{s} q_B$          | $L(G, A) \supseteq sL(G, B)$      |
+| Regla | Si $G$ tiene                 | Luego $M$ tiene           | Razón                        |
+| :---: | :--------------------------- | :------------------------ | :--------------------------- |
+|   1   | $\Sigma \rightarrow \lambda$ | $q_F \in I$               | $\lambda \in L(G)$           |
+|   2   | $\Sigma \rightarrow A$       | $q_A \in I$               | $L(G, A) \subseteq L(G)$     |
+|   3   | $A \rightarrow s$            | $q_A \xrightarrow{s} q_F$ | $s \in L(G, A)$              |
+|   4   | $A \rightarrow sB$           | $q_A \xrightarrow{s} q_B$ | $L(G, A) \supseteq sL(G, B)$ |
 
 ## Equivalencia entre GRLD y GRLI
 
 Se establece una correspondencia uno a uno entre todas las producciones de $G$ y $G'$ de forma que una derivación $\Sigma \implies s_1 A_1 \implies \dots \implies s_1\dots s_kA_k\implies s_1\dots s_ks_{k+1}$ en $G$ corresponde a $\Sigma \implies A_k s_{ s+1}\implies \dots \implies A_1 s_2 \dots s_k s_{k+1} \implies s_1 s_2 \dots s_k s_{k+1}$ en $G'$ y por lo tanto $L(G)=L(G')$.
 
-| Si $G$ tiene          | Luego $G'$ tiene      |
-|:----------------------|:----------------------|
-| $\Sigma \rightarrow sA$  | $A \rightarrow s$       |
-| $A \rightarrow sB$       | $B \rightarrow As$      |
-| $A \rightarrow s$        | $\Sigma \rightarrow As$ |
-| $\Sigma \rightarrow s$   | $\Sigma \rightarrow s$  |
+| Si $G$ tiene                 | Luego $G'$ tiene             |
+| :--------------------------- | :--------------------------- |
+| $\Sigma \rightarrow sA$      | $A \rightarrow s$            |
+| $A \rightarrow sB$           | $B \rightarrow As$           |
+| $A \rightarrow s$            | $\Sigma \rightarrow As$      |
+| $\Sigma \rightarrow s$       | $\Sigma \rightarrow s$       |
 | $\Sigma \rightarrow \lambda$ | $\Sigma \rightarrow \lambda$ |
 
 Se define el conjunto inicial $B(q)=\set{ \omega / q' \overset \omega \implies q , q' \in I}$ de forma que $L(G, N(q)) = B(q)$ para una GRLI con $N = \set{N(q) / q \in Q}$.

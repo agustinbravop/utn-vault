@@ -10,5 +10,5 @@ Materias obligatorias:
 4. Ingeniería y Sociedad.
 5. Inglés 2.
 6. [[2do Nivel/Paradigmas de Programación/index|Paradigmas de Programación]].
-7. Sintaxis y Semántica de los Lenguajes.
+7. [[2do Nivel/Sintaxis y Semántica de los Lenguajes/index|Sintaxis y Semántica de los Lenguajes]].
 8. [[2do Nivel/Sistemas Operativos/index|Sistemas Operativos]].

@@ -1,3 +1,4 @@
+![[MOC Sintaxis y Semántica de los Lenguajes.png]]
 
 Asignatura: Sintaxis y Semántica de los Lenguajes. \
 Ciclo Lectivo: 2022. \

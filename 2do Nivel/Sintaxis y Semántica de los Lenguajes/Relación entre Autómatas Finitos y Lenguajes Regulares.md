@@ -1,4 +1,3 @@
-
 Demostraremos que las siguientes declaraciones son equivalentes:
 
 1. El lenguaje regular $L$ es reconocido por algún [[Aceptor de Estado Finito]].
