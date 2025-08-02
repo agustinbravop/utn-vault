@@ -37,7 +37,7 @@ Sea $M$ un APDP y $(q,\varphi,\sigma)\overset T \implies (q',\varphi\omega,\sigm
 
 ![[Conjuntos Traverse.png]]
 
-Para todo $\omega \in S^*$ de una [[Gramáticas Libre de Contexto|GLC]] $G$, sea $N$ un no terminal, se verifica $N(q,q')\overset * \implies \omega \iff \omega \in T(q,q')$ y cada tipo de traverse se puede correlacionar a una producción (derivación):
+Para todo $\omega \in S^*$ de una [[Gramáticas Libres de Contexto|GLC]] $G$, sea $N$ un no terminal, se verifica $N(q,q')\overset * \implies \omega \iff \omega \in T(q,q')$ y cada tipo de traverse se puede correlacionar a una producción (derivación):
 
 | Expresiones iniciales                                                                                                                                                                                                | Resultado final con $N$                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |

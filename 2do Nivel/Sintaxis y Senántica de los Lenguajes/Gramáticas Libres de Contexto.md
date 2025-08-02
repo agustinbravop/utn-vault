@@ -88,3 +88,47 @@ Se cumple que $G$ y $G'$ son fuertemente equivalentes siempre.
 
 ### Factorización por Izquierda
 
+Sean $A\rightarrow\beta \alpha_1 \ \land \ A \rightarrow \beta  \alpha_k$ dos producciones con el mismo *handle* de una misma parte derecha. Esto provoca ambigüedad al diseñar un compilador por izquierda. Para evitarlo, se puede aplicar una factorización por izquierda:
+
+$$\begin{align}
+\forall \ A \in N \text{ de } G:& \text{ si }A\rightarrow \beta\alpha_1 , \dots, A\rightarrow\beta\alpha_k \text{ con } k \gt 1, \\
+\text{ en } G' \text{ se las cambia por}:& \ A\rightarrow \beta A' \\
+&\ A'\rightarrow \alpha_1,\dots,A'\rightarrow \alpha_k \text{ con }  k \ge 1
+\end{align}$$
+
+Es un caso especial de expansión, por lo que $G$ y $G'$ son fuertemente equivalentes.
+
+Ejemplo:
+
+$$\begin{align}
+G: \Sigma &\rightarrow \lambda \ | \ S \\
+S &\rightarrow SS \ | \ (S) \ | \ () \ | \ [S] \ | \ [ \ ] \\
+\text{ luego de la}& \text{ factorización por izquierda resulta... } \\
+G': \Sigma &\rightarrow \lambda \ | \ S \\
+S &\rightarrow SS \ | \ (S' \ | \ [ S'' \\
+S' &\rightarrow S) \ | \ ) \\
+S'' &\rightarrow S]   \ | \ ]
+\end{align}$$
+
+### Eliminación de Producciones $\lambda$
+
+Sea $A\rightarrow \lambda$ una producción lambda. $A$ es *anulable* $\iff A \overset * \implies \lambda$. Se acepta una definición no estricta de una GLC que tenga $A\rightarrow \lambda$ porque es *salvable*.
+
+Identificación de no terminales anulables:
+
+1. Sea $\Delta_1 =\set{A\in N / A \rightarrow \lambda \in P} ; i =1$.
+2. Sea $\Delta_{i+1} = \Delta_i \cup \set{A\in N / A \rightarrow \omega \in P \ \land \ \omega \in \Delta_i^*}$.
+3. Repetir hasta que $\Delta_i=\Delta_{i+1}  \implies \Delta_1 = \Delta$.
+
+Procedimiento:
+
+$\forall \ A \rightarrow \alpha_1 \dots \alpha_n$ de $G$ se agregan producciones $A\rightarrow \beta_1 \dots \beta_n$ donde $\beta_i \in \begin{cases}\set{\alpha_i} &\text{ si } \alpha_i \notin \Delta \\ \set{\alpha_i,\lambda} &\text{ si } \alpha_i \in \Delta\end{cases}$. Luego, se eliminan todas las producciones $\lambda$. Si $\Sigma \in \Delta \implies \Sigma \rightarrow \lambda \in P'$.
+
+$G$ y $G'$ son fuertemente equivalentes, y toda producción $\lambda$ es *salvable*.
+
+## Formas Canónicas de Gramáticas
+
+Se pueden definir formas restringidas de gramáticas libres de contexto, conocidas como formas canónicas:
+
+- [[Gramáticas Bien Conformadas]].
+- [[Gramáticas en Forma Normal]].

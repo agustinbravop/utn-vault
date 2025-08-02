@@ -20,7 +20,7 @@ El cálculo lambda nos permite **definir** funciones de un solo argumento: $\lam
 
 ## Sintaxis
 
-El cálculo lambda es una Gramática Libre de Contexto.
+El cálculo lambda es una [[Gramáticas Libres de Contexto|Gramática Libre de Contexto]].
 
 ```
 <expr> ::= <const>

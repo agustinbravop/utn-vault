@@ -39,6 +39,6 @@ Dada $G=(N,T,P_G,\Sigma)$ se puede construir un $M=(Q,T,U,P_M,I,F)$. Sean $U=N\c
 | **Para hacer "matching":**  | $\forall\, t \in T$                                                                                                             | $q_R$] `read` $(t, q_\downarrow)$<br>$q_\downarrow$] `scan` $(t, q_R)$ |
 | **Para aceptar $\lambda$:** | Si $\Sigma \rightarrow \lambda \in G$                                                                                           | $q_\downarrow \in F$                                                   |
 
-Por cada [[Gramáticas Libre de Contexto|GLC]] $G$ se puede construir un APD $M$ tal que $L(M)=L(G)$.
+Por cada [[Gramáticas Libres de Contexto|GLC]] $G$ se puede construir un APD $M$ tal que $L(M)=L(G)$.
 
 ![[Construcción de un Analizador Push-Down.png]]
