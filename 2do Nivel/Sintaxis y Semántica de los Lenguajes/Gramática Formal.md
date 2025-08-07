@@ -51,7 +51,7 @@ Si $G$ es gramática regular, entonces $L(G)$ es lenguaje regular.
 
 Existe **ambigüedad** cuando para determinado string, la gramática provee árboles de derivación distintos. Es un problema que no siempre se soluciona, y no existe un método para solucionarlo.
 
-Existen lenguajes _inherentemente ambiguos_ que no pueden ser generados por una gramática no ambigua. No hay manera de decidir si un $L(G)$ es inherentemente ambiguo. Por ejemplo, $L=\set{aîb^jc^k / i=j \lor j = k}$ es inherentemente ambiguo.
+Existen lenguajes _inherentemente ambiguos_ que no pueden ser generados por una gramática no ambigua. No hay manera de decidir si un $L(G)$ es inherentemente ambiguo. Por ejemplo, $L=\set{a^ib^jc^k / i=j \lor j = k}$ es inherentemente ambiguo.
 
 Una **derivación** se indica como $\varphi A \psi \implies \varphi B_1B_2\dots B_n \psi$ mediante $A\rightarrow B_1B_2\dots B_n$ donde $A \in (N\cup \set{\Sigma}) \ \land \ B_i \in (N\cup T)$. Una derivación $\omega_0 \implies \omega_1 \implies \dots \implies \omega_n$ es derivación por izquierda sí y solo sí el símbolo no terminal ubicado más a la izquierda de $\omega_i$ es reemplazado para obtener $\omega_{i+1}$. Esto se verifica para $0\le i\le n$ Formalmente:
 

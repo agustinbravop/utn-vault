@@ -15,7 +15,7 @@ Podemos imaginar que la $M$ en cierto instante ante cierta entrada se encuentra 
 
 Dado el AEF no determinístico $M_n = (Q_n, S, P_n, I_n, F_n)$ se construye el AEF determinístico $M_d = (Q_d,S,P_d,I_d,F_d)/L(M_n)=L(M_d)$. Sea $X_{[\omega]} = \set{q'\in Q_n / q \overset \omega \implies q' \text{ para algún } q \in I_n}$ el conjunto de los estados alcanzables de $M_n$ para el string de entrada $\omega$. Para $\lambda: X_{[\lambda]} = I_n$.
 
-Dado $X_{[\phi]}$ se tiene $X_{[\phi s]}=\set{q'\in Q_n / q'' \overset s \rightarrow q' para algún q'' \in X_{[\phi]}}$ por lo que $X_{[\phi s]}$ solo depende de $X_{[\phi]}$ y de $s\in S$.
+Dado $X_{[\phi]}$ se tiene $X_{[\phi s]}=\set{q'\in Q_n / q'' \overset s \rightarrow q' \text{ para algún } q'' \in X_{[\phi]}}$ por lo que $X_{[\phi s]}$ solo depende de $X_{[\phi]}$ y de $s\in S$.
 
 El número de conjuntos alcanzables $X_{[\omega]}$ distintos es finito y $X_{[\omega]} \subseteq Q_n$. Los $I_d$ de $M_d$ corresponden a los $X_{[\omega]}$ que contienen estados finales de $M_n$. $I_n = X_{[\lambda]} \implies I_d = \set{X_{[\lambda]}}$.
 
