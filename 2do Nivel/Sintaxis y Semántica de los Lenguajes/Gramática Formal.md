@@ -30,7 +30,7 @@ $$
 
 Strings que puede generar: `abc`, `aabbcc`, `aaabbbccc`, `aaaabbbbcccc`, etc. El lenguaje generado es $L(G_1) = \set{ a^k b^k c^k \ge 1}$. Se observa que $a^k b^k c^k$ es una correspondencia triple ya que cada símbolo debe aparecer la misma cantidad de veces. Se considera que la gramática $G_1$ es de tipo $L_1$ porque un autómata pushdown ($L_2)$ no puede manejar correspondencias triples (solo puede manejar correspondencias dobles anidadas) y no existen contracciones por lo que no se necesita un $L_0$.
 
-Si una gramática permite llegar al mismo string por diferentes derivaciones, se dice que es una _gramática ambigüa_. No siempre se puede solucionar el problema de la ambigüedad.
+Si una gramática permite llegar al mismo string por diferentes derivaciones, se dice que es una _gramática ambigua_. No siempre se puede solucionar el problema de la ambigüedad.
 
 ## Tipos de Gramáticas
 
