@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2do Nivel/Sintaxis y Semántica de los Lenguajes/Gramática Formal.md",
+                "file": "1er Nivel/Inglés 1/Cognado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gramática Formal"
+              "title": "Cognado"
             }
           }
         ]
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50852584838867
+    "width": 224.50852584838867,
+    "collapsed": true
   },
   "right": {
     "id": "7367ca1eadda3c12",
@@ -188,6 +189,13 @@
   },
   "active": "3e5c4afe87a6c4b1",
   "lastOpenFiles": [
+    "1er Nivel/Arquitectura de Computadoras/Organización de una Memoria 2.5D.md",
+    "1er Nivel/Algoritmos y Estructuras de Datos/Algoritmos con Archivos.md",
+    "4to Nivel/Agilidad Avanzada/Design Thinking.md",
+    "2do Nivel/Análisis de Sistemas de Información/Caso de Uso del Negocio.md",
+    "2do Nivel/Sintaxis y Semántica de los Lenguajes/Gramática Formal.md",
+    "vault.zip",
+    "1er Nivel.zip",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/Aceptor de Estado Finito.md",
     "index.md",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/index.md",
@@ -219,12 +227,8 @@
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/attachments/Instrucciones de los Autómatas Push-Down.png",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/Gramáticas Regulares.md",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/attachments/Pasted image 20250729202927.png",
-    "2do Nivel/Sintaxis y Semántica de los Lenguajes/Expresiones Regulares.md",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/attachments/Construcción de AEF a partir de Expresiones Regulares.png",
-    "2do Nivel/Sintaxis y Semántica de los Lenguajes/Autómata de Estado Finito.md",
-    "1er Nivel/Algoritmos y Estructuras de Datos/Recursividad.md",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/attachments/Equivalencia.png",
-    "2do Nivel/Sintaxis y Semántica de los Lenguajes/Gramática Formal.md",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/attachments",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes",
     "3er Nivel/Economía/MOC Economía.canvas",
@@ -237,9 +241,7 @@
     "4to Nivel/Agilidad Avanzada/MOC Agilidad Avanzada.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Agilidad Avanzada/attachments",
-    "4to Nivel/Agilidad Avanzada",
     "4to Nivel/Sistemas de Información Geográficos/MOC Sistemas de Información Geográficos.canvas",
-    "4to Nivel/Tecnologías para la Automatización/attachments/desktop.ini",
     "4to Nivel/Tecnologías para la Automatización/MOC Tecnologías para la Automatización.canvas",
     "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas",
     "4to Nivel/Redes de Datos/MOC Redes de Datos.canvas"

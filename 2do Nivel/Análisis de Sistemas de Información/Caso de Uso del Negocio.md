@@ -21,7 +21,7 @@ Las relaciones pueden ser:
 
 ## Reglas de Negocio
 
-Los casos de uso de negocio nos permiten especificar las **reglas de negocio** existentes, que definen qué, cómo, cuándo, y porqué debe hacerse algo en una empresa. También pueden haber:
+Los casos de uso de negocio nos permiten especificar las **reglas de negocio** existentes, que definen qué, cómo, cuándo, y porqué debe hacerse algo en una empresa. También puede haber:
 
 1. **Reglas de Restricción**: son condiciones a cumplir para ejecutar el proceso deseado. Pueden ser:
    - **De operaciones**: pueden ser de flujo o de estímulo-respuesta.

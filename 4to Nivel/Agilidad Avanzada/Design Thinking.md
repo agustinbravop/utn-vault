@@ -14,7 +14,7 @@ Técnicas de design thinking:
 - [[Design Persona]].
 - [[Reverse Brainstorming]].
 
-Para esta fase de concepción, pueden haber un [[Producto Mínimo Viable]] de distintos tamaños:
+Para esta fase de concepción, puede haber un [[Producto Mínimo Viable]] de distintos tamaños:
 
 |             | Proof of Concept   | Prototype                 | MVP                         |
 | ----------- | ------------------ | ------------------------- | --------------------------- |
