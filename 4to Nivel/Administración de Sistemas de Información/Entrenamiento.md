@@ -1,6 +1,6 @@
 El **entrenamiento** es el proceso educativo a **corto plazo** aplicado de manera **sistemática y organizada** en el que las personas **aprenden** conocimientos, actitudes y habilidades en función de **objetivos** definidos.
 
-Es un proceso de [[Educación]] por la empresa y de [[Aprendizaje]] por el empleado, con el propósito de **ayudar a alcanzar los objetivos** de la empresa. Es una **inversión**, no un gasto.
+Es un proceso de [[Educación]] por la empresa y de [[4to Nivel/Administración de Sistemas de Información/Aprendizaje]] por el empleado, con el propósito de **ayudar a alcanzar los objetivos** de la empresa. Es una **inversión**, no un gasto.
 
 Objetivos:
 

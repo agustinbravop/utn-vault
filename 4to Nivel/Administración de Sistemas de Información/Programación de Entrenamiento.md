@@ -29,7 +29,7 @@ Es consecuencia del diagnóstico de las necesidades de entrenamiento, y consiste
 
 ## Tecnología Educativa
 
-Se deben elegir las técnicas que optimicen el [[Aprendizaje]]. Se busca mayor volumen de aprendizaje a menor tiempo y costo. Las **técnicas de entrenamiento** se clasifican de varias maneras.
+Se deben elegir las técnicas que optimicen el [[4to Nivel/Administración de Sistemas de Información/Aprendizaje]]. Se busca mayor volumen de aprendizaje a menor tiempo y costo. Las **técnicas de entrenamiento** se clasifican de varias maneras.
 
 Según el uso:
 

@@ -7,7 +7,7 @@ Es una **responsabilidad de línea** que consiste en utilizar esquemas que logre
 
 > El **desarrollo** es indispensable para que la organización **responda a los fenómenos del cambio**, y que el individuo se **adapte** a los cambios de las demandas actuales y futuras de su cargo.
 
-Las personas se desarrollan porque están vivas, son dinámicas en un proceso de [[Aprendizaje]] constante. Son el único de los [[Recursos Organizacionales]] susceptible de **autodirección** y desarrollo. Se dice desarrollo cuando el cambio es **intencional y proyectado**.
+Las personas se desarrollan porque están vivas, son dinámicas en un proceso de [[4to Nivel/Administración de Sistemas de Información/Aprendizaje]] constante. Son el único de los [[Recursos Organizacionales]] susceptible de **autodirección** y desarrollo. Se dice desarrollo cuando el cambio es **intencional y proyectado**.
 
 El desarrollo en una organización se puede dar en tres escalas:
 

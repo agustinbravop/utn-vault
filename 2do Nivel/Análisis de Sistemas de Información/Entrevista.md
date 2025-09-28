@@ -16,7 +16,7 @@ Conviene:
 Clasificación de entrevistas según su **objetivo**:
 
 1. **Preliminares**: de reconocimiento. Sirven para entender el problema y el ambiente. Dan información abstracta.
-2. **Recolección de Datos**: para adquirir [[Conocimiento]] específico. Es profunda y detallada.
+2. **Recolección de Datos**: para adquirir [[2do Nivel/Análisis de Sistemas de Información/Conocimiento|Conocimiento]] específico. Es profunda y detallada.
 3. **Seguimiento**: para llenar huecos de información. Se aclaran dudas o inconsistencias.
 
 La entrevista, como técnica para la recolección de información, siempre es necesaria pero nunca es suficiente por sí sola.

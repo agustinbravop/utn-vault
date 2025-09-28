@@ -33,7 +33,7 @@ Una organización tiene necesidades de:
 
 A veces NO es necesario modelar el negocio, por ejemplo cuando:
 
-- Ya se tiene [[Conocimiento]] previo.
+- Ya se tiene [[2do Nivel/Análisis de Sistemas de Información/Conocimiento|Conocimiento]] previo.
 - La complejidad del software es pequeña.
 - Hay muy buena documentación preexistente.
 - Estamos muy apurados y no hay tiempo.

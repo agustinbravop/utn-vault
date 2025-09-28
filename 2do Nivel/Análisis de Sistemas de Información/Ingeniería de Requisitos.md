@@ -9,7 +9,7 @@ La [[Educción de Requisitos]] es el relevamiento que busca comprender:
 
 Es un proceso más social que técnico, donde se pueden dar varios _problemas de comunicación_:
 
-1. **Conocimiento tácito**: [[Conocimiento]] interiorizado y subjetivo, por lo que es difícil de transmitir.
+1. **Conocimiento tácito**: [[2do Nivel/Análisis de Sistemas de Información/Conocimiento|Conocimiento]] interiorizado y subjetivo, por lo que es difícil de transmitir.
 2. **Ambigüedad**: se debe a diversas interpretaciones ante una oración mal expresada.
 3. **Actitudes y opiniones particulares**: vivencias, tradiciones, creencias políticas o religiosas, etc.
 

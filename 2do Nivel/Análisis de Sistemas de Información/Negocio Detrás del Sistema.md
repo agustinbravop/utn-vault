@@ -6,6 +6,6 @@ Una _característica_ (o _feature_) del sistema es, a grandes rasgos, un conjunt
 
 Desde el punto de vista del cumplimiento de metas, los sistemas de información sirven para mejorar:
 
-- El [[Conocimiento]] del negocio.
+- El [[2do Nivel/Análisis de Sistemas de Información/Conocimiento|Conocimiento]] del negocio.
 - Los **procesos** del negocio.
 - Las **comunicaciones** del negocio.

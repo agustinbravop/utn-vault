@@ -28,7 +28,7 @@ Roles informales:
 
 En XP se **planifica por entrega**: se priorizan las [[2do Nivel/Análisis de Sistemas de Información/Historias de Usuario|Historias de Usuario]] que el cliente elige. La línea base es un conjunto de HUs, y se debe estimar el esfuerzo de implementarlas. A cada programador se le asignan HUs a implementar.
 
-Para programar se puede usar _pair programming_: donde dos programadores, un conductor y un navegante, cooperan para implementar una funcionalidad en conjunto. Esto aumenta la calidad y reduce la complejidad del código, además de compartir el [[Conocimiento]] entre el equipo (reduciendo así la documentación necesaria).
+Para programar se puede usar _pair programming_: donde dos programadores, un conductor y un navegante, cooperan para implementar una funcionalidad en conjunto. Esto aumenta la calidad y reduce la complejidad del código, además de compartir el [[2do Nivel/Análisis de Sistemas de Información/Conocimiento|Conocimiento]] entre el equipo (reduciendo así la documentación necesaria).
 
 12 prácticas agrupadas en 4 categorías:
 
