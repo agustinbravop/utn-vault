@@ -14,7 +14,7 @@ Las ideas se tienen que contar para ser validadas, así que hay que saber contar
 
 Con Lean Startup, buscamos crear una [[Organización]], no solamente un producto. Los inversores prefieren apostar a un buen equipo por sobre una buena idea. Las personas por sobre el producto, porque eventualmente la startup va a encontrar el producto adecuado.
 
-En lugar de hacer un plan de negocios extenso y detallado, en los entornos startup se propone hacer un [[Business Model Canvas]].
+En lugar de hacer un plan de negocios extenso y detallado, en los entornos startup se propone hacer un [[4to Nivel/Agilidad Avanzada/Business Model Canvas]].
 
 Las siguientes tres disciplinas se repiten de manera iterativa:
 

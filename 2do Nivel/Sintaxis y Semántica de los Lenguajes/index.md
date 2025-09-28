@@ -1,3 +1,7 @@
+---
+title: Sintaxis y Semántica de los Lenguajes
+---
+
 ![[MOC Sintaxis y Semántica de los Lenguajes.png]]
 
 Asignatura: Sintaxis y Semántica de los Lenguajes. \
