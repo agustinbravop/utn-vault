@@ -14,6 +14,16 @@ Para construir un agente inteligente, la clave es lograr un balance entre el com
 - Acciones del agente: $A=\set{a_1,a_2,\dots}$.
 - Agente: definido como $\text action : S^* \rightarrow A$.
 
+El entorno del agente se puede clasificar en:
+
+- Accesible (información completa) vs inaccesible (información parcial).
+- Determinístico vs no determinístico (incertidumbre).
+- Episódico vs no episódico.
+- Estático vs dinámico.
+- Discreto vs continuo.
+
+
+
 ## Agentes Puramente Reactivos
 
 Los **agentes puramente reactivos** deciden qué hacer sin considerar su historial.
