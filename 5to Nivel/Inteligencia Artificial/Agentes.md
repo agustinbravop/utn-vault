@@ -22,8 +22,6 @@ El entorno del agente se puede clasificar en:
 - Estático vs dinámico.
 - Discreto vs continuo.
 
-
-
 ## Agentes Puramente Reactivos
 
 Los **agentes puramente reactivos** deciden qué hacer sin considerar su historial.

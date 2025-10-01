@@ -42,4 +42,4 @@ El control de la coherencia es necesario por si la base de conocimiento es incon
 
 **Un conjunto de reglas es _coherente_ si existe al menos un conjunto de valores de todos los objetos que producen conclusiones no contradictorias**. Con uno es suficiente.
 
-Un valor $a$ para el objeto $A$ NO es factible si las conclusiones al hacer $A=a$ contradicen cualquier combinación de valores del resto de objetos. Los valores no factibles deben ser prohibidos.
+Un valor $a$ para el objeto $A$ NO es factible si las conclusiones al hacer $A=a$ contradicen cualquier combinación de valores del resto de objetos. Los valores no factibles deben ser eliminados de la lista de valores posibles de su correspondiente objeto para evitar conclusiones incoherentes.

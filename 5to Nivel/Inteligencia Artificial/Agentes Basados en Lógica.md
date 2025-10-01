@@ -1,4 +1,4 @@
-Dentro de las arquitecturas concretas de los [[Agentes]], las arquitecturas basadas en lógica modelan un estado interno con [[Razonamiento]] lógico, de manera que el agente es capaz de deducción gracias a un conjunto $D$ de **predicados**.
+Dentro de las arquitecturas concretas de los [[Agentes]], las arquitecturas basadas en lógica modelan un estado interno con [[Razonamiento]] lógico, de manera que el agente es capaz de tomar decisiones mediante **deducción** gracias a un conjunto $D$ de **predicados**.
 
 $$
 \begin{align}
@@ -28,3 +28,5 @@ $$
 &\textbf{end function } action
 \end{aligned}
 $$
+
+Estos agentes no son inteligentes porque siempre hacen la misma acción ante los mismos datos.

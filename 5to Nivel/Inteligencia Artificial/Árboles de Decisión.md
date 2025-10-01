@@ -54,15 +54,15 @@ $$\text{entropy}(D)=-\sum_{j=1}^{|C|} Pr(c_j) \log_2 Pr(c_j)$$
 Usando entropía:
 
 $$
-\begin{align}
+\begin{aligned}
 \text{impurityEval-1}(D): \text{entropy}(D)&=-\sum_{j=1}^{|C|} Pr(c_j) \log_2 Pr(c_j) \\[8pt]
 \text{impurityEval-2}(D,A_i): \text{entropy}_{A_i}(D)&=-\sum_{j=1}^{v} \frac{|D_j|}{|D|} \times \text{entropy}(D_j) \\[8pt]
 \text{gain}(D,A_i) &= \text{entropy}(D) - \text{entropy}_{A_i}(D) \\[8pt]
 \text{gainRatio}(D, A_i) &= \frac{\text{gain}(D, A_i)}{- \sum_{j=1}^{s} \left( \frac{|D_j|}{|D|} \times \log_{2}\frac{|D_j|}{|D|} \right)}
-\end{align}
+\end{aligned}
 $$
 
-La ganancia de información es buena medida siempre que no haya un atributo con muchos valores distintos en proporciones muy distintas, ya que es sensible a valores "sobre-representrados". En esos casos conviene usar la tasa de ganancia de información.
+La ganancia de información es buena medida siempre que no haya un atributo con muchos valores distintos en proporciones muy distintas, ya que es sensible a valores "sobre-representados". En esos casos conviene usar la tasa de ganancia de información.
 
 Cambiar la función de impureza puede afectar los árboles generados.
 

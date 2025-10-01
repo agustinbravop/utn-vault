@@ -22,6 +22,6 @@ $$
 Estos agentes tienen dos características:
 
 1. **Cumplimiento de tareas**: cada comportamiento es una acción: $\text{situación} \rightarrow \text{acción}$.
-2. **Categorías de comportamiento**: dadas por la jerarquía de subsumpción.
+2. **Categorías de comportamiento**: dadas por la jerarquía de subsumpción. Los comportamientos se organizan en capas.
 
 Estos agentes son simples y tienen capacidad social pero no aprenden de la experiencia.

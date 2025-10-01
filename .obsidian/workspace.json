@@ -55,15 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Inteligencia Artificial/Agentes.md",
+                "file": "5to Nivel/Inteligencia Artificial/Árboles de Decisión.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agentes"
+              "title": "Árboles de Decisión"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5to Nivel/Inteligencia Artificial/Razonamiento.md",
+                "file": "5to Nivel/Inteligencia Artificial/Árboles de Decisión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Razonamiento"
+              "title": "Backlinks for Árboles de Decisión"
             }
           },
           {
@@ -228,9 +229,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9ff79309f563017",
+  "active": "0993ce4dcbe1a78a",
   "lastOpenFiles": [
+    "5to Nivel/Inteligencia Artificial/Sistemas Basados en Reglas.md",
+    "5to Nivel/Inteligencia Artificial/Modelo de Reglas de Asociación.md",
+    "5to Nivel/Inteligencia Artificial/Aprendizaje.md",
+    "5to Nivel/Inteligencia Artificial/Agentes Reactivos.md",
     "5to Nivel/Inteligencia Artificial/Agentes.md",
+    "5to Nivel/Inteligencia Artificial/Agentes Basados en Lógica.md",
+    "5to Nivel/Inteligencia Artificial/Razonamiento.md",
     "5to Nivel/Inteligencia Artificial/Árboles de Decisión.md",
     "5to Nivel/Inteligencia Artificial/Planning.md",
     "5to Nivel/Inteligencia Artificial/index.md",
@@ -242,8 +249,6 @@
     "5to Nivel/Inteligencia Artificial/attachments/Plan Inicial (Planning).png",
     "5to Nivel/Inteligencia Artificial/attachments/Operador STRIPS (Planning).png",
     "5to Nivel/Inteligencia Artificial/attachments/Árboles de Decisión.png",
-    "5to Nivel/Inteligencia Artificial/Aprendizaje.md",
-    "5to Nivel/Inteligencia Artificial/Modelo de Reglas de Asociación.md",
     "2do Nivel/Análisis de Sistemas de Información/Conocimiento.md",
     "2do Nivel/Análisis de Sistemas de Información/Negocio Detrás del Sistema.md",
     "2do Nivel/Análisis de Sistemas de Información/Modelado del Negocio.md",
@@ -251,14 +256,10 @@
     "2do Nivel/Análisis de Sistemas de Información/eXtreme Programing.md",
     "2do Nivel/Análisis de Sistemas de Información/Entrevista.md",
     "5to Nivel/Inteligencia Artificial/Conocimiento.md",
-    "5to Nivel/Inteligencia Artificial/Razonamiento.md",
     "5to Nivel/Inteligencia Artificial/Agentes BDI.md",
-    "5to Nivel/Inteligencia Artificial/Agentes Reactivos.md",
-    "5to Nivel/Inteligencia Artificial/Sistemas Basados en Reglas.md",
     "5to Nivel/Inteligencia Artificial/attachments/Modus Ponens y Modus Tollens.png",
     "5to Nivel/Inteligencia Artificial/attachments/Modelo de Capas (Agentes).png",
     "5to Nivel/Inteligencia Artificial/attachments/Agentes BDI.png",
-    "5to Nivel/Inteligencia Artificial/Agentes Basados en Lógica.md",
     "5to Nivel/Inteligencia Artificial/Sistemas Expertos.md",
     "5to Nivel/Inteligencia Artificial/attachments/Sistemas Expertos.png",
     "5to Nivel/Inteligencia Artificial/attachments",
