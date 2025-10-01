@@ -66,4 +66,4 @@ La ganancia de información es buena medida siempre que no haya un atributo con 
 
 Cambiar la función de impureza puede afectar los árboles generados.
 
-Un árbol de decisión construido con atributos continuos representa un particionamiento del espacio de datos.
+El algoritmo C4.5 puede operar con atributos continuos si éstos son particionados en intervalos, considerando a cada intervalo como un valor discreto. También se requieren algunas otras modificaciones al algoritmo, ya que un mismo atributo continuo podría aparecer varias veces en el mismo árbol si es que en cada nodo decisión se crean nuevos intervalos, particionando aún más al espacio de datos. Desde el punto de vista geométrico un árbol de decisión construido con atributos continuos representa un particionamiento del espacio de datos.

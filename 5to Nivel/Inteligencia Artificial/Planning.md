@@ -12,7 +12,7 @@ Hay 3 conceptos clave para evitar la **explosión combinatoria**:
 2. Libertad para añadir acciones al plan siempre que sea necesario.
 3. Divide y vencerás: generar sub-planes más sencillos.
 
-Los **objetivos** y **estados**son conjuntos de sentencias, y las **acciones** son descripciones lógicas de las pre-condiciones y post-condiciones o efectos. Así, las acciones conectan estados.
+Los **objetivos** y **estados** son conjuntos de sentencias, y las **acciones** son descripciones lógicas de las pre-condiciones y post-condiciones o efectos. Así, las acciones conectan estados.
 
 ## STRIPS
 
@@ -126,7 +126,7 @@ $$
 &\textbf{procedure } \text{Resolve-Threats}(plan) \\[6pt]
 &\qquad \textbf{for each } S_{threat} \text{ that threatens a link } S_i \xrightarrow{c} S_j \in \text{Links}(plan) \;\textbf{do} \\[6pt]
 &\qquad\qquad \textbf{choose either:} \\[6pt]
-&\qquad\qquad\qquad \text{Promotion: Add } S_{threat} \prec S \;\; \text{to } \text{Orderings}(plan) \\[6pt]
+&\qquad\qquad\qquad \text{Promotion: Add } S_{threat} \prec S_i \;\; \text{to } \text{Orderings}(plan) \\[6pt]
 &\qquad\qquad\qquad \text{Demotion: Add } S_j \prec S_{threat} \;\; \text{to } \text{Orderings}(plan) \\[6pt]
 &\qquad\qquad \textbf{if not } \text{Consistent}(plan) \;\textbf{then fail} \\[6pt]
 &\qquad \textbf{endfor} \\[6pt]
