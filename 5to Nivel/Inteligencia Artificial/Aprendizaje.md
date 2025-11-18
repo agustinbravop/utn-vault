@@ -1,6 +1,8 @@
 El **aprendizaje** es un proceso que ayuda a un sistema informático a mejorar su rendimiento en una tarea.
 
-Los modelos más básicos de [[Inteligencia Artificial]] no pueden aprender por sí mismos.
+Los modelos más básicos de [[Inteligencia Artificial]] no pueden aprender por sí mismos, sino que necesitan que una persona recopile y represente ese contenido.
+
+## Aprendizaje Supervisado
 
 El **aprendizaje automático** es una disciplina dentro de la IA que desarrolla algoritmos informáticos que evolucionan mediante experiencia y datos.
 

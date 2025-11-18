@@ -4,79 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "05c2eba7bae760ac",
+        "id": "1dff545e5aab73c9",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ff79309f563017",
+            "id": "a91b31af9e90b34d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Inteligencia Artificial/Razonamiento.md",
+                "file": "5to Nivel/Inteligencia Artificial/Algoritmos Genéticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Razonamiento"
-            }
-          },
-          {
-            "id": "60080cc46890fe84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Inteligencia Artificial/Sistemas Basados en Reglas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistemas Basados en Reglas"
-            }
-          },
-          {
-            "id": "d46cf255c764a049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Inteligencia Artificial/Aprendizaje.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aprendizaje"
-            }
-          },
-          {
-            "id": "0993ce4dcbe1a78a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Inteligencia Artificial/Planning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planning"
-            }
-          },
-          {
-            "id": "3cc347d4915c197e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Algoritmos Genéticos"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5to Nivel/Inteligencia Artificial/Planning.md",
+                "file": "5to Nivel/Inteligencia Artificial/Algoritmos Genéticos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planning"
+              "title": "Backlinks for Algoritmos Genéticos"
             }
           },
           {
@@ -241,17 +186,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3cc347d4915c197e",
+  "active": "a91b31af9e90b34d",
   "lastOpenFiles": [
-    "5to Nivel/Inteligencia Artificial/Árboles de Decisión.md",
-    "5to Nivel/Inteligencia Artificial/Sistemas Basados en Reglas.md",
-    "5to Nivel/Inteligencia Artificial/Modelo de Reglas de Asociación.md",
     "5to Nivel/Inteligencia Artificial/Aprendizaje.md",
+    "5to Nivel/Inteligencia Artificial/Algoritmos Genéticos.md",
     "5to Nivel/Inteligencia Artificial/Agentes Reactivos.md",
     "5to Nivel/Inteligencia Artificial/Agentes.md",
-    "5to Nivel/Inteligencia Artificial/Agentes Basados en Lógica.md",
     "5to Nivel/Inteligencia Artificial/Razonamiento.md",
+    "5to Nivel/Inteligencia Artificial/Sistemas Basados en Reglas.md",
+    "5to Nivel/Inteligencia Artificial/Sistemas Expertos.md",
     "5to Nivel/Inteligencia Artificial/Planning.md",
+    "5to Nivel/Inteligencia Artificial/Árboles de Decisión.md",
+    "5to Nivel/Inteligencia Artificial/Modelo de Reglas de Asociación.md",
+    "5to Nivel/Inteligencia Artificial/Agentes Basados en Lógica.md",
     "5to Nivel/Inteligencia Artificial/index.md",
     "5to Nivel/Formación de Emprendedores/index.md",
     "5to Nivel/Formación de Emprendedores/Startups.md",
@@ -272,12 +219,10 @@
     "5to Nivel/Inteligencia Artificial/attachments/Modus Ponens y Modus Tollens.png",
     "5to Nivel/Inteligencia Artificial/attachments/Modelo de Capas (Agentes).png",
     "5to Nivel/Inteligencia Artificial/attachments/Agentes BDI.png",
-    "5to Nivel/Inteligencia Artificial/Sistemas Expertos.md",
     "5to Nivel/Inteligencia Artificial/attachments/Sistemas Expertos.png",
     "5to Nivel/Inteligencia Artificial/attachments",
     "5to Nivel/Inteligencia Artificial/Inteligencia Artificial.md",
     "4to Nivel/Agilidad Avanzada/index.md",
-    "4to Nivel/Agilidad Avanzada/Ikigai.md",
     "5to Nivel/Inteligencia Artificial",
     "5to Nivel/Formación de Emprendedores",
     "vault.zip",
