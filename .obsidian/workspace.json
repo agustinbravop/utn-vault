@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Planning"
             }
+          },
+          {
+            "id": "3cc347d4915c197e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,7 +241,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0993ce4dcbe1a78a",
+  "active": "3cc347d4915c197e",
   "lastOpenFiles": [
     "5to Nivel/Inteligencia Artificial/Árboles de Decisión.md",
     "5to Nivel/Inteligencia Artificial/Sistemas Basados en Reglas.md",
