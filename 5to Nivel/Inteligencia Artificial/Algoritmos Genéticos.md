@@ -70,3 +70,15 @@ El aporte de cada padre depende de una probabilidad dada, que es $p$ para el pri
 
 ## Mutación
 
+Se usa para mantener la *diversidad* de la población. Se asocia una probabilidad de mutación muy baja a cada individuo el cual, dada la situación, cambiará un elemento de su estructura. Esta probabilidad se puede mantener constante o utilizar alguna técnica.
+
+### Mutación Adaptativa por Convergencia
+
+La probabilidad varía en función a la diversidad de la población. A menor diversidad, mayor probabilidad de mutación.
+
+### Mutación Adaptativa por Temperatura
+
+Simplemente mide el tiempo transcurrido (o la cantidad de generaciones). Puede ser:
+
+- **Ascendente**: parte de una probabilidad mínima y en cada iteración se le suma un factor hasta llegar a una probabilidad máxima.
+- **Descendiente**: parte desde la probabilidad máxima y va hacia la mínima. Esto aumenta la exploración inicial del espacio de soluciones.

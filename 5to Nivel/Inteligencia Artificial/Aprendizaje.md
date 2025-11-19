@@ -41,6 +41,6 @@ $$\text{Accuracy} = \frac{\text{Correct predictions}}{\text{All predictions}}$$
 
 Se dice que el entrenamiento de este modelo es offline porque el modelo no aprende durante su funcionamiento normal.
 
-Ejemplos de modelos con aprendizaje:
+## Aprendizaje No Supervisado
 
-- [[Árboles de Decisión]].
+En algunos casos, los datos no están etiquetados y el usuario necesita explorar los datos para encontrar **estructuras intrínsecas** (patrones) en ellos. Esto se considera **aprendizaje no supervisado**. [[Clustering]] es la técnica más común para identificar esos patrones.
