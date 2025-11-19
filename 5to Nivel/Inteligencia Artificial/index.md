@@ -2,6 +2,8 @@
 title: Inteligencia Artificial
 ---
 
+![[MOC - Inteligencia Artificial.png]]
+
 Asignatura: Inteligencia Artificial. \
 Ciclo Lectivo: 2025.
 

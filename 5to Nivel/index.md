@@ -6,7 +6,7 @@ Materias obligatorias:
 
 1. Ciencia de Datos.
 2. Gestión Gerencial.
-3. Inteligencia Artificial.
+3. [[5to Nivel/Inteligencia Artificial/index|Inteligencia Artificial]].
 4. Proyecto Final.
 5. Seguridad en los Sistemas de Información.
 6. Sistemas de Gestión.
