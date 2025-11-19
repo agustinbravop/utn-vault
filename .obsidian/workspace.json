@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Algoritmos Genéticos"
             }
+          },
+          {
+            "id": "ea5f5b84f4b10521",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +199,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a91b31af9e90b34d",
+  "active": "ea5f5b84f4b10521",
   "lastOpenFiles": [
+    "5to Nivel/Inteligencia Artificial/attachments/Cruce Multipunto.png",
+    "5to Nivel/Inteligencia Artificial/attachments/Cruce Simple.png",
+    "5to Nivel/Inteligencia Artificial/attachments/Algoritmos Genéticos.png",
     "5to Nivel/Inteligencia Artificial/Aprendizaje.md",
     "5to Nivel/Inteligencia Artificial/Algoritmos Genéticos.md",
     "5to Nivel/Inteligencia Artificial/Agentes Reactivos.md",
@@ -222,15 +238,12 @@
     "5to Nivel/Inteligencia Artificial/attachments/Sistemas Expertos.png",
     "5to Nivel/Inteligencia Artificial/attachments",
     "5to Nivel/Inteligencia Artificial/Inteligencia Artificial.md",
-    "4to Nivel/Agilidad Avanzada/index.md",
     "5to Nivel/Inteligencia Artificial",
     "5to Nivel/Formación de Emprendedores",
     "vault.zip",
     "1er Nivel.zip",
-    "2do Nivel/Sintaxis y Semántica de los Lenguajes/attachments/MOC Sintaxis y Semántica de los Lenguajes.png",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/MOC Sintaxis y Semántica de los Lenguajes.canvas",
     "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",
-    "2do Nivel/Sintaxis y Semántica de los Lenguajes/attachments/Máquinas de Turing.png",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/attachments",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes",
     "3er Nivel/Economía/MOC Economía.canvas",
