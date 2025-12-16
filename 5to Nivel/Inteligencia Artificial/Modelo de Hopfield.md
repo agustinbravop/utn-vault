@@ -69,4 +69,4 @@ Se observa que este modelo es ineficiente: requiere muchas neuronas para almacen
 
 Esto no garantiza obtener una salida correcta estable si los patrones no son lo suficientemente diferentes entre sí. Para ello surge la **ortogonalidad**: se recomienda que la diferencia entre patrones sea al menos del 50%, calculada como:
 
-$$\sum_{i=1}^N e^{(k)}_i \cdot e^{(k)}_i \le 0 \ \ \ \ \ \ \forall \ k \ne m$$
+$$\sum_{i=1}^N e^{(k)}_i \cdot e^{(m)}_i \le 0 \ \ \ \ \ \ \forall \ k \ne m$$

@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "5to Nivel/Inteligencia Artificial/Modelo de Hopfield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Modelo de Hopfield"
             }
           }
         ],
@@ -302,6 +302,7 @@
   },
   "active": "7f4eb56883200694",
   "lastOpenFiles": [
+    "index.md",
     "5to Nivel/Inteligencia Artificial/index.md",
     "5to Nivel/index.md",
     "5to Nivel/Inteligencia Artificial/attachments/MOC - Inteligencia Artificial.png",
@@ -339,7 +340,6 @@
     "5to Nivel/Inteligencia Artificial/Modelo de Reglas de Asociación.md",
     "5to Nivel/Inteligencia Artificial/Agentes Basados en Lógica.md",
     "5to Nivel/Formación de Emprendedores/index.md",
-    "5to Nivel/Formación de Emprendedores/Startups.md",
     "5to Nivel/Inteligencia Artificial/attachments",
     "5to Nivel/Inteligencia Artificial",
     "5to Nivel/Formación de Emprendedores",
