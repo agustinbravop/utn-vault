@@ -132,9 +132,21 @@
               "icon": "lucide-file",
               "title": "Modelo de Hopfield"
             }
+          },
+          {
+            "id": "efa30560e58273df",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -300,7 +312,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f4eb56883200694",
+  "active": "efa30560e58273df",
   "lastOpenFiles": [
     "index.md",
     "5to Nivel/Inteligencia Artificial/index.md",
