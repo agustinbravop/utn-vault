@@ -137,12 +137,14 @@
             "id": "efa30560e58273df",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "5to Nivel/Formación de Emprendedores/Oportunidades de Negocio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Oportunidades de Negocio"
             }
           }
         ],
@@ -314,6 +316,10 @@
   },
   "active": "efa30560e58273df",
   "lastOpenFiles": [
+    "5to Nivel/Formación de Emprendedores/Startups.md",
+    "5to Nivel/Formación de Emprendedores/Actitudes y Aptitudes del Emprendedor.md",
+    "5to Nivel/Formación de Emprendedores/Emprendimiento.md",
+    "5to Nivel/Formación de Emprendedores/Oportunidades de Negocio.md",
     "index.md",
     "5to Nivel/Inteligencia Artificial/index.md",
     "5to Nivel/index.md",
@@ -348,10 +354,6 @@
     "5to Nivel/Inteligencia Artificial/Sistemas Basados en Reglas.md",
     "5to Nivel/Inteligencia Artificial/Sistemas Expertos.md",
     "5to Nivel/Inteligencia Artificial/Planning.md",
-    "5to Nivel/Inteligencia Artificial/Árboles de Decisión.md",
-    "5to Nivel/Inteligencia Artificial/Modelo de Reglas de Asociación.md",
-    "5to Nivel/Inteligencia Artificial/Agentes Basados en Lógica.md",
-    "5to Nivel/Formación de Emprendedores/index.md",
     "5to Nivel/Inteligencia Artificial/attachments",
     "5to Nivel/Inteligencia Artificial",
     "5to Nivel/Formación de Emprendedores",
