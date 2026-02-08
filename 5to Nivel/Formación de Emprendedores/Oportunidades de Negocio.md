@@ -1,4 +1,4 @@
-Las *ideas de negocio* se transforman en *oportunidades* de negocio cuando satisfacen una necesidad del cliente o nos diferencian de los demás competidores.
+Las *ideas de negocio* surgen de la innovación y se transforman en *oportunidades* de negocio cuando satisfacen una necesidad del cliente o nos diferencian de los demás competidores.
 
 ## Innovación
 
@@ -42,3 +42,21 @@ Habilidades de un innovador:
 - Confianza.
 
 El proceso de innovación es 1% inspiración y 99% transpiración.
+
+## Ideas de Negocio
+
+Una idea de negocio es una descripción corta y específica de lo que será un negocio. Hay que encontrar un enfoque diferente o un concepto que todavía no haya sido explotado en el mercado. Tenemos que diferenciarnos de los demás.
+
+Para que la idea sea también una oportunidad, debe:
+
+1. Satisfacer una necesidad.
+2. Diferenciarse de los demás.
+3. Crear valor para el cliente.
+
+Técnicas para generar ideas:
+
+- **Racional**: anotar necesidades insatisfechas y analizar soluciones.
+- **Brainstorming**: reunirse en grupo, definir un objetivo, y establecer tiempo límite.
+- **Asociación forzosa**: pensar en un producto ya existente, escribir palabras al azar, y asociar las palabras al producto.
+
+Para elegir una idea de negocio, hay que evaluarlas  a todas según ciertos criterios. Elegimos la mejor y planificamos su implementación.
