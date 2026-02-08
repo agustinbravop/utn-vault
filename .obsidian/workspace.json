@@ -13,26 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Formación de Emprendedores/Actitudes y Aptitudes del Emprendedor.md",
+                "file": "5to Nivel/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actitudes y Aptitudes del Emprendedor"
+              "title": "index"
             }
           },
           {
-            "id": "cf3b056c76b64631",
+            "id": "4c8abaa0fb5cbc15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "4to Nivel/Agilidad Avanzada/Business Model Canvas.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.7"
               },
-              "icon": "lucide-file",
-              "title": "Business Model Canvas"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ],
@@ -202,13 +200,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf3b056c76b64631",
+  "active": "4c8abaa0fb5cbc15",
   "lastOpenFiles": [
-    "5to Nivel/Formación de Emprendedores/Elevator Pitch.md",
+    "5to Nivel/Formación de Emprendedores/MOC - Formación de Emprendedores.canvas",
     "5to Nivel/Formación de Emprendedores/Startups.md",
-    "4to Nivel/Agilidad Avanzada/Business Model Canvas.md",
-    "4to Nivel/Agilidad Avanzada/Customer Journey Map.md",
+    "5to Nivel/Formación de Emprendedores/index.md",
     "5to Nivel/Formación de Emprendedores/Actitudes y Aptitudes del Emprendedor.md",
+    "4to Nivel/Agilidad Avanzada/Business Model Canvas.md",
+    "5to Nivel/Formación de Emprendedores/Elevator Pitch.md",
+    "4to Nivel/Agilidad Avanzada/Customer Journey Map.md",
     "5to Nivel/Formación de Emprendedores/Business Model Canvas.md",
     "5to Nivel/Formación de Emprendedores/Propiedad Intelectual.md",
     "5to Nivel/Formación de Emprendedores/Oportunidades de Negocio.md",
@@ -234,14 +234,12 @@
     "desktop.ini",
     "5to Nivel/Inteligencia Artificial/attachments/Self-Organizing Maps.png",
     "5to Nivel/Inteligencia Artificial/attachments/Modelo de Hopfield.png",
-    "5to Nivel/Inteligencia Artificial/Perceptrón Multicapa.md",
     "5to Nivel/Inteligencia Artificial/attachments/ADALINE.png",
     "5to Nivel/Inteligencia Artificial/attachments/Perceptrón.png",
     "5to Nivel/Inteligencia Artificial/attachments/Redes Neuronales.png",
     "5to Nivel/Inteligencia Artificial/attachments/Cruce Multipunto.png",
     "5to Nivel/Inteligencia Artificial/attachments/Cruce Simple.png",
     "5to Nivel/Inteligencia Artificial/attachments/Algoritmos Genéticos.png",
-    "5to Nivel/Inteligencia Artificial/Agentes Reactivos.md",
     "5to Nivel/Inteligencia Artificial/attachments",
     "5to Nivel/Inteligencia Artificial",
     "5to Nivel/Formación de Emprendedores",
@@ -258,7 +256,6 @@
     "4to Nivel/Agilidad Avanzada/MOC Agilidad Avanzada.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
     "4to Nivel/Sistemas de Información Geográficos/MOC Sistemas de Información Geográficos.canvas",
-    "4to Nivel/Tecnologías para la Automatización/MOC Tecnologías para la Automatización.canvas",
-    "3er Nivel/Diseño de Sistemas de Información/MOC Diseño de Sistemas de Información.canvas"
+    "4to Nivel/Tecnologías para la Automatización/MOC Tecnologías para la Automatización.canvas"
   ]
 }

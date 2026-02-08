@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6391f81395c5cb67","x":-840,"y":-1200,"width":400,"height":400,"type":"file","file":"5to Nivel/Formación de Emprendedores/Actitudes y Aptitudes del Emprendedor.md"},
+		{"id":"e63b13863bfa8fe9","x":-840,"y":-680,"width":400,"height":400,"type":"file","file":"5to Nivel/Formación de Emprendedores/Elevator Pitch.md"},
+		{"id":"6e1ee833dd4cc760","x":-320,"y":-1200,"width":400,"height":400,"type":"file","file":"5to Nivel/Formación de Emprendedores/Startups.md"},
+		{"id":"b4362488dd3a902d","x":-320,"y":-680,"width":400,"height":400,"type":"file","file":"5to Nivel/Formación de Emprendedores/Oportunidades de Negocio.md"},
+		{"id":"25957d55de6193a7","x":200,"y":-1200,"width":400,"height":400,"type":"file","file":"5to Nivel/Formación de Emprendedores/Propiedad Intelectual.md"}
+	],
+	"edges":[
+		{"id":"911ebdb60d8e97db","fromNode":"6391f81395c5cb67","fromSide":"bottom","toNode":"e63b13863bfa8fe9","toSide":"top"},
+		{"id":"0a914a2eb9f0b1d8","fromNode":"6e1ee833dd4cc760","fromSide":"bottom","toNode":"b4362488dd3a902d","toSide":"top"}
+	]
+}
