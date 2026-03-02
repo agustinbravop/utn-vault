@@ -17,5 +17,5 @@ Materias electivas (un mínimo de 10 horas cátedra semanales):
 2. Aspectos Avanzados de Redes de Información (3 hs).
 3. Auditoría e Informática Forense (4 hs).
 4. DevOps - Cultura, Herramientas y Procesos (4 hs).
-5. Formación de Emprendedores (4 hs).
+5. [[5to Nivel/Formación de Emprendedores/index|Formación de Emprendedores]] (4 hs).
 6. Fundamentos de Ciberseguridad (3 hs).
