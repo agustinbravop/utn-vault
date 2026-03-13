@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Sistemas para Soporte de Decisiones"
             }
-          },
-          {
-            "id": "e59198dac9f3b2af",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e59198dac9f3b2af",
+  "active": "a6846668fc3e6608",
   "lastOpenFiles": [
     "5to Nivel/Sistemas de Gestión/index.md",
     "5to Nivel/Sistemas de Gestión/Sistemas para Soporte de Decisiones.md",

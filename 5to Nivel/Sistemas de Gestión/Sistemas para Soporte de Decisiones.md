@@ -1,3 +1,3 @@
 Los **sistemas para soporte de decisiones** (DSS) son marcos de información que respaldan las actividades de toma de decisiones empresariales u organizativas. Son [[1er Nivel/Sistemas y Procesos de Negocio/Sistemas de Información|Sistemas de Información]] que consideran las variables del **mercado** y la situación de la **empresa**.
 
-Un DSS aborda todos los niveles de la organización con el objetivo de ayudar a líderes y empleados a tomar decisiones sobre problemas cambiantes.
+Un DSS aborda todos los niveles de la organización con el objetivo de ayudar a líderes y empleados a tomar decisiones sobre problemas cambiante111s.
