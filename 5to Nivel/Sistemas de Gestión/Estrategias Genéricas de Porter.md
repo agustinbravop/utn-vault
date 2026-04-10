@@ -13,6 +13,13 @@ El análisis USP (Unique Selling Proposition) es un proceso de cuatro pasos:
 3. Analizar en qué criterios ganamos.
 4. Vigilar la USP a medida que la competencia evoluciona.
 
-La *ventaja competitiva* es la única protección contra la competencia a la que puede aspirar una empresa. Se logra mediante una [[Estrategia Competitiva]].
+La _ventaja competitiva_ es la única protección contra la competencia a la que puede aspirar una empresa. Se logra mediante una [[Estrategia Competitiva]].
 
 ![[Estrategia según Mintzberg.png]]
+
+La resistencia al cambio puede frenar la ejecución de la estrategia. Se da en 4 **barreras organizacionales**:
+
+1. Barrera de la percepción.
+2. Barrera de recursos.
+3. Barrera de la motivación.
+4. Barrera política.

@@ -3,6 +3,6 @@
 Existe clustering:
 
 - **Particional**: genera clusters mutuamente excluyentes. Ejemplo: [[K-means]].
-- **Jerárquico**: el [[Clustering Jerárquico]]  agrupa mediante una secuencia anidada de clusters.
+- **Jerárquico**: el [[Clustering Jerárquico]] agrupa mediante una secuencia anidada de clusters.
 
 El clustering necesita una **función de similaridad** o **distancia**.

@@ -1,4 +1,4 @@
-La **estrategia** es una forma de ganar. Es un pensamiento disciplinado que exige tomar decisiones difíciles y que todo se resume en *ganar*.
+La **estrategia** es una forma de ganar. Es un pensamiento disciplinado que exige tomar decisiones difíciles y que todo se resume en _ganar_.
 
 Es un conjunto coordinado e integrado de decisiones sobre dónde jugar, cómo ganar, sobre cuál es la capacidad esencial y el sistema de gestión, destinadas a satisfacer las necesidades de un consumidor, creando una ventaja competitiva y aumentando el valor para el negocio.
 

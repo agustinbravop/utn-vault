@@ -1,6 +1,7 @@
 ---
 title: Formación de Emprendedores
 ---
+
 ![[MOC - Formación de Emprendedores.png]]
 
 Asignatura: Formación de Emprendedores. \

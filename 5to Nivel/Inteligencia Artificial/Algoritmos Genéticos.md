@@ -1,4 +1,4 @@
-Estos algoritmos de [[Inteligencia Artificial]] están inspirados en la naturaleza (son *bio-inspirados*).
+Estos algoritmos de [[Inteligencia Artificial]] están inspirados en la naturaleza (son _bio-inspirados_).
 
 Un algoritmo genético simula la evolución de una **pobación** de individuos mediante un proceso iterativo aplicado sobre un conjunto de estructuras. Cada estructura posee características que definen la **aptitud** del individuo. La aptitud es una medida de cuán buena es la solución que el individuo ofrece para el problema.
 
@@ -19,7 +19,7 @@ Algoritmo:
 
 ## Selección
 
-Los individuos elegidos aportarán sus *genes* a la generación siguiente. Es conveniente elegir a los mejores individuos según su aptitud. Hay dos tipos de métodos:
+Los individuos elegidos aportarán sus _genes_ a la generación siguiente. Es conveniente elegir a los mejores individuos según su aptitud. Hay dos tipos de métodos:
 
 - **Métodos proporcionales**.
 - **Métodos basados en orden**.
@@ -50,7 +50,7 @@ Donde $R_\text{min}$ es el número mínimo de copias, $n$ es la cantidad de indi
 
 ## Cruce
 
-La población tiene un **tamaño fijo** y se usa el operador de cruce para contribuir a la diversidad de la población. El cruce se realiza sobre pares de estructuras padres para *intercambiar sus genes* y obtener nuevas estructuras hijas.
+La población tiene un **tamaño fijo** y se usa el operador de cruce para contribuir a la diversidad de la población. El cruce se realiza sobre pares de estructuras padres para _intercambiar sus genes_ y obtener nuevas estructuras hijas.
 
 ### Cruce Simple
 
@@ -70,7 +70,7 @@ El aporte de cada padre depende de una probabilidad dada, que es $p$ para el pri
 
 ## Mutación
 
-Se usa para mantener la *diversidad* de la población. Se asocia una probabilidad de mutación muy baja a cada individuo el cual, dada la situación, cambiará un elemento de su estructura. Esta probabilidad se puede mantener constante o utilizar alguna técnica.
+Se usa para mantener la _diversidad_ de la población. Se asocia una probabilidad de mutación muy baja a cada individuo el cual, dada la situación, cambiará un elemento de su estructura. Esta probabilidad se puede mantener constante o utilizar alguna técnica.
 
 ### Mutación Adaptativa por Convergencia
 

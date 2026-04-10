@@ -26,8 +26,8 @@ Hay diversos métodos para determinar la **distancia** entre dos clusters:
 
 - **Single-Link**: la distancia más cercana entre dos puntos de dos clusters.
 - **Complete-Link**: callcular todas las distancias máximas y elegir la mínima.
-- **Average**-Link****: promedia las otras dos distancias.
+- **Average**-Link\*\*\*\*: promedia las otras dos distancias.
 
-Single-Link puede sufrir el *chain effect*, mientras que Complete-Link es susceptible a outliers. 
+Single-Link puede sufrir el _chain effect_, mientras que Complete-Link es susceptible a outliers.
 
 Este algoritmo es computacionalmente complejo y escala mal a enormes volúmenes de datos, pero tiende a dar mejores resultados que el algoritmo [[K-means]].

@@ -92,6 +92,202 @@
             }
           },
           {
+            "id": "9c2c2d10c1248958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Sistemas de Gestión/Procesos y Modelos de Decisión.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Procesos y Modelos de Decisión"
+            }
+          },
+          {
+            "id": "6e82603250c73213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Sistemas de Gestión/Groupthinking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Groupthinking"
+            }
+          },
+          {
+            "id": "9ae24dc10721c1c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Sistemas de Gestión/Economía Colaborativa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Economía Colaborativa"
+            }
+          },
+          {
+            "id": "d850b7718f0bb819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Sistemas de Gestión/Cuadro de Mando Integral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cuadro de Mando Integral"
+            }
+          },
+          {
+            "id": "16834a77ecec51af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Sistemas de Gestión/Teoría de los Recursos y las Capacidades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teoría de los Recursos y las Capacidades"
+            }
+          },
+          {
+            "id": "ceab88f5d69f69ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Sistemas de Gestión/Diseño Organizacional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diseño Organizacional"
+            }
+          },
+          {
+            "id": "3d3d34ee8f122a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Sistemas de Gestión/Business Process Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business Process Management"
+            }
+          },
+          {
+            "id": "979146adc4efb451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Sistemas de Gestión/Estrategias de Crecimiento y Creación de Nuevas Empresas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estrategias de Crecimiento y Creación de Nuevas Empresas"
+            }
+          },
+          {
+            "id": "309d5d125e328a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Sistemas de Gestión/Gestión de la Complejidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestión de la Complejidad"
+            }
+          },
+          {
+            "id": "3a381f41f8e286e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Sistemas de Gestión/Gestión de Desempeño de Procesos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestión de Desempeño de Procesos"
+            }
+          },
+          {
+            "id": "a9d7a78a3d36bfe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Gestión Gerencial/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "f4ac56ab126a7795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Gestión Gerencial/Gestión Gerencial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestión Gerencial"
+            }
+          },
+          {
+            "id": "a1dff55a835454ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Gestión Gerencial/Liderazgo Gerencial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liderazgo Gerencial"
+            }
+          },
+          {
+            "id": "2f35870418b7b309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Gestión Gerencial/Punto de Equilibrio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Punto de Equilibrio"
+            }
+          },
+          {
             "id": "47e3284d394c1133",
             "type": "leaf",
             "state": {
@@ -106,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -272,50 +468,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90d9b0d22608de48",
+  "active": "2f35870418b7b309",
   "lastOpenFiles": [
-    "5to Nivel/Sistemas de Gestión/attachments/Estrategia según Mintzberg.png",
-    "5to Nivel/Sistemas de Gestión/attachments/Estrategias Genéricas de Porter.png",
-    "5to Nivel/Sistemas de Gestión/Océano Azul.md",
+    "5to Nivel/Gestión Gerencial/Liderazgo Gerencial.md",
+    "5to Nivel/Gestión Gerencial/Punto de Equilibrio.md",
+    "5to Nivel/Gestión Gerencial/Gestión Gerencial.md",
+    "5to Nivel/Gestión Gerencial/index.md",
+    "5to Nivel/Sistemas de Gestión/index.md",
+    "index.md",
+    "5to Nivel/Gestión Gerencial",
+    "5to Nivel/index.md",
+    "5to Nivel/Sistemas de Gestión/attachments/MOC - Sistemas de Gestión.png",
+    "5to Nivel/Sistemas de Gestión/MOC - Sistemas de Gestión.canvas",
+    "5to Nivel/Sistemas de Gestión/Estrategia Competitiva.md",
+    "5to Nivel/Sistemas de Gestión/Sistemas de Gestión.md",
+    "5to Nivel/Sistemas de Gestión/Gestión de Desempeño de Procesos.md",
+    "5to Nivel/Sistemas de Gestión/Cuadro de Mando Integral.md",
+    "5to Nivel/Sistemas de Gestión/Inteligencia Empresarial.md",
+    "5to Nivel/Sistemas de Gestión/attachments/Factores Claves de Éxito.png",
+    "5to Nivel/Sistemas de Gestión/Gestión de la Complejidad.md",
+    "5to Nivel/Sistemas de Gestión/attachments/Marco de Trabajo CYNEFIN.png",
+    "5to Nivel/Sistemas de Gestión/attachments/Matriz de Stacey.png",
+    "5to Nivel/Sistemas de Gestión/Estrategias de Crecimiento y Creación de Nuevas Empresas.md",
+    "5to Nivel/Sistemas de Gestión/Business Process Management.md",
+    "5to Nivel/Sistemas de Gestión/attachments/Coreografía-1.png",
+    "5to Nivel/Sistemas de Gestión/attachments/Colaboración.png",
+    "5to Nivel/Sistemas de Gestión/attachments/Diagrama de Proceso.png",
+    "5to Nivel/Sistemas de Gestión/attachments/Business Process Management.png",
+    "5to Nivel/Sistemas de Gestión/Diseño Organizacional.md",
+    "5to Nivel/Sistemas de Gestión/Teoría de los Recursos y las Capacidades.md",
+    "5to Nivel/Sistemas de Gestión/attachments/Teoría de los Recursos y las Capacidades.png",
+    "5to Nivel/Sistemas de Gestión/attachments/Mapa Estratégico de Ejemplo.png",
+    "5to Nivel/Sistemas de Gestión/Economía Colaborativa.md",
+    "5to Nivel/Sistemas de Gestión/Groupthinking.md",
+    "5to Nivel/Sistemas de Gestión/Procesos y Modelos de Decisión.md",
     "5to Nivel/Sistemas de Gestión/Estrategias Genéricas de Porter.md",
-    "5to Nivel/Sistemas de Gestión/attachments/Estrategia del Océano Azul.png",
-    "5to Nivel/Sistemas de Gestión/attachments/Océano Azul.png",
+    "5to Nivel/Sistemas de Gestión/Océano Azul.md",
     "5to Nivel/Sistemas de Gestión/Las 5 Fuerzas de Porter.md",
     "5to Nivel/Sistemas de Gestión/nuevos mercados.md",
-    "5to Nivel/Sistemas de Gestión/Estrategia Competitiva.md",
-    "5to Nivel/Sistemas de Gestión/attachments/Análisis Estratégico.png",
-    "5to Nivel/Sistemas de Gestión/attachments/Tipologías del Entorno.png",
     "5to Nivel/Sistemas de Gestión/attachments",
-    "5to Nivel/Sistemas de Gestión/index.md",
     "5to Nivel/Sistemas de Gestión/Sistemas para Soporte de Decisiones.md",
-    "5to Nivel/Sistemas de Gestión/Inteligencia Empresarial.md",
-    "5to Nivel/index.md",
     "5to Nivel/Formación de Emprendedores/index.md",
-    "5to Nivel/Formación de Emprendedores/attachments/MOC - Formación de Emprendedores 1.png",
-    "5to Nivel/Formación de Emprendedores/attachments/MOC - Formación de Emprendedores.png",
     "5to Nivel/Formación de Emprendedores/attachments",
     "5to Nivel/Formación de Emprendedores/MOC - Formación de Emprendedores.canvas",
-    "5to Nivel/Inteligencia Artificial/index.md",
     "5to Nivel/Sistemas de Gestión",
-    "5to Nivel/Formación de Emprendedores/Startups.md",
-    "5to Nivel/Formación de Emprendedores/Actitudes y Aptitudes del Emprendedor.md",
-    "4to Nivel/Agilidad Avanzada/Business Model Canvas.md",
-    "5to Nivel/Formación de Emprendedores/Elevator Pitch.md",
-    "4to Nivel/Agilidad Avanzada/Customer Journey Map.md",
-    "5to Nivel/Formación de Emprendedores/Business Model Canvas.md",
-    "5to Nivel/Formación de Emprendedores/Propiedad Intelectual.md",
-    "5to Nivel/Formación de Emprendedores/Oportunidades de Negocio.md",
-    "5to Nivel/Inteligencia Artificial/Algoritmos Genéticos.md",
-    "5to Nivel/Inteligencia Artificial/Sistemas Basados en Probabilidades.md",
-    "5to Nivel/Inteligencia Artificial/Redes Neuronales.md",
-    "5to Nivel/Inteligencia Artificial/Perceptrón.md",
-    "5to Nivel/Inteligencia Artificial/Aprendizaje.md",
-    "5to Nivel/Inteligencia Artificial/Modelo de Hopfield.md",
-    "5to Nivel/Inteligencia Artificial/attachments/MOC - Inteligencia Artificial.png",
     "5to Nivel/Inteligencia Artificial/MOC - Inteligencia Artificial.canvas",
-    "5to Nivel/Inteligencia Artificial/attachments/Clustering Jerárquico.png",
     "desktop.ini",
-    "5to Nivel/Inteligencia Artificial/attachments/Self-Organizing Maps.png",
     "5to Nivel/Inteligencia Artificial/attachments",
     "5to Nivel/Inteligencia Artificial",
     "5to Nivel/Formación de Emprendedores",
@@ -323,12 +521,10 @@
     "1er Nivel.zip",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/MOC Sintaxis y Semántica de los Lenguajes.canvas",
     "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",
-    "2do Nivel/Sintaxis y Semántica de los Lenguajes/attachments",
     "3er Nivel/Economía/MOC Economía.canvas",
     "3er Nivel/Planificación/MOC Planificación.canvas",
     "4to Nivel/Agilidad Avanzada/MOC Agilidad Avanzada.canvas",
     "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Sistemas de Información Geográficos/MOC Sistemas de Información Geográficos.canvas",
-    "4to Nivel/Tecnologías para la Automatización/MOC Tecnologías para la Automatización.canvas"
+    "4to Nivel/Sistemas de Información Geográficos/MOC Sistemas de Información Geográficos.canvas"
   ]
 }

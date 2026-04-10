@@ -32,11 +32,11 @@ La **propuesta de valor** es una afirmación de cómo nuestro producto o servici
 - ¿Qué beneficios tiene para el cliente?
 - ¿Qué nos diferencia de nuestros competidores?
 
-El cliente tiene tareas, dolores y ganancias a los que responder. Descubrir clientes nos permite mejorar el producto. Los *early adopters* son personas que ya necesitan nuestra solución, y colaborarían con nosotros para ayudar a construirla.
+El cliente tiene tareas, dolores y ganancias a los que responder. Descubrir clientes nos permite mejorar el producto. Los _early adopters_ son personas que ya necesitan nuestra solución, y colaborarían con nosotros para ayudar a construirla.
 
 ## Análisis del Mercado y de la Competencia
 
-Debemos conocer nuestro contexto. La *competencia* son aquellas empresas que comercializan productos que podrían atacar nuestro mismo segmento de mercado. Se puede analizar empresa a empresa, producto a producto. Se puede pedir opiniones a referentes.
+Debemos conocer nuestro contexto. La _competencia_ son aquellas empresas que comercializan productos que podrían atacar nuestro mismo segmento de mercado. Se puede analizar empresa a empresa, producto a producto. Se puede pedir opiniones a referentes.
 
 Este análisis ayuda a ponerle un precio al producto. El **precio** se define en función del valor que el cliente percibe en nuestro producto, y debe darnos suficiente margen como para sostener nuestros costos.
 

@@ -11,17 +11,21 @@ La influencia que ejerce una neurona sobre las demás es función de la **distan
 
 Cuando se presenta una información:
 
-$$\begin{align}
+$$
+\begin{align}
 E_k &= \left(e^{(k)}_1, \dots, e^{(k)}_N \right) \\
 s_j (t+1) &= f\left(\underbrace{\sum^N_{i=1} w_{ji} \cdot e_i^{(k)}}_\text{net} + \underbrace{\sum^M_{i=1} Int_{pj} \cdot s_p(t)}_\text{interacciones} \right)
-\end{align}$$
+\end{align}
+$$
 
 El entrenamiento tiene dos fases:
 
 1. **Competencia**: consiste en activar una sola **neurona ganadora**, aquella que tenga sus pesos más parecidos a la entrada.
 
-$$s_j = \begin{cases}1 & \min ||E_k-W_j|| = \min \left( \sqrt{\sum^N_{i=1} \left(w_{ji} - e^{(k)}_i\right)^2}\right) \\
-0 & \text{el resto de neuronas} \end{cases}$$
+$$
+s_j = \begin{cases}1 & \min ||E_k-W_j|| = \min \left( \sqrt{\sum^N_{i=1} \left(w_{ji} - e^{(k)}_i\right)^2}\right) \\
+0 & \text{el resto de neuronas} \end{cases}
+$$
 
 2. **Colaboración**: se adaptan los pesos de la neurona ganadora y los pesos de las neuronas más cercanas a ellas.
 
@@ -45,6 +49,6 @@ Siendo $h_{ji}(t) = e^{\frac{-d_{ji}^2}{2\sigma^2(t)}}$ la **función de vecinda
 
 La función de vecindad representa la influencia lateral entre neuronas de salida. Es común usar la función o distribución gaussiana. También se puede usar vecindad nula (implica un modelo sin cooperación).
 
-Gráficamente, los pesos del SOM se van acercando al os patrones presentados conforme avanza el entrenamiento de la red. 
+Gráficamente, los pesos del SOM se van acercando al os patrones presentados conforme avanza el entrenamiento de la red.
 
 Una vez entrenada la red, ya no se usa la fase de cooperación. El SOM agrupa cada patrón nuevo en uno de los grupos ya formados durante el [[5to Nivel/Inteligencia Artificial/Aprendizaje|Aprendizaje]]. No se trata de clasificación sino de **agrupamiento**.

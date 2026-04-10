@@ -1,4 +1,4 @@
-K-means es uno de los mejores algoritmos de [[Clustering]] particional. 
+K-means es uno de los mejores algoritmos de [[Clustering]] particional.
 
 Dado un conjunto de puntos y un número $k$ de clusters a identificar, el algoritmo particiona iterativamente el conjunto de puntos. Sea el conjunto de puntos o **instancias** $D=\set{\bf x_1, \bf x_2, \dots, \bf x_n}$ donde $\bf x_i$ es un vector en un **espacio euclidiano** y $r$ es el número de atributos de la instancia o dimensiones del espacio, tal que $\bf x_i=(x_{i1}, x_{i2}, \dots, x_{ir})$. El **centroide** de un cluster es la media de todos los puntos del cluster.
 
@@ -16,10 +16,12 @@ $$\bf m_j = \frac{1}{|C_j|}\sum _{\bf x_i \in C_j}\bf x_i$$
 
 La **distancia** de cada dato al centroide se calcula como:
 
-$$\begin{align}
+$$
+\begin{align}
 \text{dist}(\bf x_i, \bf m_i) &= ||\bf x_i - \bf m_j|| \\
 &= \sqrt{(x_{i1} - m_{j1})^2 + \dots (x_{ir} - m_{jr})^2}
-\end{align}$$
+\end{align}
+$$
 
 ## Algoritmo
 
@@ -39,7 +41,7 @@ $$
 
 La bibliografía recomienda ejecutar el algoritmo con al menos 500 iteraciones.
 
-Existe una variante *k-modes* (usa modas en lugar de medias) para casos en los que no se pueda usar la media. La media también es sensible a los **outliers**.
+Existe una variante _k-modes_ (usa modas en lugar de medias) para casos en los que no se pueda usar la media. La media también es sensible a los **outliers**.
 
 Elegir las **semillas** o centroides iniciales de manera aleatoria puede distorsionar negativamente los clusters que el modelo creará (similar a encerrarlo en mínimos locales). Una heurística simple consiste en:
 

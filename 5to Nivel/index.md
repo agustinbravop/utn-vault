@@ -9,7 +9,7 @@ Materias obligatorias:
 3. [[5to Nivel/Inteligencia Artificial/index|Inteligencia Artificial]].
 4. Proyecto Final.
 5. Seguridad en los Sistemas de Información.
-6. Sistemas de Gestión.
+6. [[5to Nivel/Sistemas de Gestión/index|Sistemas de Gestión]].
 
 Materias electivas (un mínimo de 10 horas cátedra semanales):
 

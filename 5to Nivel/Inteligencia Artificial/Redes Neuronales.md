@@ -1,17 +1,19 @@
-Estos modelos de [[Inteligencia Artificial]] están inspirados en las redes neuronales biológicas. 
+Estos modelos de [[Inteligencia Artificial]] están inspirados en las redes neuronales biológicas.
 
 Toda **red neuronal artificial** está constituida por **neuronas**:
 
 ![[Redes Neuronales.png]]
 
-Una red es de **propagación hacia adelante** (*feedforward*) cuando ninguna salida de las neuronas es entrada de neuronas del mismo nivel. Caso contrario, la red se conoce como de **propagación hacia atrás**.
+Una red es de **propagación hacia adelante** (_feedforward_) cuando ninguna salida de las neuronas es entrada de neuronas del mismo nivel. Caso contrario, la red se conoce como de **propagación hacia atrás**.
 
 Cada neurona tiene asociada una **función de activación** $f_i(t)$ que transforma el **estado actual de activación** en una **señal de salida** $y_i$. Esta función de transferencia puede ser:
 
-$$\begin{align}
+$$
+\begin{align}
 a_i(t+1) &=F(a_i(t), net_i) \\
 y_i(t+1) &=f(net_i - \theta_i) = f(\sum w_{ji} y_i(t) - \theta_j)\\
-\end{align}$$
+\end{align}
+$$
 
 Las funciones de transferencia básicas son las de escalón y de escalón mixta. Existen muchas otras.
 

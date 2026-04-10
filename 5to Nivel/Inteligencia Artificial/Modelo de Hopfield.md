@@ -17,32 +17,38 @@ Funcionamiento:
 
 $$s_i(t+1)=f\left(\sum_{j=1}^N w_{ij}\ s_j(t) - \theta _i\right) \ \ \ \ \ \ \ \ \ 1 \le i \le N$$
 
-En la etapa de aprendizaje se fijan los valores de los pesos. Esta red usa un aprendizaje no supervisado de tipo *hebbiano* (autoasociativo), tal que el peso de una conexión entre una neurona $i$ y otra $j$ se obtiene mediante el producto de los componentes $i$-ésimo y $j$-ésimo del vector que representa el patrón a almacenar.
+En la etapa de aprendizaje se fijan los valores de los pesos. Esta red usa un aprendizaje no supervisado de tipo _hebbiano_ (autoasociativo), tal que el peso de una conexión entre una neurona $i$ y otra $j$ se obtiene mediante el producto de los componentes $i$-ésimo y $j$-ésimo del vector que representa el patrón a almacenar.
 
 Siendo $M$ patrones, y suponiendo una red discreta que trabaja con $[-1,1]$, se obtienen los pesos:
 
-$$w_{ij}\begin{cases}
+$$
+w_{ij}\begin{cases}
 \sum_{k=1}^M e^{(k)}_ie^{(k)}_j & \text{si } i\ne j & 1\le i,j\le N \\
 0 & \text{si } i = j & 1\le i,j\le N \\
-\end{cases}$$
+\end{cases}
+$$
 
 Con los ceros para eliminar la conexión autorecurrente. Representación matricial de los pesos:
 
-$$W = \begin{bmatrix}
+$$
+W = \begin{bmatrix}
 w_{11} & w_{12} & \dots & w_{1N} \\
 w_{21} & w_{22} & \dots & w_{2N} \\
 \vdots & \vdots & \ddots & \vdots \\
 w_{N1} & w_{N2} & \dots & w_{NN} \\
-\end{bmatrix}$$
+\end{bmatrix}
+$$
 
 Las informaciones que debe aprender la red son:
 
-$$\begin{align}
+$$
+\begin{align}
 E_1 &= \left[e^{(1)}_1 \ e^{(1)}_2 \ \dots \ e^{(1)}_N  \right] \\
 E_1 &= \left[e^{(2)}_1 \ e^{(2)}_2 \ \dots \ e^{(2)}_N  \right] \\
 &\ \ \vdots \\
 E_1 &= \left[e^{(M)}_1 \ e^{(M)}_2 \ \dots \ e^{(M)}_N  \right] \\
-\end{align}$$
+\end{align}
+$$
 
 Tal que el aprendizaje es:
 
@@ -50,8 +56,10 @@ $$W = \sum_{k=1}^M \left[E^T_k E_k - I\right]$$
 
 Luego se presenta un patrón nuevo y se calcula:
 
-$$\begin{align}S(t+1) &= E_d \cdot W \\
-E_d &= S(t+1)\end{align}$$
+$$
+\begin{align}S(t+1) &= E_d \cdot W \\
+E_d &= S(t+1)\end{align}
+$$
 
 Y se repite este proceso hasta que $S(t)=S(t+1)$. Si existe una repetición $S(t)=S(t+n)$ con $n\gt 1$ entonces la red no se estabiliza.
 
@@ -61,11 +69,13 @@ Estos modelos no clasifican, sino que **encuentran patrones similares**. Si se a
 
 Siendo la **capacidad** la cantidad de patrones que esta red puede almacenar, se conoce que:
 
-$$\text{Capacidad} = \begin{cases}0.138 \cdot N & \text{para una recuperación buena} \\
+$$
+\text{Capacidad} = \begin{cases}0.138 \cdot N & \text{para una recuperación buena} \\
 \frac{N}{4 \ln (N)} & \text{para una recuperación perfecta}
-\end{cases}$$
+\end{cases}
+$$
 
-Se observa que este modelo es ineficiente: requiere muchas neuronas para almacenar pocos patrones. 
+Se observa que este modelo es ineficiente: requiere muchas neuronas para almacenar pocos patrones.
 
 Esto no garantiza obtener una salida correcta estable si los patrones no son lo suficientemente diferentes entre sí. Para ello surge la **ortogonalidad**: se recomienda que la diferencia entre patrones sea al menos del 50%, calculada como:
 

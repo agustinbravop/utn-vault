@@ -58,7 +58,7 @@ La producción y el marketing siempre son obligatorias.
 
 ## Aliados CLave
 
-Son una red de *partners* o socios estratégicos. Los emprendedores trabajan en un **ecosistema** más grande que permite aliarnos con otras empresas para:
+Son una red de _partners_ o socios estratégicos. Los emprendedores trabajan en un **ecosistema** más grande que permite aliarnos con otras empresas para:
 
 - Optimizar recursos.
 - Reducir riesgo e incertidumbre.

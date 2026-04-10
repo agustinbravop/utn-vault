@@ -6,7 +6,7 @@ El modelo basado en [[Probabilidad]] será, para $i=1,\dots,n$:
 
 $$p(e_i | s_1,\dots,s_m) = \frac{p(e_i) \cdot p(s_1,\dots,s_m | e_i)}{\sum p(e_j) \cdot p(s_1,\dots,s_m | e_j)}$$
 
-Y se aplica una *simplificación* del cálculo que sacrifica exactitud pero mantiene proporcionalidad:
+Y se aplica una _simplificación_ del cálculo que sacrifica exactitud pero mantiene proporcionalidad:
 
 $$
 p(e_i | s_1,\dots,s_m) \propto p(e_i) \cdot \prod p(s_j|e_i)
@@ -40,6 +40,6 @@ gracias a la condición de cierre.
 
 No todos los problemas tienen dimensiones que siguen la distribución normal. Existen muchas otras distribuciones que se pueden usar.
 
-También se puede **particionar** el atributo continuo en intervalos discretos para evitar usar una distribución de probabilidad. A mayor cantidad de intervalos (**bins**) es mayor la *resolución* y por ende mejora la precisión del modelo. Esto se denomina Naive Bayes para **histogramas**. El enfoque de histogramas es bueno cuando los datos no siguen una distribución clara.
+También se puede **particionar** el atributo continuo en intervalos discretos para evitar usar una distribución de probabilidad. A mayor cantidad de intervalos (**bins**) es mayor la _resolución_ y por ende mejora la precisión del modelo. Esto se denomina Naive Bayes para **histogramas**. El enfoque de histogramas es bueno cuando los datos no siguen una distribución clara.
 
 Los bins no necesitan ser del mismo tamaño, y une exceso de bins puede empeorar la precisión del modelo.

@@ -2,7 +2,7 @@ El perceptrón es un modelo de [[Redes Neuronales]] simple que surgió en 1958 (
 
 ![[Perceptrón.png]]
 
-Se agrega una entrada ficticia llamada **umbral** o *bias* con un valor constante 1.
+Se agrega una entrada ficticia llamada **umbral** o _bias_ con un valor constante 1.
 
 El algoritmo recibe **conjuntos de patrones de entradas y salidas deseadas**, y devuelve una configuración de pesos estables. Funcionamiento:
 

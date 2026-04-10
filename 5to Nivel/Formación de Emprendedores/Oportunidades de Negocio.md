@@ -1,10 +1,10 @@
-Las *ideas de negocio* surgen de la innovación y se transforman en *oportunidades* de negocio cuando satisfacen una necesidad del cliente o nos diferencian de los demás competidores.
+Las _ideas de negocio_ surgen de la innovación y se transforman en _oportunidades_ de negocio cuando satisfacen una necesidad del cliente o nos diferencian de los demás competidores.
 
 ## Innovación
 
 > La **innovación** es el análisis sistemático de los cambios para transformarlos en oportunidades de negocio. - Drucker
 
-La innovación es un proceso iterativo para entregar un nuevo mercado y/o nuevo servicio y/o avance tecnológico. Un invento se vuelve *innovador* cuando el mercado lo valida y compra.
+La innovación es un proceso iterativo para entregar un nuevo mercado y/o nuevo servicio y/o avance tecnológico. Un invento se vuelve _innovador_ cuando el mercado lo valida y compra.
 
 Tipos de innovación:
 
@@ -59,4 +59,4 @@ Técnicas para generar ideas:
 - **Brainstorming**: reunirse en grupo, definir un objetivo, y establecer tiempo límite.
 - **Asociación forzosa**: pensar en un producto ya existente, escribir palabras al azar, y asociar las palabras al producto.
 
-Para elegir una idea de negocio, hay que evaluarlas  a todas según ciertos criterios. Elegimos la mejor y planificamos su implementación.
+Para elegir una idea de negocio, hay que evaluarlas a todas según ciertos criterios. Elegimos la mejor y planificamos su implementación.

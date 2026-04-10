@@ -28,7 +28,7 @@ La **actitud** es la forma de actuar de una persona.
 
 ## Percepción
 
-Es el proceso mediante el cual las personas interpretan y organizan la información que reciben del entorno. Decodificamos los datos para poder operar con ellos. 
+Es el proceso mediante el cual las personas interpretan y organizan la información que reciben del entorno. Decodificamos los datos para poder operar con ellos.
 
 La percepción es subjetiva, selectiva, temporal e inferencial. Tiene tres etapas:
 
@@ -83,11 +83,11 @@ La **comunicación efectiva** consiste en expresar una idea de manera precisa, c
 
 ## Negociación
 
-Una negociación se inicia cuando hay diferencias en las posiciones que mantienen las partes. Es la relación que establecen dos o más personas sobre cierto asunto para acercar posiciones y poder llegar a un acuerdo beneficioso. 
+Una negociación se inicia cuando hay diferencias en las posiciones que mantienen las partes. Es la relación que establecen dos o más personas sobre cierto asunto para acercar posiciones y poder llegar a un acuerdo beneficioso.
 
-Es un proceso de resolución de conflictos mediante un *acuerdo*. Se usa cuando ambas partes desean **continuar la relación**, aunque sea en condiciones diferentes.
+Es un proceso de resolución de conflictos mediante un _acuerdo_. Se usa cuando ambas partes desean **continuar la relación**, aunque sea en condiciones diferentes.
 
-Un *conflicto de intereses* surge cuando dos personas quieren algo y no lo pueden tener tal como lo quieren al mismo tiempo. La *posición* 9superficial) esconde intereses (ocultos). Al negociar, hay que indagar sobre los intereses.
+Un _conflicto de intereses_ surge cuando dos personas quieren algo y no lo pueden tener tal como lo quieren al mismo tiempo. La _posición_ 9superficial) esconde intereses (ocultos). Al negociar, hay que indagar sobre los intereses.
 
 Características de la negociación:
 
@@ -112,7 +112,7 @@ Fases de la negociación:
 
 ## Effectuation Theory
 
-*Effectuation theory* consiste en imaginar posibles fines utilizando un conjunto de medios dados. Principios:
+_Effectuation theory_ consiste en imaginar posibles fines utilizando un conjunto de medios dados. Principios:
 
 1. Pájaro en mano.
 2. La pérdida soportable.
@@ -146,7 +146,7 @@ Las 5 C del trabajo en equipo:
 4. Complementariedad.
 5. Comunicación.
 
-En los equipos de trabajo hay roles de *liderazgo*. Es importante liderar desde la confianza, el respeto y la imparcialidad. Un líder:
+En los equipos de trabajo hay roles de _liderazgo_. Es importante liderar desde la confianza, el respeto y la imparcialidad. Un líder:
 
 1. Construye confianza.
 2. Establece objetivos.

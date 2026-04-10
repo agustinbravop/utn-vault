@@ -64,7 +64,7 @@ Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al pla
 |   5   | [[5to Nivel/Inteligencia Artificial/index\|Inteligencia Artificial]]                                      |    ✅    |
 |   5   | Proyecto Final                                                                                            |   ...   |
 |   5   | Seguridad en los Sistemas de Información                                                                  |   ...   |
-|   5   | Sistemas de Gestión                                                                                       |   ...   |
+|   5   | [[5to Nivel/Sistemas de Gestión/index\|Sistemas de Gestión]]                                              |    ✅    |
 |   5   | Análisis de Datos Empresariales \(electiva\)                                                              |   ...   |
 |   5   | Formación de Emprendedores \(electiva\)                                                                   |   ...   |
 |   5   | Aspectos Avanzados de Redes de Información \(electiva\)                                                   |   🪦    |
@@ -81,3 +81,11 @@ El diseño curricular exige cursar materias electivas hasta cumplir:
 3. Un mínimo de 10 horas cátedra semanales de materias electivas del 5to nivel.
 
 Nota: la materia "Seminario Integrador" del tercer nivel no es una electiva. Es una materia opcional, necesaria solamente para obtener el título intermedio de Analista Desarrollador Universitario en Sistemas de Información.
+
+## Práctica Profesional Supervisada
+
+La práctica profesional supervisada se realiza en el último año de cursado y se puede dar en tres modalidades:
+
+1. **Acreditación de horas**: para quienes trabajan en IT. Requiere describir las tareas del puesto y justificar su relación con la carrera.
+2. **Grupo de investigación**: para quienes tienen becas de investigación en grupos de investigación relacionados a la carrera.
+3. **Práctica profesional**: requiere proponer un proyecto que implique trabajar 200 horas sin remuneración. Se debe proponer un plan de trabajo.

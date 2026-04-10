@@ -2,27 +2,31 @@ El **Perceptrón Multicapa** (MLP) es un tipo de [[Redes Neuronales]] similar a 
 
 ## Regla Delta
 
-La **regla delta** o *Least Mean Squared* (LMS) es el método para hallar el vector de pesos $W$ deseado. Siendo $d$ la salida deseada, $s$ la salida obtenida, y $L$ el número de patrones, se minimiza el **error cuadrático medio** definido como:
+La **regla delta** o _Least Mean Squared_ (LMS) es el método para hallar el vector de pesos $W$ deseado. Siendo $d$ la salida deseada, $s$ la salida obtenida, y $L$ el número de patrones, se minimiza el **error cuadrático medio** definido como:
 
 $$<\epsilon^2_k>=\frac{1}{2L} \sum^L_{k=1} \epsilon_k^2 = \frac{1}{2L} \sum^L_{k=1} (d-s)^2$$
 
 Las modificaciones en los pesos son proporcionales al **gradiente decreciente** del error:
 
-$$\begin{align}\Delta w_i &= - \alpha \frac{\partial<\epsilon^2_k>}{\partial w_i} = - \alpha \frac{\partial<\epsilon^2_k>}{\partial s_k} \frac{\partial s_k}{\partial w_i} = \dots = \alpha \ \epsilon_k \ x_{ki} \\
+$$
+\begin{align}\Delta w_i &= - \alpha \frac{\partial<\epsilon^2_k>}{\partial w_i} = - \alpha \frac{\partial<\epsilon^2_k>}{\partial s_k} \frac{\partial s_k}{\partial w_i} = \dots = \alpha \ \epsilon_k \ x_{ki} \\
 w_i (t+1) &= w_i (t) + \alpha (d_k - s_k) x_{ki}
-\end{align}$$
+\end{align}
+$$
 
 El error cuadrático medio se calcula al final de cada época teniendo en cuenta cada error de patrón $\epsilon_k$ obtenido al aplicar un patrón individual.
 
 ### Regla Delta Generalizada
 
-La regla delta generalizada (*backpropagation*) permite entrenar redes neuronales con capas ocultas. Las funciones de activación deben ser crecientes, continuas y derivables.
+La regla delta generalizada (_backpropagation_) permite entrenar redes neuronales con capas ocultas. Las funciones de activación deben ser crecientes, continuas y derivables.
 
-$$\begin{align}
+$$
+\begin{align}
 \Delta w_{ji} (t+1) &= \alpha \ \delta_{pj} \ y_{pi} \\
 \text{donde }  \ \ \delta_{pk} &= (d_{pk} - y_{pk})  f'(net_k) \ \ \text{ si es una capa de salida} \\
 \text{o bien }  \ \ \delta_{pj} &= (\sum_k d_{pk}\ w_{kj})  f'(net_k) \ \ \text{ si es una capa oculta}
-\end{align}$$
+\end{align}
+$$
 
 El **error de patrón** y **error global** resultan:
 
@@ -32,7 +36,7 @@ $$E_p=\frac{1}{2} \sum_{k=1}^M (d_{pk} - y_{pk})^2  \ \ \text{ y } \ \ E_g=\frac
 
 Dado un dataset dividido en dataset de entrenamiento y dataset de validación, se tiene un error global asociado al entrenamiento y un **error de validación**. Estos errores deberían ser similares.
 
-Si el error global y el error de validación divergen antes de que termine el entrenamiento, puede haber **sobreajuste** (*overfitting*). Esto es un comportamiento no deseado que provoca que el modelo no se generalice bien a nuevos datos. El modelo **tiene que generalizar bien**, por lo que el overfitting es un problema.
+Si el error global y el error de validación divergen antes de que termine el entrenamiento, puede haber **sobreajuste** (_overfitting_). Esto es un comportamiento no deseado que provoca que el modelo no se generalice bien a nuevos datos. El modelo **tiene que generalizar bien**, por lo que el overfitting es un problema.
 
 Para solucionar el overfitting se debe ajustar el modelo o su entrenamiento:
 
@@ -45,11 +49,13 @@ Para solucionar el overfitting se debe ajustar el modelo o su entrenamiento:
 
 Se puede agregar un **término momento** en la regla delta generalizada:
 
-$$\begin{align}
+$$
+\begin{align}
 w_{ji} (t+1) &= w_{ji}(t) + \alpha \ \delta_{pj} \ y_{pi}  + \beta \ (w_{ji}(t) - w_{ji}(t-1)) \\
 \Delta w_{ji} (t+1) &= \alpha \ \delta_{pj} \ y_{pi} \ + \beta \ \Delta w_{ji}(t) \\
-\end{align}$$
+\end{align}
+$$
 
 El momento ayuda a **acelerar la convergencia** y **filtrar oscilaciones**. El coeficiente $\beta$ determina la importancia del término momento.
 
-Este tipo de técnicas se llaman **optimizadores**:  algoritmos que ajustan los parámetros durante el entrenamiento para minimizar el error. El momento es un optimizador básico. Adam es una mejora sobre el momento que funciona mejor.
+Este tipo de técnicas se llaman **optimizadores**: algoritmos que ajustan los parámetros durante el entrenamiento para minimizar el error. El momento es un optimizador básico. Adam es una mejora sobre el momento que funciona mejor.

@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"a8be5ab5e642b98f","type":"file","file":"5to Nivel/Sistemas de Gestión/Las 5 Fuerzas de Porter.md","x":-1480,"y":-1960,"width":400,"height":400},
+		{"id":"e8071eed50d91c21","type":"file","file":"5to Nivel/Sistemas de Gestión/Estrategias Genéricas de Porter.md","x":-925,"y":-1160,"width":400,"height":400},
+		{"id":"c8aaf12893dc5b1b","type":"file","file":"5to Nivel/Sistemas de Gestión/Océano Azul.md","x":-1160,"y":-600,"width":400,"height":400},
+		{"id":"8f3abe3de1dae008","type":"file","file":"5to Nivel/Sistemas de Gestión/Economía Colaborativa.md","x":-680,"y":-600,"width":400,"height":400},
+		{"id":"b36964dc7d506474","type":"file","file":"5to Nivel/Sistemas de Gestión/Estrategias de Crecimiento y Creación de Nuevas Empresas.md","x":-400,"y":-1160,"width":400,"height":400},
+		{"id":"2e22bdb9a1a91ec6","type":"file","file":"5to Nivel/Sistemas de Gestión/Procesos y Modelos de Decisión.md","x":120,"y":-1160,"width":400,"height":400},
+		{"id":"50da143ff79c82c0","type":"file","file":"5to Nivel/Sistemas de Gestión/Teoría de los Recursos y las Capacidades.md","x":640,"y":-1160,"width":400,"height":400},
+		{"id":"08f474007a10ec60","type":"file","file":"5to Nivel/Sistemas de Gestión/Groupthinking.md","x":120,"y":-613,"width":400,"height":400},
+		{"id":"ddc49779b89d4fa5","type":"file","file":"5to Nivel/Sistemas de Gestión/Diseño Organizacional.md","x":640,"y":-600,"width":400,"height":400},
+		{"id":"4b1e3e1ad9aebd14","type":"file","file":"5to Nivel/Sistemas de Gestión/Estrategia Competitiva.md","x":-925,"y":-1720,"width":400,"height":400,"color":"4"},
+		{"id":"d134c05b7e6a25d3","type":"file","file":"5to Nivel/Sistemas de Gestión/Gestión de la Complejidad.md","x":1160,"y":-1160,"width":400,"height":400},
+		{"id":"c78810f73795e772","type":"file","file":"5to Nivel/Sistemas de Gestión/Business Process Management.md","x":1680,"y":-1160,"width":400,"height":400},
+		{"id":"5fca19b03c3f28f0","type":"file","file":"5to Nivel/Sistemas de Gestión/Gestión de Desempeño de Procesos.md","x":1680,"y":-1720,"width":400,"height":400},
+		{"id":"714ab0579dc56976","type":"file","file":"5to Nivel/Sistemas de Gestión/Sistemas de Gestión.md","x":2200,"y":-1720,"width":400,"height":400,"color":"4"},
+		{"id":"b840bb95f1bb0a1d","type":"file","file":"5to Nivel/Sistemas de Gestión/Cuadro de Mando Integral.md","x":2200,"y":-1160,"width":400,"height":400},
+		{"id":"0fce1ebaae2937ad","type":"file","file":"5to Nivel/Sistemas de Gestión/Sistemas para Soporte de Decisiones.md","x":2720,"y":-1160,"width":400,"height":400},
+		{"id":"b30c6da971fc986c","type":"file","file":"5to Nivel/Sistemas de Gestión/Inteligencia Empresarial.md","x":2720,"y":-613,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"4e8beef2363bd105","fromNode":"714ab0579dc56976","fromSide":"bottom","toNode":"0fce1ebaae2937ad","toSide":"top"},
+		{"id":"a49e91eaed704183","fromNode":"714ab0579dc56976","fromSide":"bottom","toNode":"b840bb95f1bb0a1d","toSide":"top"},
+		{"id":"d8f0d8e132e569a8","fromNode":"5fca19b03c3f28f0","fromSide":"right","toNode":"714ab0579dc56976","toSide":"left"},
+		{"id":"d9b64709ce8e5b6e","fromNode":"5fca19b03c3f28f0","fromSide":"bottom","toNode":"c78810f73795e772","toSide":"top"},
+		{"id":"c5c3db34e1b7645e","fromNode":"e8071eed50d91c21","fromSide":"bottom","toNode":"c8aaf12893dc5b1b","toSide":"top"},
+		{"id":"c234ea8e4ac59487","fromNode":"e8071eed50d91c21","fromSide":"bottom","toNode":"8f3abe3de1dae008","toSide":"top"},
+		{"id":"f21879af4cede4f6","fromNode":"0fce1ebaae2937ad","fromSide":"bottom","toNode":"b30c6da971fc986c","toSide":"top"},
+		{"id":"7e0bb8dc238451c4","fromNode":"2e22bdb9a1a91ec6","fromSide":"bottom","toNode":"08f474007a10ec60","toSide":"top","label":"evitar"},
+		{"id":"e633dff94c07a4ee","fromNode":"50da143ff79c82c0","fromSide":"bottom","toNode":"ddc49779b89d4fa5","toSide":"top","label":"influye"},
+		{"id":"0e7f79d3315740df","fromNode":"a8be5ab5e642b98f","fromSide":"bottom","toNode":"4b1e3e1ad9aebd14","toSide":"left"},
+		{"id":"7eedadd5359cf0a4","fromNode":"4b1e3e1ad9aebd14","fromSide":"bottom","toNode":"e8071eed50d91c21","toSide":"top"},
+		{"id":"b8fcf869853e1f74","fromNode":"4b1e3e1ad9aebd14","fromSide":"bottom","toNode":"b36964dc7d506474","toSide":"top"},
+		{"id":"538dc43126ee6e8b","fromNode":"4b1e3e1ad9aebd14","fromSide":"bottom","toNode":"2e22bdb9a1a91ec6","toSide":"top"},
+		{"id":"59a369e70f3e1013","fromNode":"4b1e3e1ad9aebd14","fromSide":"bottom","toNode":"50da143ff79c82c0","toSide":"top"},
+		{"id":"1d56db9b7ed932ca","fromNode":"4b1e3e1ad9aebd14","fromSide":"bottom","toNode":"d134c05b7e6a25d3","toSide":"top"},
+		{"id":"769189603cc95091","fromNode":"4b1e3e1ad9aebd14","fromSide":"right","toNode":"5fca19b03c3f28f0","toSide":"left"}
+	]
+}

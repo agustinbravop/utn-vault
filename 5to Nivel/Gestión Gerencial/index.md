@@ -1,0 +1,11 @@
+---
+title: Gestión Gerencial
+---
+
+Asignatura: Gestión Gerencial. \
+Ciclo Lectivo: 2025.
+
+Profesores:
+
+- Ing. Carolina Vargas.
+- Ing. Gilda R. Romero.
