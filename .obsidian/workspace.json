@@ -288,6 +288,18 @@
             }
           },
           {
+            "id": "47bc229624d3ae90",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "47e3284d394c1133",
             "type": "leaf",
             "state": {
@@ -302,7 +314,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -468,7 +480,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f35870418b7b309",
+  "active": "47bc229624d3ae90",
   "lastOpenFiles": [
     "5to Nivel/Gestión Gerencial/Liderazgo Gerencial.md",
     "5to Nivel/Gestión Gerencial/Punto de Equilibrio.md",
