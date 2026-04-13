@@ -1,0 +1,1 @@
+El proceso **ETL** es el proceso para transferir, formatear, limpiar y cargar datos desde aplicaciones de producción a los sistemas de BI. El data engineer hace un ETL para cada [[Data Warehouse]].
