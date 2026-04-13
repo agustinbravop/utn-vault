@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"dc2219a4cc0b8674","x":320,"y":-1000,"width":400,"height":400,"color":"4","type":"file","file":"5to Nivel/Gestión Gerencial/Gestión Gerencial.md"},
+		{"id":"bdc2c8de2a021789","x":880,"y":-1000,"width":400,"height":400,"type":"file","file":"5to Nivel/Gestión Gerencial/Liderazgo Gerencial.md"},
+		{"id":"903f3c1e45f6ca32","x":320,"y":-440,"width":400,"height":400,"type":"file","file":"5to Nivel/Gestión Gerencial/Punto de Equilibrio.md"},
+		{"id":"a0ae1147c5dac71c","x":880,"y":-440,"width":400,"height":400,"type":"file","file":"5to Nivel/Gestión Gerencial/Trabajo en Equipo.md"},
+		{"id":"7beeabc1e32e97cc","x":1440,"y":-440,"width":400,"height":400,"type":"file","file":"5to Nivel/Gestión Gerencial/Transformación Digital.md"},
+		{"id":"58d4ffd5d9fb2c4e","x":1920,"y":-440,"width":400,"height":400,"type":"file","file":"5to Nivel/Gestión Gerencial/Innovación.md"},
+		{"id":"ec6f7cb043477c1a","x":2400,"y":-440,"width":400,"height":400,"type":"file","file":"5to Nivel/Gestión Gerencial/Responsabilidad Social Empresaria.md"},
+		{"id":"70b18365ce15d642","x":1920,"y":-1000,"width":400,"height":400,"type":"file","file":"5to Nivel/Gestión Gerencial/Estrategia Empresaria.md"}
+	],
+	"edges":[
+		{"id":"365a7cdf481a020f","fromNode":"dc2219a4cc0b8674","fromSide":"right","toNode":"bdc2c8de2a021789","toSide":"left"},
+		{"id":"4fb1eda6269ecec1","fromNode":"bdc2c8de2a021789","fromSide":"right","toNode":"70b18365ce15d642","toSide":"left","label":"permite ejecutar"},
+		{"id":"acf28d61b562314a","fromNode":"70b18365ce15d642","fromSide":"bottom","toNode":"7beeabc1e32e97cc","toSide":"top"},
+		{"id":"e0d6201962f31732","fromNode":"70b18365ce15d642","fromSide":"bottom","toNode":"58d4ffd5d9fb2c4e","toSide":"top"},
+		{"id":"5f8f9fb8e5be0802","fromNode":"70b18365ce15d642","fromSide":"bottom","toNode":"ec6f7cb043477c1a","toSide":"top"},
+		{"id":"155dc03e9a85a445","fromNode":"bdc2c8de2a021789","fromSide":"bottom","toNode":"a0ae1147c5dac71c","toSide":"top","label":"se beneficia del"}
+	]
+}

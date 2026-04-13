@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11062c2eb56f8321",
+        "id": "2cb0596ebb6a5d6b",
         "type": "tabs",
         "children": [
           {
-            "id": "2f35870418b7b309",
+            "id": "649e4dcd11637a86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Gestión Gerencial/Punto de Equilibrio.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Punto de Equilibrio"
+              "title": "New tab"
             }
           }
         ]
@@ -187,16 +183,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5a650c066f2c957",
+  "active": "649e4dcd11637a86",
   "lastOpenFiles": [
-    "5to Nivel/Gestión Gerencial/Liderazgo Gerencial.md",
     "5to Nivel/Gestión Gerencial/Punto de Equilibrio.md",
-    "5to Nivel/Gestión Gerencial/Gestión Gerencial.md",
-    "5to Nivel/Gestión Gerencial/index.md",
-    "5to Nivel/Sistemas de Gestión/index.md",
+    "5to Nivel/Gestión Gerencial/Estrategia Empresaria.md",
+    "5to Nivel/Gestión Gerencial/Transformación Digital.md",
+    "5to Nivel/Gestión Gerencial/Innovación.md",
     "index.md",
-    "5to Nivel/Gestión Gerencial",
     "5to Nivel/index.md",
+    "5to Nivel/Gestión Gerencial/index.md",
+    "5to Nivel/Gestión Gerencial/attachments/MOC - Gestión Gerencial.png",
+    "5to Nivel/Gestión Gerencial/attachments",
+    "5to Nivel/Gestión Gerencial/MOC - Gestión Gerencial.canvas",
+    "5to Nivel/Gestión Gerencial/Responsabilidad Social Empresaria.md",
+    "5to Nivel/Gestión Gerencial/Trabajo en Equipo.md",
+    "5to Nivel/Gestión Gerencial/Liderazgo Gerencial.md",
+    "5to Nivel/Gestión Gerencial/Gestión Gerencial.md",
+    "5to Nivel/Sistemas de Gestión/index.md",
+    "5to Nivel/Gestión Gerencial",
     "5to Nivel/Sistemas de Gestión/attachments/MOC - Sistemas de Gestión.png",
     "5to Nivel/Sistemas de Gestión/MOC - Sistemas de Gestión.canvas",
     "5to Nivel/Sistemas de Gestión/Estrategia Competitiva.md",
@@ -217,17 +221,10 @@
     "5to Nivel/Sistemas de Gestión/Diseño Organizacional.md",
     "5to Nivel/Sistemas de Gestión/Teoría de los Recursos y las Capacidades.md",
     "5to Nivel/Sistemas de Gestión/attachments/Teoría de los Recursos y las Capacidades.png",
-    "5to Nivel/Sistemas de Gestión/attachments/Mapa Estratégico de Ejemplo.png",
     "5to Nivel/Sistemas de Gestión/Economía Colaborativa.md",
     "5to Nivel/Sistemas de Gestión/Groupthinking.md",
     "5to Nivel/Sistemas de Gestión/Procesos y Modelos de Decisión.md",
-    "5to Nivel/Sistemas de Gestión/Estrategias Genéricas de Porter.md",
-    "5to Nivel/Sistemas de Gestión/Océano Azul.md",
-    "5to Nivel/Sistemas de Gestión/Las 5 Fuerzas de Porter.md",
-    "5to Nivel/Sistemas de Gestión/nuevos mercados.md",
     "5to Nivel/Sistemas de Gestión/attachments",
-    "5to Nivel/Sistemas de Gestión/Sistemas para Soporte de Decisiones.md",
-    "5to Nivel/Formación de Emprendedores/index.md",
     "5to Nivel/Formación de Emprendedores/attachments",
     "5to Nivel/Formación de Emprendedores/MOC - Formación de Emprendedores.canvas",
     "5to Nivel/Sistemas de Gestión",
@@ -237,13 +234,11 @@
     "5to Nivel/Inteligencia Artificial",
     "5to Nivel/Formación de Emprendedores",
     "vault.zip",
-    "1er Nivel.zip",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/MOC Sintaxis y Semántica de los Lenguajes.canvas",
     "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",
     "3er Nivel/Economía/MOC Economía.canvas",
     "3er Nivel/Planificación/MOC Planificación.canvas",
     "4to Nivel/Agilidad Avanzada/MOC Agilidad Avanzada.canvas",
-    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas",
-    "4to Nivel/Sistemas de Información Geográficos/MOC Sistemas de Información Geográficos.canvas"
+    "4to Nivel/Administración de Sistemas de Información/MOC Administración de Sistemas de Información.canvas"
   ]
 }

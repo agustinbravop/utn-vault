@@ -60,13 +60,13 @@ Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al pla
 |   4   | Aspectos Avanzados de la Calidad de Software \(electiva\)                                                 |   🪦    |
 |   4   | [[4to Nivel/Sistemas de Información Geográficos/index\|Sistemas de Información Geográficos]] \(electiva\) |   🔥    |
 |   5   | Ciencia de Datos                                                                                          |   ...   |
-|   5   | Gestión Gerencial                                                                                         |   ...   |
+|   5   | [[5to Nivel/Gestión Gerencial/index\|Gestión Gerencial]]                                                  |    ✅    |
 |   5   | [[5to Nivel/Inteligencia Artificial/index\|Inteligencia Artificial]]                                      |    ✅    |
 |   5   | Proyecto Final                                                                                            |   ...   |
 |   5   | Seguridad en los Sistemas de Información                                                                  |   ...   |
 |   5   | [[5to Nivel/Sistemas de Gestión/index\|Sistemas de Gestión]]                                              |    ✅    |
 |   5   | Análisis de Datos Empresariales \(electiva\)                                                              |   ...   |
-|   5   | Formación de Emprendedores \(electiva\)                                                                   |   ...   |
+|   5   | [[5to Nivel/Formación de Emprendedores/index\|Formación de Emprendedores]] \(electiva\)                   |  😵‍💫  |
 |   5   | Aspectos Avanzados de Redes de Información \(electiva\)                                                   |   🪦    |
 |   5   | Fundamentos de Ciberseguridad \(electiva\)                                                                |   🪦    |
 |   5   | Auditoría e Informática Forense \(electiva\)                                                              |   🪦    |

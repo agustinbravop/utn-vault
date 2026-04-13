@@ -2,6 +2,8 @@
 title: Gestión Gerencial
 ---
 
+![[MOC - Gestión Gerencial.png]]
+
 Asignatura: Gestión Gerencial. \
 Ciclo Lectivo: 2025.
 
