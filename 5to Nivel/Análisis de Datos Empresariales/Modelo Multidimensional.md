@@ -26,3 +26,7 @@ Pasos a seguir:
 3. Identificar dimensiones.
 4. Identificar jerarquías y atributos de las dimensiones.
 5. Revisar las consultas y verificar que el modelo las resuelve.
+
+**MDX** (MultiDimensional eXpressions) es el lenguaje de consulta multidimensional. A diferencia de SQL, MDX no especifica las relaciones (joins) pero es posicional y referenciado.
+
+Microsoft propone un *modelo tabular* alternativo al multidimensional donde los datos se procesan en memoria, no en disco. Usa un almacenamiento basado en columnas y algoritmos de compresión sofisticados para ofrecer tiempos de consulta muy rápidos.

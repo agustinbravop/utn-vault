@@ -14,3 +14,12 @@ Disciplinas actualees:
 - Data analyst (más relacionado al negocio).
 
 ![[Análisis de Datos Empresariales.png]]
+
+El objetivo es el **data-driven decision making**, tomar decisiones basadas en evidencia objetiva derivada de datos disponibles. Los datos pueden guiar decisiones y justificar decisiones ya tomadas. El [[Data Warehouse]] permite que los datos sean confiables. *Data driven* es una [[Cultura Organizacional]], con procesos y herramientas.
+
+El análisis de datos permite extraer valor de los datos recolectados. Hay 4 enfoques:
+
+1. **Descriptivo** (¿Qué pasó?).
+2. **Diagnóstico** (¿Por qué pasó?).
+3. **Predictivo** (¿Qué puede pasar?).
+4. **Prescriptivo** (¿Qué deberíamos hacer?),

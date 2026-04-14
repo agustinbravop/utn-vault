@@ -41,12 +41,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Análisis de Datos Empresariales/Extracción, Transformación y Carga.md",
+                "file": "5to Nivel/Análisis de Datos Empresariales/ETL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extracción, Transformación y Carga"
+              "title": "ETL"
+            }
+          },
+          {
+            "id": "3b77bd56b6b04d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Análisis de Datos Empresariales/Gestión de Datos Maestros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestión de Datos Maestros"
+            }
+          },
+          {
+            "id": "e4f019538ea29179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Análisis de Datos Empresariales/OLAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OLAP"
+            }
+          },
+          {
+            "id": "ac59fd9a4911ba1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Análisis de Datos Empresariales/Análisis de Datos Empresariales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Análisis de Datos Empresariales"
+            }
+          },
+          {
+            "id": "7d75a9cd044c83df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Análisis de Datos Empresariales/Visualización de la Información.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visualización de la Información"
+            }
+          },
+          {
+            "id": "cd54f294e890bb62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Análisis de Datos Empresariales/Data Mining.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Mining"
             }
           },
           {
@@ -64,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -230,14 +300,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22105ed3b34fef4f",
+  "active": "cd54f294e890bb62",
   "lastOpenFiles": [
-    "5to Nivel/Análisis de Datos Empresariales/Data Warehouse.md",
-    "5to Nivel/Análisis de Datos Empresariales/Extracción, Transformación y Carga.md",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/Slowly Changing Dimensions.png",
-    "5to Nivel/Análisis de Datos Empresariales/Modelo Multidimensional.md",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/Jerarquía Ragged.png",
+    "5to Nivel/Análisis de Datos Empresariales/Visualización de la Información.md",
+    "5to Nivel/Análisis de Datos Empresariales/Data Mining.md",
     "5to Nivel/Análisis de Datos Empresariales/Análisis de Datos Empresariales.md",
+    "5to Nivel/Análisis de Datos Empresariales/Análisis de Datos Moderno.md",
+    "5to Nivel/Análisis de Datos Empresariales/Modelo Multidimensional.md",
+    "5to Nivel/Análisis de Datos Empresariales/ETL.md",
+    "5to Nivel/Análisis de Datos Empresariales/OLAP.md",
+    "5to Nivel/Análisis de Datos Empresariales/attachments/Análisis de Datos.png",
+    "5to Nivel/Análisis de Datos Empresariales/Gestión de Datos Maestros.md",
+    "desktop.ini",
+    "5to Nivel/Análisis de Datos Empresariales/attachments/Gestión de Datos Maestros.png",
+    "5to Nivel/Análisis de Datos Empresariales/attachments/Extracción, Transformación y Carga.png",
+    "5to Nivel/Análisis de Datos Empresariales/Data Warehouse.md",
+    "5to Nivel/Análisis de Datos Empresariales/attachments/Slowly Changing Dimensions.png",
+    "5to Nivel/Análisis de Datos Empresariales/attachments/Jerarquía Ragged.png",
     "5to Nivel/Análisis de Datos Empresariales/attachments/Análisis de Datos Empresariales.png",
     "5to Nivel/Análisis de Datos Empresariales/attachments",
     "5to Nivel/Análisis de Datos Empresariales/index.md",
@@ -264,22 +343,13 @@
     "5to Nivel/Sistemas de Gestión/Sistemas de Gestión.md",
     "5to Nivel/Sistemas de Gestión/Gestión de Desempeño de Procesos.md",
     "5to Nivel/Sistemas de Gestión/Cuadro de Mando Integral.md",
-    "5to Nivel/Sistemas de Gestión/Inteligencia Empresarial.md",
     "5to Nivel/Sistemas de Gestión/attachments/Factores Claves de Éxito.png",
-    "5to Nivel/Sistemas de Gestión/Gestión de la Complejidad.md",
     "5to Nivel/Sistemas de Gestión/attachments/Marco de Trabajo CYNEFIN.png",
-    "5to Nivel/Sistemas de Gestión/attachments/Matriz de Stacey.png",
-    "5to Nivel/Sistemas de Gestión/Estrategias de Crecimiento y Creación de Nuevas Empresas.md",
-    "5to Nivel/Sistemas de Gestión/Business Process Management.md",
-    "5to Nivel/Sistemas de Gestión/attachments/Coreografía-1.png",
-    "5to Nivel/Sistemas de Gestión/attachments/Colaboración.png",
-    "5to Nivel/Sistemas de Gestión/Diseño Organizacional.md",
     "5to Nivel/Sistemas de Gestión/attachments",
     "5to Nivel/Formación de Emprendedores/attachments",
     "5to Nivel/Formación de Emprendedores/MOC - Formación de Emprendedores.canvas",
     "5to Nivel/Sistemas de Gestión",
     "5to Nivel/Inteligencia Artificial/MOC - Inteligencia Artificial.canvas",
-    "desktop.ini",
     "5to Nivel/Inteligencia Artificial/attachments",
     "5to Nivel/Inteligencia Artificial",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/MOC Sintaxis y Semántica de los Lenguajes.canvas",
