@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"63a0a322d246c9be","type":"file","file":"5to Nivel/Análisis de Datos Empresariales/Análisis de Datos Empresariales.md","x":320,"y":-1160,"width":400,"height":400},
+		{"id":"f26f531a1f3d61d6","type":"file","file":"5to Nivel/Análisis de Datos Empresariales/Data Warehouse.md","x":320,"y":-600,"width":400,"height":400,"color":"4"},
+		{"id":"ae52c1a5d229a541","type":"file","file":"5to Nivel/Análisis de Datos Empresariales/ETL.md","x":-240,"y":-600,"width":400,"height":400,"color":"4"},
+		{"id":"ec020037c9cdb7a4","type":"file","file":"5to Nivel/Análisis de Datos Empresariales/OLAP.md","x":880,"y":-600,"width":400,"height":400,"color":"4"},
+		{"id":"35f594fb6ecea659","type":"file","file":"5to Nivel/Análisis de Datos Empresariales/Gestión de Datos Maestros.md","x":560,"y":-40,"width":400,"height":400},
+		{"id":"f143e5be25cd1fcb","type":"file","file":"5to Nivel/Análisis de Datos Empresariales/Modelo Multidimensional.md","x":80,"y":-40,"width":400,"height":400},
+		{"id":"e27e9cdd6b329011","type":"file","file":"5to Nivel/Análisis de Datos Empresariales/Visualización de la Información.md","x":1440,"y":-600,"width":400,"height":400},
+		{"id":"47e4258da97ec275","type":"file","file":"5to Nivel/Análisis de Datos Empresariales/Análisis de Datos Moderno.md","x":2000,"y":-1160,"width":400,"height":400},
+		{"id":"7703ad8f308b02a9","type":"file","file":"5to Nivel/Análisis de Datos Empresariales/Data Mining.md","x":2000,"y":-600,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"47fe42d07ff03872","fromNode":"63a0a322d246c9be","fromSide":"bottom","toNode":"f26f531a1f3d61d6","toSide":"top"},
+		{"id":"c3efe2e55497ee55","fromNode":"f26f531a1f3d61d6","fromSide":"bottom","toNode":"f143e5be25cd1fcb","toSide":"top"},
+		{"id":"9897eaac45ae9028","fromNode":"63a0a322d246c9be","fromSide":"bottom","toNode":"e27e9cdd6b329011","toSide":"top"},
+		{"id":"09f25b2604e62406","fromNode":"f26f531a1f3d61d6","fromSide":"right","toNode":"ec020037c9cdb7a4","toSide":"left","label":"salida"},
+		{"id":"952671af11ff5142","fromNode":"f26f531a1f3d61d6","fromSide":"bottom","toNode":"35f594fb6ecea659","toSide":"top"},
+		{"id":"cd09775dfc6a46c5","fromNode":"ae52c1a5d229a541","fromSide":"right","toNode":"f26f531a1f3d61d6","toSide":"left","label":"salida"},
+		{"id":"efa4805d76842714","fromNode":"63a0a322d246c9be","fromSide":"right","toNode":"47e4258da97ec275","toSide":"left"},
+		{"id":"dcd70bff5c51c0c3","fromNode":"47e4258da97ec275","fromSide":"bottom","toNode":"7703ad8f308b02a9","toSide":"top"},
+		{"id":"29d51be8fdff46b1","fromNode":"ec020037c9cdb7a4","fromSide":"right","toNode":"e27e9cdd6b329011","toSide":"left","label":"salida"}
+	]
+}

@@ -21,6 +21,8 @@ También existe el *método simplificado* que se suele usar para definir KPIs. B
 
 El modelo conceptual resulta ser un gráfico basado en el DER de [[Bases de Datos]].
 
+![[Modelo Conceptual del Data Warehouse.png]]
+
 ## Modelo Lógico
 
 El modelo lógico del DW representa los hechos y las dimensiones utilizando el modelo de datos de la base de datos sobre la cual se implementará el DW. Hay 3 alternativas básicas:

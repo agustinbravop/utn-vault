@@ -13,7 +13,7 @@ Materias obligatorias:
 
 Materias electivas (un mínimo de 10 horas cátedra semanales):
 
-1. Analítica de Datos Moderna (3 hs).
+1. [[5to Nivel/Análisis de Datos Empresariales/index|Análisis de Datos Empresariales]] (3 hs).
 2. Aspectos Avanzados de Redes de Información (3 hs).
 3. Auditoría e Informática Forense (4 hs).
 4. DevOps - Cultura, Herramientas y Procesos (4 hs).

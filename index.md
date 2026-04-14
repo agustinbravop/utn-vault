@@ -65,7 +65,7 @@ Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al pla
 |   5   | Proyecto Final                                                                                            |   ...   |
 |   5   | Seguridad en los Sistemas de Información                                                                  |   ...   |
 |   5   | [[5to Nivel/Sistemas de Gestión/index\|Sistemas de Gestión]]                                              |    ✅    |
-|   5   | Análisis de Datos Empresariales \(electiva\)                                                              |   ...   |
+|   5   | [[5to Nivel/Análisis de Datos Empresariales/index\|Análisis de Datos Empresariales]] \(electiva\)         |    ✅    |
 |   5   | [[5to Nivel/Formación de Emprendedores/index\|Formación de Emprendedores]] \(electiva\)                   |  😵‍💫  |
 |   5   | Aspectos Avanzados de Redes de Información \(electiva\)                                                   |   🪦    |
 |   5   | Fundamentos de Ciberseguridad \(electiva\)                                                                |   🪦    |

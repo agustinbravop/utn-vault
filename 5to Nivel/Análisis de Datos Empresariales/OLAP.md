@@ -13,6 +13,10 @@ El *data cube* de $n$ dimensiones calcula una métrica para cada celda o fact. L
 **Operaciones OLAP** con el cubo de datos:
 
 1. **Roll-up**: sumariza un cubo a lo largo de una dimensión hasta un nivel.
+   ![[Roll-up.png]]
 2. **Drill-down**: desagrega un cubo (inverso al roll-up).
+   ![[Drill-down.png]]
 3. **Dice**: obtiene un subcubo que satisface una condición booleana.
+   ![[Dice.png]]
 4. **Slice**: elimina una dimensión del cubo.
+   ![[Slice.png]]

@@ -7,6 +7,8 @@ En [[Data Warehouse]], el modelo multidimensional almacena hechos, dimensiones, 
 
 Un *hecho* relaciona *métricas* (atributos de las tablas de hechos) con los niveles *hoja* de las dimensiones involucradas.
 
+![[Modelo Multidimensional.png]]
+
 Se lo puede pensar como un DER limitado sin relaciones muchos-a-muchos y con la menor cantidad de relaciones opcionales posibles. Lo ideal es usar **jerarquías estrictas** (relaciones N:1). Si la realidad no lo permite, hay que tener en cuenta algunos cuidados:
 
 - **Jerarquías balanceadas**: ideales para el diseño estrella o copo de nieve (snowflake).
