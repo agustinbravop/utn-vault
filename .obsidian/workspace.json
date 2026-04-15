@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "649e4dcd11637a86",
+            "id": "115bb19c148eb11f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Análisis de Datos Empresariales/index.md",
+                "file": "5to Nivel/Seguridad en los Sistemas de Información/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,91 +22,77 @@
             }
           },
           {
-            "id": "05b519dda1cbc05e",
+            "id": "d4104a4c50e47d1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Análisis de Datos Empresariales/Data Warehouse.md",
+                "file": "5to Nivel/Seguridad en los Sistemas de Información/Seguridad de la Información.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Warehouse"
+              "title": "Seguridad de la Información"
             }
           },
           {
-            "id": "22105ed3b34fef4f",
+            "id": "9a620bb9e596fbb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Análisis de Datos Empresariales/ETL.md",
+                "file": "5to Nivel/Seguridad en los Sistemas de Información/Gobierno de Seguridad de la Información.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ETL"
+              "title": "Gobierno de Seguridad de la Información"
             }
           },
           {
-            "id": "3b77bd56b6b04d69",
+            "id": "5bb99e3961b89766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Análisis de Datos Empresariales/Gestión de Datos Maestros.md",
+                "file": "5to Nivel/Seguridad en los Sistemas de Información/Monitoreo y Comunicación de Riesgos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestión de Datos Maestros"
+              "title": "Monitoreo y Comunicación de Riesgos"
             }
           },
           {
-            "id": "e4f019538ea29179",
+            "id": "4d4de621b78ca98f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Análisis de Datos Empresariales/OLAP.md",
+                "file": "5to Nivel/Seguridad en los Sistemas de Información/Programas de Seguridad de la Información.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OLAP"
+              "title": "Programas de Seguridad de la Información"
             }
           },
           {
-            "id": "ac59fd9a4911ba1c",
+            "id": "d03021c078fa9ec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Análisis de Datos Empresariales/Análisis de Datos Empresariales.md",
+                "file": "5to Nivel/Seguridad en los Sistemas de Información/Plan de Continuidad de Negocio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análisis de Datos Empresariales"
+              "title": "Plan de Continuidad de Negocio"
             }
           },
           {
-            "id": "7d75a9cd044c83df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Análisis de Datos Empresariales/Visualización de la Información.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Visualización de la Información"
-            }
-          },
-          {
-            "id": "cd54f294e890bb62",
+            "id": "ed513996577c14b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,21 +106,35 @@
             }
           },
           {
-            "id": "fd2a96c10288fb94",
+            "id": "1bda92d332e0c335",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Análisis de Datos Empresariales/Modelo Multidimensional.md",
+                "file": "5to Nivel/Seguridad en los Sistemas de Información/Plan de Respuesta a Incidentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo Multidimensional"
+              "title": "Plan de Respuesta a Incidentes"
+            }
+          },
+          {
+            "id": "b4c764e9b56ad6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Seguridad en los Sistemas de Información/Identificación y Evaluación de Riesgos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identificación y Evaluación de Riesgos"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -300,62 +300,63 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd54f294e890bb62",
+  "active": "ed513996577c14b4",
   "lastOpenFiles": [
-    "5to Nivel/index.md",
-    "5to Nivel/Análisis de Datos Empresariales/index.md",
-    "5to Nivel/Análisis de Datos Empresariales/Modelo Multidimensional.md",
-    "5to Nivel/Análisis de Datos Empresariales/Data Warehouse.md",
-    "5to Nivel/Análisis de Datos Empresariales/Data Mining.md",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/Modelo Multidimensional.png",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/Modelo Conceptual del Data Warehouse.png",
-    "5to Nivel/Análisis de Datos Empresariales/OLAP.md",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/Slice.png",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/Dice.png",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/Drill-down.png",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/Roll-up.png",
-    "5to Nivel/Análisis de Datos Empresariales/Análisis de Datos Empresariales.md",
-    "5to Nivel/Análisis de Datos Empresariales/ETL.md",
+    "5to Nivel/Inteligencia Artificial/Árboles de Decisión.md",
+    "5to Nivel/Inteligencia Artificial/Agentes.md",
+    "5to Nivel/Inteligencia Artificial/index.md",
     "index.md",
-    "3er Nivel/index.md",
-    "4to Nivel/index.md",
+    "5to Nivel/index.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Seguridad de la Información.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/index.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/attachments/MOC - Seguridad en los Sistemas de Información.png",
+    "5to Nivel/Seguridad en los Sistemas de Información/MOC - Seguridad en los Sistemas de Información.canvas",
+    "5to Nivel/Seguridad en los Sistemas de Información/Gestión de Seguridad en la Nube.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/desktop.ini",
+    "5to Nivel/Formación de Emprendedores/attachments/desktop.ini",
+    "5to Nivel/Inteligencia Artificial/attachments/desktop.ini",
+    "3er Nivel/Economía/desktop.ini",
+    "3er Nivel/Planificación/desktop.ini",
+    "4to Nivel/Sistemas de Información Geográficos/desktop.ini",
+    "4to Nivel/Redes de Datos/desktop.ini",
+    "2do Nivel/Paradigmas de Programación/desktop.ini",
+    "1er Nivel/Inglés 1/desktop.ini",
+    "1er Nivel/Arquitectura de Computadoras/desktop.ini",
+    "5to Nivel/Seguridad en los Sistemas de Información/Plan de Continuidad de Negocio.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Plan de Recuperación de Desastres.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Gestión y Respuesta a Incidentes.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Plan de Respuesta a Incidentes.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Programas de Seguridad de la Información.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Monitoreo y Comunicación de Riesgos.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Gestión de Riesgos de la Información.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Control de Riesgos.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/attachments/Administrando el Riesgo.png",
+    "5to Nivel/Seguridad en los Sistemas de Información/attachments/Control de Riesgos.png",
+    "5to Nivel/Seguridad en los Sistemas de Información/Identificación y Evaluación de Riesgos.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Gobierno de Seguridad de la Información.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/attachments/Gestión de Riesgos de la Información.png",
+    "5to Nivel/Seguridad en los Sistemas de Información/BMIS.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/attachments/BMIS.png",
+    "5to Nivel/DevOps/Esquemas de Versionado de Software.md",
+    "5to Nivel/DevOps/Estrategias de Despliegue.md",
+    "5to Nivel/DevOps/Cloud Computing.md",
+    "5to Nivel/DevOps/Contenedores.md",
+    "5to Nivel/DevOps/Integración Continua.md",
+    "5to Nivel/DevOps/DevOps.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/attachments/Seguridad de la Información.png",
     "5to Nivel/attachments/MOC - Análisis de Datos Empresariales.png",
-    "5to Nivel/attachments",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/MOC - Análisis de Datos Empresariales.png",
+    "README.md",
+    "5to Nivel/DevOps/attachments/MOC - DevOps.png",
+    "5to Nivel/DevOps/MOC - DevOps.canvas",
+    "5to Nivel/DevOps/attachments/Estrategias de Despliegue.png",
+    "5to Nivel/DevOps/attachments/Cloud Computing.png",
     "5to Nivel/Análisis de Datos Empresariales/MOC - Análisis de Datos Empresariales.canvas",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/KDD.png",
-    "5to Nivel/Análisis de Datos Empresariales/attachments/CRISP-DM.png",
-    "5to Nivel/Análisis de Datos Empresariales/Visualización de la Información.md",
-    "5to Nivel/Análisis de Datos Empresariales/Análisis de Datos Moderno.md",
-    "5to Nivel/Análisis de Datos Empresariales/Gestión de Datos Maestros.md",
-    "desktop.ini",
-    "5to Nivel/Análisis de Datos Empresariales/attachments",
-    "5to Nivel/Sistemas de Gestión/index.md",
-    "5to Nivel/Análisis de Datos Empresariales",
-    "5to Nivel/Gestión Gerencial/Punto de Equilibrio.md",
-    "5to Nivel/Gestión Gerencial/Estrategia Empresaria.md",
-    "5to Nivel/Gestión Gerencial/Transformación Digital.md",
-    "5to Nivel/Gestión Gerencial/Innovación.md",
-    "5to Nivel/Gestión Gerencial/index.md",
-    "5to Nivel/Gestión Gerencial/attachments",
     "5to Nivel/Gestión Gerencial/MOC - Gestión Gerencial.canvas",
-    "5to Nivel/Gestión Gerencial/Responsabilidad Social Empresaria.md",
-    "5to Nivel/Gestión Gerencial/Trabajo en Equipo.md",
-    "5to Nivel/Gestión Gerencial/Liderazgo Gerencial.md",
-    "5to Nivel/Gestión Gerencial/Gestión Gerencial.md",
-    "5to Nivel/Gestión Gerencial",
     "5to Nivel/Sistemas de Gestión/MOC - Sistemas de Gestión.canvas",
-    "5to Nivel/Sistemas de Gestión/Estrategia Competitiva.md",
-    "5to Nivel/Sistemas de Gestión/attachments",
-    "5to Nivel/Formación de Emprendedores/attachments",
     "5to Nivel/Formación de Emprendedores/MOC - Formación de Emprendedores.canvas",
-    "5to Nivel/Sistemas de Gestión",
     "5to Nivel/Inteligencia Artificial/MOC - Inteligencia Artificial.canvas",
-    "5to Nivel/Inteligencia Artificial/attachments",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/MOC Sintaxis y Semántica de los Lenguajes.canvas",
     "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",
-    "3er Nivel/Economía/MOC Economía.canvas",
-    "3er Nivel/Planificación/MOC Planificación.canvas",
-    "4to Nivel/Agilidad Avanzada/MOC Agilidad Avanzada.canvas"
+    "3er Nivel/Economía/MOC Economía.canvas"
   ]
 }

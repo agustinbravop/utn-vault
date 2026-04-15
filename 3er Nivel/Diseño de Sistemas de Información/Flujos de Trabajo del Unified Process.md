@@ -70,7 +70,7 @@ El modelo se implementa en términos de _componentes_, los cuales son scripts, e
 Roles:
 
 1. **Arquitecto**: responsable del modelo de implementación, la descripción de la arquitectura, y el modelo de despliegue.
-2. **Integrador del sistema**: responsable de la integración del sistema ([[Integración Continua]]).
+2. **Integrador del sistema**: responsable de la integración del sistema ([[4to Nivel/Ingeniería y Calidad de Software/Integración Continua]]).
 3. **Ingeniero de componentes**: responsable de las interfaces, los componentes (que resuelven el empaquetamiento físico del modelo), y las implementaciones de subsistemas.
 
 ## Flujo de Prueba

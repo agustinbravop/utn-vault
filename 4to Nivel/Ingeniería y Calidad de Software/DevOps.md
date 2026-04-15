@@ -11,7 +11,7 @@ DevOps es implementar [[Agilidad]] en infraestructura de sistemas. Busca **dismi
 
 1. **Infraestructura automatizada**: los servidores son **ganado**, no mascotas.
 2. **Shared version control**: [[Sistemas de Control de Versiones]] con entendimiento compartido.
-3. **One step build and deploy**: [[Integración Continua]] y [[Despliegue Continuo]].
+3. **One step build and deploy**: [[4to Nivel/Ingeniería y Calidad de Software/Integración Continua]] y [[Despliegue Continuo]].
 4. **Small frequent changes**
 5. **Shared metrics**
 

@@ -1,4 +1,4 @@
-_Scaled Agile Framework_ (SAFe) es una propuesta que toma técnicas de la [[Agilidad]], de [[Lean]], y de [[DevOps]]. Aunque tiene muchas críticas por parte de la agilidad, es el framework más utilizado en las empresas para el [[Escalado de la Agilidad]].
+_Scaled Agile Framework_ (SAFe) es una propuesta que toma técnicas de la [[Agilidad]], de [[Lean]], y de [[4to Nivel/Ingeniería y Calidad de Software/DevOps]]. Aunque tiene muchas críticas por parte de la agilidad, es el framework más utilizado en las empresas para el [[Escalado de la Agilidad]].
 
 Valores:
 

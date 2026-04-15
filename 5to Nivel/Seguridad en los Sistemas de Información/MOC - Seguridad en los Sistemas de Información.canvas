@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"deaf79847749fad8","x":1120,"y":-1320,"width":400,"height":400,"color":"4","type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Gestión de Seguridad en la Nube.md"},
+		{"id":"c12416041a801a3d","x":640,"y":-1320,"width":400,"height":400,"color":"4","type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Gestión y Respuesta a Incidentes.md"},
+		{"id":"ffe0dbe7ef5ea6ef","x":-800,"y":-1880,"width":400,"height":400,"type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Seguridad de la Información.md"},
+		{"id":"322bc2fe3496a5e3","x":-800,"y":-1320,"width":400,"height":400,"type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Gobierno de Seguridad de la Información.md"},
+		{"id":"aad6edf4566aa3c4","x":-320,"y":-1320,"width":400,"height":400,"color":"4","type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Gestión de Riesgos de la Información.md"},
+		{"id":"acc0f81b32935d20","x":160,"y":-1320,"width":400,"height":400,"color":"4","type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Programas de Seguridad de la Información.md"},
+		{"id":"21c6894bcfe9a06a","x":640,"y":-840,"width":400,"height":400,"type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Plan de Respuesta a Incidentes.md"},
+		{"id":"e2914936c1fefd78","x":640,"y":-360,"width":400,"height":400,"type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Plan de Recuperación de Desastres.md"},
+		{"id":"8b88198243276670","x":640,"y":120,"width":400,"height":400,"type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Plan de Continuidad de Negocio.md"},
+		{"id":"487a54e1045a7325","x":-320,"y":-840,"width":400,"height":400,"type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Identificación y Evaluación de Riesgos.md"},
+		{"id":"85bcda89c5e8623f","x":-320,"y":-360,"width":400,"height":400,"type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Control de Riesgos.md"},
+		{"id":"41209ef09154c830","x":-320,"y":120,"width":400,"height":400,"type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/Monitoreo y Comunicación de Riesgos.md"},
+		{"id":"c49b22cd7ed42568","x":-80,"y":-1880,"width":400,"height":400,"type":"file","file":"5to Nivel/Seguridad en los Sistemas de Información/BMIS.md"}
+	],
+	"edges":[
+		{"id":"5bcff93ed8792c00","fromNode":"ffe0dbe7ef5ea6ef","fromSide":"right","toNode":"c49b22cd7ed42568","toSide":"left","label":"un modelo es"},
+		{"id":"cdc1898d53f54221","fromNode":"aad6edf4566aa3c4","fromSide":"bottom","toNode":"487a54e1045a7325","toSide":"top"},
+		{"id":"d96307ea9731dd1d","fromNode":"487a54e1045a7325","fromSide":"bottom","toNode":"85bcda89c5e8623f","toSide":"top"},
+		{"id":"08ce4e3fd0b932f9","fromNode":"85bcda89c5e8623f","fromSide":"bottom","toNode":"41209ef09154c830","toSide":"top"},
+		{"id":"70e365efffd01772","fromNode":"c12416041a801a3d","fromSide":"bottom","toNode":"21c6894bcfe9a06a","toSide":"top"},
+		{"id":"902eb1bb634ec683","fromNode":"21c6894bcfe9a06a","fromSide":"bottom","toNode":"e2914936c1fefd78","toSide":"top"},
+		{"id":"8246dee008977ae5","fromNode":"e2914936c1fefd78","fromSide":"bottom","toNode":"8b88198243276670","toSide":"top"},
+		{"id":"32ce8bf6755464a0","fromNode":"ffe0dbe7ef5ea6ef","fromSide":"bottom","toNode":"322bc2fe3496a5e3","toSide":"top"},
+		{"id":"3710ac7a2c948102","fromNode":"ffe0dbe7ef5ea6ef","fromSide":"bottom","toNode":"aad6edf4566aa3c4","toSide":"top"},
+		{"id":"c67ed532e3772d33","fromNode":"ffe0dbe7ef5ea6ef","fromSide":"bottom","toNode":"acc0f81b32935d20","toSide":"top"},
+		{"id":"59f35e06578c4126","fromNode":"ffe0dbe7ef5ea6ef","fromSide":"bottom","toNode":"c12416041a801a3d","toSide":"top"},
+		{"id":"66093109b14f5a55","fromNode":"ffe0dbe7ef5ea6ef","fromSide":"bottom","toNode":"deaf79847749fad8","toSide":"top"}
+	]
+}

@@ -2,23 +2,23 @@
 title: Mis apuntes de ISI
 ---
 
-Wiki de mis apuntes teóricos de **Ingeniería en Sistemas de Información**, carrera de grado de la Universidad Tecnológica Nacional Facultad Regional Resistencia (UTN FRRe), digitalizados en una Obsidian Vault y publicados en este sitio web. Los apuntes son exclusivamente **teóricos** y se acotan a las notas que anoté del contenido desarrollado en las clases de cada asignatura.
+Wiki de mis apuntes de **Ingeniería en Sistemas de Información**, carrera de grado cursada en la Universidad Tecnológica Nacional Facultad Regional Resistencia (UTN FRRe). Los apuntes son exclusivamente **teóricos** y son notas tomadas en las clases de cada asignatura.
 
-Cada artículo sintetiza un concepto. Para estudiar una materia, se recomienda profundizar en la bibliografía establecida por cada cátedra, y solo utilizar esta wiki para:
+Cada artículo sintetiza un concepto. Para estudiar una materia, se recomienda solo utilizar esta wiki para:
 
 - Hilar las **relaciones** entre los distintos conceptos de una materia.
-- Hacer un **acercamiento inicial** al contenido de una asignatura.
-- **Repasar aspectos claves** de los temas que entran en un examen.
+- Hacer un **acercamiento inicial** al contenido.
+- **Repasar aspectos claves** antes de un examen.
 
 ## Materias
 
-Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al plan 2023. La estructura de carpetas de esta wiki sigue el plan de estudios 2023, y la información de mis apuntes corresponde al año en el que cursé cada materia.
+Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al plan 2023. La estructura de carpetas de esta wiki sigue el plan de estudios 2023.
 
 > [!tip] La calidad de los apuntes puede variar
 >
-> - 🔥: los apuntes son **muy buenos**.
+> - 🔥: los apuntes **son muy buenos**.
 > - ✅: los apuntes **son buenos** y sirven para repasar el contenido teórico de la materia.
-> - 😵‍💫: los apuntes **podrían ser mejores**, lo cual puede deberse a que están incompletos, que mis notas son demasiado resumidas, o que las clases del cursado no fueron buenas.
+> - 😵‍💫: los apuntes **podrían ser mejores**, ya sea por estar incompletos o porque las clases del cursado no fueron buenas.
 > - 🪦: **no hay apuntes** de esa materia. Puede ser porque la aprobé por equivalencia (Álgebra y Geometría Analítica, Análisis Matemático 1, Física 1, Ingeniería y Sociedad, Química, Sistemas de Representación), porque los perdí (Matemática Discreta, Análisis Matemático 2, Inglés 2), o porque son materias electivas que no cursé.
 
 | Nivel | Materia                                                                                                   | Calidad |
@@ -61,16 +61,16 @@ Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al pla
 |   4   | [[4to Nivel/Sistemas de Información Geográficos/index\|Sistemas de Información Geográficos]] \(electiva\) |   🔥    |
 |   5   | Ciencia de Datos                                                                                          |   ...   |
 |   5   | [[5to Nivel/Gestión Gerencial/index\|Gestión Gerencial]]                                                  |    ✅    |
-|   5   | [[5to Nivel/Inteligencia Artificial/index\|Inteligencia Artificial]]                                      |    ✅    |
+|   5   | [[5to Nivel/Inteligencia Artificial/index\|Inteligencia Artificial]]                                      |   🔥    |
 |   5   | Proyecto Final                                                                                            |   ...   |
-|   5   | Seguridad en los Sistemas de Información                                                                  |   ...   |
+|   5   | [[5to Nivel/Seguridad en los Sistemas de Información/index\|Seguridad en los Sistemas de Información]]    |   🔥    |
 |   5   | [[5to Nivel/Sistemas de Gestión/index\|Sistemas de Gestión]]                                              |    ✅    |
 |   5   | [[5to Nivel/Análisis de Datos Empresariales/index\|Análisis de Datos Empresariales]] \(electiva\)         |    ✅    |
 |   5   | [[5to Nivel/Formación de Emprendedores/index\|Formación de Emprendedores]] \(electiva\)                   |  😵‍💫  |
 |   5   | Aspectos Avanzados de Redes de Información \(electiva\)                                                   |   🪦    |
 |   5   | Fundamentos de Ciberseguridad \(electiva\)                                                                |   🪦    |
 |   5   | Auditoría e Informática Forense \(electiva\)                                                              |   🪦    |
-|   5   | DevOps - Cultura, Herramientas y Procesos \(electiva\)                                                    |   ...   |
+|   5   | [[5to Nivel/DevOps/index\|DevOps]] \(electiva\)                                                           |  😵‍💫  |
 
 ### Materias Electivas
 

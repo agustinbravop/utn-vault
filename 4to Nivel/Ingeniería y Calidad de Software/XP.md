@@ -35,5 +35,5 @@ Es inmediato, concreto y con **feedback continuo** mediante ciclos cortos. Respo
 - **40 hour week**: no necesitar laburar el fin de semana.
 - **Pair programming**.
 - **Refactoring**: refinar constantemente el diseño del sistema.
-- **Continuous integration**: [[Integración Continua]].
+- **Continuous integration**: [[4to Nivel/Ingeniería y Calidad de Software/Integración Continua]].
 - **On-site customer**: similar al Product Owner de [[4to Nivel/Ingeniería y Calidad de Software/Scrum|Scrum]].

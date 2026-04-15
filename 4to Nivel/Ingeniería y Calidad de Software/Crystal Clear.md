@@ -10,7 +10,7 @@ Es una propuesta de la [[Agilidad]] hecha por Agile Cockburn, quien luego propon
 4. **Personal safety**: entorno de **confianza** en el equipo.
 5. **Focus**: knowing what to work on with **time** and **peace of mind**.
 6. **Easy access to expert users**: those who know the daily operations.
-7. **Technical environment**: tests, [[Gestión de la Configuración]], [[Integración Continua]].
+7. **Technical environment**: tests, [[Gestión de la Configuración]], [[4to Nivel/Ingeniería y Calidad de Software/Integración Continua]].
 
 ## 5 Estrategias
 

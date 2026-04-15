@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"ed41613bc253c424","type":"file","file":"5to Nivel/DevOps/DevOps.md","x":840,"y":-1240,"width":400,"height":400,"color":"4"},
+		{"id":"0481bf45eee6d790","type":"file","file":"5to Nivel/DevOps/Integración Continua.md","x":840,"y":-720,"width":400,"height":400},
+		{"id":"5332e886bd562939","type":"file","file":"5to Nivel/DevOps/Infraestructura como Código.md","x":3240,"y":-720,"width":400,"height":400},
+		{"id":"838f655e54dfe263","type":"file","file":"5to Nivel/DevOps/Esquemas de Versionado de Software.md","x":1320,"y":-720,"width":400,"height":400},
+		{"id":"3451894b70855c35","type":"file","file":"5to Nivel/DevOps/Alta Disponibilidad.md","x":1800,"y":-200,"width":400,"height":400},
+		{"id":"03d6840ebbae9b87","type":"file","file":"5to Nivel/DevOps/Estrategias de Despliegue.md","x":1800,"y":-720,"width":400,"height":400},
+		{"id":"178fbf82ed079630","type":"file","file":"5to Nivel/DevOps/Cloud Computing.md","x":2280,"y":-720,"width":400,"height":400},
+		{"id":"d91a62bde67de7b5","type":"file","file":"5to Nivel/DevOps/Contenedores.md","x":2280,"y":-200,"width":400,"height":400},
+		{"id":"7eb0f27f2f654cca","type":"file","file":"5to Nivel/DevOps/Monitoreo y Optimización de Aplicaciones.md","x":2760,"y":-720,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"c04d65cd3b06bce5","fromNode":"03d6840ebbae9b87","fromSide":"bottom","toNode":"3451894b70855c35","toSide":"top","label":"ayudan a lograr"},
+		{"id":"7e291eab9f7f36ff","fromNode":"ed41613bc253c424","fromSide":"bottom","toNode":"0481bf45eee6d790","toSide":"top"},
+		{"id":"7dd4fea1cd2dd6e2","fromNode":"ed41613bc253c424","fromSide":"bottom","toNode":"838f655e54dfe263","toSide":"top"},
+		{"id":"719e61f5b619348d","fromNode":"ed41613bc253c424","fromSide":"bottom","toNode":"03d6840ebbae9b87","toSide":"top"},
+		{"id":"4814de1bd7955d0a","fromNode":"ed41613bc253c424","fromSide":"bottom","toNode":"178fbf82ed079630","toSide":"top"},
+		{"id":"a2682e230e18bb0f","fromNode":"ed41613bc253c424","fromSide":"bottom","toNode":"7eb0f27f2f654cca","toSide":"top"},
+		{"id":"2d671c893e200170","fromNode":"ed41613bc253c424","fromSide":"bottom","toNode":"5332e886bd562939","toSide":"top"},
+		{"id":"852027341c99a821","fromNode":"178fbf82ed079630","fromSide":"bottom","toNode":"d91a62bde67de7b5","toSide":"top","label":"favorece usar"}
+	]
+}
