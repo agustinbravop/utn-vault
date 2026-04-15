@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file: \"*.exalidraw.md\", -file: \"*.exalidraw\"",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -40,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 118,
   "scale": 0.07431470243658038,
-  "close": true
+  "close": false
 }

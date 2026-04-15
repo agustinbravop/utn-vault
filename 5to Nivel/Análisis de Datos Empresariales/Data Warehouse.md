@@ -1,4 +1,4 @@
-Los **almacenes de datos empresariales** o *data warehouse* (DW) es un esquema tradicional para el [[Análisis de Datos Empresariales]]. Lleva más de 30 años. Sigue siendo efectivo para PyMEs y empresas nacionales, pero la arquitectura es insuficiente para la [[Big Data]] de multinacionales.
+Los **almacenes de datos empresariales** o *data warehouse* (DW) es un esquema tradicional para el [[Análisis de Datos Empresariales]]. Lleva más de 30 años. Sigue siendo efectivo para PyMEs y empresas nacionales, pero la arquitectura es insuficiente para la [[Análisis de Datos Moderno|big data]] de multinacionales.
 
 > Un **data warehouse** es un conjunto de datos históricos, integrados, no volátiles, y orientados a la resolución de un problema, para dar soporte a la toma de decisiones. - Inmon
 

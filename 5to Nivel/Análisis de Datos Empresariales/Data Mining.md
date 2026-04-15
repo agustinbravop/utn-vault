@@ -9,7 +9,7 @@ Las técnicas de DM se aplican sobre datos ya almacenados. No influye en la reco
 ## Metodologías para Minería de Datos
 
 1. **CRISP-DM**: Cross Industry Standard Process for Data Mining.
-![[CRISP-DM.png]]
+![[5to Nivel/Análisis de Datos Empresariales/attachments/CRISP-DM.png]]
 2. **KDD**: Knowledge Discovery in Databases.
 ![[KDD.png]]
 3. **SEMMA**: centrada en el desarrollo del proceso de data mining.

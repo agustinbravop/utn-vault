@@ -13,128 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Seguridad en los Sistemas de Información/index.md",
+                "file": "5to Nivel/Ciencia de Datos/Ciencia de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Ciencia de Datos"
             }
           },
           {
-            "id": "d4104a4c50e47d1a",
+            "id": "25f455ae208b84d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Seguridad en los Sistemas de Información/Seguridad de la Información.md",
+                "file": "5to Nivel/Ciencia de Datos/Ciencia de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seguridad de la Información"
+              "title": "Ciencia de Datos"
             }
           },
           {
-            "id": "9a620bb9e596fbb4",
+            "id": "a732f2a875bf2540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Seguridad en los Sistemas de Información/Gobierno de Seguridad de la Información.md",
+                "file": "5to Nivel/Ciencia de Datos/Ciencia de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gobierno de Seguridad de la Información"
+              "title": "Ciencia de Datos"
             }
           },
           {
-            "id": "5bb99e3961b89766",
+            "id": "9d13c684581d934f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Seguridad en los Sistemas de Información/Monitoreo y Comunicación de Riesgos.md",
+                "file": "5to Nivel/Ciencia de Datos/Data-Driven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monitoreo y Comunicación de Riesgos"
+              "title": "Data-Driven"
             }
           },
           {
-            "id": "4d4de621b78ca98f",
+            "id": "59da2cad605e606e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Seguridad en los Sistemas de Información/Programas de Seguridad de la Información.md",
+                "file": "5to Nivel/Ciencia de Datos/Data-Driven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programas de Seguridad de la Información"
+              "title": "Data-Driven"
             }
           },
           {
-            "id": "d03021c078fa9ec9",
+            "id": "4bd024ec314f7fd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Seguridad en los Sistemas de Información/Plan de Continuidad de Negocio.md",
+                "file": "5to Nivel/Ciencia de Datos/Producto de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plan de Continuidad de Negocio"
-            }
-          },
-          {
-            "id": "ed513996577c14b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "1bda92d332e0c335",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Seguridad en los Sistemas de Información/Plan de Respuesta a Incidentes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plan de Respuesta a Incidentes"
-            }
-          },
-          {
-            "id": "b4c764e9b56ad6c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Seguridad en los Sistemas de Información/Identificación y Evaluación de Riesgos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Identificación y Evaluación de Riesgos"
+              "title": "Producto de Datos"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +104,7 @@
       {
         "id": "81fcbb3662473c99",
         "type": "tabs",
-        "dimension": 77.67857142857143,
+        "dimension": 67.41071428571429,
         "children": [
           {
             "id": "a5a650c066f2c957",
@@ -166,7 +124,7 @@
       {
         "id": "806e66403833f42e",
         "type": "tabs",
-        "dimension": 22.321428571428573,
+        "dimension": 32.589285714285715,
         "children": [
           {
             "id": "a6acd81263d33f82",
@@ -300,15 +258,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed513996577c14b4",
+  "active": "4bd024ec314f7fd3",
   "lastOpenFiles": [
+    "5to Nivel/Ciencia de Datos/attachments/CQRS.png",
+    "5to Nivel/Ciencia de Datos/Data-Driven.md",
+    "5to Nivel/Ciencia de Datos/Producto de Datos.md",
+    "desktop.ini",
+    "5to Nivel/Ciencia de Datos/Aplicaciones Data-Intensive.md",
+    "5to Nivel/Análisis de Datos Empresariales/Análisis de Datos Moderno.md",
+    "5to Nivel/Ciencia de Datos/Ciencia de Datos.md",
+    "5to Nivel/Ciencia de Datos/Ciencia de Datos Aplicada.md",
+    "5to Nivel/Inteligencia Artificial/Perceptrón.md",
+    "5to Nivel/Ciencia de Datos/Análisis.md",
+    "5to Nivel/Ciencia de Datos/attachments/Niveles de Analítica.png",
+    "5to Nivel/Ciencia de Datos/Gestión de Proyectos de Ciencia de Datos.md",
+    "5to Nivel/Ciencia de Datos/attachments/KDD Process.png",
+    "5to Nivel/Ciencia de Datos/attachments/Pasted image 20260415111719.png",
+    "5to Nivel/Ciencia de Datos/attachments/TDSP.png",
+    "5to Nivel/Ciencia de Datos/attachments/CRISP-DM.png",
+    "5to Nivel/Ciencia de Datos/attachments",
+    "5to Nivel/Ciencia de Datos/index.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/index.md",
+    "5to Nivel/Análisis de Datos Empresariales/Data Warehouse.md",
+    "5to Nivel/Ciencia de Datos",
+    "5to Nivel/Seguridad en los Sistemas de Información/Seguridad de la Información.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Gobierno de Seguridad de la Información.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Monitoreo y Comunicación de Riesgos.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Programas de Seguridad de la Información.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Plan de Continuidad de Negocio.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Identificación y Evaluación de Riesgos.md",
+    "5to Nivel/Seguridad en los Sistemas de Información/Plan de Respuesta a Incidentes.md",
+    "index.md",
     "5to Nivel/Inteligencia Artificial/Árboles de Decisión.md",
     "5to Nivel/Inteligencia Artificial/Agentes.md",
     "5to Nivel/Inteligencia Artificial/index.md",
-    "index.md",
     "5to Nivel/index.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Seguridad de la Información.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/index.md",
     "5to Nivel/Seguridad en los Sistemas de Información/attachments/MOC - Seguridad en los Sistemas de Información.png",
     "5to Nivel/Seguridad en los Sistemas de Información/MOC - Seguridad en los Sistemas de Información.canvas",
     "5to Nivel/Seguridad en los Sistemas de Información/Gestión de Seguridad en la Nube.md",
@@ -319,37 +303,11 @@
     "3er Nivel/Planificación/desktop.ini",
     "4to Nivel/Sistemas de Información Geográficos/desktop.ini",
     "4to Nivel/Redes de Datos/desktop.ini",
-    "2do Nivel/Paradigmas de Programación/desktop.ini",
-    "1er Nivel/Inglés 1/desktop.ini",
-    "1er Nivel/Arquitectura de Computadoras/desktop.ini",
-    "5to Nivel/Seguridad en los Sistemas de Información/Plan de Continuidad de Negocio.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Plan de Recuperación de Desastres.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Gestión y Respuesta a Incidentes.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Plan de Respuesta a Incidentes.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Programas de Seguridad de la Información.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Monitoreo y Comunicación de Riesgos.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Gestión de Riesgos de la Información.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Control de Riesgos.md",
     "5to Nivel/Seguridad en los Sistemas de Información/attachments/Administrando el Riesgo.png",
     "5to Nivel/Seguridad en los Sistemas de Información/attachments/Control de Riesgos.png",
-    "5to Nivel/Seguridad en los Sistemas de Información/Identificación y Evaluación de Riesgos.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Gobierno de Seguridad de la Información.md",
     "5to Nivel/Seguridad en los Sistemas de Información/attachments/Gestión de Riesgos de la Información.png",
-    "5to Nivel/Seguridad en los Sistemas de Información/BMIS.md",
     "5to Nivel/Seguridad en los Sistemas de Información/attachments/BMIS.png",
-    "5to Nivel/DevOps/Esquemas de Versionado de Software.md",
-    "5to Nivel/DevOps/Estrategias de Despliegue.md",
-    "5to Nivel/DevOps/Cloud Computing.md",
-    "5to Nivel/DevOps/Contenedores.md",
-    "5to Nivel/DevOps/Integración Continua.md",
-    "5to Nivel/DevOps/DevOps.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/attachments/Seguridad de la Información.png",
-    "5to Nivel/attachments/MOC - Análisis de Datos Empresariales.png",
-    "README.md",
-    "5to Nivel/DevOps/attachments/MOC - DevOps.png",
     "5to Nivel/DevOps/MOC - DevOps.canvas",
-    "5to Nivel/DevOps/attachments/Estrategias de Despliegue.png",
-    "5to Nivel/DevOps/attachments/Cloud Computing.png",
     "5to Nivel/Análisis de Datos Empresariales/MOC - Análisis de Datos Empresariales.canvas",
     "5to Nivel/Gestión Gerencial/MOC - Gestión Gerencial.canvas",
     "5to Nivel/Sistemas de Gestión/MOC - Sistemas de Gestión.canvas",
