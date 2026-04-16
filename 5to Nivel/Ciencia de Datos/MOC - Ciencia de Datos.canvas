@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"efa1034f36a7365e","type":"file","file":"5to Nivel/Ciencia de Datos/Ingeniería de Datos.md","x":80,"y":-1240,"width":400,"height":400,"color":"4"},
+		{"id":"1b0fa831a75b3cb6","type":"file","file":"5to Nivel/Ciencia de Datos/Arquitectura de Datos.md","x":80,"y":-720,"width":400,"height":400},
+		{"id":"dfeed9b690233679","type":"file","file":"5to Nivel/Ciencia de Datos/Aplicaciones Data-Intensive.md","x":80,"y":-192,"width":400,"height":400},
+		{"id":"1849aefafffd5126","type":"file","file":"5to Nivel/Ciencia de Datos/Data Mesh.md","x":600,"y":-720,"width":400,"height":400},
+		{"id":"e0953a37cf3480f3","type":"file","file":"5to Nivel/Ciencia de Datos/Transformar Datos en Valor.md","x":1080,"y":-720,"width":400,"height":400},
+		{"id":"9cb6796f6bfffb1d","type":"file","file":"5to Nivel/Ciencia de Datos/Producto de Datos.md","x":840,"y":-1240,"width":400,"height":400,"color":"4"},
+		{"id":"813ab609394b84f2","type":"file","file":"5to Nivel/Ciencia de Datos/Data-Driven.md","x":-440,"y":-1240,"width":400,"height":400,"color":"4"},
+		{"id":"bbe63240f99b3ef4","type":"file","file":"5to Nivel/Ciencia de Datos/Gestión de Proyectos de Ciencia de Datos.md","x":-440,"y":-720,"width":400,"height":400},
+		{"id":"fec6b2d4ec626a42","type":"file","file":"5to Nivel/Ciencia de Datos/El Enfoque Drivetrain.md","x":-440,"y":-200,"width":400,"height":400},
+		{"id":"8b41c0eaa5ef1d45","type":"file","file":"5to Nivel/Ciencia de Datos/Análisis de Datos Exploratorio.md","x":1600,"y":-720,"width":400,"height":400},
+		{"id":"041cd267d0387c54","type":"file","file":"5to Nivel/Ciencia de Datos/Ciencia de Datos.md","x":-440,"y":-1800,"width":400,"height":400},
+		{"id":"0d5cb7392996747d","type":"file","file":"5to Nivel/Ciencia de Datos/Análisis de Datos.md","x":1600,"y":-1240,"width":400,"height":400},
+		{"id":"c8760bce21674012","type":"file","file":"5to Nivel/Ciencia de Datos/Machine Learning.md","x":1600,"y":-192,"width":400,"height":400},
+		{"id":"72a948a1fe9bbda4","type":"file","file":"5to Nivel/Ciencia de Datos/Inteligencia Artificial Generativa.md","x":2120,"y":-1240,"width":400,"height":400,"color":"4"}
+	],
+	"edges":[
+		{"id":"40be420bc406fc64","fromNode":"9cb6796f6bfffb1d","fromSide":"bottom","toNode":"e0953a37cf3480f3","toSide":"top","label":"permite"},
+		{"id":"8f45ae68a9ccac1b","fromNode":"9cb6796f6bfffb1d","fromSide":"bottom","toNode":"1849aefafffd5126","toSide":"top","label":"mediante"},
+		{"id":"11f784e72acfce0b","fromNode":"1b0fa831a75b3cb6","fromSide":"right","toNode":"1849aefafffd5126","toSide":"left"},
+		{"id":"ec597261c40c0997","fromNode":"efa1034f36a7365e","fromSide":"bottom","toNode":"1b0fa831a75b3cb6","toSide":"top"},
+		{"id":"9481d0be618b76bd","fromNode":"1b0fa831a75b3cb6","fromSide":"bottom","toNode":"dfeed9b690233679","toSide":"top","label":"resuelven"},
+		{"id":"71e6dd10d4067ab2","fromNode":"bbe63240f99b3ef4","fromSide":"bottom","toNode":"fec6b2d4ec626a42","toSide":"top"},
+		{"id":"ae38fc2c896d10d6","fromNode":"813ab609394b84f2","fromSide":"bottom","toNode":"bbe63240f99b3ef4","toSide":"top","label":"requiere"},
+		{"id":"599bf0f41b663073","fromNode":"041cd267d0387c54","fromSide":"bottom","toNode":"813ab609394b84f2","toSide":"top"},
+		{"id":"0c9f2b51e22e68d4","fromNode":"041cd267d0387c54","fromSide":"bottom","toNode":"efa1034f36a7365e","toSide":"top"},
+		{"id":"94d9225c73d7664b","fromNode":"041cd267d0387c54","fromSide":"bottom","toNode":"9cb6796f6bfffb1d","toSide":"top"},
+		{"id":"bd8143a409e1ed0d","fromNode":"041cd267d0387c54","fromSide":"bottom","toNode":"0d5cb7392996747d","toSide":"top"},
+		{"id":"87d245bba8c69369","fromNode":"0d5cb7392996747d","fromSide":"bottom","toNode":"8b41c0eaa5ef1d45","toSide":"top"},
+		{"id":"481b8da6a85eeef1","fromNode":"041cd267d0387c54","fromSide":"bottom","toNode":"72a948a1fe9bbda4","toSide":"top"},
+		{"id":"97f12a290a6a9094","fromNode":"8b41c0eaa5ef1d45","fromSide":"bottom","toNode":"c8760bce21674012","toSide":"top","label":"identifica features para"},
+		{"id":"0a99cb43280b64a6","fromNode":"1849aefafffd5126","fromSide":"right","toNode":"e0953a37cf3480f3","toSide":"left"}
+	]
+}

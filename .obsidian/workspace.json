@@ -8,59 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "115bb19c148eb11f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/Ciencia de Datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ciencia de Datos"
-            }
-          },
-          {
-            "id": "25f455ae208b84d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/Ciencia de Datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ciencia de Datos"
-            }
-          },
-          {
             "id": "a732f2a875bf2540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5to Nivel/Ciencia de Datos/Ciencia de Datos.md",
+                "file": "5to Nivel/Ciencia de Datos/Gestión de Proyectos de Ciencia de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ciencia de Datos"
-            }
-          },
-          {
-            "id": "9d13c684581d934f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/Data-Driven.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data-Driven"
+              "title": "Gestión de Proyectos de Ciencia de Datos"
             }
           },
           {
@@ -90,9 +48,121 @@
               "icon": "lucide-file",
               "title": "Producto de Datos"
             }
+          },
+          {
+            "id": "96d5ddf7ba39dd07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Ciencia de Datos/Transformar Datos en Valor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformar Datos en Valor"
+            }
+          },
+          {
+            "id": "100ad5d3470b7ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Ciencia de Datos/El Enfoque Drivetrain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "El Enfoque Drivetrain"
+            }
+          },
+          {
+            "id": "222ff34ba01bd085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Ciencia de Datos/Data-Driven.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data-Driven"
+            }
+          },
+          {
+            "id": "13e6745023e14719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Ciencia de Datos/Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning"
+            }
+          },
+          {
+            "id": "feec71d8ce78bada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Ciencia de Datos/Ingeniería de Datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ingeniería de Datos"
+            }
+          },
+          {
+            "id": "df47271c0f523d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Proyecto Final/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "bb8ec74fb5d73fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Proyecto Final/Proyectos de Ingeniería de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyectos de Ingeniería de Software"
+            }
+          },
+          {
+            "id": "bcafc9d915b78140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5to Nivel/Proyecto Final/PMBOK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PMBOK"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -173,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "5to Nivel/Proyecto Final/PMBOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +253,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for PMBOK"
             }
           },
           {
@@ -241,8 +311,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,55 +327,56 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4bd024ec314f7fd3",
+  "active": "bcafc9d915b78140",
   "lastOpenFiles": [
-    "5to Nivel/Ciencia de Datos/attachments/CQRS.png",
-    "5to Nivel/Ciencia de Datos/Data-Driven.md",
-    "5to Nivel/Ciencia de Datos/Producto de Datos.md",
-    "desktop.ini",
-    "5to Nivel/Ciencia de Datos/Aplicaciones Data-Intensive.md",
-    "5to Nivel/Análisis de Datos Empresariales/Análisis de Datos Moderno.md",
-    "5to Nivel/Ciencia de Datos/Ciencia de Datos.md",
-    "5to Nivel/Ciencia de Datos/Ciencia de Datos Aplicada.md",
-    "5to Nivel/Inteligencia Artificial/Perceptrón.md",
-    "5to Nivel/Ciencia de Datos/Análisis.md",
-    "5to Nivel/Ciencia de Datos/attachments/Niveles de Analítica.png",
-    "5to Nivel/Ciencia de Datos/Gestión de Proyectos de Ciencia de Datos.md",
-    "5to Nivel/Ciencia de Datos/attachments/KDD Process.png",
-    "5to Nivel/Ciencia de Datos/attachments/Pasted image 20260415111719.png",
-    "5to Nivel/Ciencia de Datos/attachments/TDSP.png",
-    "5to Nivel/Ciencia de Datos/attachments/CRISP-DM.png",
-    "5to Nivel/Ciencia de Datos/attachments",
+    "5to Nivel/Proyecto Final/attachments/Flujo de la Información en PMBOK.png",
+    "5to Nivel/Proyecto Final/attachments",
+    "1er Nivel/Sistemas y Procesos de Negocio/Departamentalización.md",
+    "5to Nivel/Proyecto Final/PMBOK.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Arquitectura Organizativa.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Organización.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Subsistema Técnico.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Subsistema Social.md",
+    "1er Nivel/Sistemas y Procesos de Negocio/Subsistema Administrativo.md",
+    "5to Nivel/Proyecto Final/Proyectos de Ingeniería de Software.md",
+    "5to Nivel/Proyecto Final/index.md",
     "5to Nivel/Ciencia de Datos/index.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/index.md",
-    "5to Nivel/Análisis de Datos Empresariales/Data Warehouse.md",
-    "5to Nivel/Ciencia de Datos",
-    "5to Nivel/Seguridad en los Sistemas de Información/Seguridad de la Información.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Gobierno de Seguridad de la Información.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Monitoreo y Comunicación de Riesgos.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Programas de Seguridad de la Información.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Plan de Continuidad de Negocio.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Identificación y Evaluación de Riesgos.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/Plan de Respuesta a Incidentes.md",
+    "5to Nivel/Proyecto Final",
     "index.md",
-    "5to Nivel/Inteligencia Artificial/Árboles de Decisión.md",
-    "5to Nivel/Inteligencia Artificial/Agentes.md",
-    "5to Nivel/Inteligencia Artificial/index.md",
     "5to Nivel/index.md",
-    "5to Nivel/Seguridad en los Sistemas de Información/attachments/MOC - Seguridad en los Sistemas de Información.png",
+    "5to Nivel/Ciencia de Datos/attachments/MOC - Ciencia de Datos.png",
+    "5to Nivel/Ciencia de Datos/MOC - Ciencia de Datos.canvas",
+    "5to Nivel/Ciencia de Datos/Data Mesh.md",
+    "5to Nivel/Inteligencia Artificial/Inteligencia Artificial.md",
+    "5to Nivel/Ciencia de Datos/Análisis.md",
+    "5to Nivel/Ciencia de Datos/Producto de Datos.md",
+    "5to Nivel/Ciencia de Datos/Inteligencia Artificial Generativa.md",
+    "5to Nivel/Ciencia de Datos/attachments/RAG.png",
+    "5to Nivel/Ciencia de Datos/attachments/Pasted image 20260415190357.png",
+    "5to Nivel/Ciencia de Datos/attachments/Pasted image 20260415190323.png",
+    "5to Nivel/Ciencia de Datos/attachments/Data Mesh.png",
+    "5to Nivel/Ciencia de Datos/Arquitectura de Datos.md",
+    "5to Nivel/Ciencia de Datos/Ingeniería de Datos.md",
+    "5to Nivel/Ciencia de Datos/attachments/Arquitectura de Datos.png",
+    "5to Nivel/Ciencia de Datos/Machine Learning.md",
+    "5to Nivel/Ciencia de Datos/Análisis de Datos Exploratorio.md",
+    "5to Nivel/Ciencia de Datos/Data-Driven.md",
+    "5to Nivel/Ciencia de Datos/El Enfoque Drivetrain.md",
+    "5to Nivel/Ciencia de Datos/Gestión de Proyectos de Ciencia de Datos.md",
+    "5to Nivel/Ciencia de Datos/Análisis de Datos.md",
+    "5to Nivel/Ciencia de Datos/attachments/El Enfoque Drivetrain.png",
+    "5to Nivel/Ciencia de Datos/attachments/Transformar Datos en Valor.png",
+    "5to Nivel/Ciencia de Datos/attachments/CQRS.png",
+    "desktop.ini",
+    "5to Nivel/Ciencia de Datos/attachments/Niveles de Analítica.png",
+    "5to Nivel/Ciencia de Datos/attachments",
+    "5to Nivel/Ciencia de Datos",
     "5to Nivel/Seguridad en los Sistemas de Información/MOC - Seguridad en los Sistemas de Información.canvas",
-    "5to Nivel/Seguridad en los Sistemas de Información/Gestión de Seguridad en la Nube.md",
     "5to Nivel/Seguridad en los Sistemas de Información/desktop.ini",
     "5to Nivel/Formación de Emprendedores/attachments/desktop.ini",
     "5to Nivel/Inteligencia Artificial/attachments/desktop.ini",
     "3er Nivel/Economía/desktop.ini",
     "3er Nivel/Planificación/desktop.ini",
-    "4to Nivel/Sistemas de Información Geográficos/desktop.ini",
-    "4to Nivel/Redes de Datos/desktop.ini",
-    "5to Nivel/Seguridad en los Sistemas de Información/attachments/Administrando el Riesgo.png",
-    "5to Nivel/Seguridad en los Sistemas de Información/attachments/Control de Riesgos.png",
-    "5to Nivel/Seguridad en los Sistemas de Información/attachments/Gestión de Riesgos de la Información.png",
-    "5to Nivel/Seguridad en los Sistemas de Información/attachments/BMIS.png",
     "5to Nivel/DevOps/MOC - DevOps.canvas",
     "5to Nivel/Análisis de Datos Empresariales/MOC - Análisis de Datos Empresariales.canvas",
     "5to Nivel/Gestión Gerencial/MOC - Gestión Gerencial.canvas",
@@ -314,7 +384,6 @@
     "5to Nivel/Formación de Emprendedores/MOC - Formación de Emprendedores.canvas",
     "5to Nivel/Inteligencia Artificial/MOC - Inteligencia Artificial.canvas",
     "2do Nivel/Sintaxis y Semántica de los Lenguajes/MOC Sintaxis y Semántica de los Lenguajes.canvas",
-    "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas",
-    "3er Nivel/Economía/MOC Economía.canvas"
+    "2do Nivel/Análisis de Sistemas de Información/MOC Análisis de Sistemas de Información.canvas"
   ]
 }

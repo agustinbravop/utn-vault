@@ -75,4 +75,4 @@ Mejores prácticas para transicionar hacia el desarrollo de data products:
 
 Al gestionar los datos como productos y ofrecer los data products como interfaces de dominio, se eliminan dependencias y se separan aplicaciones. La arquitectura de data products se debe diseñar de manera colaborativa y en base a las necesidades de la organización.
 
-Data products y la mentalidad de data-as-a-product tratan de proveer datos. El siguiente paso es consumir datos.
+Data products y la mentalidad de data-as-a-product tratan de proveer datos. El siguiente paso es [[Transformar Datos en Valor]].

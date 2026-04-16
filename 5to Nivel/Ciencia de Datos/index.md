@@ -1,6 +1,7 @@
 ---
 title: Ciencia de Datos
 ---
+![[MOC - Ciencia de Datos.png]]
 
 Asignatura: Ciencia de Datos. \
 Ciclo Lectivo: 2025.

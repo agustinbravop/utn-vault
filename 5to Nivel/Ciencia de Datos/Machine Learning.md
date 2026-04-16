@@ -1,11 +1,11 @@
-Los sistemas de **Machine Learning** aprenden una tarea a partir de datos existentes. Hay modelos *predictivos* de:
+Los sistemas de **Machine Learning** aprenden una tarea a partir de datos existentes. Representan una evolución de la [[Inteligencia Artificial]]. Hay modelos *predictivos* de:
 
 - **Clasificación**: salida discreta.
 - **Regresión**: salida continua.
 
 Estos modelos necesitan trabajar sobre datasets limpios, correctos y voluminosos.
 
-Es necesario identiificar las *features* del dataset para entrenar al modelo. Una feature debe ser cuantitativa y medible. Hay features de:
+Es necesario identiificar las *features* del dataset para entrenar al modelo. Para esto se hace un [[Análisis de Datos Exploratorio]]. Una feature debe ser cuantitativa y medible. Hay features de:
 
 - **Identidad**: derivadas directamente de columnas originales.
 - **Transformación**: surgen de transformar una columna original.

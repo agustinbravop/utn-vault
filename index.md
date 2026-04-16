@@ -59,7 +59,7 @@ Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al pla
 |   4   | [[4to Nivel/Agilidad Avanzada/index\|Agilidad Avanzada]] \(electiva\)                                     |   🔥    |
 |   4   | Aspectos Avanzados de la Calidad de Software \(electiva\)                                                 |   🪦    |
 |   4   | [[4to Nivel/Sistemas de Información Geográficos/index\|Sistemas de Información Geográficos]] \(electiva\) |   🔥    |
-|   5   | Ciencia de Datos                                                                                          |   ...   |
+|   5   | [[5to Nivel/Ciencia de Datos/index\|Ciencia de Datos]]                                                    |    ✅    |
 |   5   | [[5to Nivel/Gestión Gerencial/index\|Gestión Gerencial]]                                                  |    ✅    |
 |   5   | [[5to Nivel/Inteligencia Artificial/index\|Inteligencia Artificial]]                                      |   🔥    |
 |   5   | Proyecto Final                                                                                            |   ...   |
