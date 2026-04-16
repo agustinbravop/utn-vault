@@ -2,6 +2,8 @@
 title: Proyecto Final
 ---
 
+![[MOC - Proyecto Final.png]]
+
 Asignatura: Proyecto Final. \
 Ciclo Lectivo: 2025.
 

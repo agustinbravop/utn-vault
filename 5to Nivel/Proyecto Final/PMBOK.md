@@ -94,3 +94,27 @@ Flujo de la información:
 
 ![[Flujo de la Información en PMBOK.png]]
 
+Un **sistema de gobernanza** proporciona una estructura integrada para evaluar cambios, incidentes y riesgos. Funciona en conjunto con el sistema de entrega de valor.
+
+## Principios de un Director
+
+1. Ser un administrador diligente, respetuoso y cuidadoso.
+2. Crear un entorno colaborativo del equipo de proyecto.
+3. Involucrarse eficazmente con los interesados.
+4. Enfocarse en el valor.
+5. Reconocer, evaluar y responder a las interacciones del negocio (pensamiento sistémico).
+6. Demostrar comportamiento de [[Liderazgo Gerencial]].
+7. Adaptar en función del contexto.
+8. Incorporar la [[Calidad]] en los procesos y los entregables. Esto incluye:
+	- Desempeño.
+	- Conformidad.
+	- Confiabilidad.
+	- Resiliencia.
+	- Satisfacción.
+	- Uniformidad.
+	- Eficiencia.
+	- Sostenibilidad.
+9. Navegar en la complejidad.
+10. Optimizar la respuesta a los riesgos.
+11. Adoptar la adaptabilidad y resiliencia.
+12. Cambio (que también debe ser gestionado).

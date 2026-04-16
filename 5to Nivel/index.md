@@ -7,7 +7,7 @@ Materias obligatorias:
 1. [[5to Nivel/Ciencia de Datos/index|Ciencia de Datos]].
 2. [[5to Nivel/Gestión Gerencial/index|Gestión Gerencial]].
 3. [[5to Nivel/Inteligencia Artificial/index|Inteligencia Artificial]].
-4. Proyecto Final.
+4. [[5to Nivel/Proyecto Final/index|Proyecto Final]].
 5. [[5to Nivel/Seguridad en los Sistemas de Información/index|Seguridad en los Sistemas de Información]].
 6. [[5to Nivel/Sistemas de Gestión/index|Sistemas de Gestión]].
 

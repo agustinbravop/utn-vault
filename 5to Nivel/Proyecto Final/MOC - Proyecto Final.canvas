@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c6bdda51d0e08f12","x":440,"y":-461,"width":400,"height":400,"type":"file","file":"5to Nivel/Proyecto Final/Dominios de Desempeño del PMBOK.md"},
+		{"id":"2ce361eb54b470fa","x":-160,"y":-461,"width":400,"height":400,"color":"4","type":"file","file":"5to Nivel/Proyecto Final/PMBOK.md"},
+		{"id":"0bc7d7edef1c1de2","x":-760,"y":-461,"width":400,"height":400,"type":"file","file":"5to Nivel/Proyecto Final/Proyectos de Ingeniería de Software.md"}
+	],
+	"edges":[
+		{"id":"5051ffd45ed6ab44","fromNode":"0bc7d7edef1c1de2","fromSide":"right","toNode":"2ce361eb54b470fa","toSide":"left","label":"según"},
+		{"id":"ecd7a13b1cba7628","fromNode":"2ce361eb54b470fa","fromSide":"right","toNode":"c6bdda51d0e08f12","toSide":"left"}
+	]
+}

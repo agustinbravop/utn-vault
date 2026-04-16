@@ -62,7 +62,7 @@ Mi cursado comenzó el 2021 con el plan 2008 y en el año 2023 me cambié al pla
 |   5   | [[5to Nivel/Ciencia de Datos/index\|Ciencia de Datos]]                                                    |    ✅    |
 |   5   | [[5to Nivel/Gestión Gerencial/index\|Gestión Gerencial]]                                                  |    ✅    |
 |   5   | [[5to Nivel/Inteligencia Artificial/index\|Inteligencia Artificial]]                                      |   🔥    |
-|   5   | Proyecto Final                                                                                            |   ...   |
+|   5   | [[5to Nivel/Proyecto Final/index\|Proyecto Final]]                                                        |    ✅    |
 |   5   | [[5to Nivel/Seguridad en los Sistemas de Información/index\|Seguridad en los Sistemas de Información]]    |   🔥    |
 |   5   | [[5to Nivel/Sistemas de Gestión/index\|Sistemas de Gestión]]                                              |    ✅    |
 |   5   | [[5to Nivel/Análisis de Datos Empresariales/index\|Análisis de Datos Empresariales]] \(electiva\)         |    ✅    |
