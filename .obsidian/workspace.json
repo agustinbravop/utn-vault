@@ -4,165 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb0596ebb6a5d6b",
+        "id": "ca6267a0e7912f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "a732f2a875bf2540",
+            "id": "cb22307b2dd4e54b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/Gestión de Proyectos de Ciencia de Datos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gestión de Proyectos de Ciencia de Datos"
-            }
-          },
-          {
-            "id": "59da2cad605e606e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/Data-Driven.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data-Driven"
-            }
-          },
-          {
-            "id": "4bd024ec314f7fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/Producto de Datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Producto de Datos"
-            }
-          },
-          {
-            "id": "96d5ddf7ba39dd07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/Transformar Datos en Valor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transformar Datos en Valor"
-            }
-          },
-          {
-            "id": "100ad5d3470b7ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/El Enfoque Drivetrain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "El Enfoque Drivetrain"
-            }
-          },
-          {
-            "id": "222ff34ba01bd085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/Data-Driven.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data-Driven"
-            }
-          },
-          {
-            "id": "13e6745023e14719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Machine Learning"
-            }
-          },
-          {
-            "id": "feec71d8ce78bada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Ciencia de Datos/Ingeniería de Datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ingeniería de Datos"
-            }
-          },
-          {
-            "id": "df47271c0f523d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Proyecto Final/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "bb8ec74fb5d73fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5to Nivel/Proyecto Final/Proyectos de Ingeniería de Software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proyectos de Ingeniería de Software"
-            }
-          },
-          {
-            "id": "bcafc9d915b78140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
@@ -327,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcafc9d915b78140",
+  "active": "248e2874cbd9669e",
   "lastOpenFiles": [
+    "index.md",
     "5to Nivel/index.md",
     "5to Nivel/Proyecto Final/index.md",
     "5to Nivel/Proyecto Final/attachments/MOC - Proyecto Final.png",
@@ -347,7 +202,6 @@
     "5to Nivel/Proyecto Final/Proyectos de Ingeniería de Software.md",
     "5to Nivel/Ciencia de Datos/index.md",
     "5to Nivel/Proyecto Final",
-    "index.md",
     "5to Nivel/Ciencia de Datos/attachments/MOC - Ciencia de Datos.png",
     "5to Nivel/Ciencia de Datos/MOC - Ciencia de Datos.canvas",
     "5to Nivel/Ciencia de Datos/Data Mesh.md",
